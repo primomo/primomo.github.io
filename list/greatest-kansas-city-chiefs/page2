@@ -1,0 +1,599 @@
+<!DOCTYPE html>
+<!--[if IE 9]><html class="lt-ie10" lang="en" > <![endif]-->
+<html class="no-js" lang="en" itemscope itemtype="http://schema.org/ItemList">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+	<style type="text/css">@charset "UTF-8";[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {display: none !important;}</style>	
+	<link rel="canonical" href="">
+	
+		
+	
+	<!-- Meta -->
+	<title>Greatest Kansas City Chiefs Player - Primomo</title>
+	<meta name="description" content="Who is the Greatest Kansas City Chiefs Player? Derrick Thomas? Tony Gonzalez? Len Dawson? Will Shields? Priest Holmes? Willie Lanier? Bobby Bell? Derrick Johnson? Buck Buchanan? Emmitt Thomas? Otis Taylor? Christian Okoye? Deron Cherry? Tamba Hali? Willie Roaf? Neil Smith? Dante Hall? Jamaal Charles? " />
+	<!-- Schema -->
+	<meta itemprop="name" content="Greatest Kansas City Chiefs Player">
+	<meta itemprop="description" content="Who is the Greatest Kansas City Chiefs Player? Derrick Thomas? Tony Gonzalez? Len Dawson? Will Shields? Priest Holmes? Willie Lanier? Bobby Bell? Derrick Johnson? Buck Buchanan? Emmitt Thomas? Otis Taylor? Christian Okoye? Deron Cherry? Tamba Hali? Willie Roaf? Neil Smith? Dante Hall? Jamaal Charles? "> 
+	<meta itemprop="image" content=""> 
+	 <meta itemprop="itemListOrder" content="Descending" /> 	<!-- Twitter -->
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:site" content="@playprimomo">
+	<meta name="twitter:title" content="Greatest Kansas City Chiefs Player">
+	<meta name="twitter:description" content="Who is the Greatest Kansas City Chiefs Player? Derrick Thomas? Tony Gonzalez? Len Dawson? Will Shields? Priest Holmes? Willie Lanier? Bobby Bell? Derrick Johnson? Buck Buchanan? Emmitt Thomas? Otis Taylor? Christian Okoye? Deron Cherry? Tamba Hali? Willie Roaf? Neil Smith? Dante Hall? Jamaal Charles? "> 
+	<meta name="twitter:creator" content="@playprimomo">
+	<meta name="twitter:image:src" content=""> 
+	<!-- Open Graph -->
+	<meta property="og:title" content="Greatest Kansas City Chiefs Player" />
+	<meta property="og:type" content="article" /> 
+	<meta property="og:url" content="" /> 
+	<meta property="og:image" content=""> 
+	<meta property="og:image:width" content="500"> 
+	<meta property="og:image:height" content="300"> 
+	<meta property="og:description" content="Who is the Greatest Kansas City Chiefs Player? Derrick Thomas? Tony Gonzalez? Len Dawson? Will Shields? Priest Holmes? Willie Lanier? Bobby Bell? Derrick Johnson? Buck Buchanan? Emmitt Thomas? Otis Taylor? Christian Okoye? Deron Cherry? Tamba Hali? Willie Roaf? Neil Smith? Dante Hall? Jamaal Charles? " /> 
+	<meta property="og:site_name" content="Primomo" />
+	<meta property="article:section" content="NFL" />  
+	<meta property="article:tag" content="Kansas City Chiefs , Kansas City, Missouri , Brad Pitt, Paul Rudd, Miranda Cosgrove , Sofía Vergara " />  
+	<meta property="fb:admins" content="690322552, 598310032" />	
+
+	<link rel="stylesheet" href="/site/templates/components/normalize/normalize.min.css" />
+	<link rel="stylesheet" href="/site/templates/components/foundation/foundation.min.css" />
+	<link rel="stylesheet" href="/site/templates/components/animate-scss/animate.min.css" />
+
+	<script src="/site/templates/components/angular/angular.min.js"></script>
+	<script src="/site/templates/components/angular/angular-touch.min.js"></script>
+	<script src="/site/templates/components/angular-foundation/mm-foundation-tpls-0.8.0.min.js"></script>
+	<script src="/site/templates/components/modernizr.js"></script>
+	<script src="/site/templates/components/fastclick.js"></script>
+	
+	<script src="/site/templates/components/ng-FitText.js"></script>
+	<script src="/site/templates/components/flowtype.min.js"></script>
+	<script src="/site/templates/scripts/angular-swing.min.js"></script>
+	<script src="/site/templates/scripts/angular-equalizer.min.js"></script>
+	<script src="/site/templates/scripts/primomo.min.js"></script>
+	
+	<link rel="stylesheet" href="/site/templates/styles/primomo.min.css?" />
+	
+	<style class="game-colour">
+/* ccolour_base - base */
+.ccolour_base { background: #1FA464}
+.ccolour_base-border { border-color: #1FA464}
+.ccolour_base-text { color: #1FA464}
+/* ccolour_d1 - darker 1 */
+.ccolour_d1 { background: #1c935a}
+.ccolour_d1-border { border-color: #1c935a}
+.ccolour_d1-text { color: #1c935a}
+/* ccolour_d2 - darker 2 */
+.ccolour_d2 { background: #19824f}
+.ccolour_d2-border { border-color: #19824f}
+.ccolour_d2-text { color: #19824f}
+/* ccolour_d3 - darker 3 */
+.ccolour_d3 { background: #157145}
+.ccolour_d3-border { border-color: #157145}
+.ccolour_d3-text { color: #157145}
+/* ccolour_l1 - lighter 1 */
+.ccolour_l1, {background: #24be74}
+.ccolour_l1-border { border-color: #24be74}
+.ccolour_l1-text { color: #24be74}
+/* Colour Styles */
+body, #viewport, .page-wrap:before {
+	background: #1FA464	}
+.top-bar-section ul li, .top-bar-section li:not(.has-form) a:not(.button), .top-bar-section .has-form {
+	background: none;
+	}
+.top-bar-section li:not(.has-form) a:not(.button):hover, .top-bar-section ul li:hover:not(.has-form) > a, .top-bar-section .dropdown li:not(.has-form):not(.active) > a:not(.button) {
+	background: #19824f	}
+html.touch .top-bar-section li.has-dropdown a:hover {
+	background:none;
+	}
+html.touch .top-bar-section li.has-dropdown.not-click a:hover {
+	background:#19824f;
+	}
+.top-bar-section .dropdown li:not(.has-form):not(.active):hover > a:not(.button) {
+	background: #157145	}
+.top-bar, .fixednav, .top-bar .title-area, .top-bar.expanded .title-area {
+	background: #1c935a	}	
+.top-bar input[type="text"] {
+	border-color: #1c935a	}
+.accordian-percent {
+	background: #19824f	}
+.results-header h3 {
+    color: #19824f	}
+.sidebar-tags h4, .sidebar-cats h4 {
+    color: #19824f	}	
+h3.section-header, h3.section-header a  {
+    color: #157145	}	
+h3.section-header a:hover  {
+    color: #19824f	}		
+/* Medium and Up Only */	
+@media only screen and (min-width: 720px) {
+	.top-bar-section li.active:not(.has-form) a:not(.button) {
+		background: #1c935a		}
+	.top-bar-section li.active:not(.has-form) a:not(.button):hover {
+		background: #19824f		}
+	.top-bar-section .dropdown li.active:not(.has-form) a:not(.button) {
+		background: #19824f		}
+	.top-bar-section .dropdown li.active:not(.has-form) a:not(.button):hover {
+		background: #157145		}		
+	}
+/* Small Only */	
+@media only screen and (max-width: 719px) {
+	.top-bar-section ul li, .top-bar-section .has-form {
+		background: #19824f		}
+	.top-bar-section li:not(.has-form) a:not(.button):hover, .top-bar-section ul li:hover:not(.has-form) > a {
+		background: #157145		}
+	}
+</style>
+<style class="cat-colours">
+.catcolour_sport_standard{background:#1FA464;}.catcolour_sport_inverted *{color:#1FA464 !important;}.catcolour_entertainment_standard{background:#B03232;}.catcolour_entertainment_inverted *{color:#B03232 !important;}.catcolour_lifestyle_standard{background:#9B2C6F;}.catcolour_lifestyle_inverted *{color:#9B2C6F !important;}	
+</style>	<link href='https://fonts.googleapis.com/css?family=Comfortaa:300,400,700' rel='stylesheet' type='text/css'>
+	</head>	
+<body class='template-list'
+ng-app="primomoApp">
+
+<div><div ng-init="deckArray=[{name:'Derrick Thomas', subtitle:'', image:'/site/assets/files/8219/derrick_thomas_chiefs_portrait_photo.300x300.jpg', copyright:'Kansas City Chiefs', plays:6, wins:5, gamePlays:0, gameWins:0, cardPageId:8219},{name:'Tony Gonzalez', subtitle:'', image:'/site/assets/files/8220/tony_gonzalez_at_2005_pro_bowl_050213-n-3019m-002.300x300.jpg', copyright:'By Journalist 3rd Class Ryan C. McGinley, USN (http://www.navy.mil/view_image.asp?id=21883) [Public domain], via Wikimedia Commons', plays:3, wins:2, gamePlays:0, gameWins:0, cardPageId:8220},{name:'Len Dawson', subtitle:'', image:'/site/assets/files/8221/len_dawson.300x300.jpg', copyright:'Fair use', plays:5, wins:5, gamePlays:0, gameWins:0, cardPageId:8221},{name:'Will Shields', subtitle:'', image:'/site/assets/files/8222/img_shields_1_jpg_2_1_u51ib0hc_l36452643.300x300.jpg', copyright:'Fair use', plays:1, wins:0, gamePlays:0, gameWins:0, cardPageId:8222},{name:'Priest Holmes', subtitle:'', image:'/site/assets/files/8223/priest_holmes_speaks_with_soldiers_cropped.300x300.jpg', copyright:'By Priest_Holmes_speaks_with_soldiers.jpg: Steve Elliott derivative work: Delaywaves talk • contribs (Priest_Holmes_speaks_with_soldiers.jpg) [Public domain], via Wikimedia Commons', plays:1, wins:0, gamePlays:0, gameWins:0, cardPageId:8223},{name:'Willie Lanier', subtitle:'', image:'/site/assets/files/8224/willielanier2.300x300.jpg', copyright:'Fair use', plays:2, wins:1, gamePlays:0, gameWins:0, cardPageId:8224},{name:'Bobby Bell', subtitle:'', image:'/site/assets/files/8225/bobby_bell.300x300.jpg', copyright:'By Barbara moore from Springfield, USA (Bobby Bell) [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons', plays:1, wins:0, gamePlays:0, gameWins:0, cardPageId:8225},{name:'Derrick Johnson', subtitle:'', image:'/site/assets/files/8226/derrick_johnson.300x300.jpg', copyright:'By Conman33 (Own work by uploader, from my personal camera) [CC BY 3.0 (http://creativecommons.org/licenses/by/3.0)], via Wikimedia Commons', plays:1, wins:0, gamePlays:0, gameWins:0, cardPageId:8226},{name:'Buck Buchanan', subtitle:'', image:'/site/assets/files/8227/buck_buchanan.300x300.jpg', copyright:'Fair use', plays:4, wins:3, gamePlays:0, gameWins:0, cardPageId:8227},{name:'Emmitt Thomas', subtitle:'', image:'/site/assets/files/8228/thomas_445_7_8_11.300x300.jpg', copyright:'Fair use', plays:1, wins:0, gamePlays:0, gameWins:0, cardPageId:8228},{name:'Otis Taylor', subtitle:'', image:'/site/assets/files/8229/91-zvlk0q1l__sl1500_.300x300.jpg', copyright:'Fair use', plays:2, wins:1, gamePlays:0, gameWins:0, cardPageId:8229},{name:'Christian Okoye', subtitle:'', image:'/site/assets/files/8230/christian_okoye_iraq_4.300x300.jpg', copyright:'By derivative work: Kelly (talk) Christian_Okoye_Iraq_3.jpg: Staff Sgt. Engels Tejeda (Christian_Okoye_Iraq_3.jpg) [Public domain], via Wikimedia Commons', plays:1, wins:0, gamePlays:0, gameWins:0, cardPageId:8230},{name:'Deron Cherry', subtitle:'', image:'/site/assets/files/8231/030911_0426_whoneedsthe2.300x300.jpg', copyright:'Fair use', plays:1, wins:0, gamePlays:0, gameWins:0, cardPageId:8231},{name:'Tamba Hali', subtitle:'', image:'/site/assets/files/8232/tamba_hali_2014.300x300.jpg', copyright:'By Jeffrey Beall (Own work) [CC BY 3.0 (http://creativecommons.org/licenses/by/3.0)], via Wikimedia Commons', plays:1, wins:0, gamePlays:0, gameWins:0, cardPageId:8232},{name:'Willie Roaf', subtitle:'', image:'/site/assets/files/8233/willie_roaf_at_camp_basra_2-3-09.300x300.jpg', copyright:'By Spc. Karah Cohen, USA (High resolution download) [Public domain], via Wikimedia Commons', plays:1, wins:0, gamePlays:0, gameWins:0, cardPageId:8233},{name:'Neil Smith', subtitle:'', image:'/site/assets/files/8234/neil_smith_broncos.300x300.jpg', copyright:'By Daniel Speiss [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons', plays:1, wins:0, gamePlays:0, gameWins:0, cardPageId:8234},{name:'Dante Hall', subtitle:'', image:'/site/assets/files/8235/dantehall.300x300.jpg', copyright:'Fair use', plays:1, wins:0, gamePlays:0, gameWins:0, cardPageId:8235},{name:'Jamaal Charles', subtitle:'', image:'/site/assets/files/8237/jamaal_charles.300x300.jpg', copyright:'By Jeffrey Beall (Own work) [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0) or GFDL (http://www.gnu.org/copyleft/fdl.html)], via Wikimedia Commons', plays:1, wins:0, gamePlays:0, gameWins:0, cardPageId:8237},]; gameArray=[{title:'Greatest Kansas City Chiefs Player', interrogative:'Who is', possessive:' ', possessiveAlt:'', subject:'the Greatest Kansas City Chiefs Player', summary:'Who is the Greatest Kansas City Chiefs Player?'}]; pageId=8218;"></div></div>
+
+<div ng-controller="primomoController" class="page-wrap">
+
+<div class="fixednav">
+	<div class="row topbar-container">
+		<top-bar id="top-menu" class="top-bar top-menu" mobile-show-parent-link="true" is-hover="false">
+			<ul class="title-area">
+				<li class="name">
+					<h1><a href="/"><img class="primomo-logo" src="/site/templates/images/primomologotext.svg"><span></span></a></h1>
+				</li>
+				<li toggle-top-bar onclick="document.getElementById('top-search').classList.remove('expanded')" class="toggle-topbar toggle-topbar-main menu-icon"><a href=""><span></span></a></li>
+			</ul>
+			<top-bar-section ng-cloakx>
+				<ul class="right">
+					
+					
+<ul class="primenu">
+	<li>
+		<a href='/categories/entertainment/'>Entertainment</a>
+	</li>
+	<li>
+		<a href='/categories/sport/'>Sport</a>
+	</li>
+	<li>
+		<a href='/categories/lifestyle/'>Lifestyle</a>
+	</li>
+</ul>					
+					<li has-dropdown class="primenu-hasdropdown">
+						<a>More</a>
+						<ul top-bar-dropdown ng-cloak>
+							
+<ul class="more-menu">
+	<li>
+		<a href='/categories/entertainment/tv/'>TV</a>
+	</li>
+	<li>
+		<a href='/categories/lifestyle/people/'>People</a>
+	</li>
+	<li>
+		<a href='/categories/sport/football/'>Football</a>
+	</li>
+	<li>
+		<a href='/categories/lifestyle/food/'>Food</a>
+	</li>
+	<li>
+		<a href='/categories/entertainment/music/'>Music</a>
+	</li>
+	<li>
+		<a href='/categories/entertainment/movies/'>Movies</a>
+	</li>
+	<li>
+		<a href='/categories/'>All Categories</a>
+	</li>
+</ul>						</ul>
+					</li>
+					
+					<ul>
+						<li class="has-form search-form-medium-up">
+						    <div class="row collapse">
+						      <div class="large-12 small-12 columns">
+						        <form id="site-search-form" class="clearfix" action="/search/" method="get">
+									<input type="text" name="q" value="" placeholder="Search">
+								</form>
+						      </div>
+						    </div>
+						</li>
+					</ul>
+					
+				</ul>
+			</top-bar-section>
+		</top-bar>
+		
+		<top-bar id="top-search" class="top-bar top-search show-for-small-only" data-topbar="" style="height: 45px">
+			<ul class="title-area">
+				<li class="name"></li>
+				<li toggle-top-bar onclick="document.getElementById('top-menu').classList.remove('expanded')" class="toggle-topbar toggle-topbar-search menu-icon"><a href=""><span></span></a></li>
+			</ul>
+			<top-bar-section ng-cloak>
+				<ul>
+				  <li class="has-form search-form-small-only">
+				    <div class="row collapse">
+				      <div class="large-12 small-12 columns">
+				        <form id="site-search-form" class="clearfix" action="/search/" method="get">
+							<input type="text" name="q" value="" placeholder="Search">
+						</form>
+				      </div>
+				    </div>
+				  </li>
+				</ul>
+			</top-bar-section>
+		</top-bar>
+	</div>
+</div>
+
+
+<div class="row-container ccolour_base main-header">
+	<div class="row">
+		<div class="column">
+			<h2 class="top-header">Greatest Kansas City Chiefs Player</h2>
+		</div>
+	</div>
+	</div>
+
+<div id="body-wrap">
+	<div class="row-container">
+	<div class="row list-grid-row" id="sectionid1">
+		<div class="column">
+			<h3 class="left section-header">Related Lists</a></h3>
+				
+		</div>
+		
+		
+			<div class="column list-grid">
+				<div equalizer class="row">
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_sport_standard catcolorstyle_standard' id='list-8482'>
+
+	<a href='/list/greatest-new-orleans-saints/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/8482/844px-new_orleans_saints_svg.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest New Orleans Saints Player</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-7863'>
+
+	<a href='/list/best-matt-damon-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/7863/damon_cropped.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Matt Damon Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-7804'>
+
+	<a href='/list/best-tom-cruise-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/7804/tom_cruise_avp_2014_4.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Tom Cruise Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-7749'>
+
+	<a href='/list/best-paul-rudd-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/7749/paul_rudd_28cropped_29_2.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Paul Rudd Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_sport_standard catcolorstyle_standard' id='list-7675'>
+
+	<a href='/list/greatest-st-louis-cardinals-player/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/7675/1074px-st__louis_cardinals_logo_svg.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest St. Louis Cardinals Player</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_sport_standard catcolorstyle_standard' id='list-7286'>
+
+	<a href='/list/greatest-kansas-city-royal/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/7286/1024px-kansas_city_royals_svg.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest Kansas City Royal</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-5765'>
+
+	<a href='/list/best-david-fincher-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/5765/fight_club_poster.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best David Fincher Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-5735'>
+
+	<a href='/list/best-brad-pitt-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/5735/brad_pitt_inglorious_basterds_berlin_premiere.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Brad Pitt Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_lifestyle_standard catcolorstyle_standard' id='list-4852'>
+
+	<a href='/list/hottest-woman-of-2015/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/4852/beyonce_knowles_with_necklaces.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Hottest Woman of 2016</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-4244'>
+
+	<a href='/list/best-tony-scott-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/4244/top_gun_movie.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Tony Scott Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-3873'>
+
+	<a href='/list/best-war-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/3873/apocalypse_now_by_waingro-d6x1bvn.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best War Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-3726'>
+
+	<a href='/list/best-vampire-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/3726/bela_lugosi_as_dracula-2.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Vampire Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-3503'>
+
+	<a href='/list/best-actor-never-to-win-an-oscar/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/3503/academy_award_trophy.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Actor Never to Win an Oscar</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-3041'>
+
+	<a href='/list/teen-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/3041/landscape-1436221812-home-schooled.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Teen Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-2037'>
+
+	<a href='/list/best-american-gangster-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/2037/best-american-gangster-movie-8wd8j2sj.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best American Gangster Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-1828'>
+
+	<a href='/list/best-coen-brothers-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/1828/best-coen-brothers-movie-tmlsyouq.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Coen Brothers Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-1718'>
+
+	<a href='/list/best-quentin-tarantino-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/1718/best-quentin-tarantino-movie-wdjugjyd.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Quentin Tarantino Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-1390'>
+
+	<a href='/list/greatest-road-trip-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/1390/greatest-road-trip-movie-kqr3iyhj.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest Road Trip Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+									</div>
+			</div>	
+						<div class="column"><div class='pagination-centered'><ul class='pagination'><li class='MarkupPagerNavPrevious MarkupPagerNavFirst'><a href='/list/greatest-kansas-city-chiefs/'><span><<</span></a></li><li class='MarkupPagerNavFirstNum'><a href='/list/greatest-kansas-city-chiefs/'><span>1</span></a></li><li class='current MarkupPagerNavLast MarkupPagerNavLastNum'><a href='/list/greatest-kansas-city-chiefs/page2'><span>2</span></a></li></ul></div></div>	</div>
+</div></div>
+
+</div> <!--ng-controller-->
+<footer class="ccolour_base">
+
+<div class="row">
+	<div class="medium-4 medium-push-8 columns">
+		<ul class="footer-social">
+			<li>
+				<a href="" class="xxx" style="opacity: 0 !important"></a>
+			</li>
+			<li>
+				<a href="" class="xxx" style="opacity: 0 !important"></a>
+			</li>
+			<!-- <li><a href="/about" class="mail"></a></li> -->
+		</ul>
+	</div>
+	<div class="medium-8 medium-pull-4 columns">		
+	</div>
+</div>
+
+</footer>
+<script>
+flowtype(document.body.querySelector('#stack-container'), {
+   minimum   : 0,
+   maximum   : 600,
+   minFont   : 1,
+   maxFont   : 50,
+   fontRatio : 14,
+   lineRatio : 1.45
+});	
+flowtype(document.body.querySelector('#gamemessage-container'), {
+   minimum   : 0,
+   maximum   : 600,
+   minFont   : 1,
+   maxFont   : 50,
+   fontRatio : 14,
+   lineRatio : 1.45
+});	
+</script>
+</body>
+</html>

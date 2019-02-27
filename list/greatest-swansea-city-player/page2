@@ -1,0 +1,701 @@
+<!DOCTYPE html>
+<!--[if IE 9]><html class="lt-ie10" lang="en" > <![endif]-->
+<html class="no-js" lang="en" itemscope itemtype="http://schema.org/ItemList">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+	<style type="text/css">@charset "UTF-8";[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {display: none !important;}</style>	
+	<link rel="canonical" href="">
+	
+		
+	
+	<!-- Meta -->
+	<title>Greatest Swansea City Player - Primomo</title>
+	<meta name="description" content="Who is the Greatest Ever Swansea City Player? Bob Latchford? Cliff Jones? Lee Trundle? Roger Freestone? Wyndham Evans? Ashley Williams? Ante Rajković? Mel Nurse? Robbie James? Leon Britton? Ivor Allchurch? Leighton James? Alan Curtis? Scott Sinclair? Alan Tate? Wilfried Bony? Džemal Hadžiabdić? Michu? Roberto Martínez? Àngel Rangel? " />
+	<!-- Schema -->
+	<meta itemprop="name" content="Greatest Swansea City Player">
+	<meta itemprop="description" content="Who is the Greatest Ever Swansea City Player? Bob Latchford? Cliff Jones? Lee Trundle? Roger Freestone? Wyndham Evans? Ashley Williams? Ante Rajković? Mel Nurse? Robbie James? Leon Britton? Ivor Allchurch? Leighton James? Alan Curtis? Scott Sinclair? Alan Tate? Wilfried Bony? Džemal Hadžiabdić? Michu? Roberto Martínez? Àngel Rangel? "> 
+	<meta itemprop="image" content=""> 
+	 <meta itemprop="itemListOrder" content="Descending" /> 	<!-- Twitter -->
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:site" content="@playprimomo">
+	<meta name="twitter:title" content="Greatest Swansea City Player">
+	<meta name="twitter:description" content="Who is the Greatest Ever Swansea City Player? Bob Latchford? Cliff Jones? Lee Trundle? Roger Freestone? Wyndham Evans? Ashley Williams? Ante Rajković? Mel Nurse? Robbie James? Leon Britton? Ivor Allchurch? Leighton James? Alan Curtis? Scott Sinclair? Alan Tate? Wilfried Bony? Džemal Hadžiabdić? Michu? Roberto Martínez? Àngel Rangel? "> 
+	<meta name="twitter:creator" content="@playprimomo">
+	<meta name="twitter:image:src" content=""> 
+	<!-- Open Graph -->
+	<meta property="og:title" content="Greatest Swansea City Player" />
+	<meta property="og:type" content="article" /> 
+	<meta property="og:url" content="" /> 
+	<meta property="og:image" content=""> 
+	<meta property="og:image:width" content="500"> 
+	<meta property="og:image:height" content="300"> 
+	<meta property="og:description" content="Who is the Greatest Ever Swansea City Player? Bob Latchford? Cliff Jones? Lee Trundle? Roger Freestone? Wyndham Evans? Ashley Williams? Ante Rajković? Mel Nurse? Robbie James? Leon Britton? Ivor Allchurch? Leighton James? Alan Curtis? Scott Sinclair? Alan Tate? Wilfried Bony? Džemal Hadžiabdić? Michu? Roberto Martínez? Àngel Rangel? " /> 
+	<meta property="og:site_name" content="Primomo" />
+	<meta property="article:section" content="Football" />  
+	<meta property="article:tag" content="Swansea , Welsh, Wales, Premier League, Premiership, EPL, Championship " />  
+	<meta property="fb:admins" content="690322552, 598310032" />	
+
+	<link rel="stylesheet" href="/site/templates/components/normalize/normalize.min.css" />
+	<link rel="stylesheet" href="/site/templates/components/foundation/foundation.min.css" />
+	<link rel="stylesheet" href="/site/templates/components/animate-scss/animate.min.css" />
+
+	<script src="/site/templates/components/angular/angular.min.js"></script>
+	<script src="/site/templates/components/angular/angular-touch.min.js"></script>
+	<script src="/site/templates/components/angular-foundation/mm-foundation-tpls-0.8.0.min.js"></script>
+	<script src="/site/templates/components/modernizr.js"></script>
+	<script src="/site/templates/components/fastclick.js"></script>
+	
+	<script src="/site/templates/components/ng-FitText.js"></script>
+	<script src="/site/templates/components/flowtype.min.js"></script>
+	<script src="/site/templates/scripts/angular-swing.min.js"></script>
+	<script src="/site/templates/scripts/angular-equalizer.min.js"></script>
+	<script src="/site/templates/scripts/primomo.min.js"></script>
+	
+	<link rel="stylesheet" href="/site/templates/styles/primomo.min.css?" />
+	
+	<style class="game-colour">
+/* ccolour_base - base */
+.ccolour_base { background: #1FA464}
+.ccolour_base-border { border-color: #1FA464}
+.ccolour_base-text { color: #1FA464}
+/* ccolour_d1 - darker 1 */
+.ccolour_d1 { background: #1c935a}
+.ccolour_d1-border { border-color: #1c935a}
+.ccolour_d1-text { color: #1c935a}
+/* ccolour_d2 - darker 2 */
+.ccolour_d2 { background: #19824f}
+.ccolour_d2-border { border-color: #19824f}
+.ccolour_d2-text { color: #19824f}
+/* ccolour_d3 - darker 3 */
+.ccolour_d3 { background: #157145}
+.ccolour_d3-border { border-color: #157145}
+.ccolour_d3-text { color: #157145}
+/* ccolour_l1 - lighter 1 */
+.ccolour_l1, {background: #24be74}
+.ccolour_l1-border { border-color: #24be74}
+.ccolour_l1-text { color: #24be74}
+/* Colour Styles */
+body, #viewport, .page-wrap:before {
+	background: #1FA464	}
+.top-bar-section ul li, .top-bar-section li:not(.has-form) a:not(.button), .top-bar-section .has-form {
+	background: none;
+	}
+.top-bar-section li:not(.has-form) a:not(.button):hover, .top-bar-section ul li:hover:not(.has-form) > a, .top-bar-section .dropdown li:not(.has-form):not(.active) > a:not(.button) {
+	background: #19824f	}
+html.touch .top-bar-section li.has-dropdown a:hover {
+	background:none;
+	}
+html.touch .top-bar-section li.has-dropdown.not-click a:hover {
+	background:#19824f;
+	}
+.top-bar-section .dropdown li:not(.has-form):not(.active):hover > a:not(.button) {
+	background: #157145	}
+.top-bar, .fixednav, .top-bar .title-area, .top-bar.expanded .title-area {
+	background: #1c935a	}	
+.top-bar input[type="text"] {
+	border-color: #1c935a	}
+.accordian-percent {
+	background: #19824f	}
+.results-header h3 {
+    color: #19824f	}
+.sidebar-tags h4, .sidebar-cats h4 {
+    color: #19824f	}	
+h3.section-header, h3.section-header a  {
+    color: #157145	}	
+h3.section-header a:hover  {
+    color: #19824f	}		
+/* Medium and Up Only */	
+@media only screen and (min-width: 720px) {
+	.top-bar-section li.active:not(.has-form) a:not(.button) {
+		background: #1c935a		}
+	.top-bar-section li.active:not(.has-form) a:not(.button):hover {
+		background: #19824f		}
+	.top-bar-section .dropdown li.active:not(.has-form) a:not(.button) {
+		background: #19824f		}
+	.top-bar-section .dropdown li.active:not(.has-form) a:not(.button):hover {
+		background: #157145		}		
+	}
+/* Small Only */	
+@media only screen and (max-width: 719px) {
+	.top-bar-section ul li, .top-bar-section .has-form {
+		background: #19824f		}
+	.top-bar-section li:not(.has-form) a:not(.button):hover, .top-bar-section ul li:hover:not(.has-form) > a {
+		background: #157145		}
+	}
+</style>
+<style class="cat-colours">
+.catcolour_sport_standard{background:#1FA464;}.catcolour_sport_inverted *{color:#1FA464 !important;}.catcolour_entertainment_standard{background:#B03232;}.catcolour_entertainment_inverted *{color:#B03232 !important;}.catcolour_lifestyle_standard{background:#9B2C6F;}.catcolour_lifestyle_inverted *{color:#9B2C6F !important;}	
+</style>	<link href='https://fonts.googleapis.com/css?family=Comfortaa:300,400,700' rel='stylesheet' type='text/css'>
+	</head>	
+<body class='template-list'
+ng-app="primomoApp">
+
+<div><div ng-init="deckArray=[{name:'Bob Latchford', subtitle:'', image:'/site/assets/files/6442/35.300x300.jpg', copyright:'Panini', plays:24, wins:10, gamePlays:0, gameWins:0, cardPageId:6442},{name:'Cliff Jones', subtitle:'', image:'/site/assets/files/6443/cliff_jones.300x300.jpg', copyright:'By Spurslegends (Own work) [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons', plays:18, wins:4, gamePlays:0, gameWins:0, cardPageId:6443},{name:'Lee Trundle', subtitle:'', image:'/site/assets/files/6444/trundlehair.300x300.jpg', copyright:'Fair use', plays:24, wins:10, gamePlays:0, gameWins:0, cardPageId:6444},{name:'Roger Freestone', subtitle:'', image:'/site/assets/files/6445/_70810437_1043323.300x300.jpg', copyright:'BBC', plays:34, wins:20, gamePlays:0, gameWins:0, cardPageId:6445},{name:'Wyndham Evans', subtitle:'', image:'/site/assets/files/6446/mllkfnj8od3m4oari2bmc0a.300x300.jpg', copyright:'Panini', plays:19, wins:5, gamePlays:0, gameWins:0, cardPageId:6446},{name:'Ashley Williams', subtitle:'', image:'/site/assets/files/6447/ashley_williams_wales.300x300.jpg', copyright:'By Biser Todorov (Own work) [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons', plays:45, wins:34, gamePlays:0, gameWins:0, cardPageId:6447},{name:'Ante Rajković', subtitle:'', image:'/site/assets/files/6448/ante-rajkovic.300x300.jpg', copyright:'Fair use', plays:17, wins:3, gamePlays:0, gameWins:0, cardPageId:6448},{name:'Mel Nurse', subtitle:'', image:'/site/assets/files/6449/410ssnk11pl__sx318_bo1-204-203-200.300x300.jpg', copyright:'Amazon', plays:22, wins:8, gamePlays:0, gameWins:0, cardPageId:6449},{name:'Robbie James', subtitle:'', image:'/site/assets/files/6450/robbie_james.300x300.jpg', copyright:'By Rhysowainwilliams (Own work) [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons', plays:40, wins:29, gamePlays:0, gameWins:0, cardPageId:6450},{name:'Leon Britton', subtitle:'', image:'/site/assets/files/6451/leon_britton.300x300.jpg', copyright:'By Jon Candy (Flickr: Match Play) [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons', plays:25, wins:12, gamePlays:0, gameWins:0, cardPageId:6451},{name:'Ivor Allchurch', subtitle:'', image:'/site/assets/files/6452/ivor_allchurch.300x300.jpg', copyright:'By Rhysowainwilliams (Own work) [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons', plays:40, wins:28, gamePlays:0, gameWins:0, cardPageId:6452},{name:'Leighton James', subtitle:'', image:'/site/assets/files/6453/399.300x300.jpg', copyright:'Panini', plays:26, wins:12, gamePlays:0, gameWins:0, cardPageId:6453},{name:'Alan Curtis', subtitle:'', image:'/site/assets/files/6454/_61390872_alancurtis_huw.300x300.jpg', copyright:'Huw Evans', plays:49, wins:40, gamePlays:0, gameWins:0, cardPageId:6454},{name:'Scott Sinclair', subtitle:'', image:'/site/assets/files/6455/scott_sinclair_swansea_city_warm_up_vs_arsenal_2011_28cropped_29.300x300.jpg', copyright:'By Ronnie Macdonald (Flickr: Swansea City warm up 5) [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons', plays:23, wins:9, gamePlays:0, gameWins:0, cardPageId:6455},{name:'Alan Tate', subtitle:'', image:'/site/assets/files/6456/alan_tate.300x300.jpg', copyright:'By Jon Candy (Flickr: Swansea Corner) [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons', plays:24, wins:10, gamePlays:0, gameWins:0, cardPageId:6456},{name:'Wilfried Bony', subtitle:'', image:'/site/assets/files/6457/wilfried_bony_282013_29.300x300.jpg', copyright:'By Richard Mulder (groengeelhart.nl) [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons', plays:23, wins:9, gamePlays:0, gameWins:0, cardPageId:6457},{name:'Džemal Hadžiabdić', subtitle:'', image:'/site/assets/files/6458/js48272618.300x300.jpg', copyright:'Fair use', plays:17, wins:3, gamePlays:0, gameWins:0, cardPageId:6458},{name:'Michu', subtitle:'', image:'/site/assets/files/6459/michu_2013.300x300.jpg', copyright:'By Benjamin Blackler (Michu  Uploaded by Dudek1337) [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons', plays:18, wins:4, gamePlays:0, gameWins:0, cardPageId:6459},{name:'Roberto Martínez', subtitle:'', image:'/site/assets/files/6460/roberto_mart_c3_adnez_2010.300x300.jpg', copyright:'By Joan Bové (Balaguer) [Public domain], via Wikimedia Commons', plays:22, wins:8, gamePlays:0, gameWins:0, cardPageId:6460},{name:'Àngel Rangel', subtitle:'', image:'/site/assets/files/6461/angel_rangel_vs_arsenal.300x300.jpg', copyright:'By Ronnie Macdonald [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons', plays:22, wins:8, gamePlays:0, gameWins:0, cardPageId:6461},]; gameArray=[{title:'Greatest Swansea City Player', interrogative:'Who is', possessive:' ', possessiveAlt:'', subject:'the Greatest Ever Swansea City Player', summary:'Who is the Greatest Ever Swansea City Player?'}]; pageId=6441;"></div></div>
+
+<div ng-controller="primomoController" class="page-wrap">
+
+<div class="fixednav">
+	<div class="row topbar-container">
+		<top-bar id="top-menu" class="top-bar top-menu" mobile-show-parent-link="true" is-hover="false">
+			<ul class="title-area">
+				<li class="name">
+					<h1><a href="/"><img class="primomo-logo" src="/site/templates/images/primomologotext.svg"><span></span></a></h1>
+				</li>
+				<li toggle-top-bar onclick="document.getElementById('top-search').classList.remove('expanded')" class="toggle-topbar toggle-topbar-main menu-icon"><a href=""><span></span></a></li>
+			</ul>
+			<top-bar-section ng-cloakx>
+				<ul class="right">
+					
+					
+<ul class="primenu">
+	<li>
+		<a href='/categories/entertainment/'>Entertainment</a>
+	</li>
+	<li>
+		<a href='/categories/sport/'>Sport</a>
+	</li>
+	<li>
+		<a href='/categories/lifestyle/'>Lifestyle</a>
+	</li>
+</ul>					
+					<li has-dropdown class="primenu-hasdropdown">
+						<a>More</a>
+						<ul top-bar-dropdown ng-cloak>
+							
+<ul class="more-menu">
+	<li>
+		<a href='/categories/entertainment/tv/'>TV</a>
+	</li>
+	<li>
+		<a href='/categories/lifestyle/people/'>People</a>
+	</li>
+	<li>
+		<a href='/categories/sport/football/'>Football</a>
+	</li>
+	<li>
+		<a href='/categories/lifestyle/food/'>Food</a>
+	</li>
+	<li>
+		<a href='/categories/entertainment/music/'>Music</a>
+	</li>
+	<li>
+		<a href='/categories/entertainment/movies/'>Movies</a>
+	</li>
+	<li>
+		<a href='/categories/'>All Categories</a>
+	</li>
+</ul>						</ul>
+					</li>
+					
+					<ul>
+						<li class="has-form search-form-medium-up">
+						    <div class="row collapse">
+						      <div class="large-12 small-12 columns">
+						        <form id="site-search-form" class="clearfix" action="/search/" method="get">
+									<input type="text" name="q" value="" placeholder="Search">
+								</form>
+						      </div>
+						    </div>
+						</li>
+					</ul>
+					
+				</ul>
+			</top-bar-section>
+		</top-bar>
+		
+		<top-bar id="top-search" class="top-bar top-search show-for-small-only" data-topbar="" style="height: 45px">
+			<ul class="title-area">
+				<li class="name"></li>
+				<li toggle-top-bar onclick="document.getElementById('top-menu').classList.remove('expanded')" class="toggle-topbar toggle-topbar-search menu-icon"><a href=""><span></span></a></li>
+			</ul>
+			<top-bar-section ng-cloak>
+				<ul>
+				  <li class="has-form search-form-small-only">
+				    <div class="row collapse">
+				      <div class="large-12 small-12 columns">
+				        <form id="site-search-form" class="clearfix" action="/search/" method="get">
+							<input type="text" name="q" value="" placeholder="Search">
+						</form>
+				      </div>
+				    </div>
+				  </li>
+				</ul>
+			</top-bar-section>
+		</top-bar>
+	</div>
+</div>
+
+
+<div class="row-container ccolour_base main-header">
+	<div class="row">
+		<div class="column">
+			<h2 class="top-header">Greatest Swansea City Player</h2>
+		</div>
+	</div>
+	</div>
+
+<div id="body-wrap">
+	<div class="row-container">
+	<div class="row list-grid-row" id="sectionid1">
+		<div class="column">
+			<h3 class="left section-header">Related Lists</a></h3>
+				
+		</div>
+		
+		
+			<div class="column list-grid">
+				<div equalizer class="row">
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_sport_standard catcolorstyle_standard' id='list-6263'>
+
+	<a href='/list/europes-greatest-ryder-cup-player/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/6263/1024px-rydercuplogo_svg.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Europe's Greatest Ryder Cup Player</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_lifestyle_standard catcolorstyle_standard' id='list-6166'>
+
+	<a href='/list/britains-favourite-double-act/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/6166/tworonnies.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Britain's Favourite Double Act</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_lifestyle_standard catcolorstyle_standard' id='list-5961'>
+
+	<a href='/list/favourite-royal/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/5961/the_british_royal_family_on_the_balcony_of_buckingham_palace.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Favourite Royal</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_lifestyle_standard catcolorstyle_standard' id='list-5551'>
+
+	<a href='/list/favourite-british-accent/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/5551/modis_-_great_britain_and_ireland_-_2012-06-04_during_heat_wave.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Favourite British Accent</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-4949'>
+
+	<a href='/list/favourite-roald-dahl-book/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/4949/matildacover.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Favourite Roald Dahl Book</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_sport_standard catcolorstyle_standard' id='list-4534'>
+
+	<a href='/list/greatest-aston-villa-player/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/4534/524px-aston_villa_fc_logo_282000-2007_29_svg.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest Aston Villa Player</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_sport_standard catcolorstyle_standard' id='list-3991'>
+
+	<a href='/list/greatest-hull-city-player/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/3991/768px-hull_city_crest_2014_svg.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest Hull City Player</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_sport_standard catcolorstyle_standard' id='list-3570'>
+
+	<a href='/list/greatest-premier-league-striker/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/3570/premiership_trophy.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest Premier League Striker</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_sport_standard catcolorstyle_standard' id='list-3544'>
+
+	<a href='/list/greatest-southampton-player/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/3544/526px-fc_southampton_svg.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest Southampton Player</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_sport_standard catcolorstyle_standard' id='list-3525'>
+
+	<a href='/list/greatest-welsh-rugby-union-player/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/3525/wru_logo.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest Welsh Rugby Union Player</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_sport_standard catcolorstyle_standard' id='list-3470'>
+
+	<a href='/list/greatest-crystal-palace-player/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/3470/821px-crystal_palace_fc_logo_svg.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest Crystal Palace Player</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_sport_standard catcolorstyle_standard' id='list-2884'>
+
+	<a href='/list/greatest-everton-player/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/2884/greatest-everton-player-ii8p5hhm.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest Everton Player</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_sport_standard catcolorstyle_standard' id='list-2417'>
+
+	<a href='/list/greatest-manchester-city-player/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/2417/greatest-manchester-city-player-3whj1aeh.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest Manchester City Player</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_sport_standard catcolorstyle_standard' id='list-2271'>
+
+	<a href='/list/best-football-stadia/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/2271/best-football-stadia-liltgpue.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Football Stadia</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_sport_standard catcolorstyle_standard' id='list-2245'>
+
+	<a href='/list/greatest-west-ham-player/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/2245/greatest-west-ham-player-ez6cdvnw.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest West Ham Player</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_sport_standard catcolorstyle_standard' id='list-2189'>
+
+	<a href='/list/greatest-stoke-city-player/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/2189/greatest-stoke-city-player-p4zkzx7i.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest Stoke City Player</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_sport_standard catcolorstyle_standard' id='list-2163'>
+
+	<a href='/list/greatest-newcastle-united-player/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/2163/greatest-newcastle-united-player-1f1l7drh.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest Newcastle United Player</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_sport_standard catcolorstyle_standard' id='list-1769'>
+
+	<a href='/list/greatest-arsenal-player/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/1769/greatest-arsenal-player-hp946j4e.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest Arsenal Player</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_sport_standard catcolorstyle_standard' id='list-1741'>
+
+	<a href='/list/greatest-spurs-player/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/1741/greatest-spurs-player-w2v9jkpn.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest Spurs Player</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_sport_standard catcolorstyle_standard' id='list-1670'>
+
+	<a href='/list/greatest-chelsea-player/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/1670/greatest-chelsea-player-akaqvfse.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest Chelsea Player</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_sport_standard catcolorstyle_standard' id='list-1520'>
+
+	<a href='/list/greatest-manchester-united-player/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/1520/greatest-manchester-united-player-atrkycpt.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest Manchester United Player</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_lifestyle_standard catcolorstyle_standard' id='list-1439'>
+
+	<a href='/list/best-welsh/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/1439/best-welsh-h4evwess.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Welsh</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-1324'>
+
+	<a href='/list/best-james-bond-ever/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/1324/best-james-bond-ever-uenalyqz.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best James Bond Ever</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_sport_standard catcolorstyle_standard' id='list-1220'>
+
+	<a href='/list/greatest-liverpool-player/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/1220/greatest-liverpool-player-le3fnetv.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest Liverpool Player</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+									</div>
+			</div>	
+						<div class="column"><div class='pagination-centered'><ul class='pagination'><li class='MarkupPagerNavPrevious MarkupPagerNavFirst'><a href='/list/greatest-swansea-city-player/'><span><<</span></a></li><li class='MarkupPagerNavFirstNum'><a href='/list/greatest-swansea-city-player/'><span>1</span></a></li><li class='current MarkupPagerNavLast MarkupPagerNavLastNum'><a href='/list/greatest-swansea-city-player/page2'><span>2</span></a></li></ul></div></div>	</div>
+</div></div>
+
+</div> <!--ng-controller-->
+<footer class="ccolour_base">
+
+<div class="row">
+	<div class="medium-4 medium-push-8 columns">
+		<ul class="footer-social">
+			<li>
+				<a href="" class="xxx" style="opacity: 0 !important"></a>
+			</li>
+			<li>
+				<a href="" class="xxx" style="opacity: 0 !important"></a>
+			</li>
+			<!-- <li><a href="/about" class="mail"></a></li> -->
+		</ul>
+	</div>
+	<div class="medium-8 medium-pull-4 columns">		
+	</div>
+</div>
+
+</footer>
+<script>
+flowtype(document.body.querySelector('#stack-container'), {
+   minimum   : 0,
+   maximum   : 600,
+   minFont   : 1,
+   maxFont   : 50,
+   fontRatio : 14,
+   lineRatio : 1.45
+});	
+flowtype(document.body.querySelector('#gamemessage-container'), {
+   minimum   : 0,
+   maximum   : 600,
+   minFont   : 1,
+   maxFont   : 50,
+   fontRatio : 14,
+   lineRatio : 1.45
+});	
+</script>
+</body>
+</html>

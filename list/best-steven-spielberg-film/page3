@@ -1,0 +1,705 @@
+<!DOCTYPE html>
+<!--[if IE 9]><html class="lt-ie10" lang="en" > <![endif]-->
+<html class="no-js" lang="en" itemscope itemtype="http://schema.org/ItemList">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+	<style type="text/css">@charset "UTF-8";[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {display: none !important;}</style>	
+	<link rel="canonical" href="">
+	
+		
+	
+	<!-- Meta -->
+	<title>Best Steven Spielberg Movie - Primomo</title>
+	<meta name="description" content="Seeing the words A Stephen Spielberg Film on a movie poster are bywords for quality and film making excellence. The Cincinnati Born film director is the highest grossing US director of all time, his movies have amassed a staggering $9 billion at the box office. His early works such as Jaws, Raiders of the Lost Ark and ET virtually invented the craze of the summer blockbuster.
+Spielberg has won two academy awards for best director, firstly in 1993 for Schindler's list. A beautifully moving story of Oskar Schindler a German businessman played by Liam Neeson who saves the lives of more than a thousand Jewish refugees during the Holocaust. The second Oscar came five years later for the epic war drama Saving Private Ryan starring Tom Hanks. Stephen Spielberg can cross many genres, scoring huge box office successes, this list includes many of his greatest movies. Play this game and choose your favourite and see how it compares with others on the league table." />
+	<!-- Schema -->
+	<meta itemprop="name" content="Best Steven Spielberg Movie">
+	<meta itemprop="description" content="Seeing the words A Stephen Spielberg Film on a movie poster are bywords for quality and film making excellence. The Cincinnati Born film director is the highest grossing US director of all time, his movies have amassed a staggering $9 billion at the box office. His early works such as Jaws, Raiders of the Lost Ark and ET virtually invented the craze of the summer blockbuster.
+Spielberg has won two academy awards for best director, firstly in 1993 for Schindler's list. A beautifully moving story of Oskar Schindler a German businessman played by Liam Neeson who saves the lives of more than a thousand Jewish refugees during the Holocaust. The second Oscar came five years later for the epic war drama Saving Private Ryan starring Tom Hanks. Stephen Spielberg can cross many genres, scoring huge box office successes, this list includes many of his greatest movies. Play this game and choose your favourite and see how it compares with others on the league table."> 
+	<meta itemprop="image" content=""> 
+	 <meta itemprop="itemListOrder" content="Descending" /> 	<!-- Twitter -->
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:site" content="@playprimomo">
+	<meta name="twitter:title" content="Best Steven Spielberg Movie">
+	<meta name="twitter:description" content="Seeing the words A Stephen Spielberg Film on a movie poster are bywords for quality and film making excellence. The Cincinnati Born film director is the highest grossing US director of all time, his movies have amassed a staggering $9 billion at the box office. His early works such as Jaws, Raiders of the Lost Ark and ET virtually invented the craze of the summer blockbuster.
+Spielberg has won two academy awards for best director, firstly in 1993 for Schindler's list. A beautifully moving story of Oskar Schindler a German businessman played by Liam Neeson who saves the lives of more than a thousand Jewish refugees during the Holocaust. The second Oscar came five years later for the epic war drama Saving Private Ryan starring Tom Hanks. Stephen Spielberg can cross many genres, scoring huge box office successes, this list includes many of his greatest movies. Play this game and choose your favourite and see how it compares with others on the league table."> 
+	<meta name="twitter:creator" content="@playprimomo">
+	<meta name="twitter:image:src" content=""> 
+	<!-- Open Graph -->
+	<meta property="og:title" content="Best Steven Spielberg Movie" />
+	<meta property="og:type" content="article" /> 
+	<meta property="og:url" content="" /> 
+	<meta property="og:image" content=""> 
+	<meta property="og:image:width" content="500"> 
+	<meta property="og:image:height" content="300"> 
+	<meta property="og:description" content="Seeing the words A Stephen Spielberg Film on a movie poster are bywords for quality and film making excellence. The Cincinnati Born film director is the highest grossing US director of all time, his movies have amassed a staggering $9 billion at the box office. His early works such as Jaws, Raiders of the Lost Ark and ET virtually invented the craze of the summer blockbuster.
+Spielberg has won two academy awards for best director, firstly in 1993 for Schindler's list. A beautifully moving story of Oskar Schindler a German businessman played by Liam Neeson who saves the lives of more than a thousand Jewish refugees during the Holocaust. The second Oscar came five years later for the epic war drama Saving Private Ryan starring Tom Hanks. Stephen Spielberg can cross many genres, scoring huge box office successes, this list includes many of his greatest movies. Play this game and choose your favourite and see how it compares with others on the league table." /> 
+	<meta property="og:site_name" content="Primomo" />
+	<meta property="article:section" content="Movies" />  
+	<meta property="article:tag" content="Steven Spielburg, Oscars, Tom Hanks, Harrison Ford, Star Wars, Weinstein, Sci-fi, Academy Awards, Robin Williams, Dustin Hoffman, Drew Barrymore, Christian Bale, John Malkovich, Steven Spielberg, Sean Connery, Matt Damon, Leonardo DiCaprio, Christopher Walken, Martin Sheen, Eric Bana, Daniel Craig, Daniel Day-Lewis , Tommy Lee Jones, Emily Watson , Benedict Cumberbatch " />  
+	<meta property="fb:admins" content="690322552, 598310032" />	
+
+	<link rel="stylesheet" href="/site/templates/components/normalize/normalize.min.css" />
+	<link rel="stylesheet" href="/site/templates/components/foundation/foundation.min.css" />
+	<link rel="stylesheet" href="/site/templates/components/animate-scss/animate.min.css" />
+
+	<script src="/site/templates/components/angular/angular.min.js"></script>
+	<script src="/site/templates/components/angular/angular-touch.min.js"></script>
+	<script src="/site/templates/components/angular-foundation/mm-foundation-tpls-0.8.0.min.js"></script>
+	<script src="/site/templates/components/modernizr.js"></script>
+	<script src="/site/templates/components/fastclick.js"></script>
+	
+	<script src="/site/templates/components/ng-FitText.js"></script>
+	<script src="/site/templates/components/flowtype.min.js"></script>
+	<script src="/site/templates/scripts/angular-swing.min.js"></script>
+	<script src="/site/templates/scripts/angular-equalizer.min.js"></script>
+	<script src="/site/templates/scripts/primomo.min.js"></script>
+	
+	<link rel="stylesheet" href="/site/templates/styles/primomo.min.css?" />
+	
+	<style class="game-colour">
+/* ccolour_base - base */
+.ccolour_base { background: #B03232}
+.ccolour_base-border { border-color: #B03232}
+.ccolour_base-text { color: #B03232}
+/* ccolour_d1 - darker 1 */
+.ccolour_d1 { background: #a02d2d}
+.ccolour_d1-border { border-color: #a02d2d}
+.ccolour_d1-text { color: #a02d2d}
+/* ccolour_d2 - darker 2 */
+.ccolour_d2 { background: #902929}
+.ccolour_d2-border { border-color: #902929}
+.ccolour_d2-text { color: #902929}
+/* ccolour_d3 - darker 3 */
+.ccolour_d3 { background: #802424}
+.ccolour_d3-border { border-color: #802424}
+.ccolour_d3-text { color: #802424}
+/* ccolour_l1 - lighter 1 */
+.ccolour_l1, {background: #c73a3a}
+.ccolour_l1-border { border-color: #c73a3a}
+.ccolour_l1-text { color: #c73a3a}
+/* Colour Styles */
+body, #viewport, .page-wrap:before {
+	background: #B03232	}
+.top-bar-section ul li, .top-bar-section li:not(.has-form) a:not(.button), .top-bar-section .has-form {
+	background: none;
+	}
+.top-bar-section li:not(.has-form) a:not(.button):hover, .top-bar-section ul li:hover:not(.has-form) > a, .top-bar-section .dropdown li:not(.has-form):not(.active) > a:not(.button) {
+	background: #902929	}
+html.touch .top-bar-section li.has-dropdown a:hover {
+	background:none;
+	}
+html.touch .top-bar-section li.has-dropdown.not-click a:hover {
+	background:#902929;
+	}
+.top-bar-section .dropdown li:not(.has-form):not(.active):hover > a:not(.button) {
+	background: #802424	}
+.top-bar, .fixednav, .top-bar .title-area, .top-bar.expanded .title-area {
+	background: #a02d2d	}	
+.top-bar input[type="text"] {
+	border-color: #a02d2d	}
+.accordian-percent {
+	background: #902929	}
+.results-header h3 {
+    color: #902929	}
+.sidebar-tags h4, .sidebar-cats h4 {
+    color: #902929	}	
+h3.section-header, h3.section-header a  {
+    color: #802424	}	
+h3.section-header a:hover  {
+    color: #902929	}		
+/* Medium and Up Only */	
+@media only screen and (min-width: 720px) {
+	.top-bar-section li.active:not(.has-form) a:not(.button) {
+		background: #a02d2d		}
+	.top-bar-section li.active:not(.has-form) a:not(.button):hover {
+		background: #902929		}
+	.top-bar-section .dropdown li.active:not(.has-form) a:not(.button) {
+		background: #902929		}
+	.top-bar-section .dropdown li.active:not(.has-form) a:not(.button):hover {
+		background: #802424		}		
+	}
+/* Small Only */	
+@media only screen and (max-width: 719px) {
+	.top-bar-section ul li, .top-bar-section .has-form {
+		background: #902929		}
+	.top-bar-section li:not(.has-form) a:not(.button):hover, .top-bar-section ul li:hover:not(.has-form) > a {
+		background: #802424		}
+	}
+</style>
+<style class="cat-colours">
+.catcolour_sport_standard{background:#1FA464;}.catcolour_sport_inverted *{color:#1FA464 !important;}.catcolour_entertainment_standard{background:#B03232;}.catcolour_entertainment_inverted *{color:#B03232 !important;}.catcolour_lifestyle_standard{background:#9B2C6F;}.catcolour_lifestyle_inverted *{color:#9B2C6F !important;}	
+</style>	<link href='https://fonts.googleapis.com/css?family=Comfortaa:300,400,700' rel='stylesheet' type='text/css'>
+	</head>	
+<body class='template-list'
+ng-app="primomoApp">
+
+<div><div ng-init="deckArray=[{name:'Jaws', subtitle:'', image:'/site/assets/files/1217/jaws-2kz0dlef.300x300.jpg', copyright:'Poster - Fair Use', plays:68, wins:49, gamePlays:0, gameWins:0, cardPageId:1217},{name:'ET', subtitle:'', image:'/site/assets/files/1219/e_t_the_extra_terrestrial_ver3-v1432758208.300x300.jpg', copyright:'Poster - Fair Use', plays:59, wins:38, gamePlays:0, gameWins:0, cardPageId:1219},{name:'Close Encounters of the Third Kind', subtitle:'', image:'/site/assets/files/1268/close_encounters_poster-v1432837108.300x300.jpg', copyright:'Fair use', plays:59, wins:37, gamePlays:0, gameWins:0, cardPageId:1268},{name:'Raiders of the Lost Ark', subtitle:'', image:'/site/assets/files/1270/raiders-v1432837302.300x300.jpg', copyright:'Fair use', plays:55, wins:33, gamePlays:0, gameWins:0, cardPageId:1270},{name:'Indiana Jones and the Temple of Doom', subtitle:'', image:'/site/assets/files/1271/indiana_jones_and_the_temple_of_doom_posterb-v1432837385.300x300.jpg', copyright:'Fair use', plays:38, wins:14, gamePlays:0, gameWins:0, cardPageId:1271},{name:'The Color Purple', subtitle:'', image:'/site/assets/files/1272/the_color_purple_poster-v1432837498.300x300.jpg', copyright:'Fair use', plays:32, wins:9, gamePlays:0, gameWins:0, cardPageId:1272},{name:'Empire of the Sun', subtitle:'', image:'/site/assets/files/1273/empire_of_the_sun-v1432837585.300x300.jpg', copyright:'Fair use', plays:31, wins:7, gamePlays:0, gameWins:0, cardPageId:1273},{name:'Indiana Jones and the Last Crusade', subtitle:'', image:'/site/assets/files/1274/indiana_jones_and_the_last_crusade_a-v1432837725.300x300.jpg', copyright:'Fair use', plays:44, wins:21, gamePlays:0, gameWins:0, cardPageId:1274},{name:'Hook', subtitle:'', image:'/site/assets/files/1275/hook_poster_transparent-v1432837838.300x300.jpg', copyright:'Fair use', plays:31, wins:7, gamePlays:0, gameWins:0, cardPageId:1275},{name:'Jurassic Park', subtitle:'', image:'/site/assets/files/1276/jurassic_park_poster-v1432837908.300x300.jpg', copyright:'Fair use', plays:65, wins:45, gamePlays:0, gameWins:0, cardPageId:1276},{name:'Schindler\'s List', subtitle:'', image:'/site/assets/files/1277/schindler-1039-s-list-qrm4o2j3.300x300.jpg', copyright:'Fair use', plays:61, wins:40, gamePlays:0, gameWins:0, cardPageId:1277},{name:'Saving Private Ryan', subtitle:'', image:'/site/assets/files/1280/saving_private_ryan_poster-v1432838319.300x300.jpg', copyright:'Fair use', plays:48, wins:26, gamePlays:0, gameWins:0, cardPageId:1280},{name:'Catch Me If You Can', subtitle:'', image:'/site/assets/files/1283/catch_me_if_you_can_2002_movie-v1432838548.300x300.jpg', copyright:'Fair use', plays:44, wins:21, gamePlays:0, gameWins:0, cardPageId:1283},{name:'The Terminal', subtitle:'', image:'/site/assets/files/1284/movie_poster_the_terminal-v1432838670.300x300.jpg', copyright:'Fair use', plays:35, wins:11, gamePlays:0, gameWins:0, cardPageId:1284},{name:'Bridge of Spies', subtitle:'', image:'/site/assets/files/9737/bridge_of_spies_poster.300x300.jpg', copyright:'Walt Disney Studios', plays:38, wins:14, gamePlays:0, gameWins:0, cardPageId:9737},{name:'War Horse', subtitle:'', image:'/site/assets/files/1289/war-horse-poster-v1432839170.300x300.jpg', copyright:'Fair use', plays:39, wins:15, gamePlays:0, gameWins:0, cardPageId:1289},]; gameArray=[{title:'Best Steven Spielberg Movie', interrogative:'What is', possessive:' ', possessiveAlt:'', subject:'the best Steven Spielberg Movie', summary:'Steven Spielberg is perhaps Hollywood\'s best known director, but what is his best movie?'}]; pageId=1216;"></div></div>
+
+<div ng-controller="primomoController" class="page-wrap">
+
+<div class="fixednav">
+	<div class="row topbar-container">
+		<top-bar id="top-menu" class="top-bar top-menu" mobile-show-parent-link="true" is-hover="false">
+			<ul class="title-area">
+				<li class="name">
+					<h1><a href="/"><img class="primomo-logo" src="/site/templates/images/primomologotext.svg"><span></span></a></h1>
+				</li>
+				<li toggle-top-bar onclick="document.getElementById('top-search').classList.remove('expanded')" class="toggle-topbar toggle-topbar-main menu-icon"><a href=""><span></span></a></li>
+			</ul>
+			<top-bar-section ng-cloakx>
+				<ul class="right">
+					
+					
+<ul class="primenu">
+	<li>
+		<a href='/categories/entertainment/'>Entertainment</a>
+	</li>
+	<li>
+		<a href='/categories/sport/'>Sport</a>
+	</li>
+	<li>
+		<a href='/categories/lifestyle/'>Lifestyle</a>
+	</li>
+</ul>					
+					<li has-dropdown class="primenu-hasdropdown">
+						<a>More</a>
+						<ul top-bar-dropdown ng-cloak>
+							
+<ul class="more-menu">
+	<li>
+		<a href='/categories/entertainment/tv/'>TV</a>
+	</li>
+	<li>
+		<a href='/categories/lifestyle/people/'>People</a>
+	</li>
+	<li>
+		<a href='/categories/sport/football/'>Football</a>
+	</li>
+	<li>
+		<a href='/categories/lifestyle/food/'>Food</a>
+	</li>
+	<li>
+		<a href='/categories/entertainment/music/'>Music</a>
+	</li>
+	<li>
+		<a href='/categories/entertainment/movies/'>Movies</a>
+	</li>
+	<li>
+		<a href='/categories/'>All Categories</a>
+	</li>
+</ul>						</ul>
+					</li>
+					
+					<ul>
+						<li class="has-form search-form-medium-up">
+						    <div class="row collapse">
+						      <div class="large-12 small-12 columns">
+						        <form id="site-search-form" class="clearfix" action="/search/" method="get">
+									<input type="text" name="q" value="" placeholder="Search">
+								</form>
+						      </div>
+						    </div>
+						</li>
+					</ul>
+					
+				</ul>
+			</top-bar-section>
+		</top-bar>
+		
+		<top-bar id="top-search" class="top-bar top-search show-for-small-only" data-topbar="" style="height: 45px">
+			<ul class="title-area">
+				<li class="name"></li>
+				<li toggle-top-bar onclick="document.getElementById('top-menu').classList.remove('expanded')" class="toggle-topbar toggle-topbar-search menu-icon"><a href=""><span></span></a></li>
+			</ul>
+			<top-bar-section ng-cloak>
+				<ul>
+				  <li class="has-form search-form-small-only">
+				    <div class="row collapse">
+				      <div class="large-12 small-12 columns">
+				        <form id="site-search-form" class="clearfix" action="/search/" method="get">
+							<input type="text" name="q" value="" placeholder="Search">
+						</form>
+				      </div>
+				    </div>
+				  </li>
+				</ul>
+			</top-bar-section>
+		</top-bar>
+	</div>
+</div>
+
+
+<div class="row-container ccolour_base main-header">
+	<div class="row">
+		<div class="column">
+			<h2 class="top-header">Best Steven Spielberg Movie</h2>
+		</div>
+	</div>
+	</div>
+
+<div id="body-wrap">
+	<div class="row-container">
+	<div class="row list-grid-row" id="sectionid1">
+		<div class="column">
+			<h3 class="left section-header">Related Lists</a></h3>
+				
+		</div>
+		
+		
+			<div class="column list-grid">
+				<div equalizer class="row">
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-8712'>
+
+	<a href='/list/best-christian-bale-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/8712/christian_bale_2014_28cropped_29.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Christian Bale Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-8688'>
+
+	<a href='/list/best-hbo-show-of-all-time/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/8688/fb-hbo-480x320.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best HBO Show of All Time</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_sport_standard catcolorstyle_standard' id='list-8566'>
+
+	<a href='/list/greatest-san-francisco-49ers-player/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/8566/1280px-49ers_logo_svg.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest San Francisco 49ers Player</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_sport_standard catcolorstyle_standard' id='list-8359'>
+
+	<a href='/list/greatest-chicago-bears-player/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/8359/1280px-chicago_bears_logo_svg.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest Chicago Bears Player</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_sport_standard catcolorstyle_standard' id='list-8070'>
+
+	<a href='/list/greatest-cleveland-browns-player/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/8070/2015_browns_helmet.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest Cleveland Browns Player</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_sport_standard catcolorstyle_standard' id='list-8049'>
+
+	<a href='/list/greatest-cincinnati-bengals-player/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/8049/1280px-cincinnati_bengals_svg.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest Cincinnati Bengals Player</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_sport_standard catcolorstyle_standard' id='list-7988'>
+
+	<a href='/list/greatest-new-england-patriots-player/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/7988/1280px-new_england_patriots_logo_svg.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest New England Patriots Player</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-7921'>
+
+	<a href='/list/best-adam-sandler-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/7921/adam_sandler_2011_28cropped_29.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Adam Sandler Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-7890'>
+
+	<a href='/list/best-ben-affleck/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/7890/ben_affleck_by_gage_skidmore.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Ben Affleck Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-7863'>
+
+	<a href='/list/best-matt-damon-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/7863/damon_cropped.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Matt Damon Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-7832'>
+
+	<a href='/list/best-bradley-cooper-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/7832/bradley_cooper_2009.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Bradley Cooper Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-7804'>
+
+	<a href='/list/best-tom-cruise-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/7804/tom_cruise_avp_2014_4.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Tom Cruise Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-7775'>
+
+	<a href='/list/best-tom-hanks-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/7775/tom_hanks_2014.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Tom Hanks Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-7749'>
+
+	<a href='/list/best-paul-rudd-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/7749/paul_rudd_28cropped_29_2.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Paul Rudd Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_sport_standard catcolorstyle_standard' id='list-7335'>
+
+	<a href='/list/greatest-cleveland-indians/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/7335/791px-cleveland_indians_logo_svg.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest Cleveland Indians</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_lifestyle_standard catcolorstyle_standard' id='list-7082'>
+
+	<a href='/list/hottest-male-redhead/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/7082/michael_fassbender_by_gage_skidmore_2015.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Hottest Male Redhead</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-6768'>
+
+	<a href='/list/best-movie-villain/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/6768/anthony_hopkins_as_hannibal_lecter_28screenshot_29.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Movie Villain</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-6639'>
+
+	<a href='/list/best-chris-columbus-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/6639/chris_columbus.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Chris Columbus Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-6590'>
+
+	<a href='/list/best-robert-zemeckis-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/6590/forrestgumpjfkscreenshot.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Robert Zemeckis Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-6572'>
+
+	<a href='/list/best-christopher-nolan-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/6572/christopher_nolan_2c_london_2c_2013_28crop_29.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Christopher Nolan Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-6546'>
+
+	<a href='/list/best-michael-bay-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/6546/michael_bay_060530-f-4692s-004.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Michael Bay Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-6117'>
+
+	<a href='/list/best-alfred-hitchcock-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/6117/hitchcock_2c_alfred_02.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Alfred Hitchcock Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-6027'>
+
+	<a href='/list/best-martin-scorsese-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/6027/martin_scorsese_cannes_2010.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Martin Scorsese Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-6000'>
+
+	<a href='/list/best-danny-devito-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/6000/danny_devito_by_gage_skidmore.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Danny DeVito Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+									</div>
+			</div>	
+						<div class="column"><div class='pagination-centered'><ul class='pagination'><li class='MarkupPagerNavPrevious MarkupPagerNavFirst'><a href='/list/best-steven-spielberg-film/page2'><span><<</span></a></li><li class='MarkupPagerNavFirstNum'><a href='/list/best-steven-spielberg-film/'><span>1</span></a></li><li><a href='/list/best-steven-spielberg-film/page2'><span>2</span></a></li><li class='current'><a href='/list/best-steven-spielberg-film/page3'><span>3</span></a></li><li><a href='/list/best-steven-spielberg-film/page4'><span>4</span></a></li><li class='MarkupPagerNavLastNum'><a href='/list/best-steven-spielberg-film/page5'><span>5</span></a></li><li class='MarkupPagerNavNext MarkupPagerNavLast'><a href='/list/best-steven-spielberg-film/page4'><span>>></span></a></li></ul></div></div>	</div>
+</div></div>
+
+</div> <!--ng-controller-->
+<footer class="ccolour_base">
+
+<div class="row">
+	<div class="medium-4 medium-push-8 columns">
+		<ul class="footer-social">
+			<li>
+				<a href="" class="xxx" style="opacity: 0 !important"></a>
+			</li>
+			<li>
+				<a href="" class="xxx" style="opacity: 0 !important"></a>
+			</li>
+			<!-- <li><a href="/about" class="mail"></a></li> -->
+		</ul>
+	</div>
+	<div class="medium-8 medium-pull-4 columns">		
+	</div>
+</div>
+
+</footer>
+<script>
+flowtype(document.body.querySelector('#stack-container'), {
+   minimum   : 0,
+   maximum   : 600,
+   minFont   : 1,
+   maxFont   : 50,
+   fontRatio : 14,
+   lineRatio : 1.45
+});	
+flowtype(document.body.querySelector('#gamemessage-container'), {
+   minimum   : 0,
+   maximum   : 600,
+   minFont   : 1,
+   maxFont   : 50,
+   fontRatio : 14,
+   lineRatio : 1.45
+});	
+</script>
+</body>
+</html>

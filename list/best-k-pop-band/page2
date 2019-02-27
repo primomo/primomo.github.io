@@ -1,0 +1,429 @@
+<!DOCTYPE html>
+<!--[if IE 9]><html class="lt-ie10" lang="en" > <![endif]-->
+<html class="no-js" lang="en" itemscope itemtype="http://schema.org/ItemList">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+	<style type="text/css">@charset "UTF-8";[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {display: none !important;}</style>	
+	<link rel="canonical" href="">
+	
+		
+	
+	<!-- Meta -->
+	<title>Best K-Pop Band - Primomo</title>
+	<meta name="description" content="Who is the Best K-Pop Band? Exo? Shinee? Super Junior? Big Bang? Infinite? Bangtan Boys? 2NE1? f(x)? Girls' Generation? Got7? CNBLUE? Apink? Miss A? 2PM? Beast? TVXQ? U-KISS? T-ara? B1A4? B.A.P? " />
+	<!-- Schema -->
+	<meta itemprop="name" content="Best K-Pop Band">
+	<meta itemprop="description" content="Who is the Best K-Pop Band? Exo? Shinee? Super Junior? Big Bang? Infinite? Bangtan Boys? 2NE1? f(x)? Girls' Generation? Got7? CNBLUE? Apink? Miss A? 2PM? Beast? TVXQ? U-KISS? T-ara? B1A4? B.A.P? "> 
+	<meta itemprop="image" content=""> 
+	 <meta itemprop="itemListOrder" content="Descending" /> 	<!-- Twitter -->
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:site" content="@playprimomo">
+	<meta name="twitter:title" content="Best K-Pop Band">
+	<meta name="twitter:description" content="Who is the Best K-Pop Band? Exo? Shinee? Super Junior? Big Bang? Infinite? Bangtan Boys? 2NE1? f(x)? Girls' Generation? Got7? CNBLUE? Apink? Miss A? 2PM? Beast? TVXQ? U-KISS? T-ara? B1A4? B.A.P? "> 
+	<meta name="twitter:creator" content="@playprimomo">
+	<meta name="twitter:image:src" content=""> 
+	<!-- Open Graph -->
+	<meta property="og:title" content="Best K-Pop Band" />
+	<meta property="og:type" content="article" /> 
+	<meta property="og:url" content="" /> 
+	<meta property="og:image" content=""> 
+	<meta property="og:image:width" content="500"> 
+	<meta property="og:image:height" content="300"> 
+	<meta property="og:description" content="Who is the Best K-Pop Band? Exo? Shinee? Super Junior? Big Bang? Infinite? Bangtan Boys? 2NE1? f(x)? Girls' Generation? Got7? CNBLUE? Apink? Miss A? 2PM? Beast? TVXQ? U-KISS? T-ara? B1A4? B.A.P? " /> 
+	<meta property="og:site_name" content="Primomo" />
+	<meta property="article:section" content="Pop" />  
+	<meta property="article:tag" content="K-Pop , South Korea , Korean , Pop Music, Seoul" />  
+	<meta property="fb:admins" content="690322552, 598310032" />	
+
+	<link rel="stylesheet" href="/site/templates/components/normalize/normalize.min.css" />
+	<link rel="stylesheet" href="/site/templates/components/foundation/foundation.min.css" />
+	<link rel="stylesheet" href="/site/templates/components/animate-scss/animate.min.css" />
+
+	<script src="/site/templates/components/angular/angular.min.js"></script>
+	<script src="/site/templates/components/angular/angular-touch.min.js"></script>
+	<script src="/site/templates/components/angular-foundation/mm-foundation-tpls-0.8.0.min.js"></script>
+	<script src="/site/templates/components/modernizr.js"></script>
+	<script src="/site/templates/components/fastclick.js"></script>
+	
+	<script src="/site/templates/components/ng-FitText.js"></script>
+	<script src="/site/templates/components/flowtype.min.js"></script>
+	<script src="/site/templates/scripts/angular-swing.min.js"></script>
+	<script src="/site/templates/scripts/angular-equalizer.min.js"></script>
+	<script src="/site/templates/scripts/primomo.min.js"></script>
+	
+	<link rel="stylesheet" href="/site/templates/styles/primomo.min.css?" />
+	
+	<style class="game-colour">
+/* ccolour_base - base */
+.ccolour_base { background: #B03232}
+.ccolour_base-border { border-color: #B03232}
+.ccolour_base-text { color: #B03232}
+/* ccolour_d1 - darker 1 */
+.ccolour_d1 { background: #a02d2d}
+.ccolour_d1-border { border-color: #a02d2d}
+.ccolour_d1-text { color: #a02d2d}
+/* ccolour_d2 - darker 2 */
+.ccolour_d2 { background: #902929}
+.ccolour_d2-border { border-color: #902929}
+.ccolour_d2-text { color: #902929}
+/* ccolour_d3 - darker 3 */
+.ccolour_d3 { background: #802424}
+.ccolour_d3-border { border-color: #802424}
+.ccolour_d3-text { color: #802424}
+/* ccolour_l1 - lighter 1 */
+.ccolour_l1, {background: #c73a3a}
+.ccolour_l1-border { border-color: #c73a3a}
+.ccolour_l1-text { color: #c73a3a}
+/* Colour Styles */
+body, #viewport, .page-wrap:before {
+	background: #B03232	}
+.top-bar-section ul li, .top-bar-section li:not(.has-form) a:not(.button), .top-bar-section .has-form {
+	background: none;
+	}
+.top-bar-section li:not(.has-form) a:not(.button):hover, .top-bar-section ul li:hover:not(.has-form) > a, .top-bar-section .dropdown li:not(.has-form):not(.active) > a:not(.button) {
+	background: #902929	}
+html.touch .top-bar-section li.has-dropdown a:hover {
+	background:none;
+	}
+html.touch .top-bar-section li.has-dropdown.not-click a:hover {
+	background:#902929;
+	}
+.top-bar-section .dropdown li:not(.has-form):not(.active):hover > a:not(.button) {
+	background: #802424	}
+.top-bar, .fixednav, .top-bar .title-area, .top-bar.expanded .title-area {
+	background: #a02d2d	}	
+.top-bar input[type="text"] {
+	border-color: #a02d2d	}
+.accordian-percent {
+	background: #902929	}
+.results-header h3 {
+    color: #902929	}
+.sidebar-tags h4, .sidebar-cats h4 {
+    color: #902929	}	
+h3.section-header, h3.section-header a  {
+    color: #802424	}	
+h3.section-header a:hover  {
+    color: #902929	}		
+/* Medium and Up Only */	
+@media only screen and (min-width: 720px) {
+	.top-bar-section li.active:not(.has-form) a:not(.button) {
+		background: #a02d2d		}
+	.top-bar-section li.active:not(.has-form) a:not(.button):hover {
+		background: #902929		}
+	.top-bar-section .dropdown li.active:not(.has-form) a:not(.button) {
+		background: #902929		}
+	.top-bar-section .dropdown li.active:not(.has-form) a:not(.button):hover {
+		background: #802424		}		
+	}
+/* Small Only */	
+@media only screen and (max-width: 719px) {
+	.top-bar-section ul li, .top-bar-section .has-form {
+		background: #902929		}
+	.top-bar-section li:not(.has-form) a:not(.button):hover, .top-bar-section ul li:hover:not(.has-form) > a {
+		background: #802424		}
+	}
+</style>
+<style class="cat-colours">
+.catcolour_sport_standard{background:#1FA464;}.catcolour_sport_inverted *{color:#1FA464 !important;}.catcolour_entertainment_standard{background:#B03232;}.catcolour_entertainment_inverted *{color:#B03232 !important;}.catcolour_lifestyle_standard{background:#9B2C6F;}.catcolour_lifestyle_inverted *{color:#9B2C6F !important;}	
+</style>	<link href='https://fonts.googleapis.com/css?family=Comfortaa:300,400,700' rel='stylesheet' type='text/css'>
+	</head>	
+<body class='template-list'
+ng-app="primomoApp">
+
+<div><div ng-init="deckArray=[{name:'Exo', subtitle:'', image:'/site/assets/files/6093/korea_kpop_world_festival_13.300x300.jpg', copyright:'Korea.net / Korean Culture and Information Service (Photographer name) [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons', plays:4652, wins:2532, gamePlays:0, gameWins:0, cardPageId:6093},{name:'Shinee', subtitle:'', image:'/site/assets/files/6094/shinee_at_the_special_stage_expo_285_29.300x300.jpg', copyright:'By livingocean (매일매일이 축제! 엑스포 팝 페스티벌 스토리2!) [CC BY 2.0 kr (http://creativecommons.org/licenses/by/2.0/kr/deed.en)], via Wikimedia Commons', plays:4497, wins:2297, gamePlays:0, gameWins:0, cardPageId:6094},{name:'Super Junior', subtitle:'', image:'/site/assets/files/6095/super_junior_cropped.300x300.jpg', copyright:'By LG전자 (Cropped from File:Super junior111.jpg) [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons', plays:4650, wins:2479, gamePlays:0, gameWins:0, cardPageId:6095},{name:'Big Bang', subtitle:'', image:'/site/assets/files/6096/bigbang_extraordinary_20_27s.300x300.jpg', copyright:'This image was originally posted to Flickr by YG Entertainmen', plays:5371, wins:3322, gamePlays:0, gameWins:0, cardPageId:6096},{name:'Infinite', subtitle:'', image:'/site/assets/files/6097/infinite_from_acrofan.300x300.jpg', copyright:'ACROFAN [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0) or CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons', plays:3662, wins:1447, gamePlays:0, gameWins:0, cardPageId:6097},{name:'Bangtan Boys', subtitle:'', image:'/site/assets/files/6098/kocis_korea_mnet_bts_01_2812986916653_29.300x300.jpg', copyright:'Korea.net / Korean Culture and Information Service (Photographer name) [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons', plays:4163, wins:1973, gamePlays:0, gameWins:0, cardPageId:6098},{name:'2NE1', subtitle:'', image:'/site/assets/files/6099/2ne1_from_acrofan.300x300.jpg', copyright:'ACROFAN [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0) or CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons', plays:5748, wins:4106, gamePlays:0, gameWins:0, cardPageId:6099},{name:'f(x)', subtitle:'', image:'/site/assets/files/6100/f_28x_29_2012_expo.300x300.jpg', copyright:'By F(x) 2012 Expo 2.jpg (F(x) 2012 Expo 2.jpg) [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons', plays:4402, wins:2188, gamePlays:0, gameWins:0, cardPageId:6100},{name:'Girls\' Generation', subtitle:'', image:'/site/assets/files/6101/lg_ec_a0_84_ec_9e_90_eb_aa_a8_eb_b0_94_ec_9d_bc_ec_9b_94_eb_93_9c_ec_bb_b5_-_ec_86_8c_eb_85_80_ec_8b_9c_eb_8c_80_ec_b6_95_e.300x300.jpg', copyright:'By LG전자 [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons', plays:7773, wins:6693, gamePlays:0, gameWins:0, cardPageId:6101},{name:'Got7', subtitle:'', image:'/site/assets/files/6102/got7right.300x300.jpg', copyright:'Korea.net / Korean Culture and Information Service (Photographer name) [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons', plays:3815, wins:1593, gamePlays:0, gameWins:0, cardPageId:6102},{name:'CNBLUE', subtitle:'', image:'/site/assets/files/6103/cnblue_in_thailand.300x300.jpg', copyright:'By Fizhasan (Own work) [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons', plays:3693, wins:1469, gamePlays:0, gameWins:0, cardPageId:6103},{name:'Apink', subtitle:'', image:'/site/assets/files/6104/a_pink_2014_kbs_song_festival_2.300x300.jpg', copyright:'By demical (http://demical.tistory.com/172) [CC BY 4.0 (http://creativecommons.org/licenses/by/4.0)], via Wikimedia Commons', plays:3792, wins:1590, gamePlays:0, gameWins:0, cardPageId:6104},{name:'Miss A', subtitle:'', image:'/site/assets/files/6105/kocis_korea-japan_festival_2011_in_tokyo_286260054828_29.300x300.jpg', copyright:'Korea.net / Korean Culture and Information Service (Photographer name) [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons', plays:3627, wins:1403, gamePlays:0, gameWins:0, cardPageId:6105},{name:'2PM', subtitle:'', image:'/site/assets/files/6106/2_pm_korean_band.300x300.jpg', copyright:'By Sry85 (Own work) [CC BY 3.0 (http://creativecommons.org/licenses/by/3.0)], via Wikimedia Commons', plays:3577, wins:1358, gamePlays:0, gameWins:0, cardPageId:6106},{name:'Beast', subtitle:'', image:'/site/assets/files/6107/b2st_at_the_2010_mnet_20_27s_choice_awards.300x300.jpg', copyright:'By Jordi Sanchez Teruel from Seúl, South Korea (Handsome in white) [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons', plays:3638, wins:1447, gamePlays:0, gameWins:0, cardPageId:6107},{name:'TVXQ', subtitle:'', image:'/site/assets/files/6108/riseasgod_cover.300x300.jpg', copyright:'This is the cover art for Rise as God by the artist TVXQ. The cover art copyright is believed to belong to the label, S.M. Entertainment, or the graphic artist(s).', plays:3975, wins:1753, gamePlays:0, gameWins:0, cardPageId:6108},{name:'U-KISS', subtitle:'', image:'/site/assets/files/6109/u-kiss_dream_concert_2013_source-k-soul_magazine.300x300.jpg', copyright:'By ABlogAbroad (http://www.ksoulmag.com/staff/) [GFDL (http://www.gnu.org/copyleft/fdl.html) or CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons', plays:3246, wins:1021, gamePlays:0, gameWins:0, cardPageId:6109},{name:'T-ara', subtitle:'', image:'/site/assets/files/6110/pop_group_t-ara_is_greeting_on_stage_during_the_launch_ceremony_for_team_korea_on_september_11_2c_2014.300x300.jpg', copyright:'Korea.net / Korean Culture and Information Service (Photographer name) [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons', plays:3549, wins:1329, gamePlays:0, gameWins:0, cardPageId:6110},{name:'B1A4', subtitle:'', image:'/site/assets/files/6111/b1a4_in_nov_1_2c_2013.300x300.jpg', copyright:'By 와사비콘텐츠 (http://wasabcon.tistory.com/588) [CC BY 4.0 (http://creativecommons.org/licenses/by/4.0)], via Wikimedia Commons', plays:3345, wins:1123, gamePlays:0, gameWins:0, cardPageId:6111},{name:'B.A.P', subtitle:'', image:'/site/assets/files/6112/live_on_earth_2014_continent_tour.300x300.jpg', copyright:'TS Entertainment', plays:3375, wins:1152, gamePlays:0, gameWins:0, cardPageId:6112},]; gameArray=[{title:'Best K-Pop Band', interrogative:'Who is', possessive:' ', possessiveAlt:'', subject:'the Best K-Pop Band', summary:'Who is the Best K-Pop Band?'}]; pageId=6092;"></div></div>
+
+<div ng-controller="primomoController" class="page-wrap">
+
+<div class="fixednav">
+	<div class="row topbar-container">
+		<top-bar id="top-menu" class="top-bar top-menu" mobile-show-parent-link="true" is-hover="false">
+			<ul class="title-area">
+				<li class="name">
+					<h1><a href="/"><img class="primomo-logo" src="/site/templates/images/primomologotext.svg"><span></span></a></h1>
+				</li>
+				<li toggle-top-bar onclick="document.getElementById('top-search').classList.remove('expanded')" class="toggle-topbar toggle-topbar-main menu-icon"><a href=""><span></span></a></li>
+			</ul>
+			<top-bar-section ng-cloakx>
+				<ul class="right">
+					
+					
+<ul class="primenu">
+	<li>
+		<a href='/categories/entertainment/'>Entertainment</a>
+	</li>
+	<li>
+		<a href='/categories/sport/'>Sport</a>
+	</li>
+	<li>
+		<a href='/categories/lifestyle/'>Lifestyle</a>
+	</li>
+</ul>					
+					<li has-dropdown class="primenu-hasdropdown">
+						<a>More</a>
+						<ul top-bar-dropdown ng-cloak>
+							
+<ul class="more-menu">
+	<li>
+		<a href='/categories/entertainment/tv/'>TV</a>
+	</li>
+	<li>
+		<a href='/categories/lifestyle/people/'>People</a>
+	</li>
+	<li>
+		<a href='/categories/sport/football/'>Football</a>
+	</li>
+	<li>
+		<a href='/categories/lifestyle/food/'>Food</a>
+	</li>
+	<li>
+		<a href='/categories/entertainment/music/'>Music</a>
+	</li>
+	<li>
+		<a href='/categories/entertainment/movies/'>Movies</a>
+	</li>
+	<li>
+		<a href='/categories/'>All Categories</a>
+	</li>
+</ul>						</ul>
+					</li>
+					
+					<ul>
+						<li class="has-form search-form-medium-up">
+						    <div class="row collapse">
+						      <div class="large-12 small-12 columns">
+						        <form id="site-search-form" class="clearfix" action="/search/" method="get">
+									<input type="text" name="q" value="" placeholder="Search">
+								</form>
+						      </div>
+						    </div>
+						</li>
+					</ul>
+					
+				</ul>
+			</top-bar-section>
+		</top-bar>
+		
+		<top-bar id="top-search" class="top-bar top-search show-for-small-only" data-topbar="" style="height: 45px">
+			<ul class="title-area">
+				<li class="name"></li>
+				<li toggle-top-bar onclick="document.getElementById('top-menu').classList.remove('expanded')" class="toggle-topbar toggle-topbar-search menu-icon"><a href=""><span></span></a></li>
+			</ul>
+			<top-bar-section ng-cloak>
+				<ul>
+				  <li class="has-form search-form-small-only">
+				    <div class="row collapse">
+				      <div class="large-12 small-12 columns">
+				        <form id="site-search-form" class="clearfix" action="/search/" method="get">
+							<input type="text" name="q" value="" placeholder="Search">
+						</form>
+				      </div>
+				    </div>
+				  </li>
+				</ul>
+			</top-bar-section>
+		</top-bar>
+	</div>
+</div>
+
+
+<div class="row-container ccolour_base main-header">
+	<div class="row">
+		<div class="column">
+			<h2 class="top-header">Best K-Pop Band</h2>
+		</div>
+	</div>
+	</div>
+
+<div id="body-wrap">
+	<div class="row-container">
+	<div class="row list-grid-row" id="sectionid1">
+		<div class="column">
+			<h3 class="left section-header">Related Lists</a></h3>
+				
+		</div>
+		
+		
+			<div class="column list-grid">
+				<div equalizer class="row">
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-5483'>
+
+	<a href='/list/best-biggest-selling-album/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/5483/dark_side_of_the_moon.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Biggest Selling Album</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-3910'>
+
+	<a href='/list/best-manchester-band/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/3910/madch.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Manchester Band</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_lifestyle_standard catcolorstyle_standard' id='list-3338'>
+
+	<a href='/list/hottest-taylor-swift-ex/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/3338/taylorswiftapr09.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Hottest Taylor Swift Ex-Boyfriend</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-2964'>
+
+	<a href='/list/best-michael-jackson-song/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/2964/best-michael-jackson-song-vco4qacv.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Michael Jackson song</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-2353'>
+
+	<a href='/list/best-british-bands/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/2353/best-british-bands-mekfuzdp.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best British Bands</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-2000'>
+
+	<a href='/list/best-boy-band/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/2000/best-boy-band-oujdyz5t.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Boy Band</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-1980'>
+
+	<a href='/list/best-beatles-album/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/1980/paul_2c_george_26_john.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Beatles Album</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-1796'>
+
+	<a href='/list/best-girl-group/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/1796/best-girl-group-j4o5hwpy.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Girl Group</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+									</div>
+			</div>	
+						<div class="column"><div class='pagination-centered'><ul class='pagination'><li class='MarkupPagerNavPrevious MarkupPagerNavFirst'><a href='/list/best-k-pop-band/'><span><<</span></a></li><li class='MarkupPagerNavFirstNum'><a href='/list/best-k-pop-band/'><span>1</span></a></li><li class='current MarkupPagerNavLast MarkupPagerNavLastNum'><a href='/list/best-k-pop-band/page2'><span>2</span></a></li></ul></div></div>	</div>
+</div></div>
+
+</div> <!--ng-controller-->
+<footer class="ccolour_base">
+
+<div class="row">
+	<div class="medium-4 medium-push-8 columns">
+		<ul class="footer-social">
+			<li>
+				<a href="" class="xxx" style="opacity: 0 !important"></a>
+			</li>
+			<li>
+				<a href="" class="xxx" style="opacity: 0 !important"></a>
+			</li>
+			<!-- <li><a href="/about" class="mail"></a></li> -->
+		</ul>
+	</div>
+	<div class="medium-8 medium-pull-4 columns">		
+	</div>
+</div>
+
+</footer>
+<script>
+flowtype(document.body.querySelector('#stack-container'), {
+   minimum   : 0,
+   maximum   : 600,
+   minFont   : 1,
+   maxFont   : 50,
+   fontRatio : 14,
+   lineRatio : 1.45
+});	
+flowtype(document.body.querySelector('#gamemessage-container'), {
+   minimum   : 0,
+   maximum   : 600,
+   minFont   : 1,
+   maxFont   : 50,
+   fontRatio : 14,
+   lineRatio : 1.45
+});	
+</script>
+</body>
+</html>

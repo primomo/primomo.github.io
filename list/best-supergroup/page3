@@ -1,0 +1,616 @@
+<!DOCTYPE html>
+<!--[if IE 9]><html class="lt-ie10" lang="en" > <![endif]-->
+<html class="no-js" lang="en" itemscope itemtype="http://schema.org/ItemList">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+	<style type="text/css">@charset "UTF-8";[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {display: none !important;}</style>	
+	<link rel="canonical" href="">
+	
+		
+	
+	<!-- Meta -->
+	<title>Best Supergroup - Primomo</title>
+	<meta name="description" content="Who is the Best Supergroup? Cream? Crosby, Stills, Nash & Young? Blind Faith? Emerson, Lake & Palmer? Derek and the Dominos? Journey? Bad Company? Asia? The Firm? The Highwaymen? Traveling Wilburys? Temple of the Dog? Foo Fighters? The Dirty Mac? Velvet Revolver? Audioslave? The Raconteurs? Damn Yankees? " />
+	<!-- Schema -->
+	<meta itemprop="name" content="Best Supergroup">
+	<meta itemprop="description" content="Who is the Best Supergroup? Cream? Crosby, Stills, Nash & Young? Blind Faith? Emerson, Lake & Palmer? Derek and the Dominos? Journey? Bad Company? Asia? The Firm? The Highwaymen? Traveling Wilburys? Temple of the Dog? Foo Fighters? The Dirty Mac? Velvet Revolver? Audioslave? The Raconteurs? Damn Yankees? "> 
+	<meta itemprop="image" content=""> 
+	 <meta itemprop="itemListOrder" content="Descending" /> 	<!-- Twitter -->
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:site" content="@playprimomo">
+	<meta name="twitter:title" content="Best Supergroup">
+	<meta name="twitter:description" content="Who is the Best Supergroup? Cream? Crosby, Stills, Nash & Young? Blind Faith? Emerson, Lake & Palmer? Derek and the Dominos? Journey? Bad Company? Asia? The Firm? The Highwaymen? Traveling Wilburys? Temple of the Dog? Foo Fighters? The Dirty Mac? Velvet Revolver? Audioslave? The Raconteurs? Damn Yankees? "> 
+	<meta name="twitter:creator" content="@playprimomo">
+	<meta name="twitter:image:src" content=""> 
+	<!-- Open Graph -->
+	<meta property="og:title" content="Best Supergroup" />
+	<meta property="og:type" content="article" /> 
+	<meta property="og:url" content="" /> 
+	<meta property="og:image" content=""> 
+	<meta property="og:image:width" content="500"> 
+	<meta property="og:image:height" content="300"> 
+	<meta property="og:description" content="Who is the Best Supergroup? Cream? Crosby, Stills, Nash & Young? Blind Faith? Emerson, Lake & Palmer? Derek and the Dominos? Journey? Bad Company? Asia? The Firm? The Highwaymen? Traveling Wilburys? Temple of the Dog? Foo Fighters? The Dirty Mac? Velvet Revolver? Audioslave? The Raconteurs? Damn Yankees? " /> 
+	<meta property="og:site_name" content="Primomo" />
+	<meta property="article:section" content="Music" />  
+	<meta property="article:tag" content="Supergroup , Rock, Neil Young , Eric Clapton, Ginger Baker, George Harrison, Bob Dylan, Johnny Cash , Willie Nelson , Kris Kristofferson , John Lennon, Chris Cornell , Roy Orbison , Keith Richards, Slash , Jack White" />  
+	<meta property="fb:admins" content="690322552, 598310032" />	
+
+	<link rel="stylesheet" href="/site/templates/components/normalize/normalize.min.css" />
+	<link rel="stylesheet" href="/site/templates/components/foundation/foundation.min.css" />
+	<link rel="stylesheet" href="/site/templates/components/animate-scss/animate.min.css" />
+
+	<script src="/site/templates/components/angular/angular.min.js"></script>
+	<script src="/site/templates/components/angular/angular-touch.min.js"></script>
+	<script src="/site/templates/components/angular-foundation/mm-foundation-tpls-0.8.0.min.js"></script>
+	<script src="/site/templates/components/modernizr.js"></script>
+	<script src="/site/templates/components/fastclick.js"></script>
+	
+	<script src="/site/templates/components/ng-FitText.js"></script>
+	<script src="/site/templates/components/flowtype.min.js"></script>
+	<script src="/site/templates/scripts/angular-swing.min.js"></script>
+	<script src="/site/templates/scripts/angular-equalizer.min.js"></script>
+	<script src="/site/templates/scripts/primomo.min.js"></script>
+	
+	<link rel="stylesheet" href="/site/templates/styles/primomo.min.css?" />
+	
+	<style class="game-colour">
+/* ccolour_base - base */
+.ccolour_base { background: #B03232}
+.ccolour_base-border { border-color: #B03232}
+.ccolour_base-text { color: #B03232}
+/* ccolour_d1 - darker 1 */
+.ccolour_d1 { background: #a02d2d}
+.ccolour_d1-border { border-color: #a02d2d}
+.ccolour_d1-text { color: #a02d2d}
+/* ccolour_d2 - darker 2 */
+.ccolour_d2 { background: #902929}
+.ccolour_d2-border { border-color: #902929}
+.ccolour_d2-text { color: #902929}
+/* ccolour_d3 - darker 3 */
+.ccolour_d3 { background: #802424}
+.ccolour_d3-border { border-color: #802424}
+.ccolour_d3-text { color: #802424}
+/* ccolour_l1 - lighter 1 */
+.ccolour_l1, {background: #c73a3a}
+.ccolour_l1-border { border-color: #c73a3a}
+.ccolour_l1-text { color: #c73a3a}
+/* Colour Styles */
+body, #viewport, .page-wrap:before {
+	background: #B03232	}
+.top-bar-section ul li, .top-bar-section li:not(.has-form) a:not(.button), .top-bar-section .has-form {
+	background: none;
+	}
+.top-bar-section li:not(.has-form) a:not(.button):hover, .top-bar-section ul li:hover:not(.has-form) > a, .top-bar-section .dropdown li:not(.has-form):not(.active) > a:not(.button) {
+	background: #902929	}
+html.touch .top-bar-section li.has-dropdown a:hover {
+	background:none;
+	}
+html.touch .top-bar-section li.has-dropdown.not-click a:hover {
+	background:#902929;
+	}
+.top-bar-section .dropdown li:not(.has-form):not(.active):hover > a:not(.button) {
+	background: #802424	}
+.top-bar, .fixednav, .top-bar .title-area, .top-bar.expanded .title-area {
+	background: #a02d2d	}	
+.top-bar input[type="text"] {
+	border-color: #a02d2d	}
+.accordian-percent {
+	background: #902929	}
+.results-header h3 {
+    color: #902929	}
+.sidebar-tags h4, .sidebar-cats h4 {
+    color: #902929	}	
+h3.section-header, h3.section-header a  {
+    color: #802424	}	
+h3.section-header a:hover  {
+    color: #902929	}		
+/* Medium and Up Only */	
+@media only screen and (min-width: 720px) {
+	.top-bar-section li.active:not(.has-form) a:not(.button) {
+		background: #a02d2d		}
+	.top-bar-section li.active:not(.has-form) a:not(.button):hover {
+		background: #902929		}
+	.top-bar-section .dropdown li.active:not(.has-form) a:not(.button) {
+		background: #902929		}
+	.top-bar-section .dropdown li.active:not(.has-form) a:not(.button):hover {
+		background: #802424		}		
+	}
+/* Small Only */	
+@media only screen and (max-width: 719px) {
+	.top-bar-section ul li, .top-bar-section .has-form {
+		background: #902929		}
+	.top-bar-section li:not(.has-form) a:not(.button):hover, .top-bar-section ul li:hover:not(.has-form) > a {
+		background: #802424		}
+	}
+</style>
+<style class="cat-colours">
+.catcolour_sport_standard{background:#1FA464;}.catcolour_sport_inverted *{color:#1FA464 !important;}.catcolour_entertainment_standard{background:#B03232;}.catcolour_entertainment_inverted *{color:#B03232 !important;}.catcolour_lifestyle_standard{background:#9B2C6F;}.catcolour_lifestyle_inverted *{color:#9B2C6F !important;}	
+</style>	<link href='https://fonts.googleapis.com/css?family=Comfortaa:300,400,700' rel='stylesheet' type='text/css'>
+	</head>	
+<body class='template-list'
+ng-app="primomoApp">
+
+<div><div ng-init="deckArray=[{name:'Cream', subtitle:'', image:'/site/assets/files/6946/cream_on_fanclub_1968_282_29.300x300.jpg', copyright:'By Omroepvereniging VARA [CC BY-SA 3.0 nl (http://creativecommons.org/licenses/by-sa/3.0/nl/deed.en)], via Wikimedia Commons', plays:157, wins:112, gamePlays:0, gameWins:0, cardPageId:6946},{name:'Crosby, Stills, Nash &amp; Young', subtitle:'', image:'/site/assets/files/6947/crosby_stills_nash_and_young_1970.300x300.jpg', copyright:'By CMA-Creative Management Associates/Atlantic Records (eBay item photo front photo back) [Public domain], via Wikimedia Commons', plays:129, wins:79, gamePlays:0, gameWins:0, cardPageId:6947},{name:'Blind Faith', subtitle:'', image:'/site/assets/files/6948/one_blind_faith.300x300.jpg', copyright:'Fair use', plays:76, wins:22, gamePlays:0, gameWins:0, cardPageId:6948},{name:'Emerson, Lake &amp; Palmer', subtitle:'', image:'/site/assets/files/6949/emerson_lake_and_palmer_band_photo.300x300.jpg', copyright:'By Jean-Luc [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons', plays:112, wins:61, gamePlays:0, gameWins:0, cardPageId:6949},{name:'Derek and the Dominos', subtitle:'', image:'/site/assets/files/6950/derek_and_the_dominos.300x300.jpg', copyright:'By Atco Records (Billboard, page 7, 6 February 1971) [Public domain], via Wikimedia Commons', plays:119, wins:67, gamePlays:0, gameWins:0, cardPageId:6950},{name:'Journey', subtitle:'', image:'/site/assets/files/6951/journeymm2002.300x300.jpg', copyright:'By Dave Golland (Transferred from en.wikipedia) [CC BY 3.0 (http://creativecommons.org/licenses/by/3.0)], via Wikimedia Commons', plays:123, wins:74, gamePlays:0, gameWins:0, cardPageId:6951},{name:'Bad Company', subtitle:'', image:'/site/assets/files/6952/bad_company_-_1976.300x300.jpg', copyright:'By Jim Summaria (Wikipedia:Contact us/Photo submission) [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons', plays:99, wins:46, gamePlays:0, gameWins:0, cardPageId:6952},{name:'Asia', subtitle:'', image:'/site/assets/files/6953/asiapromotionaloriginal.300x300.jpg', copyright:'Fair use', plays:76, wins:22, gamePlays:0, gameWins:0, cardPageId:6953},{name:'The Firm', subtitle:'', image:'/site/assets/files/6954/the_firm.300x300.jpg', copyright:'Fair use', plays:73, wins:19, gamePlays:0, gameWins:0, cardPageId:6954},{name:'The Highwaymen', subtitle:'', image:'/site/assets/files/6955/highwaymen.300x300.jpg', copyright:'Fair use', plays:102, wins:51, gamePlays:0, gameWins:0, cardPageId:6955},{name:'Traveling Wilburys', subtitle:'', image:'/site/assets/files/6956/traveling_wilburys.300x300.jpg', copyright:'Fair use', plays:149, wins:109, gamePlays:0, gameWins:0, cardPageId:6956},{name:'Temple of the Dog', subtitle:'', image:'/site/assets/files/6957/temple_of_the_dog_band_shot.300x300.jpg', copyright:'Fair use', plays:76, wins:25, gamePlays:0, gameWins:0, cardPageId:6957},{name:'Foo Fighters', subtitle:'', image:'/site/assets/files/6958/foo_fighters_2009.300x300.jpg', copyright:'By christopher simon (originally posted to Flickr as IMG_0107) [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons', plays:138, wins:92, gamePlays:0, gameWins:0, cardPageId:6958},{name:'The Dirty Mac', subtitle:'', image:'/site/assets/files/6959/the-dirty-mac.300x300.jpg', copyright:'Fair use', plays:69, wins:15, gamePlays:0, gameWins:0, cardPageId:6959},{name:'Velvet Revolver', subtitle:'', image:'/site/assets/files/6960/velvet_revolver_live_in_london_5_june_2007_01.300x300.jpg', copyright:'By Kreepin Deth (Own work) [CC BY 3.0 (http://creativecommons.org/licenses/by/3.0)], via Wikimedia Commons', plays:95, wins:41, gamePlays:0, gameWins:0, cardPageId:6960},{name:'Audioslave', subtitle:'', image:'/site/assets/files/6961/audioslave-s09.300x300.jpg', copyright:'Fair use', plays:84, wins:31, gamePlays:0, gameWins:0, cardPageId:6961},{name:'The Raconteurs', subtitle:'', image:'/site/assets/files/6962/raconteurs_t_in_the_park_2008.300x300.jpg', copyright:'By yoowan (http://www.flickr.com/photos/yoowan/2669463588/) [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons', plays:77, wins:24, gamePlays:0, gameWins:0, cardPageId:6962},{name:'Damn Yankees', subtitle:'', image:'/site/assets/files/6963/dydy.300x300.jpg', copyright:'Fair use', plays:82, wins:28, gamePlays:0, gameWins:0, cardPageId:6963},]; gameArray=[{title:'Best Supergroup', interrogative:'Who is', possessive:' ', possessiveAlt:'', subject:'the Best Supergroup', summary:'Who is the Best Supergroup?'}]; pageId=6945;"></div></div>
+
+<div ng-controller="primomoController" class="page-wrap">
+
+<div class="fixednav">
+	<div class="row topbar-container">
+		<top-bar id="top-menu" class="top-bar top-menu" mobile-show-parent-link="true" is-hover="false">
+			<ul class="title-area">
+				<li class="name">
+					<h1><a href="/"><img class="primomo-logo" src="/site/templates/images/primomologotext.svg"><span></span></a></h1>
+				</li>
+				<li toggle-top-bar onclick="document.getElementById('top-search').classList.remove('expanded')" class="toggle-topbar toggle-topbar-main menu-icon"><a href=""><span></span></a></li>
+			</ul>
+			<top-bar-section ng-cloakx>
+				<ul class="right">
+					
+					
+<ul class="primenu">
+	<li>
+		<a href='/categories/entertainment/'>Entertainment</a>
+	</li>
+	<li>
+		<a href='/categories/sport/'>Sport</a>
+	</li>
+	<li>
+		<a href='/categories/lifestyle/'>Lifestyle</a>
+	</li>
+</ul>					
+					<li has-dropdown class="primenu-hasdropdown">
+						<a>More</a>
+						<ul top-bar-dropdown ng-cloak>
+							
+<ul class="more-menu">
+	<li>
+		<a href='/categories/entertainment/tv/'>TV</a>
+	</li>
+	<li>
+		<a href='/categories/lifestyle/people/'>People</a>
+	</li>
+	<li>
+		<a href='/categories/sport/football/'>Football</a>
+	</li>
+	<li>
+		<a href='/categories/lifestyle/food/'>Food</a>
+	</li>
+	<li>
+		<a href='/categories/entertainment/music/'>Music</a>
+	</li>
+	<li>
+		<a href='/categories/entertainment/movies/'>Movies</a>
+	</li>
+	<li>
+		<a href='/categories/'>All Categories</a>
+	</li>
+</ul>						</ul>
+					</li>
+					
+					<ul>
+						<li class="has-form search-form-medium-up">
+						    <div class="row collapse">
+						      <div class="large-12 small-12 columns">
+						        <form id="site-search-form" class="clearfix" action="/search/" method="get">
+									<input type="text" name="q" value="" placeholder="Search">
+								</form>
+						      </div>
+						    </div>
+						</li>
+					</ul>
+					
+				</ul>
+			</top-bar-section>
+		</top-bar>
+		
+		<top-bar id="top-search" class="top-bar top-search show-for-small-only" data-topbar="" style="height: 45px">
+			<ul class="title-area">
+				<li class="name"></li>
+				<li toggle-top-bar onclick="document.getElementById('top-menu').classList.remove('expanded')" class="toggle-topbar toggle-topbar-search menu-icon"><a href=""><span></span></a></li>
+			</ul>
+			<top-bar-section ng-cloak>
+				<ul>
+				  <li class="has-form search-form-small-only">
+				    <div class="row collapse">
+				      <div class="large-12 small-12 columns">
+				        <form id="site-search-form" class="clearfix" action="/search/" method="get">
+							<input type="text" name="q" value="" placeholder="Search">
+						</form>
+				      </div>
+				    </div>
+				  </li>
+				</ul>
+			</top-bar-section>
+		</top-bar>
+	</div>
+</div>
+
+
+<div class="row-container ccolour_base main-header">
+	<div class="row">
+		<div class="column">
+			<h2 class="top-header">Best Supergroup</h2>
+		</div>
+	</div>
+	</div>
+
+<div id="body-wrap">
+	<div class="row-container">
+	<div class="row list-grid-row" id="sectionid1">
+		<div class="column">
+			<h3 class="left section-header">Related Lists</a></h3>
+				
+		</div>
+		
+		
+			<div class="column list-grid">
+				<div equalizer class="row">
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-10527'>
+
+	<a href='/list/best-queen-song/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/10527/bohemian_rhapsody.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Queen Song</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-10003'>
+
+	<a href='/list/27-club/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/10003/jimi_hendrix_1967_uncropped.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>27 Club</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-9910'>
+
+	<a href='/list/best-bob-dylan-album/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/9910/bob_dylan_-_azkena_rock_festival_2010_2.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Bob Dylan Album</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_sport_standard catcolorstyle_standard' id='list-9095'>
+
+	<a href='/list/greatest-minnesota-timberwolves-player/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/9095/1280px-minnesota_timberwolves_svg.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest Minnesota Timberwolves Player</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_sport_standard catcolorstyle_standard' id='list-8933'>
+
+	<a href='/list/greatest-detroit-pistons-player/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/8933/1229px-detroit_pistons_logo_svg.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest Detroit Pistons Player</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_sport_standard catcolorstyle_standard' id='list-8421'>
+
+	<a href='/list/greatest-minnesota-vikings-player/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/8421/minnesota_vikings_logo_2013.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest Minnesota Vikings Player</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_sport_standard catcolorstyle_standard' id='list-8379'>
+
+	<a href='/list/greatest-detroit-lions-player/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/8379/1280px-new_lions_logo_svg.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest Detroit Lions Player</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_sport_standard catcolorstyle_standard' id='list-7311'>
+
+	<a href='/list/greatest-minnesota-twin/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/7311/minnesotatwins.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest Minnesota Twin</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_lifestyle_standard catcolorstyle_standard' id='list-6725'>
+
+	<a href='/list/favourite-george/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/6725/28uslee.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Favourite George</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-6027'>
+
+	<a href='/list/best-martin-scorsese-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/6027/martin_scorsese_cannes_2010.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Martin Scorsese Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-5529'>
+
+	<a href='/list/best-britpop-band/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/5529/nme_blur_oasis.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Britpop Band</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-5507'>
+
+	<a href='/list/best-bond-theme/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/5507/goldfinger_ost.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best James Bond Theme</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-5483'>
+
+	<a href='/list/best-biggest-selling-album/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/5483/dark_side_of_the_moon.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Biggest Selling Album</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_lifestyle_standard catcolorstyle_standard' id='list-4799'>
+
+	<a href='/list/greatest-canadian/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/4799/640px-flag_of_canada_svg.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest Canadian</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_lifestyle_standard catcolorstyle_standard' id='list-3944'>
+
+	<a href='/list/best-scouser/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/3944/royal_liver_building.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest Scouser</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-3278'>
+
+	<a href='/list/best-frontman/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/3278/queen_-_montagem.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Rock Frontmen</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-2572'>
+
+	<a href='/list/best-action-star/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/2572/best-action-star-jwonxr71.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Action Star</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-2353'>
+
+	<a href='/list/best-british-bands/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/2353/best-british-bands-mekfuzdp.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best British Bands</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-1980'>
+
+	<a href='/list/best-beatles-album/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/1980/paul_2c_george_26_john.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Beatles Album</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+									</div>
+			</div>	
+						<div class="column"><div class='pagination-centered'><ul class='pagination'><li class='MarkupPagerNavPrevious MarkupPagerNavFirst'><a href='/list/best-supergroup/page2'><span><<</span></a></li><li class='MarkupPagerNavFirstNum'><a href='/list/best-supergroup/'><span>1</span></a></li><li><a href='/list/best-supergroup/page2'><span>2</span></a></li><li class='current MarkupPagerNavLast MarkupPagerNavLastNum'><a href='/list/best-supergroup/page3'><span>3</span></a></li></ul></div></div>	</div>
+</div></div>
+
+</div> <!--ng-controller-->
+<footer class="ccolour_base">
+
+<div class="row">
+	<div class="medium-4 medium-push-8 columns">
+		<ul class="footer-social">
+			<li>
+				<a href="" class="xxx" style="opacity: 0 !important"></a>
+			</li>
+			<li>
+				<a href="" class="xxx" style="opacity: 0 !important"></a>
+			</li>
+			<!-- <li><a href="/about" class="mail"></a></li> -->
+		</ul>
+	</div>
+	<div class="medium-8 medium-pull-4 columns">		
+	</div>
+</div>
+
+</footer>
+<script>
+flowtype(document.body.querySelector('#stack-container'), {
+   minimum   : 0,
+   maximum   : 600,
+   minFont   : 1,
+   maxFont   : 50,
+   fontRatio : 14,
+   lineRatio : 1.45
+});	
+flowtype(document.body.querySelector('#gamemessage-container'), {
+   minimum   : 0,
+   maximum   : 600,
+   minFont   : 1,
+   maxFont   : 50,
+   fontRatio : 14,
+   lineRatio : 1.45
+});	
+</script>
+</body>
+</html>

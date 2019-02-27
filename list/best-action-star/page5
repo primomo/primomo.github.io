@@ -1,0 +1,709 @@
+<!DOCTYPE html>
+<!--[if IE 9]><html class="lt-ie10" lang="en" > <![endif]-->
+<html class="no-js" lang="en" itemscope itemtype="http://schema.org/ItemList">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+	<style type="text/css">@charset "UTF-8";[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {display: none !important;}</style>	
+	<link rel="canonical" href="">
+	
+		
+	
+	<!-- Meta -->
+	<title>Best Action Star - Primomo</title>
+	<meta name="description" content="What makes a good Action film? Stunts, things blowing up, hi octane chases, life threatening situations and of course you need a great Hero in the middle, just kicking some serious ass!
+This game has got the best of the best from the world of Action Movies. In good, bad or plain cheesy Action films, these guys own it, from slick cool suited guys to powerful musclemen, all bases are covered here.
+But who would you pick as your favourite Action Star of all time? The 1970s was when the genre was first popularized so maybe the likes of Clint Eastwood, Chuck Norris or the martial arts genius that was Bruce Lee will take your vote. Arguably the 80s was the golden age of action, Arnold Schwarzenegger, so Sylvester Stallone and star of the Die Hard series Bruce Willis all became huge global superstars. Or maybe your winner will come from a more current age of Hollywood? Also included are Jason Statham, Jackie Chan and Dwayne "The Rock" Johnson. Vote for your favourite and don't forget to check out the Related Lists section." />
+	<!-- Schema -->
+	<meta itemprop="name" content="Best Action Star">
+	<meta itemprop="description" content="What makes a good Action film? Stunts, things blowing up, hi octane chases, life threatening situations and of course you need a great Hero in the middle, just kicking some serious ass!
+This game has got the best of the best from the world of Action Movies. In good, bad or plain cheesy Action films, these guys own it, from slick cool suited guys to powerful musclemen, all bases are covered here.
+But who would you pick as your favourite Action Star of all time? The 1970s was when the genre was first popularized so maybe the likes of Clint Eastwood, Chuck Norris or the martial arts genius that was Bruce Lee will take your vote. Arguably the 80s was the golden age of action, Arnold Schwarzenegger, so Sylvester Stallone and star of the Die Hard series Bruce Willis all became huge global superstars. Or maybe your winner will come from a more current age of Hollywood? Also included are Jason Statham, Jackie Chan and Dwayne "The Rock" Johnson. Vote for your favourite and don't forget to check out the Related Lists section."> 
+	<meta itemprop="image" content=""> 
+	 <meta itemprop="itemListOrder" content="Descending" /> 	<!-- Twitter -->
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:site" content="@playprimomo">
+	<meta name="twitter:title" content="Best Action Star">
+	<meta name="twitter:description" content="What makes a good Action film? Stunts, things blowing up, hi octane chases, life threatening situations and of course you need a great Hero in the middle, just kicking some serious ass!
+This game has got the best of the best from the world of Action Movies. In good, bad or plain cheesy Action films, these guys own it, from slick cool suited guys to powerful musclemen, all bases are covered here.
+But who would you pick as your favourite Action Star of all time? The 1970s was when the genre was first popularized so maybe the likes of Clint Eastwood, Chuck Norris or the martial arts genius that was Bruce Lee will take your vote. Arguably the 80s was the golden age of action, Arnold Schwarzenegger, so Sylvester Stallone and star of the Die Hard series Bruce Willis all became huge global superstars. Or maybe your winner will come from a more current age of Hollywood? Also included are Jason Statham, Jackie Chan and Dwayne "The Rock" Johnson. Vote for your favourite and don't forget to check out the Related Lists section."> 
+	<meta name="twitter:creator" content="@playprimomo">
+	<meta name="twitter:image:src" content=""> 
+	<!-- Open Graph -->
+	<meta property="og:title" content="Best Action Star" />
+	<meta property="og:type" content="article" /> 
+	<meta property="og:url" content="" /> 
+	<meta property="og:image" content=""> 
+	<meta property="og:image:width" content="500"> 
+	<meta property="og:image:height" content="300"> 
+	<meta property="og:description" content="What makes a good Action film? Stunts, things blowing up, hi octane chases, life threatening situations and of course you need a great Hero in the middle, just kicking some serious ass!
+This game has got the best of the best from the world of Action Movies. In good, bad or plain cheesy Action films, these guys own it, from slick cool suited guys to powerful musclemen, all bases are covered here.
+But who would you pick as your favourite Action Star of all time? The 1970s was when the genre was first popularized so maybe the likes of Clint Eastwood, Chuck Norris or the martial arts genius that was Bruce Lee will take your vote. Arguably the 80s was the golden age of action, Arnold Schwarzenegger, so Sylvester Stallone and star of the Die Hard series Bruce Willis all became huge global superstars. Or maybe your winner will come from a more current age of Hollywood? Also included are Jason Statham, Jackie Chan and Dwayne "The Rock" Johnson. Vote for your favourite and don't forget to check out the Related Lists section." /> 
+	<meta property="og:site_name" content="Primomo" />
+	<meta property="article:section" content="Movies" />  
+	<meta property="article:tag" content="Action, Hong Kong, Martial arts, Hollywood, Enter the Dragon, Die Hard, Pulp Fiction, The Expendables, Demi Moore, John Woo, Police Story, Dirty Harry, Oscars, Rocky, Rambo, James Cameron, The Terminator, Predator, California, Guy Ritchie, Crank, The Fast and the Furious, Star Wars, Indiana Jones, Jack Ryan, Batman, Steven Spielburg, Taken, Rock, WWE, WWF, Kickboxer, Bloodsport, Street Fighter, Marvel, Blade, X-men, Top Gun, Bad Boys, Men in Black, Michael Bay, Tony Scott, Bourne, Paul Greengrass, Ben Affleck, James Bond" />  
+	<meta property="fb:admins" content="690322552, 598310032" />	
+
+	<link rel="stylesheet" href="/site/templates/components/normalize/normalize.min.css" />
+	<link rel="stylesheet" href="/site/templates/components/foundation/foundation.min.css" />
+	<link rel="stylesheet" href="/site/templates/components/animate-scss/animate.min.css" />
+
+	<script src="/site/templates/components/angular/angular.min.js"></script>
+	<script src="/site/templates/components/angular/angular-touch.min.js"></script>
+	<script src="/site/templates/components/angular-foundation/mm-foundation-tpls-0.8.0.min.js"></script>
+	<script src="/site/templates/components/modernizr.js"></script>
+	<script src="/site/templates/components/fastclick.js"></script>
+	
+	<script src="/site/templates/components/ng-FitText.js"></script>
+	<script src="/site/templates/components/flowtype.min.js"></script>
+	<script src="/site/templates/scripts/angular-swing.min.js"></script>
+	<script src="/site/templates/scripts/angular-equalizer.min.js"></script>
+	<script src="/site/templates/scripts/primomo.min.js"></script>
+	
+	<link rel="stylesheet" href="/site/templates/styles/primomo.min.css?" />
+	
+	<style class="game-colour">
+/* ccolour_base - base */
+.ccolour_base { background: #B03232}
+.ccolour_base-border { border-color: #B03232}
+.ccolour_base-text { color: #B03232}
+/* ccolour_d1 - darker 1 */
+.ccolour_d1 { background: #a02d2d}
+.ccolour_d1-border { border-color: #a02d2d}
+.ccolour_d1-text { color: #a02d2d}
+/* ccolour_d2 - darker 2 */
+.ccolour_d2 { background: #902929}
+.ccolour_d2-border { border-color: #902929}
+.ccolour_d2-text { color: #902929}
+/* ccolour_d3 - darker 3 */
+.ccolour_d3 { background: #802424}
+.ccolour_d3-border { border-color: #802424}
+.ccolour_d3-text { color: #802424}
+/* ccolour_l1 - lighter 1 */
+.ccolour_l1, {background: #c73a3a}
+.ccolour_l1-border { border-color: #c73a3a}
+.ccolour_l1-text { color: #c73a3a}
+/* Colour Styles */
+body, #viewport, .page-wrap:before {
+	background: #B03232	}
+.top-bar-section ul li, .top-bar-section li:not(.has-form) a:not(.button), .top-bar-section .has-form {
+	background: none;
+	}
+.top-bar-section li:not(.has-form) a:not(.button):hover, .top-bar-section ul li:hover:not(.has-form) > a, .top-bar-section .dropdown li:not(.has-form):not(.active) > a:not(.button) {
+	background: #902929	}
+html.touch .top-bar-section li.has-dropdown a:hover {
+	background:none;
+	}
+html.touch .top-bar-section li.has-dropdown.not-click a:hover {
+	background:#902929;
+	}
+.top-bar-section .dropdown li:not(.has-form):not(.active):hover > a:not(.button) {
+	background: #802424	}
+.top-bar, .fixednav, .top-bar .title-area, .top-bar.expanded .title-area {
+	background: #a02d2d	}	
+.top-bar input[type="text"] {
+	border-color: #a02d2d	}
+.accordian-percent {
+	background: #902929	}
+.results-header h3 {
+    color: #902929	}
+.sidebar-tags h4, .sidebar-cats h4 {
+    color: #902929	}	
+h3.section-header, h3.section-header a  {
+    color: #802424	}	
+h3.section-header a:hover  {
+    color: #902929	}		
+/* Medium and Up Only */	
+@media only screen and (min-width: 720px) {
+	.top-bar-section li.active:not(.has-form) a:not(.button) {
+		background: #a02d2d		}
+	.top-bar-section li.active:not(.has-form) a:not(.button):hover {
+		background: #902929		}
+	.top-bar-section .dropdown li.active:not(.has-form) a:not(.button) {
+		background: #902929		}
+	.top-bar-section .dropdown li.active:not(.has-form) a:not(.button):hover {
+		background: #802424		}		
+	}
+/* Small Only */	
+@media only screen and (max-width: 719px) {
+	.top-bar-section ul li, .top-bar-section .has-form {
+		background: #902929		}
+	.top-bar-section li:not(.has-form) a:not(.button):hover, .top-bar-section ul li:hover:not(.has-form) > a {
+		background: #802424		}
+	}
+</style>
+<style class="cat-colours">
+.catcolour_sport_standard{background:#1FA464;}.catcolour_sport_inverted *{color:#1FA464 !important;}.catcolour_entertainment_standard{background:#B03232;}.catcolour_entertainment_inverted *{color:#B03232 !important;}.catcolour_lifestyle_standard{background:#9B2C6F;}.catcolour_lifestyle_inverted *{color:#9B2C6F !important;}	
+</style>	<link href='https://fonts.googleapis.com/css?family=Comfortaa:300,400,700' rel='stylesheet' type='text/css'>
+	</head>	
+<body class='template-list'
+ng-app="primomoApp">
+
+<div><div ng-init="deckArray=[{name:'Bruce Lee', subtitle:'', image:'/site/assets/files/2573/bruce_lee_as_kato_1967-v1434479585.300x300.jpg', copyright:'By ABC Television (eBay front back) [Public domain], via Wikimedia Commons', plays:75, wins:41, gamePlays:0, gameWins:0, cardPageId:2573},{name:'Bruce Willis', subtitle:'', image:'/site/assets/files/2574/bruce_willis_by_gage_skidmore-v1434480059.300x300.jpg', copyright:'Gage Skidmore [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons', plays:85, wins:52, gamePlays:0, gameWins:0, cardPageId:2574},{name:'Jackie Chan', subtitle:'', image:'/site/assets/files/2575/jackie_chan_cannes_2012.300x300.jpg', copyright:'Georges Biard [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons', plays:78, wins:44, gamePlays:0, gameWins:0, cardPageId:2575},{name:'Clint Eastwood', subtitle:'', image:'/site/assets/files/2576/clinteastwoodsept10tiff.300x300.jpg', copyright:'gdcgraphics [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons', plays:79, wins:47, gamePlays:0, gameWins:0, cardPageId:2576},{name:'Sylvester Stallone', subtitle:'', image:'/site/assets/files/2577/sylvester_stallone_2012.300x300.jpg', copyright:'Georges Biard [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons', plays:63, wins:27, gamePlays:0, gameWins:0, cardPageId:2577},{name:'Arnold Schwarzenegger', subtitle:'', image:'/site/assets/files/2578/arnold_schwarzenegger_february_2015-v1434480491.300x300.jpg', copyright:'Koch / MSC [CC BY 3.0 de (http://creativecommons.org/licenses/by/3.0/de/deed.en)], via Wikimedia Commons', plays:84, wins:50, gamePlays:0, gameWins:0, cardPageId:2578},{name:'Jason Statham', subtitle:'', image:'/site/assets/files/2579/jason_statham_tiff_2011.300x300.jpg', copyright:'By Josh Jensen (Jason Statham) [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons', plays:76, wins:44, gamePlays:0, gameWins:0, cardPageId:2579},{name:'Harrison Ford', subtitle:'', image:'/site/assets/files/2580/harrison_fords_jules_verne_award_28cropped_29.300x300.jpg', copyright:'By Fred943 (Own work) [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons', plays:77, wins:46, gamePlays:0, gameWins:0, cardPageId:2580},{name:'Chuck Norris', subtitle:'', image:'/site/assets/files/2581/chuck_norris_may_2015-v1434480816.300x300.jpg', copyright:'By Staff Sgt. Tony Foster [Public domain], via Wikimedia Commons', plays:44, wins:8, gamePlays:0, gameWins:0, cardPageId:2581},{name:'Jet Li', subtitle:'', image:'/site/assets/files/2582/jet_li_2009_28cropped_29.300x300.jpg', copyright:'By Robert Scoble [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons', plays:59, wins:24, gamePlays:0, gameWins:0, cardPageId:2582},{name:'Liam Neeson', subtitle:'', image:'/site/assets/files/2583/liam_neeson_deauville_2012_2.300x300.jpg', copyright:'Georges Biard [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons', plays:71, wins:37, gamePlays:0, gameWins:0, cardPageId:2583},{name:'Dwayne Johnson', subtitle:'', image:'/site/assets/files/2584/dwayne_johnson_2_2c_2013-v1434481190.300x300.jpg', copyright:'By Eva Rinaldi  Uploaded by MyCanon (Dwayne Johnson) [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons', plays:77, wins:43, gamePlays:0, gameWins:0, cardPageId:2584},{name:'Vin Diesel', subtitle:'', image:'/site/assets/files/2585/vin_diesel_by_gage_skidmore_2-1.300x300.jpg', copyright:'Gage Skidmore [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons', plays:68, wins:34, gamePlays:0, gameWins:0, cardPageId:2585},{name:'Jean-Claude Van Damme', subtitle:'', image:'/site/assets/files/2586/jean-claude_van_damme_june_2_2c_2007_2c_cropped-v1434481497.300x300.jpg', copyright:'By Jean-Claude_Van_Damme_June_2,_2007.jpg: U.S. Air Force photo/Robbin Cresswell derivative work: Emdee (Jean-Claude_Van_Damme_June_2,_2007.jpg) [Public domain], via Wikimedia Commons', plays:48, wins:12, gamePlays:0, gameWins:0, cardPageId:2586},{name:'Wesley Snipes', subtitle:'', image:'/site/assets/files/2587/wesleysnipes_cropped_2009-v1434481651.300x300.jpg', copyright:'By nicolas genin from Paris, France [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons', plays:55, wins:19, gamePlays:0, gameWins:0, cardPageId:2587},{name:'Hugh Jackman', subtitle:'', image:'/site/assets/files/2588/hugh_jackman_2015_04-v1434481741.300x300.jpg', copyright:'By Highway Unicorn (Road To Love) (Own work) [CC BY-SA 4.0 (http://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons', plays:73, wins:37, gamePlays:0, gameWins:0, cardPageId:2588},{name:'Tom Cruise', subtitle:'', image:'/site/assets/files/2589/tom_cruise_avp_2014_4-v1434481823.300x300.jpg', copyright:'Georges Biard [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons', plays:62, wins:26, gamePlays:0, gameWins:0, cardPageId:2589},{name:'Will Smith', subtitle:'', image:'/site/assets/files/2590/will-smith-0mgxxvjm.300x300.jpg', copyright:'By Walmart Stores [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons', plays:61, wins:26, gamePlays:0, gameWins:0, cardPageId:2590},{name:'Denzel Washington', subtitle:'', image:'/site/assets/files/2591/denzel_washington.300x300.jpg', copyright:'Falkenauge at the German language Wikipedia [GFDL (http://www.gnu.org/copyleft/fdl.html) or CC-BY-SA-3.0 (http://creativecommons.org/licenses/by-sa/3.0/)], via Wikimedia Commons', plays:73, wins:41, gamePlays:0, gameWins:0, cardPageId:2591},{name:'Matt Damon', subtitle:'', image:'/site/assets/files/2592/matt_damon_2014-v1434482227.300x300.jpg', copyright:'Georges Biard [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons', plays:60, wins:26, gamePlays:0, gameWins:0, cardPageId:2592},]; gameArray=[{title:'Best Action Star', interrogative:'Who is', possessive:' ', possessiveAlt:'', subject:'the Best Action Movie Star', summary:'Who is the Best Action Movie Star?'}]; pageId=2572;"></div></div>
+
+<div ng-controller="primomoController" class="page-wrap">
+
+<div class="fixednav">
+	<div class="row topbar-container">
+		<top-bar id="top-menu" class="top-bar top-menu" mobile-show-parent-link="true" is-hover="false">
+			<ul class="title-area">
+				<li class="name">
+					<h1><a href="/"><img class="primomo-logo" src="/site/templates/images/primomologotext.svg"><span></span></a></h1>
+				</li>
+				<li toggle-top-bar onclick="document.getElementById('top-search').classList.remove('expanded')" class="toggle-topbar toggle-topbar-main menu-icon"><a href=""><span></span></a></li>
+			</ul>
+			<top-bar-section ng-cloakx>
+				<ul class="right">
+					
+					
+<ul class="primenu">
+	<li>
+		<a href='/categories/entertainment/'>Entertainment</a>
+	</li>
+	<li>
+		<a href='/categories/sport/'>Sport</a>
+	</li>
+	<li>
+		<a href='/categories/lifestyle/'>Lifestyle</a>
+	</li>
+</ul>					
+					<li has-dropdown class="primenu-hasdropdown">
+						<a>More</a>
+						<ul top-bar-dropdown ng-cloak>
+							
+<ul class="more-menu">
+	<li>
+		<a href='/categories/entertainment/tv/'>TV</a>
+	</li>
+	<li>
+		<a href='/categories/lifestyle/people/'>People</a>
+	</li>
+	<li>
+		<a href='/categories/sport/football/'>Football</a>
+	</li>
+	<li>
+		<a href='/categories/lifestyle/food/'>Food</a>
+	</li>
+	<li>
+		<a href='/categories/entertainment/music/'>Music</a>
+	</li>
+	<li>
+		<a href='/categories/entertainment/movies/'>Movies</a>
+	</li>
+	<li>
+		<a href='/categories/'>All Categories</a>
+	</li>
+</ul>						</ul>
+					</li>
+					
+					<ul>
+						<li class="has-form search-form-medium-up">
+						    <div class="row collapse">
+						      <div class="large-12 small-12 columns">
+						        <form id="site-search-form" class="clearfix" action="/search/" method="get">
+									<input type="text" name="q" value="" placeholder="Search">
+								</form>
+						      </div>
+						    </div>
+						</li>
+					</ul>
+					
+				</ul>
+			</top-bar-section>
+		</top-bar>
+		
+		<top-bar id="top-search" class="top-bar top-search show-for-small-only" data-topbar="" style="height: 45px">
+			<ul class="title-area">
+				<li class="name"></li>
+				<li toggle-top-bar onclick="document.getElementById('top-menu').classList.remove('expanded')" class="toggle-topbar toggle-topbar-search menu-icon"><a href=""><span></span></a></li>
+			</ul>
+			<top-bar-section ng-cloak>
+				<ul>
+				  <li class="has-form search-form-small-only">
+				    <div class="row collapse">
+				      <div class="large-12 small-12 columns">
+				        <form id="site-search-form" class="clearfix" action="/search/" method="get">
+							<input type="text" name="q" value="" placeholder="Search">
+						</form>
+				      </div>
+				    </div>
+				  </li>
+				</ul>
+			</top-bar-section>
+		</top-bar>
+	</div>
+</div>
+
+
+<div class="row-container ccolour_base main-header">
+	<div class="row">
+		<div class="column">
+			<h2 class="top-header">Best Action Star</h2>
+		</div>
+	</div>
+	</div>
+
+<div id="body-wrap">
+	<div class="row-container">
+	<div class="row list-grid-row" id="sectionid1">
+		<div class="column">
+			<h3 class="left section-header">Related Lists</a></h3>
+				
+		</div>
+		
+		
+			<div class="column list-grid">
+				<div equalizer class="row">
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-7863'>
+
+	<a href='/list/best-matt-damon-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/7863/damon_cropped.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Matt Damon Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-7832'>
+
+	<a href='/list/best-bradley-cooper-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/7832/bradley_cooper_2009.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Bradley Cooper Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-7804'>
+
+	<a href='/list/best-tom-cruise-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/7804/tom_cruise_avp_2014_4.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Tom Cruise Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_sport_standard catcolorstyle_standard' id='list-7699'>
+
+	<a href='/list/greatest-washington-nationals-player/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/7699/1024px-washington_nationals_logo_svg.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest Washington Nationals Player</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_sport_standard catcolorstyle_standard' id='list-7652'>
+
+	<a href='/list/greatest-san-francisco-giants-player/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/7652/1280px-san_francisco_giants_logo_svg.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest San Francisco Giants Player</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_sport_standard catcolorstyle_standard' id='list-7629'>
+
+	<a href='/list/greatest-san-diego-padres-player/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/7629/1024px-san_diego_padres_logo_svg.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest San Diego Padres Player</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_sport_standard catcolorstyle_standard' id='list-7491'>
+
+	<a href='/list/greatest-los-angeles-dodger/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/7491/los_angeles_dodgers_logo.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest Los Angeles Dodgers</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_sport_standard catcolorstyle_standard' id='list-7383'>
+
+	<a href='/list/greatest-arizona-diamondback/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/7383/1280px-arizona_diamondbacks_logo_svg.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest Arizona Diamondbacks</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-6945'>
+
+	<a href='/list/best-supergroup/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/6945/tn_400__cover.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Supergroup</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_sport_standard catcolorstyle_standard' id='list-6903'>
+
+	<a href='/list/greatest-heavyweight-boxer/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/6903/muhammad_ali_1966.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest Heavyweight Boxer</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-6835'>
+
+	<a href='/list/best-marvel-character/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/6835/k8vebocw.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Marvel Character</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-6768'>
+
+	<a href='/list/best-movie-villain/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/6768/anthony_hopkins_as_hannibal_lecter_28screenshot_29.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Movie Villain</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-6572'>
+
+	<a href='/list/best-christopher-nolan-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/6572/christopher_nolan_2c_london_2c_2013_28crop_29.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Christopher Nolan Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-6546'>
+
+	<a href='/list/best-michael-bay-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/6546/michael_bay_060530-f-4692s-004.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Michael Bay Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-6000'>
+
+	<a href='/list/best-danny-devito-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/6000/danny_devito_by_gage_skidmore.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Danny DeVito Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-5884'>
+
+	<a href='/list/favourite-scottish-actor/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/5884/d0_94_d0_b6_d0_b5_d1_80_d0_b0_d1_80_d0_b4_d0_91_d0_b0_d1_82_d0_bb_d0_b5_d1_80.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Favourite Scottish Actor</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-5765'>
+
+	<a href='/list/best-david-fincher-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/5765/fight_club_poster.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best David Fincher Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-5735'>
+
+	<a href='/list/best-brad-pitt-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/5735/brad_pitt_inglorious_basterds_berlin_premiere.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Brad Pitt Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-5666'>
+
+	<a href='/list/best-leonardo-dicaprio/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/5666/leonardo_dicaprio_2014.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Leonardo DiCaprio Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-5529'>
+
+	<a href='/list/best-britpop-band/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/5529/nme_blur_oasis.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Britpop Band</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-5507'>
+
+	<a href='/list/best-bond-theme/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/5507/goldfinger_ost.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best James Bond Theme</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-5483'>
+
+	<a href='/list/best-biggest-selling-album/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/5483/dark_side_of_the_moon.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Biggest Selling Album</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-5453'>
+
+	<a href='/list/best-boxing-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/5453/filming_the_boxing_scenes.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Boxing Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-5332'>
+
+	<a href='/list/best-kevin-smith-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/5332/kevin_smith_2014_28cropped_29.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Kevin Smith Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+									</div>
+			</div>	
+						<div class="column"><div class='pagination-centered'><ul class='pagination'><li class='MarkupPagerNavPrevious MarkupPagerNavFirst'><a href='/list/best-action-star/page4'><span><<</span></a></li><li class='MarkupPagerNavFirst MarkupPagerNavFirstNum'><a href='/list/best-action-star/'><span>1</span></a></li><li class='MarkupPagerNavSeparator'>&hellip;</li><li><a href='/list/best-action-star/page3'><span>3</span></a></li><li><a href='/list/best-action-star/page4'><span>4</span></a></li><li class='current'><a href='/list/best-action-star/page5'><span>5</span></a></li><li><a href='/list/best-action-star/page6'><span>6</span></a></li><li class='MarkupPagerNavLastNum'><a href='/list/best-action-star/page7'><span>7</span></a></li><li class='MarkupPagerNavNext MarkupPagerNavLast'><a href='/list/best-action-star/page6'><span>>></span></a></li></ul></div></div>	</div>
+</div></div>
+
+</div> <!--ng-controller-->
+<footer class="ccolour_base">
+
+<div class="row">
+	<div class="medium-4 medium-push-8 columns">
+		<ul class="footer-social">
+			<li>
+				<a href="" class="xxx" style="opacity: 0 !important"></a>
+			</li>
+			<li>
+				<a href="" class="xxx" style="opacity: 0 !important"></a>
+			</li>
+			<!-- <li><a href="/about" class="mail"></a></li> -->
+		</ul>
+	</div>
+	<div class="medium-8 medium-pull-4 columns">		
+	</div>
+</div>
+
+</footer>
+<script>
+flowtype(document.body.querySelector('#stack-container'), {
+   minimum   : 0,
+   maximum   : 600,
+   minFont   : 1,
+   maxFont   : 50,
+   fontRatio : 14,
+   lineRatio : 1.45
+});	
+flowtype(document.body.querySelector('#gamemessage-container'), {
+   minimum   : 0,
+   maximum   : 600,
+   minFont   : 1,
+   maxFont   : 50,
+   fontRatio : 14,
+   lineRatio : 1.45
+});	
+</script>
+</body>
+</html>

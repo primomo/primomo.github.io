@@ -1,0 +1,701 @@
+<!DOCTYPE html>
+<!--[if IE 9]><html class="lt-ie10" lang="en" > <![endif]-->
+<html class="no-js" lang="en" itemscope itemtype="http://schema.org/ItemList">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+	<style type="text/css">@charset "UTF-8";[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {display: none !important;}</style>	
+	<link rel="canonical" href="">
+	
+		
+	
+	<!-- Meta -->
+	<title>Best One Hit Wonder - Primomo</title>
+	<meta name="description" content="What is  the Best Ever One Hit Wonder? Somebody That I Used to Know? JCB? F.U.R.B. (F U Right Back)? Mad World? You Get What You Give? The Ketchup Song? Everybody's Free (To Wear Sunscreen)? Flat Beat? Turtle Power!? Pump Up the Volume? What's Up?? Shaddap You Face? Uptown Top Ranking? Sugar, Sugar? Je t'aime... moi non plus? Fire? Echo Beach? Mickey? Ring My Bell? Drinking in L.A.? " />
+	<!-- Schema -->
+	<meta itemprop="name" content="Best One Hit Wonder">
+	<meta itemprop="description" content="What is  the Best Ever One Hit Wonder? Somebody That I Used to Know? JCB? F.U.R.B. (F U Right Back)? Mad World? You Get What You Give? The Ketchup Song? Everybody's Free (To Wear Sunscreen)? Flat Beat? Turtle Power!? Pump Up the Volume? What's Up?? Shaddap You Face? Uptown Top Ranking? Sugar, Sugar? Je t'aime... moi non plus? Fire? Echo Beach? Mickey? Ring My Bell? Drinking in L.A.? "> 
+	<meta itemprop="image" content=""> 
+	 <meta itemprop="itemListOrder" content="Descending" /> 	<!-- Twitter -->
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:site" content="@playprimomo">
+	<meta name="twitter:title" content="Best One Hit Wonder">
+	<meta name="twitter:description" content="What is  the Best Ever One Hit Wonder? Somebody That I Used to Know? JCB? F.U.R.B. (F U Right Back)? Mad World? You Get What You Give? The Ketchup Song? Everybody's Free (To Wear Sunscreen)? Flat Beat? Turtle Power!? Pump Up the Volume? What's Up?? Shaddap You Face? Uptown Top Ranking? Sugar, Sugar? Je t'aime... moi non plus? Fire? Echo Beach? Mickey? Ring My Bell? Drinking in L.A.? "> 
+	<meta name="twitter:creator" content="@playprimomo">
+	<meta name="twitter:image:src" content=""> 
+	<!-- Open Graph -->
+	<meta property="og:title" content="Best One Hit Wonder" />
+	<meta property="og:type" content="article" /> 
+	<meta property="og:url" content="" /> 
+	<meta property="og:image" content=""> 
+	<meta property="og:image:width" content="500"> 
+	<meta property="og:image:height" content="300"> 
+	<meta property="og:description" content="What is  the Best Ever One Hit Wonder? Somebody That I Used to Know? JCB? F.U.R.B. (F U Right Back)? Mad World? You Get What You Give? The Ketchup Song? Everybody's Free (To Wear Sunscreen)? Flat Beat? Turtle Power!? Pump Up the Volume? What's Up?? Shaddap You Face? Uptown Top Ranking? Sugar, Sugar? Je t'aime... moi non plus? Fire? Echo Beach? Mickey? Ring My Bell? Drinking in L.A.? " /> 
+	<meta property="og:site_name" content="Primomo" />
+	<meta property="article:section" content="Music" />  
+	<meta property="article:tag" content="1970s, 1980s, 1990s, Baz Luhrmann, Turtles " />  
+	<meta property="fb:admins" content="690322552, 598310032" />	
+
+	<link rel="stylesheet" href="/site/templates/components/normalize/normalize.min.css" />
+	<link rel="stylesheet" href="/site/templates/components/foundation/foundation.min.css" />
+	<link rel="stylesheet" href="/site/templates/components/animate-scss/animate.min.css" />
+
+	<script src="/site/templates/components/angular/angular.min.js"></script>
+	<script src="/site/templates/components/angular/angular-touch.min.js"></script>
+	<script src="/site/templates/components/angular-foundation/mm-foundation-tpls-0.8.0.min.js"></script>
+	<script src="/site/templates/components/modernizr.js"></script>
+	<script src="/site/templates/components/fastclick.js"></script>
+	
+	<script src="/site/templates/components/ng-FitText.js"></script>
+	<script src="/site/templates/components/flowtype.min.js"></script>
+	<script src="/site/templates/scripts/angular-swing.min.js"></script>
+	<script src="/site/templates/scripts/angular-equalizer.min.js"></script>
+	<script src="/site/templates/scripts/primomo.min.js"></script>
+	
+	<link rel="stylesheet" href="/site/templates/styles/primomo.min.css?" />
+	
+	<style class="game-colour">
+/* ccolour_base - base */
+.ccolour_base { background: #B03232}
+.ccolour_base-border { border-color: #B03232}
+.ccolour_base-text { color: #B03232}
+/* ccolour_d1 - darker 1 */
+.ccolour_d1 { background: #a02d2d}
+.ccolour_d1-border { border-color: #a02d2d}
+.ccolour_d1-text { color: #a02d2d}
+/* ccolour_d2 - darker 2 */
+.ccolour_d2 { background: #902929}
+.ccolour_d2-border { border-color: #902929}
+.ccolour_d2-text { color: #902929}
+/* ccolour_d3 - darker 3 */
+.ccolour_d3 { background: #802424}
+.ccolour_d3-border { border-color: #802424}
+.ccolour_d3-text { color: #802424}
+/* ccolour_l1 - lighter 1 */
+.ccolour_l1, {background: #c73a3a}
+.ccolour_l1-border { border-color: #c73a3a}
+.ccolour_l1-text { color: #c73a3a}
+/* Colour Styles */
+body, #viewport, .page-wrap:before {
+	background: #B03232	}
+.top-bar-section ul li, .top-bar-section li:not(.has-form) a:not(.button), .top-bar-section .has-form {
+	background: none;
+	}
+.top-bar-section li:not(.has-form) a:not(.button):hover, .top-bar-section ul li:hover:not(.has-form) > a, .top-bar-section .dropdown li:not(.has-form):not(.active) > a:not(.button) {
+	background: #902929	}
+html.touch .top-bar-section li.has-dropdown a:hover {
+	background:none;
+	}
+html.touch .top-bar-section li.has-dropdown.not-click a:hover {
+	background:#902929;
+	}
+.top-bar-section .dropdown li:not(.has-form):not(.active):hover > a:not(.button) {
+	background: #802424	}
+.top-bar, .fixednav, .top-bar .title-area, .top-bar.expanded .title-area {
+	background: #a02d2d	}	
+.top-bar input[type="text"] {
+	border-color: #a02d2d	}
+.accordian-percent {
+	background: #902929	}
+.results-header h3 {
+    color: #902929	}
+.sidebar-tags h4, .sidebar-cats h4 {
+    color: #902929	}	
+h3.section-header, h3.section-header a  {
+    color: #802424	}	
+h3.section-header a:hover  {
+    color: #902929	}		
+/* Medium and Up Only */	
+@media only screen and (min-width: 720px) {
+	.top-bar-section li.active:not(.has-form) a:not(.button) {
+		background: #a02d2d		}
+	.top-bar-section li.active:not(.has-form) a:not(.button):hover {
+		background: #902929		}
+	.top-bar-section .dropdown li.active:not(.has-form) a:not(.button) {
+		background: #902929		}
+	.top-bar-section .dropdown li.active:not(.has-form) a:not(.button):hover {
+		background: #802424		}		
+	}
+/* Small Only */	
+@media only screen and (max-width: 719px) {
+	.top-bar-section ul li, .top-bar-section .has-form {
+		background: #902929		}
+	.top-bar-section li:not(.has-form) a:not(.button):hover, .top-bar-section ul li:hover:not(.has-form) > a {
+		background: #802424		}
+	}
+</style>
+<style class="cat-colours">
+.catcolour_sport_standard{background:#1FA464;}.catcolour_sport_inverted *{color:#1FA464 !important;}.catcolour_entertainment_standard{background:#B03232;}.catcolour_entertainment_inverted *{color:#B03232 !important;}.catcolour_lifestyle_standard{background:#9B2C6F;}.catcolour_lifestyle_inverted *{color:#9B2C6F !important;}	
+</style>	<link href='https://fonts.googleapis.com/css?family=Comfortaa:300,400,700' rel='stylesheet' type='text/css'>
+	</head>	
+<body class='template-list'
+ng-app="primomoApp">
+
+<div><div ng-init="deckArray=[{name:'Somebody That I Used to Know', subtitle:'Gotye featuring Kimbra', image:'/site/assets/files/12332/gotye_featuring_kimbra_-_somebody_that_i_used_to_know.300x300.jpg', copyright:'Eleven', plays:206, wins:122, gamePlays:0, gameWins:0, cardPageId:12332},{name:'JCB', subtitle:'Nizlopi', image:'/site/assets/files/12333/nizlopijcbcover2.300x300.jpg', copyright:'FDM Records', plays:122, wins:28, gamePlays:0, gameWins:0, cardPageId:12333},{name:'F.U.R.B. (F U Right Back)', subtitle:'Frankee', image:'/site/assets/files/12334/frankee_furb.300x300.jpg', copyright:'Marro', plays:130, wins:36, gamePlays:0, gameWins:0, cardPageId:12334},{name:'Mad World', subtitle:'Michael Andrews featuring Gary Jules', image:'/site/assets/files/12335/jules_mad_world.300x300.jpg', copyright:'Sanctuary', plays:204, wins:115, gamePlays:0, gameWins:0, cardPageId:12335},{name:'You Get What You Give', subtitle:'New Radicals', image:'/site/assets/files/12336/new_radicals_ygwyg_single.300x300.jpg', copyright:'MCA Records', plays:187, wins:100, gamePlays:0, gameWins:0, cardPageId:12336},{name:'The Ketchup Song', subtitle:'Las Ketchup', image:'/site/assets/files/12337/las_ketchup.300x300.jpg', copyright:'Altra Moda Sony', plays:166, wins:76, gamePlays:0, gameWins:0, cardPageId:12337},{name:'Everybody\'s Free (To Wear Sunscreen)', subtitle:'Baz Luhrmann', image:'/site/assets/files/12338/everybody_27sfreetowearsunscreen.300x300.jpg', copyright:'EMI', plays:141, wins:48, gamePlays:0, gameWins:0, cardPageId:12338},{name:'Flat Beat', subtitle:'Mr. Oizo', image:'/site/assets/files/12339/flat_beat_single.300x300.jpg', copyright:'F Communications', plays:133, wins:39, gamePlays:0, gameWins:0, cardPageId:12339},{name:'Turtle Power!', subtitle:'Partners in Kryme', image:'/site/assets/files/12340/turtle_power_partners_in_kryme.300x300.jpg', copyright:'SBK Records', plays:145, wins:54, gamePlays:0, gameWins:0, cardPageId:12340},{name:'Pump Up the Volume', subtitle:'MARRS', image:'/site/assets/files/12341/marrspumpupthevolumead707.300x300.jpg', copyright:'4AD', plays:188, wins:95, gamePlays:0, gameWins:0, cardPageId:12341},{name:'What\'s Up?', subtitle:'4 Non Blondes', image:'/site/assets/files/12342/whatsupcover.300x300.jpg', copyright:'Interscope', plays:272, wins:194, gamePlays:0, gameWins:0, cardPageId:12342},{name:'Shaddap You Face', subtitle:'Joe Dolce Music Theatre', image:'/site/assets/files/12343/joe_dolce_-_syf.300x300.jpg', copyright:'Full Moon Records', plays:157, wins:64, gamePlays:0, gameWins:0, cardPageId:12343},{name:'Uptown Top Ranking', subtitle:'Althea &amp; Donna', image:'/site/assets/files/12344/uptown_top_ranking.300x300.jpg', copyright:'Lightning', plays:156, wins:62, gamePlays:0, gameWins:0, cardPageId:12344},{name:'Sugar, Sugar', subtitle:'The Archies', image:'/site/assets/files/12345/sugar_2c_sugar.300x300.jpg', copyright:'Calendar, Kirshner, RCA', plays:241, wins:159, gamePlays:0, gameWins:0, cardPageId:12345},{name:'Je t\'aime... moi non plus', subtitle:'Serge Gainsbourg &amp; Jane Birkin', image:'/site/assets/files/12346/gainsbourg_26_birkin_-_je_t_27aime.300x300.jpg', copyright:'Fontana', plays:147, wins:55, gamePlays:0, gameWins:0, cardPageId:12346},{name:'Fire', subtitle:'The Crazy World of Arthur Brown', image:'/site/assets/files/12347/arthurbrownfire.300x300.jpg', copyright:'Track', plays:168, wins:80, gamePlays:0, gameWins:0, cardPageId:12347},{name:'Echo Beach', subtitle:'Martha &amp; the Muffins', image:'/site/assets/files/12348/echo_beach_cover.300x300.jpg', copyright:'Dindisc', plays:172, wins:85, gamePlays:0, gameWins:0, cardPageId:12348},{name:'Mickey', subtitle:'Toni Basil', image:'/site/assets/files/12349/tonibasilmickey.300x300.jpg', copyright:'Chrysalis Radial Choice Virgin', plays:265, wins:180, gamePlays:0, gameWins:0, cardPageId:12349},{name:'Ring My Bell', subtitle:'Anita Ward', image:'/site/assets/files/12350/ringbell.300x300.jpg', copyright:'Juana Records', plays:219, wins:132, gamePlays:0, gameWins:0, cardPageId:12350},{name:'Drinking in L.A.', subtitle:'Bran Van 3000', image:'/site/assets/files/12351/bran-van-3000-drinking-in-la-161109.300x300.jpg', copyright:'Audiogram', plays:153, wins:62, gamePlays:0, gameWins:0, cardPageId:12351},]; gameArray=[{title:'Best One Hit Wonder', interrogative:'What is', possessive:' ', possessiveAlt:'', subject:'the Best Ever One Hit Wonder', summary:'What is  the Best Ever One Hit Wonder?'}]; pageId=12331;"></div></div>
+
+<div ng-controller="primomoController" class="page-wrap">
+
+<div class="fixednav">
+	<div class="row topbar-container">
+		<top-bar id="top-menu" class="top-bar top-menu" mobile-show-parent-link="true" is-hover="false">
+			<ul class="title-area">
+				<li class="name">
+					<h1><a href="/"><img class="primomo-logo" src="/site/templates/images/primomologotext.svg"><span></span></a></h1>
+				</li>
+				<li toggle-top-bar onclick="document.getElementById('top-search').classList.remove('expanded')" class="toggle-topbar toggle-topbar-main menu-icon"><a href=""><span></span></a></li>
+			</ul>
+			<top-bar-section ng-cloakx>
+				<ul class="right">
+					
+					
+<ul class="primenu">
+	<li>
+		<a href='/categories/entertainment/'>Entertainment</a>
+	</li>
+	<li>
+		<a href='/categories/sport/'>Sport</a>
+	</li>
+	<li>
+		<a href='/categories/lifestyle/'>Lifestyle</a>
+	</li>
+</ul>					
+					<li has-dropdown class="primenu-hasdropdown">
+						<a>More</a>
+						<ul top-bar-dropdown ng-cloak>
+							
+<ul class="more-menu">
+	<li>
+		<a href='/categories/entertainment/tv/'>TV</a>
+	</li>
+	<li>
+		<a href='/categories/lifestyle/people/'>People</a>
+	</li>
+	<li>
+		<a href='/categories/sport/football/'>Football</a>
+	</li>
+	<li>
+		<a href='/categories/lifestyle/food/'>Food</a>
+	</li>
+	<li>
+		<a href='/categories/entertainment/music/'>Music</a>
+	</li>
+	<li>
+		<a href='/categories/entertainment/movies/'>Movies</a>
+	</li>
+	<li>
+		<a href='/categories/'>All Categories</a>
+	</li>
+</ul>						</ul>
+					</li>
+					
+					<ul>
+						<li class="has-form search-form-medium-up">
+						    <div class="row collapse">
+						      <div class="large-12 small-12 columns">
+						        <form id="site-search-form" class="clearfix" action="/search/" method="get">
+									<input type="text" name="q" value="" placeholder="Search">
+								</form>
+						      </div>
+						    </div>
+						</li>
+					</ul>
+					
+				</ul>
+			</top-bar-section>
+		</top-bar>
+		
+		<top-bar id="top-search" class="top-bar top-search show-for-small-only" data-topbar="" style="height: 45px">
+			<ul class="title-area">
+				<li class="name"></li>
+				<li toggle-top-bar onclick="document.getElementById('top-menu').classList.remove('expanded')" class="toggle-topbar toggle-topbar-search menu-icon"><a href=""><span></span></a></li>
+			</ul>
+			<top-bar-section ng-cloak>
+				<ul>
+				  <li class="has-form search-form-small-only">
+				    <div class="row collapse">
+				      <div class="large-12 small-12 columns">
+				        <form id="site-search-form" class="clearfix" action="/search/" method="get">
+							<input type="text" name="q" value="" placeholder="Search">
+						</form>
+				      </div>
+				    </div>
+				  </li>
+				</ul>
+			</top-bar-section>
+		</top-bar>
+	</div>
+</div>
+
+
+<div class="row-container ccolour_base main-header">
+	<div class="row">
+		<div class="column">
+			<h2 class="top-header">Best One Hit Wonder</h2>
+		</div>
+	</div>
+	</div>
+
+<div id="body-wrap">
+	<div class="row-container">
+	<div class="row list-grid-row" id="sectionid1">
+		<div class="column">
+			<h3 class="left section-header">Related Lists</a></h3>
+				
+		</div>
+		
+		
+			<div class="column list-grid">
+				<div equalizer class="row">
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-13423'>
+
+	<a href='/list/best-blondie-song/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/13423/blondie1977.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Blondie Song</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-12476'>
+
+	<a href='/list/best-thundercats-character/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/12476/thunder_cats_screen.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Thundercats Character</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-12067'>
+
+	<a href='/list/favourite-oasis-song/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/12067/morning_glory_28oasis_single_29.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Favourite Oasis Song</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-12025'>
+
+	<a href='/list/favourite-take-that-song/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/12025/back_for_good_cover.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Favourite Take That Song</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_lifestyle_standard catcolorstyle_standard' id='list-11923'>
+
+	<a href='/list/favourite-childhood-party-foods/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/11923/img_7848.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Favourite Childhood Party Foods</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-11902'>
+
+	<a href='/list/best-prince-song/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/11902/prince_at_coachella.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Prince Song</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-11821'>
+
+	<a href='/list/best-david-bowie-song/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/11821/david-bowie_chicago_2002-08-08_photoby_adam-bielawski-cropped.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best David Bowie Song</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-11557'>
+
+	<a href='/list/best-90s-cartoon/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/11557/pinky_and_the_brain_vol1.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best 90s Cartoon</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-11535'>
+
+	<a href='/list/best-80s-cartoon/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/11535/muppetbabiestitle.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best 80s Cartoon</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_lifestyle_standard catcolorstyle_standard' id='list-11470'>
+
+	<a href='/list/best-10p-crisps/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/11470/1416783226001.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best 10p Crisps</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-11449'>
+
+	<a href='/list/best-abba-song/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/11449/abba_-_toppop_1974_5.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best ABBA Song</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_lifestyle_standard catcolorstyle_standard' id='list-11232'>
+
+	<a href='/list/best-ice-creams/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/11232/ice-lollies.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Ice Cream/Lolly</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-11190'>
+
+	<a href='/list/best-beatles-song/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/11190/beatles_ad_1965_just_the_beatles_crop.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Beatles Song</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_lifestyle_standard catcolorstyle_standard' id='list-11043'>
+
+	<a href='/list/packed-lunch-biscuit/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/11043/188630_1.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Favourite Packed Lunch Biscuit</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_lifestyle_standard catcolorstyle_standard' id='list-11022'>
+
+	<a href='/list/favourite-childhood-foods/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/11022/9aa1e2f1-ce75-eade-6b9c1a7e9c64ecb7.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Favourite Childhood Food</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_lifestyle_standard catcolorstyle_standard' id='list-10999'>
+
+	<a href='/list/favourite-90s-sweet/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/10999/91ulwt_2bmcrl__sl1500.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Favourite 90s Sweet</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-10837'>
+
+	<a href='/list/greatest-the-smiths-song/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/10837/smithspromophoto_tqid_1985.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest The Smiths Song</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-9586'>
+
+	<a href='/list/your-favourite-gladiator/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/9586/53e4df8a483b8-gladiators_l_m.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Your Favourite Gladiator</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-5666'>
+
+	<a href='/list/best-leonardo-dicaprio/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/5666/leonardo_dicaprio_2014.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Leonardo DiCaprio Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-5274'>
+
+	<a href='/list/best-teenage-mutant-ninja-turtles/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/5274/tmnt03tvlogo.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Teenage Mutant Ninja Turtles Character</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-4916'>
+
+	<a href='/list/best-transformers-characters/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/4916/autobot_small.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Transformers Characters</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-3224'>
+
+	<a href='/list/best-musical-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/3224/liza_minnelli_cabaret_1972_crop.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Musical Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-2687'>
+
+	<a href='/list/best-bill-murray-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/2687/best-bill-murray-movie-mvkr8jk2.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Bill Murray Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-2440'>
+
+	<a href='/list/best-james-cameron-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/2440/best-james-cameron-movie-ee5ppwu8.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best James Cameron Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+									</div>
+			</div>	
+						<div class="column"><div class='pagination-centered'><ul class='pagination'><li class='MarkupPagerNavPrevious MarkupPagerNavFirst'><a href='/list/best-one-hit-wonder/'><span><<</span></a></li><li class='MarkupPagerNavFirstNum'><a href='/list/best-one-hit-wonder/'><span>1</span></a></li><li class='current'><a href='/list/best-one-hit-wonder/page2'><span>2</span></a></li><li class='MarkupPagerNavLastNum'><a href='/list/best-one-hit-wonder/page3'><span>3</span></a></li><li class='MarkupPagerNavNext MarkupPagerNavLast'><a href='/list/best-one-hit-wonder/page3'><span>>></span></a></li></ul></div></div>	</div>
+</div></div>
+
+</div> <!--ng-controller-->
+<footer class="ccolour_base">
+
+<div class="row">
+	<div class="medium-4 medium-push-8 columns">
+		<ul class="footer-social">
+			<li>
+				<a href="" class="xxx" style="opacity: 0 !important"></a>
+			</li>
+			<li>
+				<a href="" class="xxx" style="opacity: 0 !important"></a>
+			</li>
+			<!-- <li><a href="/about" class="mail"></a></li> -->
+		</ul>
+	</div>
+	<div class="medium-8 medium-pull-4 columns">		
+	</div>
+</div>
+
+</footer>
+<script>
+flowtype(document.body.querySelector('#stack-container'), {
+   minimum   : 0,
+   maximum   : 600,
+   minFont   : 1,
+   maxFont   : 50,
+   fontRatio : 14,
+   lineRatio : 1.45
+});	
+flowtype(document.body.querySelector('#gamemessage-container'), {
+   minimum   : 0,
+   maximum   : 600,
+   minFont   : 1,
+   maxFont   : 50,
+   fontRatio : 14,
+   lineRatio : 1.45
+});	
+</script>
+</body>
+</html>

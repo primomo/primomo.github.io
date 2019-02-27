@@ -1,0 +1,702 @@
+<!DOCTYPE html>
+<!--[if IE 9]><html class="lt-ie10" lang="en" > <![endif]-->
+<html class="no-js" lang="en" itemscope itemtype="http://schema.org/ItemList">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+	<style type="text/css">@charset "UTF-8";[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {display: none !important;}</style>	
+	<link rel="canonical" href="">
+	
+		
+	
+	<!-- Meta -->
+	<title>Best Teen Movie - Primomo</title>
+	<meta name="description" content="What is best Teen Movie Ever? Superbad? Clueless? Mean Girls? 10 Things I Hate About You? The Breakfast Club? American Pie? Juno? The Princess Diaries? Grease? Ferris Bueller's Day Off? Bring It On? Sixteen Candles? Dazed and Confused? Cruel Intentions? Heathers? Easy A? Weird Science? Back to the Future? The Goonies? She's the Man? " />
+	<!-- Schema -->
+	<meta itemprop="name" content="Best Teen Movie">
+	<meta itemprop="description" content="What is best Teen Movie Ever? Superbad? Clueless? Mean Girls? 10 Things I Hate About You? The Breakfast Club? American Pie? Juno? The Princess Diaries? Grease? Ferris Bueller's Day Off? Bring It On? Sixteen Candles? Dazed and Confused? Cruel Intentions? Heathers? Easy A? Weird Science? Back to the Future? The Goonies? She's the Man? "> 
+	<meta itemprop="image" content=""> 
+	 <meta itemprop="itemListOrder" content="Descending" /> 	<!-- Twitter -->
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:site" content="@playprimomo">
+	<meta name="twitter:title" content="Best Teen Movie">
+	<meta name="twitter:description" content="What is best Teen Movie Ever? Superbad? Clueless? Mean Girls? 10 Things I Hate About You? The Breakfast Club? American Pie? Juno? The Princess Diaries? Grease? Ferris Bueller's Day Off? Bring It On? Sixteen Candles? Dazed and Confused? Cruel Intentions? Heathers? Easy A? Weird Science? Back to the Future? The Goonies? She's the Man? "> 
+	<meta name="twitter:creator" content="@playprimomo">
+	<meta name="twitter:image:src" content=""> 
+	<!-- Open Graph -->
+	<meta property="og:title" content="Best Teen Movie" />
+	<meta property="og:type" content="article" /> 
+	<meta property="og:url" content="" /> 
+	<meta property="og:image" content=""> 
+	<meta property="og:image:width" content="500"> 
+	<meta property="og:image:height" content="300"> 
+	<meta property="og:description" content="What is best Teen Movie Ever? Superbad? Clueless? Mean Girls? 10 Things I Hate About You? The Breakfast Club? American Pie? Juno? The Princess Diaries? Grease? Ferris Bueller's Day Off? Bring It On? Sixteen Candles? Dazed and Confused? Cruel Intentions? Heathers? Easy A? Weird Science? Back to the Future? The Goonies? She's the Man? " /> 
+	<meta property="og:site_name" content="Primomo" />
+	<meta property="article:section" content="Movies" />  
+	<meta property="article:tag" content="John Hughes, Alicia Silverstone, Paul Rudd, Jane Austen, Seth Rogen, Michael Cera, Lindsay Lohan, Rachel McAdams, Tina Fey, Heath Ledger, Julia Stiles, William Shakespeare, Emilio Estevez, Molly Ringwald, Brat Pack, Paul Weitz, Chris Weitz, Jason Biggs, Alyson Hannigan, Tara Reid, Seann William Scott, Ellen Page, Jennifer Garner, Julie Andrews, Anne Hathaway, Disney, John Travolta, Olivia Newton-John, Matthew Broderick, Kirsten Dunst, Matthew McConaughey, Ben Affleck, Sarah Michelle Gellar, Reese Witherspoon, Winona Ryder, Christian Slater, Emma Stone, Lisa Kudrow, Kelly LeBrock, Michael J. Fox, Corey Feldman, Amanda Bynes, Channing Tatum" />  
+	<meta property="fb:admins" content="690322552, 598310032" />	
+
+	<link rel="stylesheet" href="/site/templates/components/normalize/normalize.min.css" />
+	<link rel="stylesheet" href="/site/templates/components/foundation/foundation.min.css" />
+	<link rel="stylesheet" href="/site/templates/components/animate-scss/animate.min.css" />
+
+	<script src="/site/templates/components/angular/angular.min.js"></script>
+	<script src="/site/templates/components/angular/angular-touch.min.js"></script>
+	<script src="/site/templates/components/angular-foundation/mm-foundation-tpls-0.8.0.min.js"></script>
+	<script src="/site/templates/components/modernizr.js"></script>
+	<script src="/site/templates/components/fastclick.js"></script>
+	
+	<script src="/site/templates/components/ng-FitText.js"></script>
+	<script src="/site/templates/components/flowtype.min.js"></script>
+	<script src="/site/templates/scripts/angular-swing.min.js"></script>
+	<script src="/site/templates/scripts/angular-equalizer.min.js"></script>
+	<script src="/site/templates/scripts/primomo.min.js"></script>
+	
+	<link rel="stylesheet" href="/site/templates/styles/primomo.min.css?" />
+	
+	<style class="game-colour">
+/* ccolour_base - base */
+.ccolour_base { background: #B03232}
+.ccolour_base-border { border-color: #B03232}
+.ccolour_base-text { color: #B03232}
+/* ccolour_d1 - darker 1 */
+.ccolour_d1 { background: #a02d2d}
+.ccolour_d1-border { border-color: #a02d2d}
+.ccolour_d1-text { color: #a02d2d}
+/* ccolour_d2 - darker 2 */
+.ccolour_d2 { background: #902929}
+.ccolour_d2-border { border-color: #902929}
+.ccolour_d2-text { color: #902929}
+/* ccolour_d3 - darker 3 */
+.ccolour_d3 { background: #802424}
+.ccolour_d3-border { border-color: #802424}
+.ccolour_d3-text { color: #802424}
+/* ccolour_l1 - lighter 1 */
+.ccolour_l1, {background: #c73a3a}
+.ccolour_l1-border { border-color: #c73a3a}
+.ccolour_l1-text { color: #c73a3a}
+/* Colour Styles */
+body, #viewport, .page-wrap:before {
+	background: #B03232	}
+.top-bar-section ul li, .top-bar-section li:not(.has-form) a:not(.button), .top-bar-section .has-form {
+	background: none;
+	}
+.top-bar-section li:not(.has-form) a:not(.button):hover, .top-bar-section ul li:hover:not(.has-form) > a, .top-bar-section .dropdown li:not(.has-form):not(.active) > a:not(.button) {
+	background: #902929	}
+html.touch .top-bar-section li.has-dropdown a:hover {
+	background:none;
+	}
+html.touch .top-bar-section li.has-dropdown.not-click a:hover {
+	background:#902929;
+	}
+.top-bar-section .dropdown li:not(.has-form):not(.active):hover > a:not(.button) {
+	background: #802424	}
+.top-bar, .fixednav, .top-bar .title-area, .top-bar.expanded .title-area {
+	background: #a02d2d	}	
+.top-bar input[type="text"] {
+	border-color: #a02d2d	}
+.accordian-percent {
+	background: #902929	}
+.results-header h3 {
+    color: #902929	}
+.sidebar-tags h4, .sidebar-cats h4 {
+    color: #902929	}	
+h3.section-header, h3.section-header a  {
+    color: #802424	}	
+h3.section-header a:hover  {
+    color: #902929	}		
+/* Medium and Up Only */	
+@media only screen and (min-width: 720px) {
+	.top-bar-section li.active:not(.has-form) a:not(.button) {
+		background: #a02d2d		}
+	.top-bar-section li.active:not(.has-form) a:not(.button):hover {
+		background: #902929		}
+	.top-bar-section .dropdown li.active:not(.has-form) a:not(.button) {
+		background: #902929		}
+	.top-bar-section .dropdown li.active:not(.has-form) a:not(.button):hover {
+		background: #802424		}		
+	}
+/* Small Only */	
+@media only screen and (max-width: 719px) {
+	.top-bar-section ul li, .top-bar-section .has-form {
+		background: #902929		}
+	.top-bar-section li:not(.has-form) a:not(.button):hover, .top-bar-section ul li:hover:not(.has-form) > a {
+		background: #802424		}
+	}
+</style>
+<style class="cat-colours">
+.catcolour_sport_standard{background:#1FA464;}.catcolour_sport_inverted *{color:#1FA464 !important;}.catcolour_entertainment_standard{background:#B03232;}.catcolour_entertainment_inverted *{color:#B03232 !important;}.catcolour_lifestyle_standard{background:#9B2C6F;}.catcolour_lifestyle_inverted *{color:#9B2C6F !important;}	
+</style>	<link href='https://fonts.googleapis.com/css?family=Comfortaa:300,400,700' rel='stylesheet' type='text/css'>
+	</head>	
+<body class='template-list'
+ng-app="primomoApp">
+
+<div><div ng-init="deckArray=[{name:'Superbad', subtitle:'', image:'/site/assets/files/3042/superbad-s1oic9wu.300x300.jpg', copyright:'This is a poster for Superbad.
+The poster art copyright is believed to belong to the distributor of the film, Columbia Pictures, the publisher, Apatow Productions, or the graphic artist.', plays:71, wins:28, gamePlays:0, gameWins:0, cardPageId:3042},{name:'Clueless', subtitle:'', image:'/site/assets/files/3176/clueless.300x300.jpg', copyright:'Copyright owned by either the publisher or the creator.', plays:102, wins:59, gamePlays:0, gameWins:0, cardPageId:3176},{name:'Mean Girls', subtitle:'', image:'/site/assets/files/3177/mean_girls_movie.300x300.jpg', copyright:'Copyright owned by either the publisher or the creator.', plays:153, wins:119, gamePlays:0, gameWins:0, cardPageId:3177},{name:'10 Things I Hate About You', subtitle:'', image:'/site/assets/files/3178/10_things_i_hate_about_you_film.300x300.jpg', copyright:'Copyright owned by either the publisher or the creator.', plays:91, wins:50, gamePlays:0, gameWins:0, cardPageId:3178},{name:'The Breakfast Club', subtitle:'', image:'/site/assets/files/3179/the_breakfast_club.300x300.jpg', copyright:'The poster art copyright is believed to belong to the distributor of the film, Universal Studios, the publisher of the film or the graphic artist.', plays:78, wins:36, gamePlays:0, gameWins:0, cardPageId:3179},{name:'American Pie', subtitle:'', image:'/site/assets/files/3180/american_pie1.300x300.jpg', copyright:'Copyright owned by either the publisher or the creator.', plays:97, wins:55, gamePlays:0, gameWins:0, cardPageId:3180},{name:'Juno', subtitle:'', image:'/site/assets/files/3195/junoposter2007.300x300.jpg', copyright:'Copyright owned by either the publisher or the creator.', plays:72, wins:29, gamePlays:0, gameWins:0, cardPageId:3195},{name:'The Princess Diaries', subtitle:'', image:'/site/assets/files/3196/princess_diaries_ver1.300x300.jpg', copyright:'Copyright owned by either the publisher or the creator.', plays:111, wins:73, gamePlays:0, gameWins:0, cardPageId:3196},{name:'Grease', subtitle:'', image:'/site/assets/files/3197/grease_ver2.300x300.jpg', copyright:'Copyright owned by either the publisher or the creator.', plays:131, wins:96, gamePlays:0, gameWins:0, cardPageId:3197},{name:'Ferris Bueller\'s Day Off', subtitle:'', image:'/site/assets/files/3198/ferris_bueller_27s_day_off.300x300.jpg', copyright:'copyright is believed to belong to the distributor of the film, Paramount Pictures, the publisher of the film or the graphic artist.', plays:81, wins:37, gamePlays:0, gameWins:0, cardPageId:3198},{name:'Bring It On', subtitle:'', image:'/site/assets/files/3199/bringitonmovieposter.300x300.jpg', copyright:'Copyright owned by either the publisher or the creator.', plays:79, wins:35, gamePlays:0, gameWins:0, cardPageId:3199},{name:'Sixteen Candles', subtitle:'', image:'/site/assets/files/3200/sixteen_candles.300x300.jpg', copyright:'Copyright owned by either the publisher or the creator.', plays:62, wins:18, gamePlays:0, gameWins:0, cardPageId:3200},{name:'Dazed and Confused', subtitle:'', image:'/site/assets/files/3201/dazedconfused.300x300.jpg', copyright:'The poster art copyright is believed to belong to Universal Pictures.', plays:54, wins:10, gamePlays:0, gameWins:0, cardPageId:3201},{name:'Cruel Intentions', subtitle:'', image:'/site/assets/files/3202/cruel_intentions_ver1.300x300.jpg', copyright:'Copyright 1999, Columbia Pictures', plays:75, wins:33, gamePlays:0, gameWins:0, cardPageId:3202},{name:'Heathers', subtitle:'', image:'/site/assets/files/3203/heathersposter89.300x300.jpg', copyright:'Copyright © 1989 by New World Pictures. All Rights Reserved.', plays:80, wins:37, gamePlays:0, gameWins:0, cardPageId:3203},{name:'Easy A', subtitle:'', image:'/site/assets/files/3204/easy_a_australian.300x300.jpg', copyright:'Copyright owned by either the publisher or the creator.', plays:85, wins:41, gamePlays:0, gameWins:0, cardPageId:3204},{name:'Weird Science', subtitle:'', image:'/site/assets/files/3205/movie_poster_for_weird_science_281985_29.300x300.jpg', copyright:'Copyright owned by either the publisher or the creator.', plays:54, wins:11, gamePlays:0, gameWins:0, cardPageId:3205},{name:'Back to the Future', subtitle:'', image:'/site/assets/files/3206/back_to_the_future.300x300.jpg', copyright:'Copyright owned by either the publisher or the creator.', plays:73, wins:29, gamePlays:0, gameWins:0, cardPageId:3206},{name:'The Goonies', subtitle:'', image:'/site/assets/files/3207/the_goonies.300x300.jpg', copyright:'Copyright owned by either the publisher or the creator.', plays:64, wins:23, gamePlays:0, gameWins:0, cardPageId:3207},{name:'Get Over It', subtitle:'', image:'/site/assets/files/4721/get_over_it_poster.300x300.jpg', copyright:'The poster art copyright is believed to belong to the distributor of the film, Miramax Films, the publisher of the film or the graphic artist.', plays:67, wins:24, gamePlays:0, gameWins:0, cardPageId:4721},{name:'She\'s the Man', subtitle:'', image:'/site/assets/files/3208/she_27s_the_man_poster.300x300.jpg', copyright:'Copyright owned by either the publisher or the creator.', plays:80, wins:37, gamePlays:0, gameWins:0, cardPageId:3208},]; gameArray=[{title:'Best Teen Movie', interrogative:'What is', possessive:' ', possessiveAlt:'', subject:'the Best Teen Movie', summary:'What is best Teen Movie Ever?'}]; pageId=3041;"></div></div>
+
+<div ng-controller="primomoController" class="page-wrap">
+
+<div class="fixednav">
+	<div class="row topbar-container">
+		<top-bar id="top-menu" class="top-bar top-menu" mobile-show-parent-link="true" is-hover="false">
+			<ul class="title-area">
+				<li class="name">
+					<h1><a href="/"><img class="primomo-logo" src="/site/templates/images/primomologotext.svg"><span></span></a></h1>
+				</li>
+				<li toggle-top-bar onclick="document.getElementById('top-search').classList.remove('expanded')" class="toggle-topbar toggle-topbar-main menu-icon"><a href=""><span></span></a></li>
+			</ul>
+			<top-bar-section ng-cloakx>
+				<ul class="right">
+					
+					
+<ul class="primenu">
+	<li>
+		<a href='/categories/entertainment/'>Entertainment</a>
+	</li>
+	<li>
+		<a href='/categories/sport/'>Sport</a>
+	</li>
+	<li>
+		<a href='/categories/lifestyle/'>Lifestyle</a>
+	</li>
+</ul>					
+					<li has-dropdown class="primenu-hasdropdown">
+						<a>More</a>
+						<ul top-bar-dropdown ng-cloak>
+							
+<ul class="more-menu">
+	<li>
+		<a href='/categories/entertainment/tv/'>TV</a>
+	</li>
+	<li>
+		<a href='/categories/lifestyle/people/'>People</a>
+	</li>
+	<li>
+		<a href='/categories/sport/football/'>Football</a>
+	</li>
+	<li>
+		<a href='/categories/lifestyle/food/'>Food</a>
+	</li>
+	<li>
+		<a href='/categories/entertainment/music/'>Music</a>
+	</li>
+	<li>
+		<a href='/categories/entertainment/movies/'>Movies</a>
+	</li>
+	<li>
+		<a href='/categories/'>All Categories</a>
+	</li>
+</ul>						</ul>
+					</li>
+					
+					<ul>
+						<li class="has-form search-form-medium-up">
+						    <div class="row collapse">
+						      <div class="large-12 small-12 columns">
+						        <form id="site-search-form" class="clearfix" action="/search/" method="get">
+									<input type="text" name="q" value="" placeholder="Search">
+								</form>
+						      </div>
+						    </div>
+						</li>
+					</ul>
+					
+				</ul>
+			</top-bar-section>
+		</top-bar>
+		
+		<top-bar id="top-search" class="top-bar top-search show-for-small-only" data-topbar="" style="height: 45px">
+			<ul class="title-area">
+				<li class="name"></li>
+				<li toggle-top-bar onclick="document.getElementById('top-menu').classList.remove('expanded')" class="toggle-topbar toggle-topbar-search menu-icon"><a href=""><span></span></a></li>
+			</ul>
+			<top-bar-section ng-cloak>
+				<ul>
+				  <li class="has-form search-form-small-only">
+				    <div class="row collapse">
+				      <div class="large-12 small-12 columns">
+				        <form id="site-search-form" class="clearfix" action="/search/" method="get">
+							<input type="text" name="q" value="" placeholder="Search">
+						</form>
+				      </div>
+				    </div>
+				  </li>
+				</ul>
+			</top-bar-section>
+		</top-bar>
+	</div>
+</div>
+
+
+<div class="row-container ccolour_base main-header">
+	<div class="row">
+		<div class="column">
+			<h2 class="top-header">Best Teen Movie</h2>
+		</div>
+	</div>
+	</div>
+
+<div id="body-wrap">
+	<div class="row-container">
+	<div class="row list-grid-row" id="sectionid1">
+		<div class="column">
+			<h3 class="left section-header">Related Lists</a></h3>
+				
+		</div>
+		
+		
+			<div class="column list-grid">
+				<div equalizer class="row">
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-8712'>
+
+	<a href='/list/best-christian-bale-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/8712/christian_bale_2014_28cropped_29.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Christian Bale Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-8688'>
+
+	<a href='/list/best-hbo-show-of-all-time/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/8688/fb-hbo-480x320.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best HBO Show of All Time</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_sport_standard catcolorstyle_standard' id='list-8566'>
+
+	<a href='/list/greatest-san-francisco-49ers-player/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/8566/1280px-49ers_logo_svg.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest San Francisco 49ers Player</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_sport_standard catcolorstyle_standard' id='list-8524'>
+
+	<a href='/list/greatest-arizona-cardinals-player/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/8524/1280px-arizona_cardinals_logo_svg.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest Arizona Cardinals Player</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_sport_standard catcolorstyle_standard' id='list-8503'>
+
+	<a href='/list/greatest-tampa-bay-buccaneers-player/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/8503/tampa_bay_buccaneers_2014.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest Tampa Bay Buccaneers Player</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_sport_standard catcolorstyle_standard' id='list-8421'>
+
+	<a href='/list/greatest-minnesota-vikings-player/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/8421/minnesota_vikings_logo_2013.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest Minnesota Vikings Player</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_sport_standard catcolorstyle_standard' id='list-8338'>
+
+	<a href='/list/greatest-washington-redskins-player/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/8338/943px-washington_redskins_logo_svg.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest Washington Redskins Player</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_sport_standard catcolorstyle_standard' id='list-8258'>
+
+	<a href='/list/greatest-san-diego-chargers-player/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/8258/1280px-san_diego_chargers_logo_svg.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest San Diego Chargers Player</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_sport_standard catcolorstyle_standard' id='list-8218'>
+
+	<a href='/list/greatest-kansas-city-chiefs/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/8218/1280px-kansas_city_chiefs_logo_svg.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest Kansas City Chiefs Player</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_sport_standard catcolorstyle_standard' id='list-8112'>
+
+	<a href='/list/greatest-houston-texans-player/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/8112/1121px-houston_texans_logo_svg.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest Houston Texans Player</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-7921'>
+
+	<a href='/list/best-adam-sandler-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/7921/adam_sandler_2011_28cropped_29.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Adam Sandler Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-7890'>
+
+	<a href='/list/best-ben-affleck/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/7890/ben_affleck_by_gage_skidmore.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Ben Affleck Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-7863'>
+
+	<a href='/list/best-matt-damon-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/7863/damon_cropped.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Matt Damon Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-7832'>
+
+	<a href='/list/best-bradley-cooper-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/7832/bradley_cooper_2009.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Bradley Cooper Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-7804'>
+
+	<a href='/list/best-tom-cruise-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/7804/tom_cruise_avp_2014_4.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Tom Cruise Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-7775'>
+
+	<a href='/list/best-tom-hanks-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/7775/tom_hanks_2014.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Tom Hanks Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-7749'>
+
+	<a href='/list/best-paul-rudd-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/7749/paul_rudd_28cropped_29_2.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Paul Rudd Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_sport_standard catcolorstyle_standard' id='list-7699'>
+
+	<a href='/list/greatest-washington-nationals-player/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/7699/1024px-washington_nationals_logo_svg.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest Washington Nationals Player</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_sport_standard catcolorstyle_standard' id='list-7582'>
+
+	<a href='/list/greatest-philadelphia-phillies-player/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/7582/1099px-philadelphia_phillies_svg.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest Philadelphia Phillies Player</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_sport_standard catcolorstyle_standard' id='list-7383'>
+
+	<a href='/list/greatest-arizona-diamondback/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/7383/1280px-arizona_diamondbacks_logo_svg.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest Arizona Diamondbacks</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_sport_standard catcolorstyle_standard' id='list-7286'>
+
+	<a href='/list/greatest-kansas-city-royal/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/7286/1024px-kansas_city_royals_svg.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest Kansas City Royal</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_sport_standard catcolorstyle_standard' id='list-7168'>
+
+	<a href='/list/greatest-houston-astros-player/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/7168/1024px-houston-astros-logo_svg.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest Houston Astros</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-6835'>
+
+	<a href='/list/best-marvel-character/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/6835/k8vebocw.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Marvel Character</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-6768'>
+
+	<a href='/list/best-movie-villain/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/6768/anthony_hopkins_as_hannibal_lecter_28screenshot_29.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Movie Villain</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+									</div>
+			</div>	
+						<div class="column"><div class='pagination-centered'><ul class='pagination'><li class='MarkupPagerNavPrevious MarkupPagerNavFirst'><a href='/list/teen-movie/page2'><span><<</span></a></li><li class='MarkupPagerNavFirstNum'><a href='/list/teen-movie/'><span>1</span></a></li><li><a href='/list/teen-movie/page2'><span>2</span></a></li><li class='current'><a href='/list/teen-movie/page3'><span>3</span></a></li><li><a href='/list/teen-movie/page4'><span>4</span></a></li><li class='MarkupPagerNavLastNum'><a href='/list/teen-movie/page5'><span>5</span></a></li><li class='MarkupPagerNavNext MarkupPagerNavLast'><a href='/list/teen-movie/page4'><span>>></span></a></li></ul></div></div>	</div>
+</div></div>
+
+</div> <!--ng-controller-->
+<footer class="ccolour_base">
+
+<div class="row">
+	<div class="medium-4 medium-push-8 columns">
+		<ul class="footer-social">
+			<li>
+				<a href="" class="xxx" style="opacity: 0 !important"></a>
+			</li>
+			<li>
+				<a href="" class="xxx" style="opacity: 0 !important"></a>
+			</li>
+			<!-- <li><a href="/about" class="mail"></a></li> -->
+		</ul>
+	</div>
+	<div class="medium-8 medium-pull-4 columns">		
+	</div>
+</div>
+
+</footer>
+<script>
+flowtype(document.body.querySelector('#stack-container'), {
+   minimum   : 0,
+   maximum   : 600,
+   minFont   : 1,
+   maxFont   : 50,
+   fontRatio : 14,
+   lineRatio : 1.45
+});	
+flowtype(document.body.querySelector('#gamemessage-container'), {
+   minimum   : 0,
+   maximum   : 600,
+   minFont   : 1,
+   maxFont   : 50,
+   fontRatio : 14,
+   lineRatio : 1.45
+});	
+</script>
+</body>
+</html>

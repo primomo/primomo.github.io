@@ -1,0 +1,155 @@
+.column {
+    display: table;
+}
+
+.column.list-item {
+    padding-bottom: 0.5rem;
+    padding-top: 0.5rem;
+}
+
+.list {
+    border-bottom-left-radius: 0.4rem;
+    border-top-right-radius: 0.4rem;
+    box-shadow: 0px 0px 4px 0px rgba(0,0,0,0.06),0px 0px 8px 0px rgba(0,0,0,0.05);
+    display: table-cell;
+    overflow: hidden;
+}
+
+.list a {
+    display: block;
+    height: 100%;
+}
+
+.list-grid-row {
+    padding: 1rem 0rem 0rem !important;
+}
+
+.list-image-holder {
+    background: white;
+    height: 0px !important;
+    padding-bottom: 59.95%;
+    position: relative;
+}
+
+.list-image-holder img {
+    position: relative;
+    width: 100%;
+}
+
+.list-item .list:hover {
+    opacity: 0.9;
+}
+
+.list.catcolorstyle_inverted a h2, .list.catcolorstyle_inverted {
+    background: white;
+}
+
+.list.catcolorstyle_standard a h2 {
+    color: white;
+}
+
+.main-header .list {
+    background: white;
+}
+
+.main-header .list .list-headline {
+    color: #6F6F6F;
+}
+
+.main-header .list-grid-row {
+    padding: 0rem 0rem 0.7rem !important;
+    top: -0.2em;
+}
+
+.row .row {
+    height: inherit !important;
+}
+
+.list-item-row .column {
+    margin-bottom: 0;
+    max-width: 1000px;
+}
+
+.list .list-headline {
+    line-height: 1.25em;
+    margin: 0;
+    padding: 0.65em 0.7em;
+    width: 100%;
+    overflow-wrap: break-word;
+    word-break: break-word;
+    word-wrap: break-word;
+    letter-spacing: 0.07em;
+}
+
+.main-header .section-header {
+    display: none;
+}
+
+h3.section-header {
+    margin-bottom: 0;
+}
+
+.list-grid>.row .column+.column:last-child, .list-grid>.row .columns+.column:last-child, .list-grid>.row .column+.columns:last-child, .list-grid>.row .columns+.columns:last-child {
+    float: left;
+}
+
+//GRID FONT SIZE - OVER MAX WIDTH
+@media only screen and (min-width: $row-width + rem-calc(64) + rem-calc(1)) { 
+.list .list-headline.headline-1 {
+    font-size: 22.5px;
+}
+.list .list-headline.headline-2 {
+    font-size: 19.5px;
+}
+.list .list-headline.headline-3 {
+    font-size: 16.5px;
+}
+}
+//GRID FONT SIZE - UNDER MAX WIDTH
+@media only screen and (max-width: $row-width + rem-calc(64)) { 
+.list .list-headline.headline-1 {
+    font-size: 1.67vw;
+}
+.list .list-headline.headline-2 {
+    font-size: 1.45vw;
+}
+.list .list-headline.headline-3 {
+    font-size: 1.23vw;
+}
+}
+//GRID FONT SIZE - SMALL BREAKPOINT
+@media only screen and (max-width: $small-breakpoint) { 
+.list .list-headline.headline-1.headline-first {
+    font-size: 22.5px;
+}
+.list .list-headline.headline-1 {
+    font-size: 16.5px;
+}
+.list .list-headline.headline-2 {
+    font-size: 16.5px;
+}
+.list .list-headline.headline-3 {
+    font-size: 16.5px;
+}
+}
+//GRID FONT SIZE + CAT/HOME HEADER - SMALLER SMALL PHONES
+@media only screen and (max-width: rem-calc(425)) { 
+.list .list-headline.headline-1.headline-first {
+    font-size: 5.3vw;
+}
+.list .list-headline.headline-1 {
+    font-size: 3.9vw;
+}
+.list .list-headline.headline-2 {
+    font-size: 3.9vw;
+}
+.list .list-headline.headline-3 {
+    font-size: 3.9vw;
+}
+.main-header h2.top-header {
+    font-size: 6.3vw;
+}
+h3.section-header {
+	font-size: 5.2vw;
+}
+}

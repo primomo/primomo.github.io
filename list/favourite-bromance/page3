@@ -1,0 +1,701 @@
+<!DOCTYPE html>
+<!--[if IE 9]><html class="lt-ie10" lang="en" > <![endif]-->
+<html class="no-js" lang="en" itemscope itemtype="http://schema.org/ItemList">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+	<style type="text/css">@charset "UTF-8";[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {display: none !important;}</style>	
+	<link rel="canonical" href="">
+	
+		
+	
+	<!-- Meta -->
+	<title>Favourite Bromance - Primomo</title>
+	<meta name="description" content="Who has Your Favourite Bromance? Brian O'Conner & Dominic Toretto? Turk & JD? Spock & Kirk? Woody & Buzz? Chandler & Joey? Troy & Abed? Brian & Stewie? Bert & Ernie? Paul Newman & Robert Redford? Matt Damon & Ben Affleck? Gregory House & James Wilson? Sherlock Holmes & Dr. Watson? Cory Matthews & Shawn Hunter? Frank Sinatra & Dean Martin? George Clooney & Brad Pitt? Ian McKellen & Patrick Stewart? " />
+	<!-- Schema -->
+	<meta itemprop="name" content="Favourite Bromance">
+	<meta itemprop="description" content="Who has Your Favourite Bromance? Brian O'Conner & Dominic Toretto? Turk & JD? Spock & Kirk? Woody & Buzz? Chandler & Joey? Troy & Abed? Brian & Stewie? Bert & Ernie? Paul Newman & Robert Redford? Matt Damon & Ben Affleck? Gregory House & James Wilson? Sherlock Holmes & Dr. Watson? Cory Matthews & Shawn Hunter? Frank Sinatra & Dean Martin? George Clooney & Brad Pitt? Ian McKellen & Patrick Stewart? "> 
+	<meta itemprop="image" content=""> 
+	 <meta itemprop="itemListOrder" content="Descending" /> 	<!-- Twitter -->
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:site" content="@playprimomo">
+	<meta name="twitter:title" content="Favourite Bromance">
+	<meta name="twitter:description" content="Who has Your Favourite Bromance? Brian O'Conner & Dominic Toretto? Turk & JD? Spock & Kirk? Woody & Buzz? Chandler & Joey? Troy & Abed? Brian & Stewie? Bert & Ernie? Paul Newman & Robert Redford? Matt Damon & Ben Affleck? Gregory House & James Wilson? Sherlock Holmes & Dr. Watson? Cory Matthews & Shawn Hunter? Frank Sinatra & Dean Martin? George Clooney & Brad Pitt? Ian McKellen & Patrick Stewart? "> 
+	<meta name="twitter:creator" content="@playprimomo">
+	<meta name="twitter:image:src" content=""> 
+	<!-- Open Graph -->
+	<meta property="og:title" content="Favourite Bromance" />
+	<meta property="og:type" content="article" /> 
+	<meta property="og:url" content="" /> 
+	<meta property="og:image" content=""> 
+	<meta property="og:image:width" content="500"> 
+	<meta property="og:image:height" content="300"> 
+	<meta property="og:description" content="Who has Your Favourite Bromance? Brian O'Conner & Dominic Toretto? Turk & JD? Spock & Kirk? Woody & Buzz? Chandler & Joey? Troy & Abed? Brian & Stewie? Bert & Ernie? Paul Newman & Robert Redford? Matt Damon & Ben Affleck? Gregory House & James Wilson? Sherlock Holmes & Dr. Watson? Cory Matthews & Shawn Hunter? Frank Sinatra & Dean Martin? George Clooney & Brad Pitt? Ian McKellen & Patrick Stewart? " /> 
+	<meta property="og:site_name" content="Primomo" />
+	<meta property="article:section" content="People" />  
+	<meta property="article:tag" content="Funny, The Fast and the Furious, Vin Diesel , Paul Walker , Zach Braff , Donald Faison , Star Trek , Leonard Nimoy , William Shatner , Pixar, Tom Hanks, Tim Allen , Disney, Matt LeBlanc , Matthew Perry , Donald Glover , Danny Pudi , Family Guy , Sesame Street, Paul Newman, Robert Redford , Matt Damon, Ben Affleck, Hugh Laurie , Benedict Cumberbatch , Martin Freeman , Frank Sinatra, Dean Martin , George Clooney, Brad Pitt, Ian McKellen, Patrick Stewart" />  
+	<meta property="fb:admins" content="690322552, 598310032" />	
+
+	<link rel="stylesheet" href="/site/templates/components/normalize/normalize.min.css" />
+	<link rel="stylesheet" href="/site/templates/components/foundation/foundation.min.css" />
+	<link rel="stylesheet" href="/site/templates/components/animate-scss/animate.min.css" />
+
+	<script src="/site/templates/components/angular/angular.min.js"></script>
+	<script src="/site/templates/components/angular/angular-touch.min.js"></script>
+	<script src="/site/templates/components/angular-foundation/mm-foundation-tpls-0.8.0.min.js"></script>
+	<script src="/site/templates/components/modernizr.js"></script>
+	<script src="/site/templates/components/fastclick.js"></script>
+	
+	<script src="/site/templates/components/ng-FitText.js"></script>
+	<script src="/site/templates/components/flowtype.min.js"></script>
+	<script src="/site/templates/scripts/angular-swing.min.js"></script>
+	<script src="/site/templates/scripts/angular-equalizer.min.js"></script>
+	<script src="/site/templates/scripts/primomo.min.js"></script>
+	
+	<link rel="stylesheet" href="/site/templates/styles/primomo.min.css?" />
+	
+	<style class="game-colour">
+/* ccolour_base - base */
+.ccolour_base { background: #9B2C6F}
+.ccolour_base-border { border-color: #9B2C6F}
+.ccolour_base-text { color: #9B2C6F}
+/* ccolour_d1 - darker 1 */
+.ccolour_d1 { background: #8b2764}
+.ccolour_d1-border { border-color: #8b2764}
+.ccolour_d1-text { color: #8b2764}
+/* ccolour_d2 - darker 2 */
+.ccolour_d2 { background: #7b2358}
+.ccolour_d2-border { border-color: #7b2358}
+.ccolour_d2-text { color: #7b2358}
+/* ccolour_d3 - darker 3 */
+.ccolour_d3 { background: #6b1e4d}
+.ccolour_d3-border { border-color: #6b1e4d}
+.ccolour_d3-text { color: #6b1e4d}
+/* ccolour_l1 - lighter 1 */
+.ccolour_l1, {background: #b33380}
+.ccolour_l1-border { border-color: #b33380}
+.ccolour_l1-text { color: #b33380}
+/* Colour Styles */
+body, #viewport, .page-wrap:before {
+	background: #9B2C6F	}
+.top-bar-section ul li, .top-bar-section li:not(.has-form) a:not(.button), .top-bar-section .has-form {
+	background: none;
+	}
+.top-bar-section li:not(.has-form) a:not(.button):hover, .top-bar-section ul li:hover:not(.has-form) > a, .top-bar-section .dropdown li:not(.has-form):not(.active) > a:not(.button) {
+	background: #7b2358	}
+html.touch .top-bar-section li.has-dropdown a:hover {
+	background:none;
+	}
+html.touch .top-bar-section li.has-dropdown.not-click a:hover {
+	background:#7b2358;
+	}
+.top-bar-section .dropdown li:not(.has-form):not(.active):hover > a:not(.button) {
+	background: #6b1e4d	}
+.top-bar, .fixednav, .top-bar .title-area, .top-bar.expanded .title-area {
+	background: #8b2764	}	
+.top-bar input[type="text"] {
+	border-color: #8b2764	}
+.accordian-percent {
+	background: #7b2358	}
+.results-header h3 {
+    color: #7b2358	}
+.sidebar-tags h4, .sidebar-cats h4 {
+    color: #7b2358	}	
+h3.section-header, h3.section-header a  {
+    color: #6b1e4d	}	
+h3.section-header a:hover  {
+    color: #7b2358	}		
+/* Medium and Up Only */	
+@media only screen and (min-width: 720px) {
+	.top-bar-section li.active:not(.has-form) a:not(.button) {
+		background: #8b2764		}
+	.top-bar-section li.active:not(.has-form) a:not(.button):hover {
+		background: #7b2358		}
+	.top-bar-section .dropdown li.active:not(.has-form) a:not(.button) {
+		background: #7b2358		}
+	.top-bar-section .dropdown li.active:not(.has-form) a:not(.button):hover {
+		background: #6b1e4d		}		
+	}
+/* Small Only */	
+@media only screen and (max-width: 719px) {
+	.top-bar-section ul li, .top-bar-section .has-form {
+		background: #7b2358		}
+	.top-bar-section li:not(.has-form) a:not(.button):hover, .top-bar-section ul li:hover:not(.has-form) > a {
+		background: #6b1e4d		}
+	}
+</style>
+<style class="cat-colours">
+.catcolour_sport_standard{background:#1FA464;}.catcolour_sport_inverted *{color:#1FA464 !important;}.catcolour_entertainment_standard{background:#B03232;}.catcolour_entertainment_inverted *{color:#B03232 !important;}.catcolour_lifestyle_standard{background:#9B2C6F;}.catcolour_lifestyle_inverted *{color:#9B2C6F !important;}	
+</style>	<link href='https://fonts.googleapis.com/css?family=Comfortaa:300,400,700' rel='stylesheet' type='text/css'>
+	</head>	
+<body class='template-list'
+ng-app="primomoApp">
+
+<div><div ng-init="deckArray=[{name:'Brian O\'Conner &amp; Dominic Toretto', subtitle:'', image:'/site/assets/files/11293/fast_five08.300x300.jpg', copyright:'Universal Pictures', plays:167, wins:103, gamePlays:0, gameWins:0, cardPageId:11293},{name:'Turk &amp; JD', subtitle:'', image:'/site/assets/files/11294/635724413889521176-733731050_picture-of-jd-and-turk-from-scrubs-photo-1.300x300.jpg', copyright:'Disney', plays:130, wins:60, gamePlays:0, gameWins:0, cardPageId:11294},{name:'Spock &amp; Kirk', subtitle:'', image:'/site/assets/files/11295/star-trek_-kirk_-spock-169698.300x300.jpg', copyright:'Desilu Productions', plays:114, wins:40, gamePlays:0, gameWins:0, cardPageId:11295},{name:'Woody &amp; Buzz', subtitle:'', image:'/site/assets/files/11296/toy-story-woody-and-buzz_1734717336.300x300.jpg', copyright:'Walt Disney Pictures Pixar Animation Studios', plays:177, wins:110, gamePlays:0, gameWins:0, cardPageId:11296},{name:'Chandler &amp; Joey', subtitle:'', image:'/site/assets/files/11297/e9c960a730f0857a88e89a82cec5f2de.300x300.jpg', copyright:'Warner Bros. Television', plays:183, wins:118, gamePlays:0, gameWins:0, cardPageId:11297},{name:'Troy &amp; Abed', subtitle:'', image:'/site/assets/files/11298/troy-and-abed-community.300x300.jpg', copyright:'Sony Pictures Television', plays:102, wins:32, gamePlays:0, gameWins:0, cardPageId:11298},{name:'Brian &amp; Stewie', subtitle:'', image:'/site/assets/files/11299/20025.300x300.jpg', copyright:'20th Television', plays:150, wins:79, gamePlays:0, gameWins:0, cardPageId:11299},{name:'Bert &amp; Ernie', subtitle:'', image:'/site/assets/files/11300/bert_and_ernie.300x300.jpg', copyright:'Children&amp;#039;s Television Workshop', plays:136, wins:64, gamePlays:0, gameWins:0, cardPageId:11300},{name:'Paul Newman &amp; Robert Redford', subtitle:'', image:'/site/assets/files/11301/robert-redford-and-paul-newman-in-butch-cassidy-and-the-sundance-kid-1969.300x300.jpg', copyright:'20th Century Fox', plays:134, wins:62, gamePlays:0, gameWins:0, cardPageId:11301},{name:'Matt Damon &amp; Ben Affleck', subtitle:'', image:'/site/assets/files/11302/gty_ben_affleck_matt_damon_jc_141121_16x9_992.300x300.jpg', copyright:'ABC', plays:149, wins:77, gamePlays:0, gameWins:0, cardPageId:11302},{name:'Gregory House &amp; James Wilson', subtitle:'', image:'/site/assets/files/11303/latest_cb_20140224161546.300x300.jpg', copyright:'Universal Television', plays:113, wins:38, gamePlays:0, gameWins:0, cardPageId:11303},{name:'Sherlock Holmes &amp; Dr. Watson', subtitle:'', image:'/site/assets/files/11304/sherlock-doctor-watson.300x300.jpg', copyright:'BBC', plays:140, wins:67, gamePlays:0, gameWins:0, cardPageId:11304},{name:'Cory Matthews &amp; Shawn Hunter', subtitle:'', image:'/site/assets/files/11305/bmws2-01.300x300.jpg', copyright:'Touchstone Television', plays:117, wins:44, gamePlays:0, gameWins:0, cardPageId:11305},{name:'Frank Sinatra &amp; Dean Martin', subtitle:'', image:'/site/assets/files/11306/dean_martin_frank_sinatra_dean_martin_show_1958.300x300.jpg', copyright:'By NBC Television (eBay item photo front photo back) [Public domain], via Wikimedia Commons', plays:111, wins:37, gamePlays:0, gameWins:0, cardPageId:11306},{name:'George Clooney &amp; Brad Pitt', subtitle:'', image:'/site/assets/files/11307/140430799rm096-the-american.300x300.jpg', copyright:'Fair use', plays:157, wins:85, gamePlays:0, gameWins:0, cardPageId:11307},{name:'Ian McKellen &amp; Patrick Stewart', subtitle:'', image:'/site/assets/files/11308/article-2595514-1cc5a14100000578-533_634x516.300x300.jpg', copyright:'Twitter', plays:170, wins:109, gamePlays:0, gameWins:0, cardPageId:11308},]; gameArray=[{title:'Favourite Bromance', interrogative:'Who has', possessive:'Your ', possessiveAlt:'My ', subject:'Favourite Bromance', summary:'Who has Your Favourite Bromance?'}]; pageId=11292;"></div></div>
+
+<div ng-controller="primomoController" class="page-wrap">
+
+<div class="fixednav">
+	<div class="row topbar-container">
+		<top-bar id="top-menu" class="top-bar top-menu" mobile-show-parent-link="true" is-hover="false">
+			<ul class="title-area">
+				<li class="name">
+					<h1><a href="/"><img class="primomo-logo" src="/site/templates/images/primomologotext.svg"><span></span></a></h1>
+				</li>
+				<li toggle-top-bar onclick="document.getElementById('top-search').classList.remove('expanded')" class="toggle-topbar toggle-topbar-main menu-icon"><a href=""><span></span></a></li>
+			</ul>
+			<top-bar-section ng-cloakx>
+				<ul class="right">
+					
+					
+<ul class="primenu">
+	<li>
+		<a href='/categories/entertainment/'>Entertainment</a>
+	</li>
+	<li>
+		<a href='/categories/sport/'>Sport</a>
+	</li>
+	<li>
+		<a href='/categories/lifestyle/'>Lifestyle</a>
+	</li>
+</ul>					
+					<li has-dropdown class="primenu-hasdropdown">
+						<a>More</a>
+						<ul top-bar-dropdown ng-cloak>
+							
+<ul class="more-menu">
+	<li>
+		<a href='/categories/entertainment/tv/'>TV</a>
+	</li>
+	<li>
+		<a href='/categories/lifestyle/people/'>People</a>
+	</li>
+	<li>
+		<a href='/categories/sport/football/'>Football</a>
+	</li>
+	<li>
+		<a href='/categories/lifestyle/food/'>Food</a>
+	</li>
+	<li>
+		<a href='/categories/entertainment/music/'>Music</a>
+	</li>
+	<li>
+		<a href='/categories/entertainment/movies/'>Movies</a>
+	</li>
+	<li>
+		<a href='/categories/'>All Categories</a>
+	</li>
+</ul>						</ul>
+					</li>
+					
+					<ul>
+						<li class="has-form search-form-medium-up">
+						    <div class="row collapse">
+						      <div class="large-12 small-12 columns">
+						        <form id="site-search-form" class="clearfix" action="/search/" method="get">
+									<input type="text" name="q" value="" placeholder="Search">
+								</form>
+						      </div>
+						    </div>
+						</li>
+					</ul>
+					
+				</ul>
+			</top-bar-section>
+		</top-bar>
+		
+		<top-bar id="top-search" class="top-bar top-search show-for-small-only" data-topbar="" style="height: 45px">
+			<ul class="title-area">
+				<li class="name"></li>
+				<li toggle-top-bar onclick="document.getElementById('top-menu').classList.remove('expanded')" class="toggle-topbar toggle-topbar-search menu-icon"><a href=""><span></span></a></li>
+			</ul>
+			<top-bar-section ng-cloak>
+				<ul>
+				  <li class="has-form search-form-small-only">
+				    <div class="row collapse">
+				      <div class="large-12 small-12 columns">
+				        <form id="site-search-form" class="clearfix" action="/search/" method="get">
+							<input type="text" name="q" value="" placeholder="Search">
+						</form>
+				      </div>
+				    </div>
+				  </li>
+				</ul>
+			</top-bar-section>
+		</top-bar>
+	</div>
+</div>
+
+
+<div class="row-container ccolour_base main-header">
+	<div class="row">
+		<div class="column">
+			<h2 class="top-header">Favourite Bromance</h2>
+		</div>
+	</div>
+	</div>
+
+<div id="body-wrap">
+	<div class="row-container">
+	<div class="row list-grid-row" id="sectionid1">
+		<div class="column">
+			<h3 class="left section-header">Related Lists</a></h3>
+				
+		</div>
+		
+		
+			<div class="column list-grid">
+				<div equalizer class="row">
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_lifestyle_standard catcolorstyle_standard' id='list-10069'>
+
+	<a href='/list/coolest-cars/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/10069/teamtimecar_com-bttf_delorean_time_machine-otogodfrey_com-jmortonphoto_com-07.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Coolest Cars in Film & TV</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_lifestyle_standard catcolorstyle_standard' id='list-9959'>
+
+	<a href='/list/best-darts-nickname/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/9959/_1091740_harvey300.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Darts Nickname</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_lifestyle_standard catcolorstyle_standard' id='list-9931'>
+
+	<a href='/list/hottest-celebrity-couple/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/9931/1412468828463_wps_2_victoria_and_david_beckha.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Hottest Celebrity Couple</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_lifestyle_standard catcolorstyle_standard' id='list-9853'>
+
+	<a href='/list/best-cartoon-dog/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/9853/ltprimary.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Cartoon Dog</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_lifestyle_standard catcolorstyle_standard' id='list-9830'>
+
+	<a href='/list/best-breed-of-dog/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/9830/collage_of_nine_dogs.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Breed of Dog</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_lifestyle_standard catcolorstyle_standard' id='list-9771'>
+
+	<a href='/list/your-favourite-fast-furious-car/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/9771/fast-and-furious-logo.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Your Favourite Fast & Furious Car</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-9544'>
+
+	<a href='/list/best-jason-statham-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/9544/jason_statham_2007.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Jason Statham Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_sport_standard catcolorstyle_standard' id='list-9325'>
+
+	<a href='/list/greatest-san-antonio-spurs-player/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/9325/1280px-san_antonio_spurs_svg.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest San Antonio Spurs Player</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_sport_standard catcolorstyle_standard' id='list-9234'>
+
+	<a href='/list/greatest-sacramento-kings-player/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/9234/831px-sacramento_kings_svg.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest Sacramento Kings Player</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_sport_standard catcolorstyle_standard' id='list-9156'>
+
+	<a href='/list/greatest-utah-jazz-player/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/9156/1280px-utah_jazz_logo_2c_282010_27new_look_27_29_svg.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest Utah Jazz Player</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_sport_standard catcolorstyle_standard' id='list-9116'>
+
+	<a href='/list/greatest-oklahoma-city-thunder-player/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/9116/1118px-oklahoma_city_thunder_svg.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest Oklahoma City Thunder Player</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_sport_standard catcolorstyle_standard' id='list-8807'>
+
+	<a href='/list/greatest-boston-celtics-player/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/8807/1024px-boston_celtics_svg.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest Boston Celtics Player</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_lifestyle_standard catcolorstyle_standard' id='list-8772'>
+
+	<a href='/list/favourite-fictional-billionaire/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/8772/scroogewithnephews.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Favourite Fictional Billionaire</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-8712'>
+
+	<a href='/list/best-christian-bale-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/8712/christian_bale_2014_28cropped_29.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Christian Bale Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_sport_standard catcolorstyle_standard' id='list-8482'>
+
+	<a href='/list/greatest-new-orleans-saints/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/8482/844px-new_orleans_saints_svg.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest New Orleans Saints Player</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_sport_standard catcolorstyle_standard' id='list-8218'>
+
+	<a href='/list/greatest-kansas-city-chiefs/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/8218/1280px-kansas_city_chiefs_logo_svg.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest Kansas City Chiefs Player</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_sport_standard catcolorstyle_standard' id='list-8199'>
+
+	<a href='/list/greatest-denver-broncos-player/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/8199/1280px-denver_broncos_logo_svg.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest Denver Broncos Player</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_sport_standard catcolorstyle_standard' id='list-8049'>
+
+	<a href='/list/greatest-cincinnati-bengals-player/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/8049/1280px-cincinnati_bengals_svg.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest Cincinnati Bengals Player</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_sport_standard catcolorstyle_standard' id='list-7988'>
+
+	<a href='/list/greatest-new-england-patriots-player/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/7988/1280px-new_england_patriots_logo_svg.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest New England Patriots Player</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-7890'>
+
+	<a href='/list/best-ben-affleck/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/7890/ben_affleck_by_gage_skidmore.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Ben Affleck Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-7863'>
+
+	<a href='/list/best-matt-damon-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/7863/damon_cropped.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Matt Damon Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-7832'>
+
+	<a href='/list/best-bradley-cooper-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/7832/bradley_cooper_2009.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Bradley Cooper Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-7804'>
+
+	<a href='/list/best-tom-cruise-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/7804/tom_cruise_avp_2014_4.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Tom Cruise Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-7775'>
+
+	<a href='/list/best-tom-hanks-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/7775/tom_hanks_2014.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Tom Hanks Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+									</div>
+			</div>	
+						<div class="column"><div class='pagination-centered'><ul class='pagination'><li class='MarkupPagerNavPrevious MarkupPagerNavFirst'><a href='/list/favourite-bromance/page2'><span><<</span></a></li><li class='MarkupPagerNavFirstNum'><a href='/list/favourite-bromance/'><span>1</span></a></li><li><a href='/list/favourite-bromance/page2'><span>2</span></a></li><li class='current'><a href='/list/favourite-bromance/page3'><span>3</span></a></li><li><a href='/list/favourite-bromance/page4'><span>4</span></a></li><li><a href='/list/favourite-bromance/page5'><span>5</span></a></li><li class='MarkupPagerNavLastNum'><a href='/list/favourite-bromance/page6'><span>6</span></a></li><li class='MarkupPagerNavNext MarkupPagerNavLast'><a href='/list/favourite-bromance/page4'><span>>></span></a></li></ul></div></div>	</div>
+</div></div>
+
+</div> <!--ng-controller-->
+<footer class="ccolour_base">
+
+<div class="row">
+	<div class="medium-4 medium-push-8 columns">
+		<ul class="footer-social">
+			<li>
+				<a href="" class="xxx" style="opacity: 0 !important"></a>
+			</li>
+			<li>
+				<a href="" class="xxx" style="opacity: 0 !important"></a>
+			</li>
+			<!-- <li><a href="/about" class="mail"></a></li> -->
+		</ul>
+	</div>
+	<div class="medium-8 medium-pull-4 columns">		
+	</div>
+</div>
+
+</footer>
+<script>
+flowtype(document.body.querySelector('#stack-container'), {
+   minimum   : 0,
+   maximum   : 600,
+   minFont   : 1,
+   maxFont   : 50,
+   fontRatio : 14,
+   lineRatio : 1.45
+});	
+flowtype(document.body.querySelector('#gamemessage-container'), {
+   minimum   : 0,
+   maximum   : 600,
+   minFont   : 1,
+   maxFont   : 50,
+   fontRatio : 14,
+   lineRatio : 1.45
+});	
+</script>
+</body>
+</html>

@@ -1,0 +1,701 @@
+<!DOCTYPE html>
+<!--[if IE 9]><html class="lt-ie10" lang="en" > <![endif]-->
+<html class="no-js" lang="en" itemscope itemtype="http://schema.org/ItemList">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+	<style type="text/css">@charset "UTF-8";[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {display: none !important;}</style>	
+	<link rel="canonical" href="">
+	
+		
+	
+	<!-- Meta -->
+	<title>Great Scots - Primomo</title>
+	<meta name="description" content="Great Scots! Who is the Greatest Scottish Person of all time? Robert Burns? William Wallace? Alexander Fleming? Jock Stein? David Tennant? Robert the Bruce? Billy Connolly? Alex Harvey? Andrew Carnegie? Sir William Alexander Smith? Alexander Graham Bell? Sean Connery? J. K. Rowling? James Watt? Arthur Conan Doyle? David Livingstone? John Logie Baird? Alex Ferguson? Adam Smith? Charles Rennie Mackintosh? " />
+	<!-- Schema -->
+	<meta itemprop="name" content="Great Scots">
+	<meta itemprop="description" content="Great Scots! Who is the Greatest Scottish Person of all time? Robert Burns? William Wallace? Alexander Fleming? Jock Stein? David Tennant? Robert the Bruce? Billy Connolly? Alex Harvey? Andrew Carnegie? Sir William Alexander Smith? Alexander Graham Bell? Sean Connery? J. K. Rowling? James Watt? Arthur Conan Doyle? David Livingstone? John Logie Baird? Alex Ferguson? Adam Smith? Charles Rennie Mackintosh? "> 
+	<meta itemprop="image" content=""> 
+	 <meta itemprop="itemListOrder" content="Descending" /> 	<!-- Twitter -->
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:site" content="@playprimomo">
+	<meta name="twitter:title" content="Great Scots">
+	<meta name="twitter:description" content="Great Scots! Who is the Greatest Scottish Person of all time? Robert Burns? William Wallace? Alexander Fleming? Jock Stein? David Tennant? Robert the Bruce? Billy Connolly? Alex Harvey? Andrew Carnegie? Sir William Alexander Smith? Alexander Graham Bell? Sean Connery? J. K. Rowling? James Watt? Arthur Conan Doyle? David Livingstone? John Logie Baird? Alex Ferguson? Adam Smith? Charles Rennie Mackintosh? "> 
+	<meta name="twitter:creator" content="@playprimomo">
+	<meta name="twitter:image:src" content=""> 
+	<!-- Open Graph -->
+	<meta property="og:title" content="Great Scots" />
+	<meta property="og:type" content="article" /> 
+	<meta property="og:url" content="" /> 
+	<meta property="og:image" content=""> 
+	<meta property="og:image:width" content="500"> 
+	<meta property="og:image:height" content="300"> 
+	<meta property="og:description" content="Great Scots! Who is the Greatest Scottish Person of all time? Robert Burns? William Wallace? Alexander Fleming? Jock Stein? David Tennant? Robert the Bruce? Billy Connolly? Alex Harvey? Andrew Carnegie? Sir William Alexander Smith? Alexander Graham Bell? Sean Connery? J. K. Rowling? James Watt? Arthur Conan Doyle? David Livingstone? John Logie Baird? Alex Ferguson? Adam Smith? Charles Rennie Mackintosh? " /> 
+	<meta property="og:site_name" content="Primomo" />
+	<meta property="article:section" content="People" />  
+	<meta property="article:tag" content="Scottish, Scotland, Edinburgh, Glasgow, Nobel Prize, Medicine, Football, Celtic, Dr Who, Comedy, Stand-up, Inventor, Scientist, Engineer, James Bond, SNP, Harry Potter, Sherlock Holmes, TV, Greatest Britons, Man U, Rangers, Aberdeen, Manchester United, Art Nouveau, Daily Record" />  
+	<meta property="fb:admins" content="690322552, 598310032" />	
+
+	<link rel="stylesheet" href="/site/templates/components/normalize/normalize.min.css" />
+	<link rel="stylesheet" href="/site/templates/components/foundation/foundation.min.css" />
+	<link rel="stylesheet" href="/site/templates/components/animate-scss/animate.min.css" />
+
+	<script src="/site/templates/components/angular/angular.min.js"></script>
+	<script src="/site/templates/components/angular/angular-touch.min.js"></script>
+	<script src="/site/templates/components/angular-foundation/mm-foundation-tpls-0.8.0.min.js"></script>
+	<script src="/site/templates/components/modernizr.js"></script>
+	<script src="/site/templates/components/fastclick.js"></script>
+	
+	<script src="/site/templates/components/ng-FitText.js"></script>
+	<script src="/site/templates/components/flowtype.min.js"></script>
+	<script src="/site/templates/scripts/angular-swing.min.js"></script>
+	<script src="/site/templates/scripts/angular-equalizer.min.js"></script>
+	<script src="/site/templates/scripts/primomo.min.js"></script>
+	
+	<link rel="stylesheet" href="/site/templates/styles/primomo.min.css?" />
+	
+	<style class="game-colour">
+/* ccolour_base - base */
+.ccolour_base { background: #9B2C6F}
+.ccolour_base-border { border-color: #9B2C6F}
+.ccolour_base-text { color: #9B2C6F}
+/* ccolour_d1 - darker 1 */
+.ccolour_d1 { background: #8b2764}
+.ccolour_d1-border { border-color: #8b2764}
+.ccolour_d1-text { color: #8b2764}
+/* ccolour_d2 - darker 2 */
+.ccolour_d2 { background: #7b2358}
+.ccolour_d2-border { border-color: #7b2358}
+.ccolour_d2-text { color: #7b2358}
+/* ccolour_d3 - darker 3 */
+.ccolour_d3 { background: #6b1e4d}
+.ccolour_d3-border { border-color: #6b1e4d}
+.ccolour_d3-text { color: #6b1e4d}
+/* ccolour_l1 - lighter 1 */
+.ccolour_l1, {background: #b33380}
+.ccolour_l1-border { border-color: #b33380}
+.ccolour_l1-text { color: #b33380}
+/* Colour Styles */
+body, #viewport, .page-wrap:before {
+	background: #9B2C6F	}
+.top-bar-section ul li, .top-bar-section li:not(.has-form) a:not(.button), .top-bar-section .has-form {
+	background: none;
+	}
+.top-bar-section li:not(.has-form) a:not(.button):hover, .top-bar-section ul li:hover:not(.has-form) > a, .top-bar-section .dropdown li:not(.has-form):not(.active) > a:not(.button) {
+	background: #7b2358	}
+html.touch .top-bar-section li.has-dropdown a:hover {
+	background:none;
+	}
+html.touch .top-bar-section li.has-dropdown.not-click a:hover {
+	background:#7b2358;
+	}
+.top-bar-section .dropdown li:not(.has-form):not(.active):hover > a:not(.button) {
+	background: #6b1e4d	}
+.top-bar, .fixednav, .top-bar .title-area, .top-bar.expanded .title-area {
+	background: #8b2764	}	
+.top-bar input[type="text"] {
+	border-color: #8b2764	}
+.accordian-percent {
+	background: #7b2358	}
+.results-header h3 {
+    color: #7b2358	}
+.sidebar-tags h4, .sidebar-cats h4 {
+    color: #7b2358	}	
+h3.section-header, h3.section-header a  {
+    color: #6b1e4d	}	
+h3.section-header a:hover  {
+    color: #7b2358	}		
+/* Medium and Up Only */	
+@media only screen and (min-width: 720px) {
+	.top-bar-section li.active:not(.has-form) a:not(.button) {
+		background: #8b2764		}
+	.top-bar-section li.active:not(.has-form) a:not(.button):hover {
+		background: #7b2358		}
+	.top-bar-section .dropdown li.active:not(.has-form) a:not(.button) {
+		background: #7b2358		}
+	.top-bar-section .dropdown li.active:not(.has-form) a:not(.button):hover {
+		background: #6b1e4d		}		
+	}
+/* Small Only */	
+@media only screen and (max-width: 719px) {
+	.top-bar-section ul li, .top-bar-section .has-form {
+		background: #7b2358		}
+	.top-bar-section li:not(.has-form) a:not(.button):hover, .top-bar-section ul li:hover:not(.has-form) > a {
+		background: #6b1e4d		}
+	}
+</style>
+<style class="cat-colours">
+.catcolour_sport_standard{background:#1FA464;}.catcolour_sport_inverted *{color:#1FA464 !important;}.catcolour_entertainment_standard{background:#B03232;}.catcolour_entertainment_inverted *{color:#B03232 !important;}.catcolour_lifestyle_standard{background:#9B2C6F;}.catcolour_lifestyle_inverted *{color:#9B2C6F !important;}	
+</style>	<link href='https://fonts.googleapis.com/css?family=Comfortaa:300,400,700' rel='stylesheet' type='text/css'>
+	</head>	
+<body class='template-list'
+ng-app="primomoApp">
+
+<div><div ng-init="deckArray=[{name:'Robert Burns', subtitle:'', image:'/site/assets/files/2533/pg_1063burns_naysmithcrop.300x300.jpg', copyright:'Alexander Nasmyth [Public domain], via Wikimedia Commons', plays:69, wins:42, gamePlays:0, gameWins:0, cardPageId:2533},{name:'William Wallace', subtitle:'', image:'/site/assets/files/2534/william_wallace.300x300.jpg', copyright:'By Spisák Bence (http://www.firstfoot.com) [Public domain], via Wikimedia Commons', plays:96, wins:77, gamePlays:0, gameWins:0, cardPageId:2534},{name:'Alexander Fleming', subtitle:'', image:'/site/assets/files/2535/synthetic_production_of_penicillin_tr1468.300x300.jpg', copyright:'By Official photographer [Public domain], via Wikimedia Commons', plays:93, wins:69, gamePlays:0, gameWins:0, cardPageId:2535},{name:'Jock Stein', subtitle:'', image:'/site/assets/files/2536/jock-stein-1zdvki7l.300x300.jpg', copyright:'By Nationaal Archief, Den Haag, Rijksfotoarchief [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons', plays:40, wins:10, gamePlays:0, gameWins:0, cardPageId:2536},{name:'David Tennant', subtitle:'', image:'/site/assets/files/2537/the_doctor_and_i_21_283758956651_29_28cropped_to_tennant_29-v1434476774.300x300.jpg', copyright:'By Rick Marshall (The Doctor and I!) [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons', plays:44, wins:15, gamePlays:0, gameWins:0, cardPageId:2537},{name:'Robert the Bruce', subtitle:'', image:'/site/assets/files/2538/robertthebruce.300x300.jpg', copyright:'Fair use - This image&amp;#039;s copyright is believed to belong to distributor, publisher or creator.', plays:70, wins:40, gamePlays:0, gameWins:0, cardPageId:2538},{name:'Billy Connolly', subtitle:'', image:'/site/assets/files/2539/billy-connolly-m3bxvdyy.300x300.jpg', copyright:'By Eva Rinaldi [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons', plays:55, wins:26, gamePlays:0, gameWins:0, cardPageId:2539},{name:'Alex Harvey', subtitle:'', image:'/site/assets/files/2540/alex-harvey.300x300.jpg', copyright:'Fair use - This image&amp;#039;s copyright is believed to belong to distributor, publisher or creator.', plays:37, wins:7, gamePlays:0, gameWins:0, cardPageId:2540},{name:'Andrew Carnegie', subtitle:'', image:'/site/assets/files/2541/andrew_carnegie_2c_three-quarter_length_portrait_2c_seated_2c_facing_slightly_left_2c_1913-v1434477632.300x300.jpg', copyright:'Theodore C. Marceau [Public domain], via Wikimedia Commons', plays:58, wins:31, gamePlays:0, gameWins:0, cardPageId:2541},{name:'Sir William Alexander Smith', subtitle:'', image:'/site/assets/files/2542/william_smith_memorial_plaque_2c_st__giles_2c_edinburgh-v1434477753.300x300.jpg', copyright:'By Kim Traynor (Own work) [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons', plays:47, wins:17, gamePlays:0, gameWins:0, cardPageId:2542},{name:'Alexander Graham Bell', subtitle:'', image:'/site/assets/files/2543/alexander_graham_bell-v1434477879.300x300.jpg', copyright:'By Moffett Studio (Library and Archives Canada / C-017335) [Public domain or Public domain], via Wikimedia Commons', plays:85, wins:56, gamePlays:0, gameWins:0, cardPageId:2543},{name:'Sean Connery', subtitle:'', image:'/site/assets/files/2544/seanconneryjune08.300x300.jpg', copyright:'Stuart Crawford [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons', plays:46, wins:17, gamePlays:0, gameWins:0, cardPageId:2544},{name:'J. K. Rowling', subtitle:'', image:'/site/assets/files/2545/j__k__rowling_2010.300x300.jpg', copyright:'Daniel Ogren [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons', plays:43, wins:14, gamePlays:0, gameWins:0, cardPageId:2545},{name:'James Watt', subtitle:'', image:'/site/assets/files/2546/watt_james_von_breda.300x300.jpg', copyright:'Carl Frederik von Breda [Public domain], via Wikimedia Commons', plays:57, wins:27, gamePlays:0, gameWins:0, cardPageId:2546},{name:'Arthur Conan Doyle', subtitle:'', image:'/site/assets/files/2547/arthur-conan-doyle-rv6barvd.300x300.jpg', copyright:'Arnold Genthe [Public domain], via Wikimedia Commons', plays:51, wins:21, gamePlays:0, gameWins:0, cardPageId:2547},{name:'David Livingstone', subtitle:'', image:'/site/assets/files/2548/david_livingstone_-1.300x300.jpg', copyright:'Thomas Annan [Public domain], via Wikimedia Commons', plays:51, wins:21, gamePlays:0, gameWins:0, cardPageId:2548},{name:'John Logie Baird', subtitle:'', image:'/site/assets/files/2549/john_logie_baird00-v1434478379.300x300.jpg', copyright:'Fair use - This image&amp;#039;s copyright is believed to belong to distributor, publisher or creator.', plays:51, wins:21, gamePlays:0, gameWins:0, cardPageId:2549},{name:'Alex Ferguson', subtitle:'', image:'/site/assets/files/2550/saf_cl_semi_2009-v1434478526.300x300.jpg', copyright:'By Gordon Flood (originally posted to Flickr as _MG_8214) [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons', plays:52, wins:23, gamePlays:0, gameWins:0, cardPageId:2550},{name:'Adam Smith', subtitle:'', image:'/site/assets/files/2551/adam-smith-n6st5pgj.300x300.jpg', copyright:'See page for author [Public domain], via Wikimedia Commons', plays:53, wins:24, gamePlays:0, gameWins:0, cardPageId:2551},{name:'Charles Rennie Mackintosh', subtitle:'', image:'/site/assets/files/2552/charles-rennie-mackintosh-v1434478709.300x300.jpg', copyright:'By unidentified photographer (http://flann4.files.wordpress.com/2008/03/crm.jpg) [Public domain], via Wikimedia Commons', plays:42, wins:12, gamePlays:0, gameWins:0, cardPageId:2552},]; gameArray=[{title:'Great Scots', interrogative:'Who is', possessive:' ', possessiveAlt:'', subject:'the Greatest Scottish Person', summary:'Great Scots! Who is the Greatest Scottish Person of all time?'}]; pageId=2532;"></div></div>
+
+<div ng-controller="primomoController" class="page-wrap">
+
+<div class="fixednav">
+	<div class="row topbar-container">
+		<top-bar id="top-menu" class="top-bar top-menu" mobile-show-parent-link="true" is-hover="false">
+			<ul class="title-area">
+				<li class="name">
+					<h1><a href="/"><img class="primomo-logo" src="/site/templates/images/primomologotext.svg"><span></span></a></h1>
+				</li>
+				<li toggle-top-bar onclick="document.getElementById('top-search').classList.remove('expanded')" class="toggle-topbar toggle-topbar-main menu-icon"><a href=""><span></span></a></li>
+			</ul>
+			<top-bar-section ng-cloakx>
+				<ul class="right">
+					
+					
+<ul class="primenu">
+	<li>
+		<a href='/categories/entertainment/'>Entertainment</a>
+	</li>
+	<li>
+		<a href='/categories/sport/'>Sport</a>
+	</li>
+	<li>
+		<a href='/categories/lifestyle/'>Lifestyle</a>
+	</li>
+</ul>					
+					<li has-dropdown class="primenu-hasdropdown">
+						<a>More</a>
+						<ul top-bar-dropdown ng-cloak>
+							
+<ul class="more-menu">
+	<li>
+		<a href='/categories/entertainment/tv/'>TV</a>
+	</li>
+	<li>
+		<a href='/categories/lifestyle/people/'>People</a>
+	</li>
+	<li>
+		<a href='/categories/sport/football/'>Football</a>
+	</li>
+	<li>
+		<a href='/categories/lifestyle/food/'>Food</a>
+	</li>
+	<li>
+		<a href='/categories/entertainment/music/'>Music</a>
+	</li>
+	<li>
+		<a href='/categories/entertainment/movies/'>Movies</a>
+	</li>
+	<li>
+		<a href='/categories/'>All Categories</a>
+	</li>
+</ul>						</ul>
+					</li>
+					
+					<ul>
+						<li class="has-form search-form-medium-up">
+						    <div class="row collapse">
+						      <div class="large-12 small-12 columns">
+						        <form id="site-search-form" class="clearfix" action="/search/" method="get">
+									<input type="text" name="q" value="" placeholder="Search">
+								</form>
+						      </div>
+						    </div>
+						</li>
+					</ul>
+					
+				</ul>
+			</top-bar-section>
+		</top-bar>
+		
+		<top-bar id="top-search" class="top-bar top-search show-for-small-only" data-topbar="" style="height: 45px">
+			<ul class="title-area">
+				<li class="name"></li>
+				<li toggle-top-bar onclick="document.getElementById('top-menu').classList.remove('expanded')" class="toggle-topbar toggle-topbar-search menu-icon"><a href=""><span></span></a></li>
+			</ul>
+			<top-bar-section ng-cloak>
+				<ul>
+				  <li class="has-form search-form-small-only">
+				    <div class="row collapse">
+				      <div class="large-12 small-12 columns">
+				        <form id="site-search-form" class="clearfix" action="/search/" method="get">
+							<input type="text" name="q" value="" placeholder="Search">
+						</form>
+				      </div>
+				    </div>
+				  </li>
+				</ul>
+			</top-bar-section>
+		</top-bar>
+	</div>
+</div>
+
+
+<div class="row-container ccolour_base main-header">
+	<div class="row">
+		<div class="column">
+			<h2 class="top-header">Great Scots</h2>
+		</div>
+	</div>
+	</div>
+
+<div id="body-wrap">
+	<div class="row-container">
+	<div class="row list-grid-row" id="sectionid1">
+		<div class="column">
+			<h3 class="left section-header">Related Lists</a></h3>
+				
+		</div>
+		
+		
+			<div class="column list-grid">
+				<div equalizer class="row">
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_lifestyle_standard catcolorstyle_standard' id='list-11729'>
+
+	<a href='/list/best-european-city-break/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/11729/640px-louvre_museum_wikimedia_commons.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best European City Break</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-11399'>
+
+	<a href='/list/favourite-childrens-book/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/11399/where_the_wild_things_are_28book_29_cover.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Favourite Children's Book</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_lifestyle_standard catcolorstyle_standard' id='list-11348'>
+
+	<a href='/list/best-doctor/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/11348/doctor_hibbert.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Doctor</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_lifestyle_standard catcolorstyle_standard' id='list-11329'>
+
+	<a href='/list/best-harry/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/11329/wizarding-world-of-harry-potter.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Harry</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-11167'>
+
+	<a href='/list/deadliest-warrior-season-3/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/11167/deadliest_warrior_630_17na2ma-17na2mi.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Deadliest Warrior (season 3)</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-11140'>
+
+	<a href='/list/deadliest-warrior-season-2/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/11140/deadliest_warrior_630_17na2ma-17na2mi.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Deadliest Warrior (season 2)</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-11119'>
+
+	<a href='/list/deadliest-warrior-season-1/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/11119/deadliest_warrior_630_17na2ma-17na2mi.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Deadliest Warrior (season 1)</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_lifestyle_standard catcolorstyle_standard' id='list-11067'>
+
+	<a href='/list/best-lord/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/11067/lord-sugar.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Lord</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-10188'>
+
+	<a href='/list/best-james-bond-villains/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/10188/19d5cz4vefuipjpg.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best James Bond Villain</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_lifestyle_standard catcolorstyle_standard' id='list-10167'>
+
+	<a href='/list/best-bond-girl/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/10167/bond_girls_collage.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Bond Girl</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-10105'>
+
+	<a href='/list/best-first-person-shooter/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/10105/halo3-gameplay.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best First Person Shooter</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_lifestyle_standard catcolorstyle_standard' id='list-10069'>
+
+	<a href='/list/coolest-cars/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/10069/teamtimecar_com-bttf_delorean_time_machine-otogodfrey_com-jmortonphoto_com-07.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Coolest Cars in Film & TV</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_lifestyle_standard catcolorstyle_standard' id='list-6856'>
+
+	<a href='/list/best-viners/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/6856/vine-logo.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Viners</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-6768'>
+
+	<a href='/list/best-movie-villain/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/6768/anthony_hopkins_as_hannibal_lecter_28screenshot_29.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Movie Villain</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_sport_standard catcolorstyle_standard' id='list-6374'>
+
+	<a href='/list/greatest-premier-league-midfielder/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/6374/gerrard_celebrates_his_second_goal_v_everton.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest Premier League Midfielder</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_sport_standard catcolorstyle_standard' id='list-6353'>
+
+	<a href='/list/greatest-premier-league-defender/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/6353/mario_balotelli_and_john_terry_england-italy_euro_2012.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest Premier League Defender</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_sport_standard catcolorstyle_standard' id='list-6323'>
+
+	<a href='/list/greatest-premier-league-goalkeeper/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/6323/emirates_cup_-_arsenal_v_wolfsburg_2819576570504_29.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest Premier League Goalkeeper</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_sport_standard catcolorstyle_standard' id='list-6263'>
+
+	<a href='/list/europes-greatest-ryder-cup-player/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/6263/1024px-rydercuplogo_svg.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Europe's Greatest Ryder Cup Player</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_lifestyle_standard catcolorstyle_standard' id='list-6166'>
+
+	<a href='/list/britains-favourite-double-act/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/6166/tworonnies.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Britain's Favourite Double Act</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-6049'>
+
+	<a href='/list/best-dr.who-villains/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/6049/angel.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Dr.Who Villain</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_lifestyle_standard catcolorstyle_standard' id='list-5961'>
+
+	<a href='/list/favourite-royal/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/5961/the_british_royal_family_on_the_balcony_of_buckingham_palace.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Favourite Royal</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-5884'>
+
+	<a href='/list/favourite-scottish-actor/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/5884/d0_94_d0_b6_d0_b5_d1_80_d0_b0_d1_80_d0_b4_d0_91_d0_b0_d1_82_d0_bb_d0_b5_d1_80.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Favourite Scottish Actor</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_lifestyle_standard catcolorstyle_standard' id='list-5551'>
+
+	<a href='/list/favourite-british-accent/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/5551/modis_-_great_britain_and_ireland_-_2012-06-04_during_heat_wave.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Favourite British Accent</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-5507'>
+
+	<a href='/list/best-bond-theme/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/5507/goldfinger_ost.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best James Bond Theme</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+									</div>
+			</div>	
+						<div class="column"><div class='pagination-centered'><ul class='pagination'><li class='MarkupPagerNavPrevious MarkupPagerNavFirst'><a href='/list/great-scots/'><span><<</span></a></li><li class='MarkupPagerNavFirstNum'><a href='/list/great-scots/'><span>1</span></a></li><li class='current'><a href='/list/great-scots/page2'><span>2</span></a></li><li class='MarkupPagerNavLastNum'><a href='/list/great-scots/page3'><span>3</span></a></li><li class='MarkupPagerNavNext MarkupPagerNavLast'><a href='/list/great-scots/page3'><span>>></span></a></li></ul></div></div>	</div>
+</div></div>
+
+</div> <!--ng-controller-->
+<footer class="ccolour_base">
+
+<div class="row">
+	<div class="medium-4 medium-push-8 columns">
+		<ul class="footer-social">
+			<li>
+				<a href="" class="xxx" style="opacity: 0 !important"></a>
+			</li>
+			<li>
+				<a href="" class="xxx" style="opacity: 0 !important"></a>
+			</li>
+			<!-- <li><a href="/about" class="mail"></a></li> -->
+		</ul>
+	</div>
+	<div class="medium-8 medium-pull-4 columns">		
+	</div>
+</div>
+
+</footer>
+<script>
+flowtype(document.body.querySelector('#stack-container'), {
+   minimum   : 0,
+   maximum   : 600,
+   minFont   : 1,
+   maxFont   : 50,
+   fontRatio : 14,
+   lineRatio : 1.45
+});	
+flowtype(document.body.querySelector('#gamemessage-container'), {
+   minimum   : 0,
+   maximum   : 600,
+   minFont   : 1,
+   maxFont   : 50,
+   fontRatio : 14,
+   lineRatio : 1.45
+});	
+</script>
+</body>
+</html>

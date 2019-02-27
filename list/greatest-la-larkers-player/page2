@@ -1,0 +1,701 @@
+<!DOCTYPE html>
+<!--[if IE 9]><html class="lt-ie10" lang="en" > <![endif]-->
+<html class="no-js" lang="en" itemscope itemtype="http://schema.org/ItemList">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+	<style type="text/css">@charset "UTF-8";[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {display: none !important;}</style>	
+	<link rel="canonical" href="">
+	
+		
+	
+	<!-- Meta -->
+	<title>Greatest Los Angeles Lakers Player - Primomo</title>
+	<meta name="description" content="Who is the Greatest Los Angeles Lakers Player? Magic Johnson? Jerry West? Kareem Abdul-Jabbar? Kobe Bryant? Elgin Baylor? James Worthy? Wilt Chamberlain? Shaquille O'Neal? George Mikan? Gail Goodrich? Pau Gasol? Byron Scott? Derek Fisher? Robert Horry? A. C. Green? Jamaal Wilkes? Bob McAdoo? Chick Hearn? " />
+	<!-- Schema -->
+	<meta itemprop="name" content="Greatest Los Angeles Lakers Player">
+	<meta itemprop="description" content="Who is the Greatest Los Angeles Lakers Player? Magic Johnson? Jerry West? Kareem Abdul-Jabbar? Kobe Bryant? Elgin Baylor? James Worthy? Wilt Chamberlain? Shaquille O'Neal? George Mikan? Gail Goodrich? Pau Gasol? Byron Scott? Derek Fisher? Robert Horry? A. C. Green? Jamaal Wilkes? Bob McAdoo? Chick Hearn? "> 
+	<meta itemprop="image" content=""> 
+	 <meta itemprop="itemListOrder" content="Descending" /> 	<!-- Twitter -->
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:site" content="@playprimomo">
+	<meta name="twitter:title" content="Greatest Los Angeles Lakers Player">
+	<meta name="twitter:description" content="Who is the Greatest Los Angeles Lakers Player? Magic Johnson? Jerry West? Kareem Abdul-Jabbar? Kobe Bryant? Elgin Baylor? James Worthy? Wilt Chamberlain? Shaquille O'Neal? George Mikan? Gail Goodrich? Pau Gasol? Byron Scott? Derek Fisher? Robert Horry? A. C. Green? Jamaal Wilkes? Bob McAdoo? Chick Hearn? "> 
+	<meta name="twitter:creator" content="@playprimomo">
+	<meta name="twitter:image:src" content=""> 
+	<!-- Open Graph -->
+	<meta property="og:title" content="Greatest Los Angeles Lakers Player" />
+	<meta property="og:type" content="article" /> 
+	<meta property="og:url" content="" /> 
+	<meta property="og:image" content=""> 
+	<meta property="og:image:width" content="500"> 
+	<meta property="og:image:height" content="300"> 
+	<meta property="og:description" content="Who is the Greatest Los Angeles Lakers Player? Magic Johnson? Jerry West? Kareem Abdul-Jabbar? Kobe Bryant? Elgin Baylor? James Worthy? Wilt Chamberlain? Shaquille O'Neal? George Mikan? Gail Goodrich? Pau Gasol? Byron Scott? Derek Fisher? Robert Horry? A. C. Green? Jamaal Wilkes? Bob McAdoo? Chick Hearn? " /> 
+	<meta property="og:site_name" content="Primomo" />
+	<meta property="article:section" content="Basketball" />  
+	<meta property="article:tag" content="NBA, LA Lakers , LA, Los Angeles, Jack Nicholson, Dustin Hoffman, Will Ferrell, Denzel Washington, Leonardo DiCaprio, Snoop Dogg, American, Harlem Globetrotters , Los Angeles Lakers " />  
+	<meta property="fb:admins" content="690322552, 598310032" />	
+
+	<link rel="stylesheet" href="/site/templates/components/normalize/normalize.min.css" />
+	<link rel="stylesheet" href="/site/templates/components/foundation/foundation.min.css" />
+	<link rel="stylesheet" href="/site/templates/components/animate-scss/animate.min.css" />
+
+	<script src="/site/templates/components/angular/angular.min.js"></script>
+	<script src="/site/templates/components/angular/angular-touch.min.js"></script>
+	<script src="/site/templates/components/angular-foundation/mm-foundation-tpls-0.8.0.min.js"></script>
+	<script src="/site/templates/components/modernizr.js"></script>
+	<script src="/site/templates/components/fastclick.js"></script>
+	
+	<script src="/site/templates/components/ng-FitText.js"></script>
+	<script src="/site/templates/components/flowtype.min.js"></script>
+	<script src="/site/templates/scripts/angular-swing.min.js"></script>
+	<script src="/site/templates/scripts/angular-equalizer.min.js"></script>
+	<script src="/site/templates/scripts/primomo.min.js"></script>
+	
+	<link rel="stylesheet" href="/site/templates/styles/primomo.min.css?" />
+	
+	<style class="game-colour">
+/* ccolour_base - base */
+.ccolour_base { background: #1FA464}
+.ccolour_base-border { border-color: #1FA464}
+.ccolour_base-text { color: #1FA464}
+/* ccolour_d1 - darker 1 */
+.ccolour_d1 { background: #1c935a}
+.ccolour_d1-border { border-color: #1c935a}
+.ccolour_d1-text { color: #1c935a}
+/* ccolour_d2 - darker 2 */
+.ccolour_d2 { background: #19824f}
+.ccolour_d2-border { border-color: #19824f}
+.ccolour_d2-text { color: #19824f}
+/* ccolour_d3 - darker 3 */
+.ccolour_d3 { background: #157145}
+.ccolour_d3-border { border-color: #157145}
+.ccolour_d3-text { color: #157145}
+/* ccolour_l1 - lighter 1 */
+.ccolour_l1, {background: #24be74}
+.ccolour_l1-border { border-color: #24be74}
+.ccolour_l1-text { color: #24be74}
+/* Colour Styles */
+body, #viewport, .page-wrap:before {
+	background: #1FA464	}
+.top-bar-section ul li, .top-bar-section li:not(.has-form) a:not(.button), .top-bar-section .has-form {
+	background: none;
+	}
+.top-bar-section li:not(.has-form) a:not(.button):hover, .top-bar-section ul li:hover:not(.has-form) > a, .top-bar-section .dropdown li:not(.has-form):not(.active) > a:not(.button) {
+	background: #19824f	}
+html.touch .top-bar-section li.has-dropdown a:hover {
+	background:none;
+	}
+html.touch .top-bar-section li.has-dropdown.not-click a:hover {
+	background:#19824f;
+	}
+.top-bar-section .dropdown li:not(.has-form):not(.active):hover > a:not(.button) {
+	background: #157145	}
+.top-bar, .fixednav, .top-bar .title-area, .top-bar.expanded .title-area {
+	background: #1c935a	}	
+.top-bar input[type="text"] {
+	border-color: #1c935a	}
+.accordian-percent {
+	background: #19824f	}
+.results-header h3 {
+    color: #19824f	}
+.sidebar-tags h4, .sidebar-cats h4 {
+    color: #19824f	}	
+h3.section-header, h3.section-header a  {
+    color: #157145	}	
+h3.section-header a:hover  {
+    color: #19824f	}		
+/* Medium and Up Only */	
+@media only screen and (min-width: 720px) {
+	.top-bar-section li.active:not(.has-form) a:not(.button) {
+		background: #1c935a		}
+	.top-bar-section li.active:not(.has-form) a:not(.button):hover {
+		background: #19824f		}
+	.top-bar-section .dropdown li.active:not(.has-form) a:not(.button) {
+		background: #19824f		}
+	.top-bar-section .dropdown li.active:not(.has-form) a:not(.button):hover {
+		background: #157145		}		
+	}
+/* Small Only */	
+@media only screen and (max-width: 719px) {
+	.top-bar-section ul li, .top-bar-section .has-form {
+		background: #19824f		}
+	.top-bar-section li:not(.has-form) a:not(.button):hover, .top-bar-section ul li:hover:not(.has-form) > a {
+		background: #157145		}
+	}
+</style>
+<style class="cat-colours">
+.catcolour_sport_standard{background:#1FA464;}.catcolour_sport_inverted *{color:#1FA464 !important;}.catcolour_entertainment_standard{background:#B03232;}.catcolour_entertainment_inverted *{color:#B03232 !important;}.catcolour_lifestyle_standard{background:#9B2C6F;}.catcolour_lifestyle_inverted *{color:#9B2C6F !important;}	
+</style>	<link href='https://fonts.googleapis.com/css?family=Comfortaa:300,400,700' rel='stylesheet' type='text/css'>
+	</head>	
+<body class='template-list'
+ng-app="primomoApp">
+
+<div><div ng-init="deckArray=[{name:'Magic Johnson', subtitle:'', image:'/site/assets/files/2816/magic_lipofsky.300x300.jpg', copyright:'By [copyright held by Steve Lipofsky] [GFDL (http://www.gnu.org/copyleft/fdl.html) or CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons', plays:6, wins:6, gamePlays:0, gameWins:0, cardPageId:2816},{name:'Jerry West', subtitle:'', image:'/site/assets/files/2817/jerry-west-hfgdnwsv.300x300.jpg', copyright:'Fair use - This image&amp;#039;s copyright is believed to belong to distributor, publisher or creator.', plays:3, wins:2, gamePlays:0, gameWins:0, cardPageId:2817},{name:'Kareem Abdul-Jabbar', subtitle:'', image:'/site/assets/files/2818/kareem-abdul-jabbar-xshlzo7a.300x300.jpg', copyright:'By copyright Steve lipofsky www.Basketballphoto.com [GFDL (http://www.gnu.org/copyleft/fdl.html) or CC BY 3.0 (http://creativecommons.org/licenses/by/3.0)], via Wikimedia Commons', plays:1, wins:0, gamePlays:0, gameWins:0, cardPageId:2818},{name:'Kobe Bryant', subtitle:'', image:'/site/assets/files/2819/kobe_bryant_2014.300x300.jpg', copyright:'By Keith Allison (Flickr: Kobe Bryant) [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons', plays:1, wins:0, gamePlays:0, gameWins:0, cardPageId:2819},{name:'Elgin Baylor', subtitle:'', image:'/site/assets/files/2820/elgin_baylor_night_program-v1435404848.300x300.jpg', copyright:'See page for author [Public domain], via Wikimedia Commons', plays:2, wins:1, gamePlays:0, gameWins:0, cardPageId:2820},{name:'James Worthy', subtitle:'', image:'/site/assets/files/2821/james_worthy_at_unc_basketball_game__february_10_2c_2007.300x300.jpg', copyright:'By Zeke Smith from Chapel Hill, NC, USAZeke Smith from Chapel Hill, NC, USA [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons', plays:1, wins:0, gamePlays:0, gameWins:0, cardPageId:2821},{name:'Wilt Chamberlain', subtitle:'', image:'/site/assets/files/2822/wilt-chamberlain-inyonrzp.300x300.jpg', copyright:'By Wilt_Chamberlain2.jpg: Fred Palumbo, World Telegram staff photographer derivative work: JoeJohnson2 (Wilt_Chamberlain2.jpg) [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons', plays:2, wins:1, gamePlays:0, gameWins:0, cardPageId:2822},{name:'Shaquille O\'Neal', subtitle:'', image:'/site/assets/files/2823/shaquille-o-1039-neal-hdpoq4ur.300x300.jpg', copyright:'By Copyright by Steve Lipofsky Basketballphoto.com [GFDL (http://www.gnu.org/copyleft/fdl.html) or CC BY 3.0 (http://creativecommons.org/licenses/by/3.0)], via Wikimedia Commons', plays:5, wins:4, gamePlays:0, gameWins:0, cardPageId:2823},{name:'George Mikan', subtitle:'', image:'/site/assets/files/2824/george-mikan-wfsm5vyg.300x300.jpg', copyright:'See page for author [Public domain], via Wikimedia Commons', plays:3, wins:2, gamePlays:0, gameWins:0, cardPageId:2824},{name:'Gail Goodrich', subtitle:'', image:'/site/assets/files/2825/gail_goodrich_la_lakers.300x300.jpg', copyright:'See page for author [Public domain], via Wikimedia Commons', plays:2, wins:1, gamePlays:0, gameWins:0, cardPageId:2825},{name:'Pau Gasol', subtitle:'', image:'/site/assets/files/2826/pau-gasol-vzst3ydy.300x300.jpg', copyright:'By Keith Allison ([1]) [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons', plays:1, wins:0, gamePlays:0, gameWins:0, cardPageId:2826},{name:'Byron Scott', subtitle:'', image:'/site/assets/files/2827/byron-scott-1nfp7zyd.300x300.jpg', copyright:'By Erik Drost (Flickr: Byron Scott) [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons', plays:1, wins:0, gamePlays:0, gameWins:0, cardPageId:2827},{name:'Derek Fisher', subtitle:'', image:'/site/assets/files/2828/d-fish.300x300.jpg', copyright:'By Keith Allison [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons', plays:1, wins:0, gamePlays:0, gameWins:0, cardPageId:2828},{name:'Robert Horry', subtitle:'', image:'/site/assets/files/2829/robert_horry_2012.300x300.jpg', copyright:'By thepanamerican (Flickr: BasketballCamp5) [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons', plays:1, wins:0, gamePlays:0, gameWins:0, cardPageId:2829},{name:'A. C. Green', subtitle:'', image:'/site/assets/files/2830/a__c__green_at_hud_in_2004.300x300.jpg', copyright:'By Department of Housing and Urban Development. Office of Administrative and Management Services. Multimedia Division. Publications Branch. Multimedia Library, (2000 - ) (Most Recent) (http://research.archives.gov/description/6198051) [Public domain], via Wikimedia Commons', plays:1, wins:0, gamePlays:0, gameWins:0, cardPageId:2830},{name:'Jamaal Wilkes', subtitle:'', image:'/site/assets/files/2831/jamaal_wilkes_1971_e2_80_9372.300x300.jpg', copyright:'By Associated Students of UCLA (1972 Southern Campus (UCLA yearbook) pt.1 p.72) [Public domain], via Wikimedia Commons', plays:1, wins:0, gamePlays:0, gameWins:0, cardPageId:2831},{name:'Bob McAdoo', subtitle:'', image:'/site/assets/files/2832/bob_mcadoo_in_2009.300x300.jpg', copyright:'By Erik_Spoelstra_and_Heat_players_huddle.jpg: Keith Allison derivative work: Arbor to SJ [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons', plays:1, wins:0, gamePlays:0, gameWins:0, cardPageId:2832},{name:'Chick Hearn', subtitle:'', image:'/site/assets/files/2833/chick_hearn_1963.300x300.jpg', copyright:'By The Pat McDermott Company (ebay.com, front of photo, back of photo) [Public domain], via Wikimedia Commons', plays:1, wins:0, gamePlays:0, gameWins:0, cardPageId:2833},]; gameArray=[{title:'Greatest Los Angeles Lakers Player', interrogative:'Who is', possessive:' ', possessiveAlt:'', subject:'the Greatest Los Angeles Lakers Player', summary:'Who is the Greatest Los Angeles Lakers Player?'}]; pageId=2815;"></div></div>
+
+<div ng-controller="primomoController" class="page-wrap">
+
+<div class="fixednav">
+	<div class="row topbar-container">
+		<top-bar id="top-menu" class="top-bar top-menu" mobile-show-parent-link="true" is-hover="false">
+			<ul class="title-area">
+				<li class="name">
+					<h1><a href="/"><img class="primomo-logo" src="/site/templates/images/primomologotext.svg"><span></span></a></h1>
+				</li>
+				<li toggle-top-bar onclick="document.getElementById('top-search').classList.remove('expanded')" class="toggle-topbar toggle-topbar-main menu-icon"><a href=""><span></span></a></li>
+			</ul>
+			<top-bar-section ng-cloakx>
+				<ul class="right">
+					
+					
+<ul class="primenu">
+	<li>
+		<a href='/categories/entertainment/'>Entertainment</a>
+	</li>
+	<li>
+		<a href='/categories/sport/'>Sport</a>
+	</li>
+	<li>
+		<a href='/categories/lifestyle/'>Lifestyle</a>
+	</li>
+</ul>					
+					<li has-dropdown class="primenu-hasdropdown">
+						<a>More</a>
+						<ul top-bar-dropdown ng-cloak>
+							
+<ul class="more-menu">
+	<li>
+		<a href='/categories/entertainment/tv/'>TV</a>
+	</li>
+	<li>
+		<a href='/categories/lifestyle/people/'>People</a>
+	</li>
+	<li>
+		<a href='/categories/sport/football/'>Football</a>
+	</li>
+	<li>
+		<a href='/categories/lifestyle/food/'>Food</a>
+	</li>
+	<li>
+		<a href='/categories/entertainment/music/'>Music</a>
+	</li>
+	<li>
+		<a href='/categories/entertainment/movies/'>Movies</a>
+	</li>
+	<li>
+		<a href='/categories/'>All Categories</a>
+	</li>
+</ul>						</ul>
+					</li>
+					
+					<ul>
+						<li class="has-form search-form-medium-up">
+						    <div class="row collapse">
+						      <div class="large-12 small-12 columns">
+						        <form id="site-search-form" class="clearfix" action="/search/" method="get">
+									<input type="text" name="q" value="" placeholder="Search">
+								</form>
+						      </div>
+						    </div>
+						</li>
+					</ul>
+					
+				</ul>
+			</top-bar-section>
+		</top-bar>
+		
+		<top-bar id="top-search" class="top-bar top-search show-for-small-only" data-topbar="" style="height: 45px">
+			<ul class="title-area">
+				<li class="name"></li>
+				<li toggle-top-bar onclick="document.getElementById('top-menu').classList.remove('expanded')" class="toggle-topbar toggle-topbar-search menu-icon"><a href=""><span></span></a></li>
+			</ul>
+			<top-bar-section ng-cloak>
+				<ul>
+				  <li class="has-form search-form-small-only">
+				    <div class="row collapse">
+				      <div class="large-12 small-12 columns">
+				        <form id="site-search-form" class="clearfix" action="/search/" method="get">
+							<input type="text" name="q" value="" placeholder="Search">
+						</form>
+				      </div>
+				    </div>
+				  </li>
+				</ul>
+			</top-bar-section>
+		</top-bar>
+	</div>
+</div>
+
+
+<div class="row-container ccolour_base main-header">
+	<div class="row">
+		<div class="column">
+			<h2 class="top-header">Greatest Los Angeles Lakers Player</h2>
+		</div>
+	</div>
+	</div>
+
+<div id="body-wrap">
+	<div class="row-container">
+	<div class="row list-grid-row" id="sectionid1">
+		<div class="column">
+			<h3 class="left section-header">Related Lists</a></h3>
+				
+		</div>
+		
+		
+			<div class="column list-grid">
+				<div equalizer class="row">
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-9446'>
+
+	<a href='/list/best-katy-perry-song/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/9446/katy_perry_e2_80_93zenith_paris.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Your Favourite Katy Perry Song</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_sport_standard catcolorstyle_standard' id='list-9193'>
+
+	<a href='/list/greatest-los-angeles-clippers-player/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/9193/los_angeles_clippers_logo.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest Los Angeles Clippers Player</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-8688'>
+
+	<a href='/list/best-hbo-show-of-all-time/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/8688/fb-hbo-480x320.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best HBO Show of All Time</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_sport_standard catcolorstyle_standard' id='list-8588'>
+
+	<a href='/list/greatest-seattle-seahawks-player/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/8588/1280px-seattle_seahawks_vector_logo_svg.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest Seattle Seahawks Player</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_sport_standard catcolorstyle_standard' id='list-8543'>
+
+	<a href='/list/greatest-los-angeles-rams-player/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/8543/1280px-nfl_rams_logo_svg.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest Los Angeles Rams Player</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-7921'>
+
+	<a href='/list/best-adam-sandler-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/7921/adam_sandler_2011_28cropped_29.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Adam Sandler Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-7863'>
+
+	<a href='/list/best-matt-damon-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/7863/damon_cropped.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Matt Damon Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-7804'>
+
+	<a href='/list/best-tom-cruise-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/7804/tom_cruise_avp_2014_4.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Tom Cruise Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-7775'>
+
+	<a href='/list/best-tom-hanks-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/7775/tom_hanks_2014.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Tom Hanks Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-7749'>
+
+	<a href='/list/best-paul-rudd-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/7749/paul_rudd_28cropped_29_2.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Paul Rudd Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_sport_standard catcolorstyle_standard' id='list-7491'>
+
+	<a href='/list/greatest-los-angeles-dodger/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/7491/los_angeles_dodgers_logo.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest Los Angeles Dodgers</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-6768'>
+
+	<a href='/list/best-movie-villain/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/6768/anthony_hopkins_as_hannibal_lecter_28screenshot_29.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Movie Villain</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-6590'>
+
+	<a href='/list/best-robert-zemeckis-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/6590/forrestgumpjfkscreenshot.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Robert Zemeckis Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-6572'>
+
+	<a href='/list/best-christopher-nolan-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/6572/christopher_nolan_2c_london_2c_2013_28crop_29.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Christopher Nolan Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_sport_standard catcolorstyle_standard' id='list-6286'>
+
+	<a href='/list/americas-greatest-ryder-cup-player/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/6286/1024px-rydercuplogo_svg.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>America's Greatest Ryder Cup Player</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_sport_standard catcolorstyle_standard' id='list-6212'>
+
+	<a href='/list/greatest-ever-nba-player/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/6212/cazzaro_jordan.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest Ever NBA Player</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-6027'>
+
+	<a href='/list/best-martin-scorsese-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/6027/martin_scorsese_cannes_2010.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Martin Scorsese Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-6000'>
+
+	<a href='/list/best-danny-devito-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/6000/danny_devito_by_gage_skidmore.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Danny DeVito Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-5840'>
+
+	<a href='/list/best-ryan-gosling-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/5840/ryan_gosling_2_cannes_2011_28cropped_29.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Ryan Gosling Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-5735'>
+
+	<a href='/list/best-brad-pitt-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/5735/brad_pitt_inglorious_basterds_berlin_premiere.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Brad Pitt Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-5666'>
+
+	<a href='/list/best-leonardo-dicaprio/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/5666/leonardo_dicaprio_2014.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Leonardo DiCaprio Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-5453'>
+
+	<a href='/list/best-boxing-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/5453/filming_the_boxing_scenes.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Boxing Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-5407'>
+
+	<a href='/list/best-tom-hardy-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/5407/tom_hardy_locke_premiere.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Tom Hardy Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-5332'>
+
+	<a href='/list/best-kevin-smith-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/5332/kevin_smith_2014_28cropped_29.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Kevin Smith Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+									</div>
+			</div>	
+						<div class="column"><div class='pagination-centered'><ul class='pagination'><li class='MarkupPagerNavPrevious MarkupPagerNavFirst'><a href='/list/greatest-la-larkers-player/'><span><<</span></a></li><li class='MarkupPagerNavFirstNum'><a href='/list/greatest-la-larkers-player/'><span>1</span></a></li><li class='current'><a href='/list/greatest-la-larkers-player/page2'><span>2</span></a></li><li class='MarkupPagerNavLastNum'><a href='/list/greatest-la-larkers-player/page3'><span>3</span></a></li><li class='MarkupPagerNavNext MarkupPagerNavLast'><a href='/list/greatest-la-larkers-player/page3'><span>>></span></a></li></ul></div></div>	</div>
+</div></div>
+
+</div> <!--ng-controller-->
+<footer class="ccolour_base">
+
+<div class="row">
+	<div class="medium-4 medium-push-8 columns">
+		<ul class="footer-social">
+			<li>
+				<a href="" class="xxx" style="opacity: 0 !important"></a>
+			</li>
+			<li>
+				<a href="" class="xxx" style="opacity: 0 !important"></a>
+			</li>
+			<!-- <li><a href="/about" class="mail"></a></li> -->
+		</ul>
+	</div>
+	<div class="medium-8 medium-pull-4 columns">		
+	</div>
+</div>
+
+</footer>
+<script>
+flowtype(document.body.querySelector('#stack-container'), {
+   minimum   : 0,
+   maximum   : 600,
+   minFont   : 1,
+   maxFont   : 50,
+   fontRatio : 14,
+   lineRatio : 1.45
+});	
+flowtype(document.body.querySelector('#gamemessage-container'), {
+   minimum   : 0,
+   maximum   : 600,
+   minFont   : 1,
+   maxFont   : 50,
+   fontRatio : 14,
+   lineRatio : 1.45
+});	
+</script>
+</body>
+</html>

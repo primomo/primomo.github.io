@@ -1,0 +1,701 @@
+<!DOCTYPE html>
+<!--[if IE 9]><html class="lt-ie10" lang="en" > <![endif]-->
+<html class="no-js" lang="en" itemscope itemtype="http://schema.org/ItemList">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+	<style type="text/css">@charset "UTF-8";[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {display: none !important;}</style>	
+	<link rel="canonical" href="">
+	
+		
+	
+	<!-- Meta -->
+	<title>Best Musical Movie - Primomo</title>
+	<meta name="description" content="What is the Musical Movie ever? Singin' in the Rain? West Side Story? The Wizard of Oz? Cabaret? The Sound of Music? Oliver!? Guys and Dolls? Mary Poppins? Grease? Bugsy Malone? Moulin Rouge!? My Fair Lady? Chicago? Meet Me in St. Louis? Calamity Jane? Les Misérables? Annie? The King and I? Top Hat? The Umbrellas of Cherbourg? " />
+	<!-- Schema -->
+	<meta itemprop="name" content="Best Musical Movie">
+	<meta itemprop="description" content="What is the Musical Movie ever? Singin' in the Rain? West Side Story? The Wizard of Oz? Cabaret? The Sound of Music? Oliver!? Guys and Dolls? Mary Poppins? Grease? Bugsy Malone? Moulin Rouge!? My Fair Lady? Chicago? Meet Me in St. Louis? Calamity Jane? Les Misérables? Annie? The King and I? Top Hat? The Umbrellas of Cherbourg? "> 
+	<meta itemprop="image" content=""> 
+	 <meta itemprop="itemListOrder" content="Descending" /> 	<!-- Twitter -->
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:site" content="@playprimomo">
+	<meta name="twitter:title" content="Best Musical Movie">
+	<meta name="twitter:description" content="What is the Musical Movie ever? Singin' in the Rain? West Side Story? The Wizard of Oz? Cabaret? The Sound of Music? Oliver!? Guys and Dolls? Mary Poppins? Grease? Bugsy Malone? Moulin Rouge!? My Fair Lady? Chicago? Meet Me in St. Louis? Calamity Jane? Les Misérables? Annie? The King and I? Top Hat? The Umbrellas of Cherbourg? "> 
+	<meta name="twitter:creator" content="@playprimomo">
+	<meta name="twitter:image:src" content=""> 
+	<!-- Open Graph -->
+	<meta property="og:title" content="Best Musical Movie" />
+	<meta property="og:type" content="article" /> 
+	<meta property="og:url" content="" /> 
+	<meta property="og:image" content=""> 
+	<meta property="og:image:width" content="500"> 
+	<meta property="og:image:height" content="300"> 
+	<meta property="og:description" content="What is the Musical Movie ever? Singin' in the Rain? West Side Story? The Wizard of Oz? Cabaret? The Sound of Music? Oliver!? Guys and Dolls? Mary Poppins? Grease? Bugsy Malone? Moulin Rouge!? My Fair Lady? Chicago? Meet Me in St. Louis? Calamity Jane? Les Misérables? Annie? The King and I? Top Hat? The Umbrellas of Cherbourg? " /> 
+	<meta property="og:site_name" content="Primomo" />
+	<meta property="article:section" content="Movies" />  
+	<meta property="article:tag" content="Musical, Bob Fosse, Liza Minnelli, Gene Kelly, Leonard Bernstein, Natalie Wood, William Shakespeare, Judy Garland, Julie Andrews, Oscar Hammerstein, Marlon Brando, Frank Sinatra, Dick Van Dyke, Disney, Audrey Hepburn, Rex Harrison, Jodie Foster, Ewan McGregor, Baz Luhrmann, Nicole Kidman, Catherine Zeta-Jones, Richard Gere, Anne Hathaway, Tim Curry, Russell Crowe, Hugh Jackman, Amanda Seyfried, Eddie Redmayne" />  
+	<meta property="fb:admins" content="690322552, 598310032" />	
+
+	<link rel="stylesheet" href="/site/templates/components/normalize/normalize.min.css" />
+	<link rel="stylesheet" href="/site/templates/components/foundation/foundation.min.css" />
+	<link rel="stylesheet" href="/site/templates/components/animate-scss/animate.min.css" />
+
+	<script src="/site/templates/components/angular/angular.min.js"></script>
+	<script src="/site/templates/components/angular/angular-touch.min.js"></script>
+	<script src="/site/templates/components/angular-foundation/mm-foundation-tpls-0.8.0.min.js"></script>
+	<script src="/site/templates/components/modernizr.js"></script>
+	<script src="/site/templates/components/fastclick.js"></script>
+	
+	<script src="/site/templates/components/ng-FitText.js"></script>
+	<script src="/site/templates/components/flowtype.min.js"></script>
+	<script src="/site/templates/scripts/angular-swing.min.js"></script>
+	<script src="/site/templates/scripts/angular-equalizer.min.js"></script>
+	<script src="/site/templates/scripts/primomo.min.js"></script>
+	
+	<link rel="stylesheet" href="/site/templates/styles/primomo.min.css?" />
+	
+	<style class="game-colour">
+/* ccolour_base - base */
+.ccolour_base { background: #B03232}
+.ccolour_base-border { border-color: #B03232}
+.ccolour_base-text { color: #B03232}
+/* ccolour_d1 - darker 1 */
+.ccolour_d1 { background: #a02d2d}
+.ccolour_d1-border { border-color: #a02d2d}
+.ccolour_d1-text { color: #a02d2d}
+/* ccolour_d2 - darker 2 */
+.ccolour_d2 { background: #902929}
+.ccolour_d2-border { border-color: #902929}
+.ccolour_d2-text { color: #902929}
+/* ccolour_d3 - darker 3 */
+.ccolour_d3 { background: #802424}
+.ccolour_d3-border { border-color: #802424}
+.ccolour_d3-text { color: #802424}
+/* ccolour_l1 - lighter 1 */
+.ccolour_l1, {background: #c73a3a}
+.ccolour_l1-border { border-color: #c73a3a}
+.ccolour_l1-text { color: #c73a3a}
+/* Colour Styles */
+body, #viewport, .page-wrap:before {
+	background: #B03232	}
+.top-bar-section ul li, .top-bar-section li:not(.has-form) a:not(.button), .top-bar-section .has-form {
+	background: none;
+	}
+.top-bar-section li:not(.has-form) a:not(.button):hover, .top-bar-section ul li:hover:not(.has-form) > a, .top-bar-section .dropdown li:not(.has-form):not(.active) > a:not(.button) {
+	background: #902929	}
+html.touch .top-bar-section li.has-dropdown a:hover {
+	background:none;
+	}
+html.touch .top-bar-section li.has-dropdown.not-click a:hover {
+	background:#902929;
+	}
+.top-bar-section .dropdown li:not(.has-form):not(.active):hover > a:not(.button) {
+	background: #802424	}
+.top-bar, .fixednav, .top-bar .title-area, .top-bar.expanded .title-area {
+	background: #a02d2d	}	
+.top-bar input[type="text"] {
+	border-color: #a02d2d	}
+.accordian-percent {
+	background: #902929	}
+.results-header h3 {
+    color: #902929	}
+.sidebar-tags h4, .sidebar-cats h4 {
+    color: #902929	}	
+h3.section-header, h3.section-header a  {
+    color: #802424	}	
+h3.section-header a:hover  {
+    color: #902929	}		
+/* Medium and Up Only */	
+@media only screen and (min-width: 720px) {
+	.top-bar-section li.active:not(.has-form) a:not(.button) {
+		background: #a02d2d		}
+	.top-bar-section li.active:not(.has-form) a:not(.button):hover {
+		background: #902929		}
+	.top-bar-section .dropdown li.active:not(.has-form) a:not(.button) {
+		background: #902929		}
+	.top-bar-section .dropdown li.active:not(.has-form) a:not(.button):hover {
+		background: #802424		}		
+	}
+/* Small Only */	
+@media only screen and (max-width: 719px) {
+	.top-bar-section ul li, .top-bar-section .has-form {
+		background: #902929		}
+	.top-bar-section li:not(.has-form) a:not(.button):hover, .top-bar-section ul li:hover:not(.has-form) > a {
+		background: #802424		}
+	}
+</style>
+<style class="cat-colours">
+.catcolour_sport_standard{background:#1FA464;}.catcolour_sport_inverted *{color:#1FA464 !important;}.catcolour_entertainment_standard{background:#B03232;}.catcolour_entertainment_inverted *{color:#B03232 !important;}.catcolour_lifestyle_standard{background:#9B2C6F;}.catcolour_lifestyle_inverted *{color:#9B2C6F !important;}	
+</style>	<link href='https://fonts.googleapis.com/css?family=Comfortaa:300,400,700' rel='stylesheet' type='text/css'>
+	</head>	
+<body class='template-list'
+ng-app="primomoApp">
+
+<div><div ng-init="deckArray=[{name:'Singin\' in the Rain', subtitle:'', image:'/site/assets/files/3225/singing_in_the_rain_poster.300x300.jpg', copyright:'Copyright owned by either the publisher or the creator.', plays:85, wins:49, gamePlays:0, gameWins:0, cardPageId:3225},{name:'West Side Story', subtitle:'', image:'/site/assets/files/3226/west_side_story_poster.300x300.jpg', copyright:'Copyright owned by either the publisher or the creator.', plays:96, wins:59, gamePlays:0, gameWins:0, cardPageId:3226},{name:'The Wizard of Oz', subtitle:'', image:'/site/assets/files/3227/wizard_of_oz_original_poster_1939.300x300.jpg', copyright:'By MGM [Public domain], via Wikimedia Commons', plays:104, wins:66, gamePlays:0, gameWins:0, cardPageId:3227},{name:'Cabaret', subtitle:'', image:'/site/assets/files/3228/original_movie_poster_for_cabaret.300x300.jpg', copyright:'Copyright owned by either the publisher or the creator.', plays:96, wins:58, gamePlays:0, gameWins:0, cardPageId:3228},{name:'Cabaret', subtitle:'', image:'/site/assets/files/3229/original_movie_poster_for_cabaret.300x300.jpg', copyright:'Copyright owned by either the publisher or the creator.', plays:87, wins:49, gamePlays:0, gameWins:0, cardPageId:3229},{name:'The Sound of Music', subtitle:'', image:'/site/assets/files/3232/sound_of_music.300x300.jpg', copyright:'Copyright owned by either the publisher or the creator.', plays:127, wins:94, gamePlays:0, gameWins:0, cardPageId:3232},{name:'Oliver!', subtitle:'', image:'/site/assets/files/3233/oliver_21_281968_movie_poster_29.300x300.jpg', copyright:'Copyright owned by either the publisher or the creator.', plays:70, wins:32, gamePlays:0, gameWins:0, cardPageId:3233},{name:'Guys and Dolls', subtitle:'', image:'/site/assets/files/3234/guys_and_dolls_movieposter.300x300.jpg', copyright:'Copyright owned by either the publisher or the creator.', plays:63, wins:23, gamePlays:0, gameWins:0, cardPageId:3234},{name:'Mary Poppins', subtitle:'', image:'/site/assets/files/3235/marypoppins.300x300.jpg', copyright:'Copyright owned by either the publisher or the creator.', plays:81, wins:47, gamePlays:0, gameWins:0, cardPageId:3235},{name:'Grease', subtitle:'', image:'/site/assets/files/3236/grease_ver2.300x300.jpg', copyright:'Copyright owned by either the publisher or the creator.', plays:81, wins:43, gamePlays:0, gameWins:0, cardPageId:3236},{name:'Bugsy Malone', subtitle:'', image:'/site/assets/files/3237/bugsy_malone_movie_poster.300x300.jpg', copyright:'Copyright owned by either the publisher or the creator.', plays:62, wins:23, gamePlays:0, gameWins:0, cardPageId:3237},{name:'Moulin Rouge!', subtitle:'', image:'/site/assets/files/3238/moulin_rouge_poster.300x300.jpg', copyright:'Copyright owned by either the publisher or the creator.', plays:63, wins:23, gamePlays:0, gameWins:0, cardPageId:3238},{name:'My Fair Lady', subtitle:'', image:'/site/assets/files/3239/my_fair_lady_poster.300x300.jpg', copyright:'Copyright owned by either the publisher or the creator.', plays:89, wins:49, gamePlays:0, gameWins:0, cardPageId:3239},{name:'Chicago', subtitle:'', image:'/site/assets/files/3240/chicagopostercast.300x300.jpg', copyright:'Copyright owned by either the publisher or the creator.', plays:92, wins:55, gamePlays:0, gameWins:0, cardPageId:3240},{name:'Meet Me in St. Louis', subtitle:'', image:'/site/assets/files/3241/meet_me_in_st_louis_poster.300x300.jpg', copyright:'Copyright owned by either the publisher or the creator.', plays:66, wins:27, gamePlays:0, gameWins:0, cardPageId:3241},{name:'Calamity Jane', subtitle:'', image:'/site/assets/files/3242/calamity_jane_poster.300x300.jpg', copyright:'Copyright owned by either the publisher or the creator.', plays:53, wins:13, gamePlays:0, gameWins:0, cardPageId:3242},{name:'Les Misérables', subtitle:'', image:'/site/assets/files/3243/les-miserables-movie-poster1.300x300.jpg', copyright:'Copyright owned by either the publisher or the creator.', plays:82, wins:46, gamePlays:0, gameWins:0, cardPageId:3243},{name:'Annie', subtitle:'', image:'/site/assets/files/3244/annie-film.300x300.jpg', copyright:'Copyright owned by either the publisher or the creator.', plays:70, wins:30, gamePlays:0, gameWins:0, cardPageId:3244},{name:'The King and I', subtitle:'', image:'/site/assets/files/3245/original_movie_poster_for_the_film_the_king_and_i.300x300.jpg', copyright:'Copyright owned by either the publisher or the creator.', plays:57, wins:18, gamePlays:0, gameWins:0, cardPageId:3245},{name:'Top Hat', subtitle:'', image:'/site/assets/files/3246/tophatorgi.300x300.jpg', copyright:'Copyright owned by either the publisher or the creator.', plays:60, wins:20, gamePlays:0, gameWins:0, cardPageId:3246},{name:'Top Hat', subtitle:'', image:'/site/assets/files/3247/tophatorgi.300x300.jpg', copyright:'Copyright owned by either the publisher or the creator.', plays:47, wins:7, gamePlays:0, gameWins:0, cardPageId:3247},{name:'The Umbrellas of Cherbourg', subtitle:'', image:'/site/assets/files/3248/parapluieposter.300x300.jpg', copyright:'Copyright owned by either the publisher or the creator.', plays:49, wins:9, gamePlays:0, gameWins:0, cardPageId:3248},]; gameArray=[{title:'Best Musical Movie', interrogative:'What is', possessive:' ', possessiveAlt:'', subject:'the Best Musical Movie', summary:'What is the Musical Movie ever?'}]; pageId=3224;"></div></div>
+
+<div ng-controller="primomoController" class="page-wrap">
+
+<div class="fixednav">
+	<div class="row topbar-container">
+		<top-bar id="top-menu" class="top-bar top-menu" mobile-show-parent-link="true" is-hover="false">
+			<ul class="title-area">
+				<li class="name">
+					<h1><a href="/"><img class="primomo-logo" src="/site/templates/images/primomologotext.svg"><span></span></a></h1>
+				</li>
+				<li toggle-top-bar onclick="document.getElementById('top-search').classList.remove('expanded')" class="toggle-topbar toggle-topbar-main menu-icon"><a href=""><span></span></a></li>
+			</ul>
+			<top-bar-section ng-cloakx>
+				<ul class="right">
+					
+					
+<ul class="primenu">
+	<li>
+		<a href='/categories/entertainment/'>Entertainment</a>
+	</li>
+	<li>
+		<a href='/categories/sport/'>Sport</a>
+	</li>
+	<li>
+		<a href='/categories/lifestyle/'>Lifestyle</a>
+	</li>
+</ul>					
+					<li has-dropdown class="primenu-hasdropdown">
+						<a>More</a>
+						<ul top-bar-dropdown ng-cloak>
+							
+<ul class="more-menu">
+	<li>
+		<a href='/categories/entertainment/tv/'>TV</a>
+	</li>
+	<li>
+		<a href='/categories/lifestyle/people/'>People</a>
+	</li>
+	<li>
+		<a href='/categories/sport/football/'>Football</a>
+	</li>
+	<li>
+		<a href='/categories/lifestyle/food/'>Food</a>
+	</li>
+	<li>
+		<a href='/categories/entertainment/music/'>Music</a>
+	</li>
+	<li>
+		<a href='/categories/entertainment/movies/'>Movies</a>
+	</li>
+	<li>
+		<a href='/categories/'>All Categories</a>
+	</li>
+</ul>						</ul>
+					</li>
+					
+					<ul>
+						<li class="has-form search-form-medium-up">
+						    <div class="row collapse">
+						      <div class="large-12 small-12 columns">
+						        <form id="site-search-form" class="clearfix" action="/search/" method="get">
+									<input type="text" name="q" value="" placeholder="Search">
+								</form>
+						      </div>
+						    </div>
+						</li>
+					</ul>
+					
+				</ul>
+			</top-bar-section>
+		</top-bar>
+		
+		<top-bar id="top-search" class="top-bar top-search show-for-small-only" data-topbar="" style="height: 45px">
+			<ul class="title-area">
+				<li class="name"></li>
+				<li toggle-top-bar onclick="document.getElementById('top-menu').classList.remove('expanded')" class="toggle-topbar toggle-topbar-search menu-icon"><a href=""><span></span></a></li>
+			</ul>
+			<top-bar-section ng-cloak>
+				<ul>
+				  <li class="has-form search-form-small-only">
+				    <div class="row collapse">
+				      <div class="large-12 small-12 columns">
+				        <form id="site-search-form" class="clearfix" action="/search/" method="get">
+							<input type="text" name="q" value="" placeholder="Search">
+						</form>
+				      </div>
+				    </div>
+				  </li>
+				</ul>
+			</top-bar-section>
+		</top-bar>
+	</div>
+</div>
+
+
+<div class="row-container ccolour_base main-header">
+	<div class="row">
+		<div class="column">
+			<h2 class="top-header">Best Musical Movie</h2>
+		</div>
+	</div>
+	</div>
+
+<div id="body-wrap">
+	<div class="row-container">
+	<div class="row list-grid-row" id="sectionid1">
+		<div class="column">
+			<h3 class="left section-header">Related Lists</a></h3>
+				
+		</div>
+		
+		
+			<div class="column list-grid">
+				<div equalizer class="row">
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_lifestyle_standard catcolorstyle_standard' id='list-7082'>
+
+	<a href='/list/hottest-male-redhead/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/7082/michael_fassbender_by_gage_skidmore_2015.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Hottest Male Redhead</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-6835'>
+
+	<a href='/list/best-marvel-character/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/6835/k8vebocw.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Marvel Character</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-6768'>
+
+	<a href='/list/best-movie-villain/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/6768/anthony_hopkins_as_hannibal_lecter_28screenshot_29.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Movie Villain</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_lifestyle_standard catcolorstyle_standard' id='list-6710'>
+
+	<a href='/list/hottest-male-disney-character/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/6710/quiz-which-disney-prince-is-your-true-love-1-28264-1388941313-0_big.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Hottest Male Disney Character</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-6688'>
+
+	<a href='/list/best-disney-bad-guy/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/6688/villains_background.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Disney Baddie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-6639'>
+
+	<a href='/list/best-chris-columbus-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/6639/chris_columbus.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Chris Columbus Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-6590'>
+
+	<a href='/list/best-robert-zemeckis-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/6590/forrestgumpjfkscreenshot.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Robert Zemeckis Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-6572'>
+
+	<a href='/list/best-christopher-nolan-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/6572/christopher_nolan_2c_london_2c_2013_28crop_29.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Christopher Nolan Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-6546'>
+
+	<a href='/list/best-michael-bay-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/6546/michael_bay_060530-f-4692s-004.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Michael Bay Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-6027'>
+
+	<a href='/list/best-martin-scorsese-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/6027/martin_scorsese_cannes_2010.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Martin Scorsese Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-6000'>
+
+	<a href='/list/best-danny-devito-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/6000/danny_devito_by_gage_skidmore.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Danny DeVito Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-5884'>
+
+	<a href='/list/favourite-scottish-actor/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/5884/d0_94_d0_b6_d0_b5_d1_80_d0_b0_d1_80_d0_b4_d0_91_d0_b0_d1_82_d0_bb_d0_b5_d1_80.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Favourite Scottish Actor</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-5816'>
+
+	<a href='/list/best-anne-hathaway-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/5816/anne_hathaway_2014_28cropped_29.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Anne Hathaway Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-5765'>
+
+	<a href='/list/best-david-fincher-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/5765/fight_club_poster.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best David Fincher Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-5666'>
+
+	<a href='/list/best-leonardo-dicaprio/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/5666/leonardo_dicaprio_2014.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Leonardo DiCaprio Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-5453'>
+
+	<a href='/list/best-boxing-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/5453/filming_the_boxing_scenes.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Boxing Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-5407'>
+
+	<a href='/list/best-tom-hardy-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/5407/tom_hardy_locke_premiere.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Tom Hardy Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-4766'>
+
+	<a href='/list/best-christmas-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/4766/elf_movie.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Christmas Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-4589'>
+
+	<a href='/list/best-disney-prince/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/4589/quiz-which-disney-prince-is-your-true-love-1-28264-1388941313-0_big.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Disney Prince</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-4557'>
+
+	<a href='/list/best-johnny-depp-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/4557/johnnydepphwofjune2013.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Johnny Depp Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-4384'>
+
+	<a href='/list/best-macaulay-culkin-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/4384/macaulay_culkin_1991_b.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Macaulay Culkin Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-4244'>
+
+	<a href='/list/best-tony-scott-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/4244/top_gun_movie.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Tony Scott Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-4112'>
+
+	<a href='/list/best-robert-de-niro-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/4112/travisbickle.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Robert De Niro Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-4062'>
+
+	<a href='/list/best-harrison-ford-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/4062/harrison_ford_c_c3_a9sars_2010.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Harrison Ford Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+									</div>
+			</div>	
+						<div class="column"><div class='pagination-centered'><ul class='pagination'><li class='MarkupPagerNavPrevious MarkupPagerNavFirst'><a href='/list/best-musical-movie/page2'><span><<</span></a></li><li class='MarkupPagerNavFirstNum'><a href='/list/best-musical-movie/'><span>1</span></a></li><li><a href='/list/best-musical-movie/page2'><span>2</span></a></li><li class='current'><a href='/list/best-musical-movie/page3'><span>3</span></a></li><li class='MarkupPagerNavLastNum'><a href='/list/best-musical-movie/page4'><span>4</span></a></li><li class='MarkupPagerNavNext MarkupPagerNavLast'><a href='/list/best-musical-movie/page4'><span>>></span></a></li></ul></div></div>	</div>
+</div></div>
+
+</div> <!--ng-controller-->
+<footer class="ccolour_base">
+
+<div class="row">
+	<div class="medium-4 medium-push-8 columns">
+		<ul class="footer-social">
+			<li>
+				<a href="" class="xxx" style="opacity: 0 !important"></a>
+			</li>
+			<li>
+				<a href="" class="xxx" style="opacity: 0 !important"></a>
+			</li>
+			<!-- <li><a href="/about" class="mail"></a></li> -->
+		</ul>
+	</div>
+	<div class="medium-8 medium-pull-4 columns">		
+	</div>
+</div>
+
+</footer>
+<script>
+flowtype(document.body.querySelector('#stack-container'), {
+   minimum   : 0,
+   maximum   : 600,
+   minFont   : 1,
+   maxFont   : 50,
+   fontRatio : 14,
+   lineRatio : 1.45
+});	
+flowtype(document.body.querySelector('#gamemessage-container'), {
+   minimum   : 0,
+   maximum   : 600,
+   minFont   : 1,
+   maxFont   : 50,
+   fontRatio : 14,
+   lineRatio : 1.45
+});	
+</script>
+</body>
+</html>

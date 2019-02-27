@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+<!--[if IE 9]><html class="lt-ie10" lang="en" > <![endif]-->
+<html class="no-js" lang="en" itemscope itemtype="http://schema.org/ItemList">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+	<style type="text/css">@charset "UTF-8";[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {display: none !important;}</style>	
+	<link rel="canonical" href="">
+	
+		
+	
+	<!-- Meta -->
+	<title>Greatest Minnesota Twin - Primomo</title>
+	<meta name="description" content="Who is the Greatest Ever Minnesota Twins Player? Kirby Puckett? Rod Carew? Harmon Killebrew? Bert Blyleven? Tony Oliva? Joe Mauer? Frank Viola? Kent Hrbek? Justin Morneau? Michael Cuddyer? Gary Gaetti? Joe Nathan? Torii Hunter? Johan Santana? Jim Thome? Rick Aguilera? Brad Radke? Paul Molitor? Jack Morris? Jim Kaat? " />
+	<!-- Schema -->
+	<meta itemprop="name" content="Greatest Minnesota Twin">
+	<meta itemprop="description" content="Who is the Greatest Ever Minnesota Twins Player? Kirby Puckett? Rod Carew? Harmon Killebrew? Bert Blyleven? Tony Oliva? Joe Mauer? Frank Viola? Kent Hrbek? Justin Morneau? Michael Cuddyer? Gary Gaetti? Joe Nathan? Torii Hunter? Johan Santana? Jim Thome? Rick Aguilera? Brad Radke? Paul Molitor? Jack Morris? Jim Kaat? "> 
+	<meta itemprop="image" content=""> 
+	 <meta itemprop="itemListOrder" content="Descending" /> 	<!-- Twitter -->
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:site" content="@playprimomo">
+	<meta name="twitter:title" content="Greatest Minnesota Twin">
+	<meta name="twitter:description" content="Who is the Greatest Ever Minnesota Twins Player? Kirby Puckett? Rod Carew? Harmon Killebrew? Bert Blyleven? Tony Oliva? Joe Mauer? Frank Viola? Kent Hrbek? Justin Morneau? Michael Cuddyer? Gary Gaetti? Joe Nathan? Torii Hunter? Johan Santana? Jim Thome? Rick Aguilera? Brad Radke? Paul Molitor? Jack Morris? Jim Kaat? "> 
+	<meta name="twitter:creator" content="@playprimomo">
+	<meta name="twitter:image:src" content=""> 
+	<!-- Open Graph -->
+	<meta property="og:title" content="Greatest Minnesota Twin" />
+	<meta property="og:type" content="article" /> 
+	<meta property="og:url" content="" /> 
+	<meta property="og:image" content=""> 
+	<meta property="og:image:width" content="500"> 
+	<meta property="og:image:height" content="300"> 
+	<meta property="og:description" content="Who is the Greatest Ever Minnesota Twins Player? Kirby Puckett? Rod Carew? Harmon Killebrew? Bert Blyleven? Tony Oliva? Joe Mauer? Frank Viola? Kent Hrbek? Justin Morneau? Michael Cuddyer? Gary Gaetti? Joe Nathan? Torii Hunter? Johan Santana? Jim Thome? Rick Aguilera? Brad Radke? Paul Molitor? Jack Morris? Jim Kaat? " /> 
+	<meta property="og:site_name" content="Primomo" />
+	<meta property="article:section" content="Baseball" />  
+	<meta property="article:tag" content="Minnesota , Minnesota Twins , Minneapolis, Prince , Bob Dylan, Jessica Biel , Vince Vaughn" />  
+	<meta property="fb:admins" content="690322552, 598310032" />	
+
+	<link rel="stylesheet" href="/site/templates/components/normalize/normalize.min.css" />
+	<link rel="stylesheet" href="/site/templates/components/foundation/foundation.min.css" />
+	<link rel="stylesheet" href="/site/templates/components/animate-scss/animate.min.css" />
+
+	<script src="/site/templates/components/angular/angular.min.js"></script>
+	<script src="/site/templates/components/angular/angular-touch.min.js"></script>
+	<script src="/site/templates/components/angular-foundation/mm-foundation-tpls-0.8.0.min.js"></script>
+	<script src="/site/templates/components/modernizr.js"></script>
+	<script src="/site/templates/components/fastclick.js"></script>
+	
+	<script src="/site/templates/components/ng-FitText.js"></script>
+	<script src="/site/templates/components/flowtype.min.js"></script>
+	<script src="/site/templates/scripts/angular-swing.min.js"></script>
+	<script src="/site/templates/scripts/angular-equalizer.min.js"></script>
+	<script src="/site/templates/scripts/primomo.min.js"></script>
+	
+	<link rel="stylesheet" href="/site/templates/styles/primomo.min.css?" />
+	
+	<style class="game-colour">
+/* ccolour_base - base */
+.ccolour_base { background: #1FA464}
+.ccolour_base-border { border-color: #1FA464}
+.ccolour_base-text { color: #1FA464}
+/* ccolour_d1 - darker 1 */
+.ccolour_d1 { background: #1c935a}
+.ccolour_d1-border { border-color: #1c935a}
+.ccolour_d1-text { color: #1c935a}
+/* ccolour_d2 - darker 2 */
+.ccolour_d2 { background: #19824f}
+.ccolour_d2-border { border-color: #19824f}
+.ccolour_d2-text { color: #19824f}
+/* ccolour_d3 - darker 3 */
+.ccolour_d3 { background: #157145}
+.ccolour_d3-border { border-color: #157145}
+.ccolour_d3-text { color: #157145}
+/* ccolour_l1 - lighter 1 */
+.ccolour_l1, {background: #24be74}
+.ccolour_l1-border { border-color: #24be74}
+.ccolour_l1-text { color: #24be74}
+/* Colour Styles */
+body, #viewport, .page-wrap:before {
+	background: #1FA464	}
+.top-bar-section ul li, .top-bar-section li:not(.has-form) a:not(.button), .top-bar-section .has-form {
+	background: none;
+	}
+.top-bar-section li:not(.has-form) a:not(.button):hover, .top-bar-section ul li:hover:not(.has-form) > a, .top-bar-section .dropdown li:not(.has-form):not(.active) > a:not(.button) {
+	background: #19824f	}
+html.touch .top-bar-section li.has-dropdown a:hover {
+	background:none;
+	}
+html.touch .top-bar-section li.has-dropdown.not-click a:hover {
+	background:#19824f;
+	}
+.top-bar-section .dropdown li:not(.has-form):not(.active):hover > a:not(.button) {
+	background: #157145	}
+.top-bar, .fixednav, .top-bar .title-area, .top-bar.expanded .title-area {
+	background: #1c935a	}	
+.top-bar input[type="text"] {
+	border-color: #1c935a	}
+.accordian-percent {
+	background: #19824f	}
+.results-header h3 {
+    color: #19824f	}
+.sidebar-tags h4, .sidebar-cats h4 {
+    color: #19824f	}	
+h3.section-header, h3.section-header a  {
+    color: #157145	}	
+h3.section-header a:hover  {
+    color: #19824f	}		
+/* Medium and Up Only */	
+@media only screen and (min-width: 720px) {
+	.top-bar-section li.active:not(.has-form) a:not(.button) {
+		background: #1c935a		}
+	.top-bar-section li.active:not(.has-form) a:not(.button):hover {
+		background: #19824f		}
+	.top-bar-section .dropdown li.active:not(.has-form) a:not(.button) {
+		background: #19824f		}
+	.top-bar-section .dropdown li.active:not(.has-form) a:not(.button):hover {
+		background: #157145		}		
+	}
+/* Small Only */	
+@media only screen and (max-width: 719px) {
+	.top-bar-section ul li, .top-bar-section .has-form {
+		background: #19824f		}
+	.top-bar-section li:not(.has-form) a:not(.button):hover, .top-bar-section ul li:hover:not(.has-form) > a {
+		background: #157145		}
+	}
+</style>
+<style class="cat-colours">
+.catcolour_sport_standard{background:#1FA464;}.catcolour_sport_inverted *{color:#1FA464 !important;}.catcolour_entertainment_standard{background:#B03232;}.catcolour_entertainment_inverted *{color:#B03232 !important;}.catcolour_lifestyle_standard{background:#9B2C6F;}.catcolour_lifestyle_inverted *{color:#9B2C6F !important;}	
+</style>	<link href='https://fonts.googleapis.com/css?family=Comfortaa:300,400,700' rel='stylesheet' type='text/css'>
+	</head>	
+<body class='template-list'
+ng-app="primomoApp">
+
+<div><div ng-init="deckArray=[{name:'Kirby Puckett', subtitle:'', image:'/site/assets/files/7312/kirby_puckett_retired.300x300.jpg', copyright:'By allen_dimick (Kirby Puckett) [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons', plays:10, wins:8, gamePlays:0, gameWins:0, cardPageId:7312},{name:'Rod Carew', subtitle:'', image:'/site/assets/files/7313/rod_carew_2008.300x300.jpg', copyright:'By Tito Herrera (Untitled) [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons', plays:8, wins:5, gamePlays:0, gameWins:0, cardPageId:7313},{name:'Harmon Killebrew', subtitle:'', image:'/site/assets/files/7314/harmon_killebrew_1962.300x300.jpg', copyright:'See page for author [Public domain], via Wikimedia Commons', plays:16, wins:15, gamePlays:0, gameWins:0, cardPageId:7314},{name:'Bert Blyleven', subtitle:'', image:'/site/assets/files/7315/bert_blyleven.300x300.jpg', copyright:'By ConspiracyofHappiness on Flickr (Original version) User UCinternational (Crop) [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons', plays:5, wins:2, gamePlays:0, gameWins:0, cardPageId:7315},{name:'Tony Oliva', subtitle:'', image:'/site/assets/files/7316/tony_oliva_2010.300x300.jpg', copyright:'By resedabear (Tony Oliva) [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons', plays:6, wins:3, gamePlays:0, gameWins:0, cardPageId:7316},{name:'Joe Mauer', subtitle:'', image:'/site/assets/files/7317/aaaa8040_joe_mauer.300x300.jpg', copyright:'By User Keith Allison on Flickr (Originally posted to Flickr as &amp;quot;AAAA8040&amp;quot;) [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons', plays:3, wins:0, gamePlays:0, gameWins:0, cardPageId:7317},{name:'Frank Viola', subtitle:'', image:'/site/assets/files/7318/viola-pitch.300x300.jpg', copyright:'Fair use', plays:8, wins:5, gamePlays:0, gameWins:0, cardPageId:7318},{name:'Kent Hrbek', subtitle:'', image:'/site/assets/files/7319/kenthrbekyoung_thumb_560x380.300x300.jpg', copyright:'Fair use', plays:4, wins:1, gamePlays:0, gameWins:0, cardPageId:7319},{name:'Justin Morneau', subtitle:'', image:'/site/assets/files/7320/mg_8889_justin_morneau.300x300.jpg', copyright:'By William Andrus on Flickr (Original version) UCinternational (Crop) [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons', plays:4, wins:1, gamePlays:0, gameWins:0, cardPageId:7320},{name:'Michael Cuddyer', subtitle:'', image:'/site/assets/files/7321/michael_cuddyer_2.300x300.jpg', copyright:'By Wknight94 (Own work) [GFDL (http://www.gnu.org/copyleft/fdl.html) or CC-BY-SA-3.0 (http://creativecommons.org/licenses/by-sa/3.0/)], via Wikimedia Commons', plays:4, wins:1, gamePlays:0, gameWins:0, cardPageId:7321},{name:'Gary Gaetti', subtitle:'', image:'/site/assets/files/7322/gary_gaetti_sugar_land_skeeters_july_2014.300x300.jpg', copyright:'By EricEnfermero (Own work) [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons', plays:5, wins:2, gamePlays:0, gameWins:0, cardPageId:7322},{name:'Joe Nathan', subtitle:'', image:'/site/assets/files/7323/0923_493c_joe_nathan.300x300.jpg', copyright:'By User Keith Allison on Flickr (Originally posted to Flickr as &amp;quot;0923 493c&amp;quot;) [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons', plays:3, wins:0, gamePlays:0, gameWins:0, cardPageId:7323},{name:'Torii Hunter', subtitle:'', image:'/site/assets/files/7324/0923_240cb_torii_hunter.300x300.jpg', copyright:'By Keith Allison on Flickr (Originally posted to Flickr as &amp;quot;0923 240cb&amp;quot;) [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons', plays:6, wins:3, gamePlays:0, gameWins:0, cardPageId:7324},{name:'Johan Santana', subtitle:'', image:'/site/assets/files/7325/johan_santana_20060602.300x300.jpg', copyright:'By User Lordcolus (Original version) User UCinternational (Crop) [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons', plays:4, wins:1, gamePlays:0, gameWins:0, cardPageId:7325},{name:'Jim Thome', subtitle:'', image:'/site/assets/files/7326/baseball_-_sledge_making_base.300x300.jpg', copyright:'By John from DC Area (Flickr) [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons', plays:3, wins:0, gamePlays:0, gameWins:0, cardPageId:7326},{name:'Rick Aguilera', subtitle:'', image:'/site/assets/files/7327/aguliera-rick-160-1619.300x300.jpg', copyright:'Fair use', plays:3, wins:0, gamePlays:0, gameWins:0, cardPageId:7327},{name:'Brad Radke', subtitle:'', image:'/site/assets/files/7328/kevin-slowey.300x300.jpg', copyright:'Fair use', plays:5, wins:2, gamePlays:0, gameWins:0, cardPageId:7328},{name:'Paul Molitor', subtitle:'', image:'/site/assets/files/7329/paul_molitor_white_house.300x300.jpg', copyright:'By Paul Morse [Public domain], via Wikimedia Commons', plays:6, wins:3, gamePlays:0, gameWins:0, cardPageId:7329},{name:'Jack Morris', subtitle:'', image:'/site/assets/files/7330/jack_morris_2013.300x300.jpg', copyright:'By Arturo Pardavila III from Hoboken, NJ, USA (Cone behind the bar) [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons', plays:5, wins:2, gamePlays:0, gameWins:0, cardPageId:7330},{name:'Jim Kaat', subtitle:'', image:'/site/assets/files/7331/jim_kaat_2013.300x300.jpg', copyright:'By Arturo Pardavila III from Hoboken, NJ, USA (2013 MLBPAA Legends for Youth Dinner) [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons', plays:6, wins:3, gamePlays:0, gameWins:0, cardPageId:7331},]; gameArray=[{title:'Greatest Minnesota Twin', interrogative:'Who is', possessive:' ', possessiveAlt:'', subject:'the Greatest Ever Minnesota Twins Player', summary:'Who is the Greatest Ever Minnesota Twins Player?'}]; pageId=7311;"></div></div>
+
+<div ng-controller="primomoController" class="page-wrap">
+
+<div class="fixednav">
+	<div class="row topbar-container">
+		<top-bar id="top-menu" class="top-bar top-menu" mobile-show-parent-link="true" is-hover="false">
+			<ul class="title-area">
+				<li class="name">
+					<h1><a href="/"><img class="primomo-logo" src="/site/templates/images/primomologotext.svg"><span></span></a></h1>
+				</li>
+				<li toggle-top-bar onclick="document.getElementById('top-search').classList.remove('expanded')" class="toggle-topbar toggle-topbar-main menu-icon"><a href=""><span></span></a></li>
+			</ul>
+			<top-bar-section ng-cloakx>
+				<ul class="right">
+					
+					
+<ul class="primenu">
+	<li>
+		<a href='/categories/entertainment/'>Entertainment</a>
+	</li>
+	<li>
+		<a href='/categories/sport/'>Sport</a>
+	</li>
+	<li>
+		<a href='/categories/lifestyle/'>Lifestyle</a>
+	</li>
+</ul>					
+					<li has-dropdown class="primenu-hasdropdown">
+						<a>More</a>
+						<ul top-bar-dropdown ng-cloak>
+							
+<ul class="more-menu">
+	<li>
+		<a href='/categories/entertainment/tv/'>TV</a>
+	</li>
+	<li>
+		<a href='/categories/lifestyle/people/'>People</a>
+	</li>
+	<li>
+		<a href='/categories/sport/football/'>Football</a>
+	</li>
+	<li>
+		<a href='/categories/lifestyle/food/'>Food</a>
+	</li>
+	<li>
+		<a href='/categories/entertainment/music/'>Music</a>
+	</li>
+	<li>
+		<a href='/categories/entertainment/movies/'>Movies</a>
+	</li>
+	<li>
+		<a href='/categories/'>All Categories</a>
+	</li>
+</ul>						</ul>
+					</li>
+					
+					<ul>
+						<li class="has-form search-form-medium-up">
+						    <div class="row collapse">
+						      <div class="large-12 small-12 columns">
+						        <form id="site-search-form" class="clearfix" action="/search/" method="get">
+									<input type="text" name="q" value="" placeholder="Search">
+								</form>
+						      </div>
+						    </div>
+						</li>
+					</ul>
+					
+				</ul>
+			</top-bar-section>
+		</top-bar>
+		
+		<top-bar id="top-search" class="top-bar top-search show-for-small-only" data-topbar="" style="height: 45px">
+			<ul class="title-area">
+				<li class="name"></li>
+				<li toggle-top-bar onclick="document.getElementById('top-menu').classList.remove('expanded')" class="toggle-topbar toggle-topbar-search menu-icon"><a href=""><span></span></a></li>
+			</ul>
+			<top-bar-section ng-cloak>
+				<ul>
+				  <li class="has-form search-form-small-only">
+				    <div class="row collapse">
+				      <div class="large-12 small-12 columns">
+				        <form id="site-search-form" class="clearfix" action="/search/" method="get">
+							<input type="text" name="q" value="" placeholder="Search">
+						</form>
+				      </div>
+				    </div>
+				  </li>
+				</ul>
+			</top-bar-section>
+		</top-bar>
+	</div>
+</div>
+
+
+<div class="row-container ccolour_base main-header">
+	<div class="row">
+		<div class="column">
+			<h2 class="top-header">Greatest Minnesota Twin</h2>
+		</div>
+	</div>
+	</div>
+
+<div id="body-wrap">
+	<div class="row-container">
+	<div class="row list-grid-row" id="sectionid1">
+		<div class="column">
+			<h3 class="left section-header">Related Lists</a></h3>
+				
+		</div>
+		
+		
+			<div class="column list-grid">
+				<div equalizer class="row">
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-6027'>
+
+	<a href='/list/best-martin-scorsese-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/6027/martin_scorsese_cannes_2010.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Martin Scorsese Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-5735'>
+
+	<a href='/list/best-brad-pitt-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/5735/brad_pitt_inglorious_basterds_berlin_premiere.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Brad Pitt Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+									</div>
+			</div>	
+						<div class="column"><div class='pagination-centered'><ul class='pagination'><li class='MarkupPagerNavPrevious MarkupPagerNavFirst'><a href='/list/greatest-minnesota-twin/'><span><<</span></a></li><li class='MarkupPagerNavFirstNum'><a href='/list/greatest-minnesota-twin/'><span>1</span></a></li><li class='current MarkupPagerNavLast MarkupPagerNavLastNum'><a href='/list/greatest-minnesota-twin/page2'><span>2</span></a></li></ul></div></div>	</div>
+</div></div>
+
+</div> <!--ng-controller-->
+<footer class="ccolour_base">
+
+<div class="row">
+	<div class="medium-4 medium-push-8 columns">
+		<ul class="footer-social">
+			<li>
+				<a href="" class="xxx" style="opacity: 0 !important"></a>
+			</li>
+			<li>
+				<a href="" class="xxx" style="opacity: 0 !important"></a>
+			</li>
+			<!-- <li><a href="/about" class="mail"></a></li> -->
+		</ul>
+	</div>
+	<div class="medium-8 medium-pull-4 columns">		
+	</div>
+</div>
+
+</footer>
+<script>
+flowtype(document.body.querySelector('#stack-container'), {
+   minimum   : 0,
+   maximum   : 600,
+   minFont   : 1,
+   maxFont   : 50,
+   fontRatio : 14,
+   lineRatio : 1.45
+});	
+flowtype(document.body.querySelector('#gamemessage-container'), {
+   minimum   : 0,
+   maximum   : 600,
+   minFont   : 1,
+   maxFont   : 50,
+   fontRatio : 14,
+   lineRatio : 1.45
+});	
+</script>
+</body>
+</html>

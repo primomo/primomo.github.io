@@ -1,0 +1,717 @@
+<!DOCTYPE html>
+<!--[if IE 9]><html class="lt-ie10" lang="en" > <![endif]-->
+<html class="no-js" lang="en" itemscope itemtype="http://schema.org/ItemList">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+	<style type="text/css">@charset "UTF-8";[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {display: none !important;}</style>	
+	<link rel="canonical" href="">
+	
+		
+	
+	<!-- Meta -->
+	<title>Greatest Movie Character - Primomo</title>
+	<meta name="description" content="Great characters make great films. And in this game we are trying to determine who is the best of the best.  Many different genres of film make it onto this list, whether it be sci-fi, drama, comedy or gangster. The heroes and villains included share one thing in common, they are spectacularly written characters. But who will come out on top for you?
+
+Amazingly the actor Harrison Ford features twice on this list, as the maverick pilot in the Star Wars universe Han Solo and also as the charismatic Indiana Jones who first appeared on our screens in 1981's Raiders of the lost Ark. Another character from Star Wars appears here, will Darth Vader take your vote? Super heroes and super villains have captured the imagination for decades, Batman, The Joker and Ironman all make our shortlist. Or maybe you've always dreamt of being a secret agent, and arguably the greatest of them all James Bond, 007, it's here for your vote. All that spying stuff would be far too high paced for another contender, Jeffrey Lebowski a.k.a. The Dude from the Coen brothers movie the Big Lebowski makes the list.
+
+So he will be top of the pile? Who is the Greatest Film Character of All Time? Play Primomo and discover your favourites." />
+	<!-- Schema -->
+	<meta itemprop="name" content="Greatest Movie Character">
+	<meta itemprop="description" content="Great characters make great films. And in this game we are trying to determine who is the best of the best.  Many different genres of film make it onto this list, whether it be sci-fi, drama, comedy or gangster. The heroes and villains included share one thing in common, they are spectacularly written characters. But who will come out on top for you?
+
+Amazingly the actor Harrison Ford features twice on this list, as the maverick pilot in the Star Wars universe Han Solo and also as the charismatic Indiana Jones who first appeared on our screens in 1981's Raiders of the lost Ark. Another character from Star Wars appears here, will Darth Vader take your vote? Super heroes and super villains have captured the imagination for decades, Batman, The Joker and Ironman all make our shortlist. Or maybe you've always dreamt of being a secret agent, and arguably the greatest of them all James Bond, 007, it's here for your vote. All that spying stuff would be far too high paced for another contender, Jeffrey Lebowski a.k.a. The Dude from the Coen brothers movie the Big Lebowski makes the list.
+
+So he will be top of the pile? Who is the Greatest Film Character of All Time? Play Primomo and discover your favourites."> 
+	<meta itemprop="image" content=""> 
+	 <meta itemprop="itemListOrder" content="Descending" /> 	<!-- Twitter -->
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:site" content="@playprimomo">
+	<meta name="twitter:title" content="Greatest Movie Character">
+	<meta name="twitter:description" content="Great characters make great films. And in this game we are trying to determine who is the best of the best.  Many different genres of film make it onto this list, whether it be sci-fi, drama, comedy or gangster. The heroes and villains included share one thing in common, they are spectacularly written characters. But who will come out on top for you?
+
+Amazingly the actor Harrison Ford features twice on this list, as the maverick pilot in the Star Wars universe Han Solo and also as the charismatic Indiana Jones who first appeared on our screens in 1981's Raiders of the lost Ark. Another character from Star Wars appears here, will Darth Vader take your vote? Super heroes and super villains have captured the imagination for decades, Batman, The Joker and Ironman all make our shortlist. Or maybe you've always dreamt of being a secret agent, and arguably the greatest of them all James Bond, 007, it's here for your vote. All that spying stuff would be far too high paced for another contender, Jeffrey Lebowski a.k.a. The Dude from the Coen brothers movie the Big Lebowski makes the list.
+
+So he will be top of the pile? Who is the Greatest Film Character of All Time? Play Primomo and discover your favourites."> 
+	<meta name="twitter:creator" content="@playprimomo">
+	<meta name="twitter:image:src" content=""> 
+	<!-- Open Graph -->
+	<meta property="og:title" content="Greatest Movie Character" />
+	<meta property="og:type" content="article" /> 
+	<meta property="og:url" content="" /> 
+	<meta property="og:image" content=""> 
+	<meta property="og:image:width" content="500"> 
+	<meta property="og:image:height" content="300"> 
+	<meta property="og:description" content="Great characters make great films. And in this game we are trying to determine who is the best of the best.  Many different genres of film make it onto this list, whether it be sci-fi, drama, comedy or gangster. The heroes and villains included share one thing in common, they are spectacularly written characters. But who will come out on top for you?
+
+Amazingly the actor Harrison Ford features twice on this list, as the maverick pilot in the Star Wars universe Han Solo and also as the charismatic Indiana Jones who first appeared on our screens in 1981's Raiders of the lost Ark. Another character from Star Wars appears here, will Darth Vader take your vote? Super heroes and super villains have captured the imagination for decades, Batman, The Joker and Ironman all make our shortlist. Or maybe you've always dreamt of being a secret agent, and arguably the greatest of them all James Bond, 007, it's here for your vote. All that spying stuff would be far too high paced for another contender, Jeffrey Lebowski a.k.a. The Dude from the Coen brothers movie the Big Lebowski makes the list.
+
+So he will be top of the pile? Who is the Greatest Film Character of All Time? Play Primomo and discover your favourites." /> 
+	<meta property="og:site_name" content="Primomo" />
+	<meta property="article:section" content="Movies" />  
+	<meta property="article:tag" content="Harrison Ford, 007, Star Wars, Ridley Scott, Tim Burton, Bruce Willis, Brad Pitt, Jeff Bridges, Coen Brothers, Al Pacino, Robert Downey Jr, Johnny Depp, Lord of the Rings , Will Ferrell, Tom Hanks" />  
+	<meta property="fb:admins" content="690322552, 598310032" />	
+
+	<link rel="stylesheet" href="/site/templates/components/normalize/normalize.min.css" />
+	<link rel="stylesheet" href="/site/templates/components/foundation/foundation.min.css" />
+	<link rel="stylesheet" href="/site/templates/components/animate-scss/animate.min.css" />
+
+	<script src="/site/templates/components/angular/angular.min.js"></script>
+	<script src="/site/templates/components/angular/angular-touch.min.js"></script>
+	<script src="/site/templates/components/angular-foundation/mm-foundation-tpls-0.8.0.min.js"></script>
+	<script src="/site/templates/components/modernizr.js"></script>
+	<script src="/site/templates/components/fastclick.js"></script>
+	
+	<script src="/site/templates/components/ng-FitText.js"></script>
+	<script src="/site/templates/components/flowtype.min.js"></script>
+	<script src="/site/templates/scripts/angular-swing.min.js"></script>
+	<script src="/site/templates/scripts/angular-equalizer.min.js"></script>
+	<script src="/site/templates/scripts/primomo.min.js"></script>
+	
+	<link rel="stylesheet" href="/site/templates/styles/primomo.min.css?" />
+	
+	<style class="game-colour">
+/* ccolour_base - base */
+.ccolour_base { background: #B03232}
+.ccolour_base-border { border-color: #B03232}
+.ccolour_base-text { color: #B03232}
+/* ccolour_d1 - darker 1 */
+.ccolour_d1 { background: #a02d2d}
+.ccolour_d1-border { border-color: #a02d2d}
+.ccolour_d1-text { color: #a02d2d}
+/* ccolour_d2 - darker 2 */
+.ccolour_d2 { background: #902929}
+.ccolour_d2-border { border-color: #902929}
+.ccolour_d2-text { color: #902929}
+/* ccolour_d3 - darker 3 */
+.ccolour_d3 { background: #802424}
+.ccolour_d3-border { border-color: #802424}
+.ccolour_d3-text { color: #802424}
+/* ccolour_l1 - lighter 1 */
+.ccolour_l1, {background: #c73a3a}
+.ccolour_l1-border { border-color: #c73a3a}
+.ccolour_l1-text { color: #c73a3a}
+/* Colour Styles */
+body, #viewport, .page-wrap:before {
+	background: #B03232	}
+.top-bar-section ul li, .top-bar-section li:not(.has-form) a:not(.button), .top-bar-section .has-form {
+	background: none;
+	}
+.top-bar-section li:not(.has-form) a:not(.button):hover, .top-bar-section ul li:hover:not(.has-form) > a, .top-bar-section .dropdown li:not(.has-form):not(.active) > a:not(.button) {
+	background: #902929	}
+html.touch .top-bar-section li.has-dropdown a:hover {
+	background:none;
+	}
+html.touch .top-bar-section li.has-dropdown.not-click a:hover {
+	background:#902929;
+	}
+.top-bar-section .dropdown li:not(.has-form):not(.active):hover > a:not(.button) {
+	background: #802424	}
+.top-bar, .fixednav, .top-bar .title-area, .top-bar.expanded .title-area {
+	background: #a02d2d	}	
+.top-bar input[type="text"] {
+	border-color: #a02d2d	}
+.accordian-percent {
+	background: #902929	}
+.results-header h3 {
+    color: #902929	}
+.sidebar-tags h4, .sidebar-cats h4 {
+    color: #902929	}	
+h3.section-header, h3.section-header a  {
+    color: #802424	}	
+h3.section-header a:hover  {
+    color: #902929	}		
+/* Medium and Up Only */	
+@media only screen and (min-width: 720px) {
+	.top-bar-section li.active:not(.has-form) a:not(.button) {
+		background: #a02d2d		}
+	.top-bar-section li.active:not(.has-form) a:not(.button):hover {
+		background: #902929		}
+	.top-bar-section .dropdown li.active:not(.has-form) a:not(.button) {
+		background: #902929		}
+	.top-bar-section .dropdown li.active:not(.has-form) a:not(.button):hover {
+		background: #802424		}		
+	}
+/* Small Only */	
+@media only screen and (max-width: 719px) {
+	.top-bar-section ul li, .top-bar-section .has-form {
+		background: #902929		}
+	.top-bar-section li:not(.has-form) a:not(.button):hover, .top-bar-section ul li:hover:not(.has-form) > a {
+		background: #802424		}
+	}
+</style>
+<style class="cat-colours">
+.catcolour_sport_standard{background:#1FA464;}.catcolour_sport_inverted *{color:#1FA464 !important;}.catcolour_entertainment_standard{background:#B03232;}.catcolour_entertainment_inverted *{color:#B03232 !important;}.catcolour_lifestyle_standard{background:#9B2C6F;}.catcolour_lifestyle_inverted *{color:#9B2C6F !important;}	
+</style>	<link href='https://fonts.googleapis.com/css?family=Comfortaa:300,400,700' rel='stylesheet' type='text/css'>
+	</head>	
+<body class='template-list'
+ng-app="primomoApp">
+
+<div><div ng-init="deckArray=[{name:'Indiana Jones', subtitle:'', image:'/site/assets/files/13715/indiana-jones-not-recast.300x300.jpg', copyright:'Paramount Pictures', plays:124, wins:66, gamePlays:0, gameWins:0, cardPageId:13715},{name:'James Bond', subtitle:'', image:'/site/assets/files/13716/roger-moore-james-bond-bw.300x300.jpg', copyright:'Eon Productions', plays:131, wins:79, gamePlays:0, gameWins:0, cardPageId:13716},{name:'Han Solo', subtitle:'', image:'/site/assets/files/13717/han_solo_depicted_in_promotional_image_for_star_wars_281977_29.300x300.jpg', copyright:'20th Century Fox', plays:117, wins:63, gamePlays:0, gameWins:0, cardPageId:13717},{name:'Batman', subtitle:'', image:'/site/assets/files/13718/batman_1989_micheal_keaton_batclaw.300x300.jpg', copyright:'Warner Bros.', plays:125, wins:73, gamePlays:0, gameWins:0, cardPageId:13718},{name:'Ellen Ripley', subtitle:'', image:'/site/assets/files/13719/ellen_ripley.300x300.jpg', copyright:'20th Century Fox', plays:85, wins:29, gamePlays:0, gameWins:0, cardPageId:13719},{name:'The Joker', subtitle:'', image:'/site/assets/files/13720/heathjoker.300x300.jpg', copyright:'Warner Bros. Pictures', plays:138, wins:85, gamePlays:0, gameWins:0, cardPageId:13720},{name:'John McClane', subtitle:'', image:'/site/assets/files/13721/john-mcclane-die-hard.300x300.jpg', copyright:'20th Century Fox', plays:96, wins:37, gamePlays:0, gameWins:0, cardPageId:13721},{name:'Tyler Durden', subtitle:'', image:'/site/assets/files/13722/movie-stills-tyler-durden-26310017-1200-783.300x300.jpg', copyright:'20th Century Fox', plays:101, wins:45, gamePlays:0, gameWins:0, cardPageId:13722},{name:'Darth Vader', subtitle:'', image:'/site/assets/files/13723/darth_vader.300x300.jpg', copyright:'20th Century Fox', plays:149, wins:96, gamePlays:0, gameWins:0, cardPageId:13723},{name:'The Dude', subtitle:'', image:'/site/assets/files/13724/5714675681_6500bc78e4_o_0.300x300.jpg', copyright:'Gramercy Pictures', plays:98, wins:42, gamePlays:0, gameWins:0, cardPageId:13724},{name:'Michael Corleone', subtitle:'', image:'/site/assets/files/13725/michaelcoreleone.300x300.jpg', copyright:'Paramount Pictures', plays:110, wins:54, gamePlays:0, gameWins:0, cardPageId:13725},{name:'Marty McFly', subtitle:'', image:'/site/assets/files/13726/michael_j__fox_as_marty_mcfly_in_back_to_the_future_2c_1985.300x300.jpg', copyright:'Universal Pictures', plays:100, wins:41, gamePlays:0, gameWins:0, cardPageId:13726},{name:'Iron Man', subtitle:'', image:'/site/assets/files/13727/iron-man1.300x300.jpg', copyright:'Paramount Pictures', plays:121, wins:65, gamePlays:0, gameWins:0, cardPageId:13727},{name:'Jack Sparrow', subtitle:'', image:'/site/assets/files/13728/jack_sparrow_in_pirates_of_the_caribbean-_at_world_27s_end.300x300.jpg', copyright:'Walt Disney Studios', plays:128, wins:74, gamePlays:0, gameWins:0, cardPageId:13728},{name:'Aragorn', subtitle:'', image:'/site/assets/files/13729/aragorn.300x300.jpg', copyright:'New Line Cinema', plays:93, wins:35, gamePlays:0, gameWins:0, cardPageId:13729},{name:'Ron Burgundy', subtitle:'', image:'/site/assets/files/13730/best-quotes-from-anchorman-legend-ron-burgundy.300x300.jpg', copyright:'DreamWorks Pictures', plays:90, wins:32, gamePlays:0, gameWins:0, cardPageId:13730},{name:'Rick Blaine', subtitle:'', image:'/site/assets/files/13731/rick.300x300.jpg', copyright:'Warner Bros.', plays:86, wins:28, gamePlays:0, gameWins:0, cardPageId:13731},{name:'Forrest Gump', subtitle:'', image:'/site/assets/files/13732/o-forrest-gump-facebook.300x300.jpg', copyright:'Paramount Pictures', plays:114, wins:59, gamePlays:0, gameWins:0, cardPageId:13732},]; gameArray=[{title:'Greatest Movie Character', interrogative:'Who is', possessive:' ', possessiveAlt:'', subject:'the Greatest Ever Movie Character', summary:'Who is  the Greatest Ever Movie Character?'}]; pageId=13714;"></div></div>
+
+<div ng-controller="primomoController" class="page-wrap">
+
+<div class="fixednav">
+	<div class="row topbar-container">
+		<top-bar id="top-menu" class="top-bar top-menu" mobile-show-parent-link="true" is-hover="false">
+			<ul class="title-area">
+				<li class="name">
+					<h1><a href="/"><img class="primomo-logo" src="/site/templates/images/primomologotext.svg"><span></span></a></h1>
+				</li>
+				<li toggle-top-bar onclick="document.getElementById('top-search').classList.remove('expanded')" class="toggle-topbar toggle-topbar-main menu-icon"><a href=""><span></span></a></li>
+			</ul>
+			<top-bar-section ng-cloakx>
+				<ul class="right">
+					
+					
+<ul class="primenu">
+	<li>
+		<a href='/categories/entertainment/'>Entertainment</a>
+	</li>
+	<li>
+		<a href='/categories/sport/'>Sport</a>
+	</li>
+	<li>
+		<a href='/categories/lifestyle/'>Lifestyle</a>
+	</li>
+</ul>					
+					<li has-dropdown class="primenu-hasdropdown">
+						<a>More</a>
+						<ul top-bar-dropdown ng-cloak>
+							
+<ul class="more-menu">
+	<li>
+		<a href='/categories/entertainment/tv/'>TV</a>
+	</li>
+	<li>
+		<a href='/categories/lifestyle/people/'>People</a>
+	</li>
+	<li>
+		<a href='/categories/sport/football/'>Football</a>
+	</li>
+	<li>
+		<a href='/categories/lifestyle/food/'>Food</a>
+	</li>
+	<li>
+		<a href='/categories/entertainment/music/'>Music</a>
+	</li>
+	<li>
+		<a href='/categories/entertainment/movies/'>Movies</a>
+	</li>
+	<li>
+		<a href='/categories/'>All Categories</a>
+	</li>
+</ul>						</ul>
+					</li>
+					
+					<ul>
+						<li class="has-form search-form-medium-up">
+						    <div class="row collapse">
+						      <div class="large-12 small-12 columns">
+						        <form id="site-search-form" class="clearfix" action="/search/" method="get">
+									<input type="text" name="q" value="" placeholder="Search">
+								</form>
+						      </div>
+						    </div>
+						</li>
+					</ul>
+					
+				</ul>
+			</top-bar-section>
+		</top-bar>
+		
+		<top-bar id="top-search" class="top-bar top-search show-for-small-only" data-topbar="" style="height: 45px">
+			<ul class="title-area">
+				<li class="name"></li>
+				<li toggle-top-bar onclick="document.getElementById('top-menu').classList.remove('expanded')" class="toggle-topbar toggle-topbar-search menu-icon"><a href=""><span></span></a></li>
+			</ul>
+			<top-bar-section ng-cloak>
+				<ul>
+				  <li class="has-form search-form-small-only">
+				    <div class="row collapse">
+				      <div class="large-12 small-12 columns">
+				        <form id="site-search-form" class="clearfix" action="/search/" method="get">
+							<input type="text" name="q" value="" placeholder="Search">
+						</form>
+				      </div>
+				    </div>
+				  </li>
+				</ul>
+			</top-bar-section>
+		</top-bar>
+	</div>
+</div>
+
+
+<div class="row-container ccolour_base main-header">
+	<div class="row">
+		<div class="column">
+			<h2 class="top-header">Greatest Movie Character</h2>
+		</div>
+	</div>
+	</div>
+
+<div id="body-wrap">
+	<div class="row-container">
+	<div class="row list-grid-row" id="sectionid1">
+		<div class="column">
+			<h3 class="left section-header">Related Lists</a></h3>
+				
+		</div>
+		
+		
+			<div class="column list-grid">
+				<div equalizer class="row">
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_lifestyle_standard catcolorstyle_standard' id='list-8772'>
+
+	<a href='/list/favourite-fictional-billionaire/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/8772/scroogewithnephews.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Favourite Fictional Billionaire</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-8712'>
+
+	<a href='/list/best-christian-bale-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/8712/christian_bale_2014_28cropped_29.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Christian Bale Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-8688'>
+
+	<a href='/list/best-hbo-show-of-all-time/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/8688/fb-hbo-480x320.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best HBO Show of All Time</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_sport_standard catcolorstyle_standard' id='list-8482'>
+
+	<a href='/list/greatest-new-orleans-saints/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/8482/844px-new_orleans_saints_svg.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest New Orleans Saints Player</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_sport_standard catcolorstyle_standard' id='list-8359'>
+
+	<a href='/list/greatest-chicago-bears-player/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/8359/1280px-chicago_bears_logo_svg.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest Chicago Bears Player</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_sport_standard catcolorstyle_standard' id='list-8218'>
+
+	<a href='/list/greatest-kansas-city-chiefs/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/8218/1280px-kansas_city_chiefs_logo_svg.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest Kansas City Chiefs Player</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_sport_standard catcolorstyle_standard' id='list-7969'>
+
+	<a href='/list/greatest-miami-dolphins-player/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/7969/999px-miami_dolphins_2013_logo_svg.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest Miami Dolphins Player</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-7890'>
+
+	<a href='/list/best-ben-affleck/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/7890/ben_affleck_by_gage_skidmore.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Ben Affleck Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-7863'>
+
+	<a href='/list/best-matt-damon-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/7863/damon_cropped.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Matt Damon Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-7804'>
+
+	<a href='/list/best-tom-cruise-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/7804/tom_cruise_avp_2014_4.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Tom Cruise Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-7775'>
+
+	<a href='/list/best-tom-hanks-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/7775/tom_hanks_2014.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Tom Hanks Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-7749'>
+
+	<a href='/list/best-paul-rudd-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/7749/paul_rudd_28cropped_29_2.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Paul Rudd Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_sport_standard catcolorstyle_standard' id='list-7335'>
+
+	<a href='/list/greatest-cleveland-indians/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/7335/791px-cleveland_indians_logo_svg.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest Cleveland Indians</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-6768'>
+
+	<a href='/list/best-movie-villain/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/6768/anthony_hopkins_as_hannibal_lecter_28screenshot_29.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Movie Villain</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_lifestyle_standard catcolorstyle_standard' id='list-6745'>
+
+	<a href='/list/best-celebrity-mugshot/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/6745/hughgrant_ssjpg.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Celebrity Mugshot</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-6590'>
+
+	<a href='/list/best-robert-zemeckis-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/6590/forrestgumpjfkscreenshot.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Robert Zemeckis Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-6572'>
+
+	<a href='/list/best-christopher-nolan-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/6572/christopher_nolan_2c_london_2c_2013_28crop_29.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Christopher Nolan Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-6546'>
+
+	<a href='/list/best-michael-bay-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/6546/michael_bay_060530-f-4692s-004.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Michael Bay Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-6000'>
+
+	<a href='/list/best-danny-devito-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/6000/danny_devito_by_gage_skidmore.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Danny DeVito Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-5884'>
+
+	<a href='/list/favourite-scottish-actor/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/5884/d0_94_d0_b6_d0_b5_d1_80_d0_b0_d1_80_d0_b4_d0_91_d0_b0_d1_82_d0_bb_d0_b5_d1_80.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Favourite Scottish Actor</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-5765'>
+
+	<a href='/list/best-david-fincher-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/5765/fight_club_poster.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best David Fincher Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-5735'>
+
+	<a href='/list/best-brad-pitt-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/5735/brad_pitt_inglorious_basterds_berlin_premiere.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Brad Pitt Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-5666'>
+
+	<a href='/list/best-leonardo-dicaprio/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/5666/leonardo_dicaprio_2014.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Leonardo DiCaprio Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-5507'>
+
+	<a href='/list/best-bond-theme/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/5507/goldfinger_ost.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best James Bond Theme</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+									</div>
+			</div>	
+						<div class="column"><div class='pagination-centered'><ul class='pagination'><li class='MarkupPagerNavPrevious MarkupPagerNavFirst'><a href='/list/greatest-movie-character/page2'><span><<</span></a></li><li class='MarkupPagerNavFirstNum'><a href='/list/greatest-movie-character/'><span>1</span></a></li><li><a href='/list/greatest-movie-character/page2'><span>2</span></a></li><li class='current'><a href='/list/greatest-movie-character/page3'><span>3</span></a></li><li><a href='/list/greatest-movie-character/page4'><span>4</span></a></li><li class='MarkupPagerNavLastNum'><a href='/list/greatest-movie-character/page5'><span>5</span></a></li><li class='MarkupPagerNavNext MarkupPagerNavLast'><a href='/list/greatest-movie-character/page4'><span>>></span></a></li></ul></div></div>	</div>
+</div></div>
+
+</div> <!--ng-controller-->
+<footer class="ccolour_base">
+
+<div class="row">
+	<div class="medium-4 medium-push-8 columns">
+		<ul class="footer-social">
+			<li>
+				<a href="" class="xxx" style="opacity: 0 !important"></a>
+			</li>
+			<li>
+				<a href="" class="xxx" style="opacity: 0 !important"></a>
+			</li>
+			<!-- <li><a href="/about" class="mail"></a></li> -->
+		</ul>
+	</div>
+	<div class="medium-8 medium-pull-4 columns">		
+	</div>
+</div>
+
+</footer>
+<script>
+flowtype(document.body.querySelector('#stack-container'), {
+   minimum   : 0,
+   maximum   : 600,
+   minFont   : 1,
+   maxFont   : 50,
+   fontRatio : 14,
+   lineRatio : 1.45
+});	
+flowtype(document.body.querySelector('#gamemessage-container'), {
+   minimum   : 0,
+   maximum   : 600,
+   minFont   : 1,
+   maxFont   : 50,
+   fontRatio : 14,
+   lineRatio : 1.45
+});	
+</script>
+</body>
+</html>

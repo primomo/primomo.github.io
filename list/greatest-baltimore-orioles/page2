@@ -1,0 +1,344 @@
+<!DOCTYPE html>
+<!--[if IE 9]><html class="lt-ie10" lang="en" > <![endif]-->
+<html class="no-js" lang="en" itemscope itemtype="http://schema.org/ItemList">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+	<style type="text/css">@charset "UTF-8";[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {display: none !important;}</style>	
+	<link rel="canonical" href="">
+	
+		
+	
+	<!-- Meta -->
+	<title>Greatest Baltimore Orioles - Primomo</title>
+	<meta name="description" content="Who is the Greatest Ever Baltimore Orioles Player? Cal Ripken? Brooks Robinson? Jim Palmer? Eddie Murray? Frank Robinson? Mike Mussina? Boog Powell? Mark Belanger? Paul Blair? Bobby Grich? Brady Anderson? Ken Singleton? Melvin Mora? Mike Flanagan? Rick Dempsey? Adam Jones? Mike Cuellar? Roberto Alomar? Manny Machado? Dave McNally? " />
+	<!-- Schema -->
+	<meta itemprop="name" content="Greatest Baltimore Orioles">
+	<meta itemprop="description" content="Who is the Greatest Ever Baltimore Orioles Player? Cal Ripken? Brooks Robinson? Jim Palmer? Eddie Murray? Frank Robinson? Mike Mussina? Boog Powell? Mark Belanger? Paul Blair? Bobby Grich? Brady Anderson? Ken Singleton? Melvin Mora? Mike Flanagan? Rick Dempsey? Adam Jones? Mike Cuellar? Roberto Alomar? Manny Machado? Dave McNally? "> 
+	<meta itemprop="image" content=""> 
+	 <meta itemprop="itemListOrder" content="Descending" /> 	<!-- Twitter -->
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:site" content="@playprimomo">
+	<meta name="twitter:title" content="Greatest Baltimore Orioles">
+	<meta name="twitter:description" content="Who is the Greatest Ever Baltimore Orioles Player? Cal Ripken? Brooks Robinson? Jim Palmer? Eddie Murray? Frank Robinson? Mike Mussina? Boog Powell? Mark Belanger? Paul Blair? Bobby Grich? Brady Anderson? Ken Singleton? Melvin Mora? Mike Flanagan? Rick Dempsey? Adam Jones? Mike Cuellar? Roberto Alomar? Manny Machado? Dave McNally? "> 
+	<meta name="twitter:creator" content="@playprimomo">
+	<meta name="twitter:image:src" content=""> 
+	<!-- Open Graph -->
+	<meta property="og:title" content="Greatest Baltimore Orioles" />
+	<meta property="og:type" content="article" /> 
+	<meta property="og:url" content="" /> 
+	<meta property="og:image" content=""> 
+	<meta property="og:image:width" content="500"> 
+	<meta property="og:image:height" content="300"> 
+	<meta property="og:description" content="Who is the Greatest Ever Baltimore Orioles Player? Cal Ripken? Brooks Robinson? Jim Palmer? Eddie Murray? Frank Robinson? Mike Mussina? Boog Powell? Mark Belanger? Paul Blair? Bobby Grich? Brady Anderson? Ken Singleton? Melvin Mora? Mike Flanagan? Rick Dempsey? Adam Jones? Mike Cuellar? Roberto Alomar? Manny Machado? Dave McNally? " /> 
+	<meta property="og:site_name" content="Primomo" />
+	<meta property="article:section" content="Baseball" />  
+	<meta property="article:tag" content="Baltimore , Baltimore Orioles, Jerry Seinfeld , John Waters , David Hasselhoff , Tom Clancy , Frank Zappa, USA" />  
+	<meta property="fb:admins" content="690322552, 598310032" />	
+
+	<link rel="stylesheet" href="/site/templates/components/normalize/normalize.min.css" />
+	<link rel="stylesheet" href="/site/templates/components/foundation/foundation.min.css" />
+	<link rel="stylesheet" href="/site/templates/components/animate-scss/animate.min.css" />
+
+	<script src="/site/templates/components/angular/angular.min.js"></script>
+	<script src="/site/templates/components/angular/angular-touch.min.js"></script>
+	<script src="/site/templates/components/angular-foundation/mm-foundation-tpls-0.8.0.min.js"></script>
+	<script src="/site/templates/components/modernizr.js"></script>
+	<script src="/site/templates/components/fastclick.js"></script>
+	
+	<script src="/site/templates/components/ng-FitText.js"></script>
+	<script src="/site/templates/components/flowtype.min.js"></script>
+	<script src="/site/templates/scripts/angular-swing.min.js"></script>
+	<script src="/site/templates/scripts/angular-equalizer.min.js"></script>
+	<script src="/site/templates/scripts/primomo.min.js"></script>
+	
+	<link rel="stylesheet" href="/site/templates/styles/primomo.min.css?" />
+	
+	<style class="game-colour">
+/* ccolour_base - base */
+.ccolour_base { background: #1FA464}
+.ccolour_base-border { border-color: #1FA464}
+.ccolour_base-text { color: #1FA464}
+/* ccolour_d1 - darker 1 */
+.ccolour_d1 { background: #1c935a}
+.ccolour_d1-border { border-color: #1c935a}
+.ccolour_d1-text { color: #1c935a}
+/* ccolour_d2 - darker 2 */
+.ccolour_d2 { background: #19824f}
+.ccolour_d2-border { border-color: #19824f}
+.ccolour_d2-text { color: #19824f}
+/* ccolour_d3 - darker 3 */
+.ccolour_d3 { background: #157145}
+.ccolour_d3-border { border-color: #157145}
+.ccolour_d3-text { color: #157145}
+/* ccolour_l1 - lighter 1 */
+.ccolour_l1, {background: #24be74}
+.ccolour_l1-border { border-color: #24be74}
+.ccolour_l1-text { color: #24be74}
+/* Colour Styles */
+body, #viewport, .page-wrap:before {
+	background: #1FA464	}
+.top-bar-section ul li, .top-bar-section li:not(.has-form) a:not(.button), .top-bar-section .has-form {
+	background: none;
+	}
+.top-bar-section li:not(.has-form) a:not(.button):hover, .top-bar-section ul li:hover:not(.has-form) > a, .top-bar-section .dropdown li:not(.has-form):not(.active) > a:not(.button) {
+	background: #19824f	}
+html.touch .top-bar-section li.has-dropdown a:hover {
+	background:none;
+	}
+html.touch .top-bar-section li.has-dropdown.not-click a:hover {
+	background:#19824f;
+	}
+.top-bar-section .dropdown li:not(.has-form):not(.active):hover > a:not(.button) {
+	background: #157145	}
+.top-bar, .fixednav, .top-bar .title-area, .top-bar.expanded .title-area {
+	background: #1c935a	}	
+.top-bar input[type="text"] {
+	border-color: #1c935a	}
+.accordian-percent {
+	background: #19824f	}
+.results-header h3 {
+    color: #19824f	}
+.sidebar-tags h4, .sidebar-cats h4 {
+    color: #19824f	}	
+h3.section-header, h3.section-header a  {
+    color: #157145	}	
+h3.section-header a:hover  {
+    color: #19824f	}		
+/* Medium and Up Only */	
+@media only screen and (min-width: 720px) {
+	.top-bar-section li.active:not(.has-form) a:not(.button) {
+		background: #1c935a		}
+	.top-bar-section li.active:not(.has-form) a:not(.button):hover {
+		background: #19824f		}
+	.top-bar-section .dropdown li.active:not(.has-form) a:not(.button) {
+		background: #19824f		}
+	.top-bar-section .dropdown li.active:not(.has-form) a:not(.button):hover {
+		background: #157145		}		
+	}
+/* Small Only */	
+@media only screen and (max-width: 719px) {
+	.top-bar-section ul li, .top-bar-section .has-form {
+		background: #19824f		}
+	.top-bar-section li:not(.has-form) a:not(.button):hover, .top-bar-section ul li:hover:not(.has-form) > a {
+		background: #157145		}
+	}
+</style>
+<style class="cat-colours">
+.catcolour_sport_standard{background:#1FA464;}.catcolour_sport_inverted *{color:#1FA464 !important;}.catcolour_entertainment_standard{background:#B03232;}.catcolour_entertainment_inverted *{color:#B03232 !important;}.catcolour_lifestyle_standard{background:#9B2C6F;}.catcolour_lifestyle_inverted *{color:#9B2C6F !important;}	
+</style>	<link href='https://fonts.googleapis.com/css?family=Comfortaa:300,400,700' rel='stylesheet' type='text/css'>
+	</head>	
+<body class='template-list'
+ng-app="primomoApp">
+
+<div><div ng-init="deckArray=[{name:'Cal Ripken', subtitle:'', image:'/site/assets/files/7217/cal_ripken_2c_jr_honored_at_camden_yards_2007.300x300.jpg', copyright:'By Keith Allison (Flickr: Cal Ripken) [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons', plays:9, wins:8, gamePlays:0, gameWins:0, cardPageId:7217},{name:'Brooks Robinson', subtitle:'', image:'/site/assets/files/7218/brooks_robinson_1955.300x300.jpg', copyright:'By From collection of User:JGHowes for Wikipedia [Public domain], via Wikimedia Commons', plays:4, wins:2, gamePlays:0, gameWins:0, cardPageId:7218},{name:'Jim Palmer', subtitle:'', image:'/site/assets/files/7219/jim_palmer_2009.300x300.jpg', copyright:'By Keith Allison (originally posted to Flickr as Jim Palmer) [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons', plays:5, wins:3, gamePlays:0, gameWins:0, cardPageId:7219},{name:'Eddie Murray', subtitle:'', image:'/site/assets/files/7220/eddie_murray_2007-07-24.300x300.jpg', copyright:'By Keith Allison from Baltimore, USA (0G1G3463) [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons', plays:10, wins:8, gamePlays:0, gameWins:0, cardPageId:7220},{name:'Frank Robinson', subtitle:'', image:'/site/assets/files/7221/flickr_-_rubenstein_-_frank_robinson.300x300.jpg', copyright:'By Rubenstein (Frank Robinson) [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons', plays:5, wins:4, gamePlays:0, gameWins:0, cardPageId:7221},{name:'Mike Mussina', subtitle:'', image:'/site/assets/files/7222/mike_mussina_2c_baltimore_orioles_hall_of_fame_ceremony.300x300.jpg', copyright:'By Keith Allison (Flickr) [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons', plays:3, wins:1, gamePlays:0, gameWins:0, cardPageId:7222},{name:'Boog Powell', subtitle:'', image:'/site/assets/files/7223/boog_powell_at_the_annapolis_book_festival.300x300.jpg', copyright:'By Annapolis Creative (Own work) [CC BY-SA 4.0 (http://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons', plays:3, wins:1, gamePlays:0, gameWins:0, cardPageId:7223},{name:'Mark Belanger', subtitle:'', image:'/site/assets/files/7224/mark_belanger_1965.300x300.jpg', copyright:'Fair use', plays:3, wins:1, gamePlays:0, gameWins:0, cardPageId:7224},{name:'Paul Blair', subtitle:'', image:'/site/assets/files/7225/blair_2c_paul_282007_29.300x300.jpg', copyright:'By Petty Officer 2nd Class Roadell Hickma (DVIDS archive) [Public domain], via Wikimedia Commons', plays:3, wins:1, gamePlays:0, gameWins:0, cardPageId:7225},{name:'Bobby Grich', subtitle:'', image:'/site/assets/files/7226/bobbygrich.300x300.jpg', copyright:'User:Phil5329 [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons', plays:2, wins:0, gamePlays:0, gameWins:0, cardPageId:7226},{name:'Brady Anderson', subtitle:'', image:'/site/assets/files/7227/brady_anderson.300x300.jpg', copyright:'By Maroon PR (Own work) [CC BY-SA 4.0 (http://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons', plays:3, wins:1, gamePlays:0, gameWins:0, cardPageId:7227},{name:'Ken Singleton', subtitle:'', image:'/site/assets/files/7228/ken_singleton_2012.300x300.jpg', copyright:'By Keith Allison (Flickr: Ken Singleton) [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons', plays:3, wins:1, gamePlays:0, gameWins:0, cardPageId:7228},{name:'Melvin Mora', subtitle:'', image:'/site/assets/files/7229/m_mora_-_orioles_v_twins_2008-09-13.300x300.jpg', copyright:'By Keith Allison from Baltimore, USA (AAAA7234) [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons', plays:4, wins:2, gamePlays:0, gameWins:0, cardPageId:7229},{name:'Mike Flanagan', subtitle:'', image:'/site/assets/files/7230/mike_flanagan.300x300.jpg', copyright:'By Keith Allison [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons', plays:2, wins:0, gamePlays:0, gameWins:0, cardPageId:7230},{name:'Rick Dempsey', subtitle:'', image:'/site/assets/files/7231/rick_dempsey_2.300x300.jpg', copyright:'By Keith Allison from Baltimore, USA (00061705) [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons', plays:2, wins:0, gamePlays:0, gameWins:0, cardPageId:7231},{name:'Adam Jones', subtitle:'', image:'/site/assets/files/7232/oriole_adam_jones.300x300.jpg', copyright:'By Keith Allison (Flickr: Adam Jones) [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons', plays:3, wins:1, gamePlays:0, gameWins:0, cardPageId:7232},{name:'Mike Cuellar', subtitle:'', image:'/site/assets/files/7233/mike_cuellar.300x300.jpg', copyright:'Fair use', plays:2, wins:0, gamePlays:0, gameWins:0, cardPageId:7233},{name:'Roberto Alomar', subtitle:'', image:'/site/assets/files/7234/roberto_alomar_2011.300x300.jpg', copyright:'By Mental Lint from North Creek NY (Roberto Alomar) [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons', plays:2, wins:0, gamePlays:0, gameWins:0, cardPageId:7234},{name:'Manny Machado', subtitle:'', image:'/site/assets/files/7235/manny_machado.300x300.jpg', copyright:'By https://www.flickr.com/photos/keithallison/ [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons', plays:6, wins:4, gamePlays:0, gameWins:0, cardPageId:7235},{name:'Dave McNally', subtitle:'', image:'/site/assets/files/7236/6983680_115810479353.300x300.jpg', copyright:'Fair use', plays:2, wins:0, gamePlays:0, gameWins:0, cardPageId:7236},]; gameArray=[{title:'Greatest Baltimore Orioles', interrogative:'Who is', possessive:' ', possessiveAlt:'', subject:'the Greatest Ever Baltimore Orioles Player', summary:'Who is the Greatest Ever Baltimore Orioles Player?'}]; pageId=7216;"></div></div>
+
+<div ng-controller="primomoController" class="page-wrap">
+
+<div class="fixednav">
+	<div class="row topbar-container">
+		<top-bar id="top-menu" class="top-bar top-menu" mobile-show-parent-link="true" is-hover="false">
+			<ul class="title-area">
+				<li class="name">
+					<h1><a href="/"><img class="primomo-logo" src="/site/templates/images/primomologotext.svg"><span></span></a></h1>
+				</li>
+				<li toggle-top-bar onclick="document.getElementById('top-search').classList.remove('expanded')" class="toggle-topbar toggle-topbar-main menu-icon"><a href=""><span></span></a></li>
+			</ul>
+			<top-bar-section ng-cloakx>
+				<ul class="right">
+					
+					
+<ul class="primenu">
+	<li>
+		<a href='/categories/entertainment/'>Entertainment</a>
+	</li>
+	<li>
+		<a href='/categories/sport/'>Sport</a>
+	</li>
+	<li>
+		<a href='/categories/lifestyle/'>Lifestyle</a>
+	</li>
+</ul>					
+					<li has-dropdown class="primenu-hasdropdown">
+						<a>More</a>
+						<ul top-bar-dropdown ng-cloak>
+							
+<ul class="more-menu">
+	<li>
+		<a href='/categories/entertainment/tv/'>TV</a>
+	</li>
+	<li>
+		<a href='/categories/lifestyle/people/'>People</a>
+	</li>
+	<li>
+		<a href='/categories/sport/football/'>Football</a>
+	</li>
+	<li>
+		<a href='/categories/lifestyle/food/'>Food</a>
+	</li>
+	<li>
+		<a href='/categories/entertainment/music/'>Music</a>
+	</li>
+	<li>
+		<a href='/categories/entertainment/movies/'>Movies</a>
+	</li>
+	<li>
+		<a href='/categories/'>All Categories</a>
+	</li>
+</ul>						</ul>
+					</li>
+					
+					<ul>
+						<li class="has-form search-form-medium-up">
+						    <div class="row collapse">
+						      <div class="large-12 small-12 columns">
+						        <form id="site-search-form" class="clearfix" action="/search/" method="get">
+									<input type="text" name="q" value="" placeholder="Search">
+								</form>
+						      </div>
+						    </div>
+						</li>
+					</ul>
+					
+				</ul>
+			</top-bar-section>
+		</top-bar>
+		
+		<top-bar id="top-search" class="top-bar top-search show-for-small-only" data-topbar="" style="height: 45px">
+			<ul class="title-area">
+				<li class="name"></li>
+				<li toggle-top-bar onclick="document.getElementById('top-menu').classList.remove('expanded')" class="toggle-topbar toggle-topbar-search menu-icon"><a href=""><span></span></a></li>
+			</ul>
+			<top-bar-section ng-cloak>
+				<ul>
+				  <li class="has-form search-form-small-only">
+				    <div class="row collapse">
+				      <div class="large-12 small-12 columns">
+				        <form id="site-search-form" class="clearfix" action="/search/" method="get">
+							<input type="text" name="q" value="" placeholder="Search">
+						</form>
+				      </div>
+				    </div>
+				  </li>
+				</ul>
+			</top-bar-section>
+		</top-bar>
+	</div>
+</div>
+
+
+<div class="row-container ccolour_base main-header">
+	<div class="row">
+		<div class="column">
+			<h2 class="top-header">Greatest Baltimore Orioles</h2>
+		</div>
+	</div>
+	</div>
+
+<div id="body-wrap">
+	<div class="row-container">
+	<div class="row list-grid-row" id="sectionid1">
+		<div class="column">
+			<h3 class="left section-header">Related Lists</a></h3>
+				
+		</div>
+		
+		
+			<div class="column list-grid">
+				<div equalizer class="row">
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-2964'>
+
+	<a href='/list/best-michael-jackson-song/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/2964/best-michael-jackson-song-vco4qacv.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Michael Jackson song</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_sport_standard catcolorstyle_standard' id='list-2841'>
+
+	<a href='/list/greatest-olympian/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/2841/greatest-olympian-moedrksy.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest Olympian</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-2037'>
+
+	<a href='/list/best-american-gangster-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/2037/best-american-gangster-movie-8wd8j2sj.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best American Gangster Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+									</div>
+			</div>	
+						<div class="column"><div class='pagination-centered'><ul class='pagination'><li class='MarkupPagerNavPrevious MarkupPagerNavFirst'><a href='/list/greatest-baltimore-orioles/'><span><<</span></a></li><li class='MarkupPagerNavFirstNum'><a href='/list/greatest-baltimore-orioles/'><span>1</span></a></li><li class='current MarkupPagerNavLast MarkupPagerNavLastNum'><a href='/list/greatest-baltimore-orioles/page2'><span>2</span></a></li></ul></div></div>	</div>
+</div></div>
+
+</div> <!--ng-controller-->
+<footer class="ccolour_base">
+
+<div class="row">
+	<div class="medium-4 medium-push-8 columns">
+		<ul class="footer-social">
+			<li>
+				<a href="" class="xxx" style="opacity: 0 !important"></a>
+			</li>
+			<li>
+				<a href="" class="xxx" style="opacity: 0 !important"></a>
+			</li>
+			<!-- <li><a href="/about" class="mail"></a></li> -->
+		</ul>
+	</div>
+	<div class="medium-8 medium-pull-4 columns">		
+	</div>
+</div>
+
+</footer>
+<script>
+flowtype(document.body.querySelector('#stack-container'), {
+   minimum   : 0,
+   maximum   : 600,
+   minFont   : 1,
+   maxFont   : 50,
+   fontRatio : 14,
+   lineRatio : 1.45
+});	
+flowtype(document.body.querySelector('#gamemessage-container'), {
+   minimum   : 0,
+   maximum   : 600,
+   minFont   : 1,
+   maxFont   : 50,
+   fontRatio : 14,
+   lineRatio : 1.45
+});	
+</script>
+</body>
+</html>

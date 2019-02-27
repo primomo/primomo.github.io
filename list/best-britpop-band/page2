@@ -1,0 +1,702 @@
+<!DOCTYPE html>
+<!--[if IE 9]><html class="lt-ie10" lang="en" > <![endif]-->
+<html class="no-js" lang="en" itemscope itemtype="http://schema.org/ItemList">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+	<style type="text/css">@charset "UTF-8";[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {display: none !important;}</style>	
+	<link rel="canonical" href="">
+	
+		
+	
+	<!-- Meta -->
+	<title>Best Britpop Band - Primomo</title>
+	<meta name="description" content="Who is the Best Britpop Band? Oasis? Blur? Pulp? Supergrass? ASH? Black Grape? The Boo Radleys? Cast? The Divine Comedy? Dodgy? Echobelly? Elastica? Gene? Menswear? Ocean Colour Scene? Shed Seven? Sleeper? The Bluetones? Suede? " />
+	<!-- Schema -->
+	<meta itemprop="name" content="Best Britpop Band">
+	<meta itemprop="description" content="Who is the Best Britpop Band? Oasis? Blur? Pulp? Supergrass? ASH? Black Grape? The Boo Radleys? Cast? The Divine Comedy? Dodgy? Echobelly? Elastica? Gene? Menswear? Ocean Colour Scene? Shed Seven? Sleeper? The Bluetones? Suede? "> 
+	<meta itemprop="image" content=""> 
+	 <meta itemprop="itemListOrder" content="Descending" /> 	<!-- Twitter -->
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:site" content="@playprimomo">
+	<meta name="twitter:title" content="Best Britpop Band">
+	<meta name="twitter:description" content="Who is the Best Britpop Band? Oasis? Blur? Pulp? Supergrass? ASH? Black Grape? The Boo Radleys? Cast? The Divine Comedy? Dodgy? Echobelly? Elastica? Gene? Menswear? Ocean Colour Scene? Shed Seven? Sleeper? The Bluetones? Suede? "> 
+	<meta name="twitter:creator" content="@playprimomo">
+	<meta name="twitter:image:src" content=""> 
+	<!-- Open Graph -->
+	<meta property="og:title" content="Best Britpop Band" />
+	<meta property="og:type" content="article" /> 
+	<meta property="og:url" content="" /> 
+	<meta property="og:image" content=""> 
+	<meta property="og:image:width" content="500"> 
+	<meta property="og:image:height" content="300"> 
+	<meta property="og:description" content="Who is the Best Britpop Band? Oasis? Blur? Pulp? Supergrass? ASH? Black Grape? The Boo Radleys? Cast? The Divine Comedy? Dodgy? Echobelly? Elastica? Gene? Menswear? Ocean Colour Scene? Shed Seven? Sleeper? The Bluetones? Suede? " /> 
+	<meta property="og:site_name" content="Primomo" />
+	<meta property="article:section" content="Music" />  
+	<meta property="article:tag" content="Britpop , Pop , Rock, British, Manchester, London, Indie , Liam Gallagher, Noel Gallagher, The Beatles" />  
+	<meta property="fb:admins" content="690322552, 598310032" />	
+
+	<link rel="stylesheet" href="/site/templates/components/normalize/normalize.min.css" />
+	<link rel="stylesheet" href="/site/templates/components/foundation/foundation.min.css" />
+	<link rel="stylesheet" href="/site/templates/components/animate-scss/animate.min.css" />
+
+	<script src="/site/templates/components/angular/angular.min.js"></script>
+	<script src="/site/templates/components/angular/angular-touch.min.js"></script>
+	<script src="/site/templates/components/angular-foundation/mm-foundation-tpls-0.8.0.min.js"></script>
+	<script src="/site/templates/components/modernizr.js"></script>
+	<script src="/site/templates/components/fastclick.js"></script>
+	
+	<script src="/site/templates/components/ng-FitText.js"></script>
+	<script src="/site/templates/components/flowtype.min.js"></script>
+	<script src="/site/templates/scripts/angular-swing.min.js"></script>
+	<script src="/site/templates/scripts/angular-equalizer.min.js"></script>
+	<script src="/site/templates/scripts/primomo.min.js"></script>
+	
+	<link rel="stylesheet" href="/site/templates/styles/primomo.min.css?" />
+	
+	<style class="game-colour">
+/* ccolour_base - base */
+.ccolour_base { background: #B03232}
+.ccolour_base-border { border-color: #B03232}
+.ccolour_base-text { color: #B03232}
+/* ccolour_d1 - darker 1 */
+.ccolour_d1 { background: #a02d2d}
+.ccolour_d1-border { border-color: #a02d2d}
+.ccolour_d1-text { color: #a02d2d}
+/* ccolour_d2 - darker 2 */
+.ccolour_d2 { background: #902929}
+.ccolour_d2-border { border-color: #902929}
+.ccolour_d2-text { color: #902929}
+/* ccolour_d3 - darker 3 */
+.ccolour_d3 { background: #802424}
+.ccolour_d3-border { border-color: #802424}
+.ccolour_d3-text { color: #802424}
+/* ccolour_l1 - lighter 1 */
+.ccolour_l1, {background: #c73a3a}
+.ccolour_l1-border { border-color: #c73a3a}
+.ccolour_l1-text { color: #c73a3a}
+/* Colour Styles */
+body, #viewport, .page-wrap:before {
+	background: #B03232	}
+.top-bar-section ul li, .top-bar-section li:not(.has-form) a:not(.button), .top-bar-section .has-form {
+	background: none;
+	}
+.top-bar-section li:not(.has-form) a:not(.button):hover, .top-bar-section ul li:hover:not(.has-form) > a, .top-bar-section .dropdown li:not(.has-form):not(.active) > a:not(.button) {
+	background: #902929	}
+html.touch .top-bar-section li.has-dropdown a:hover {
+	background:none;
+	}
+html.touch .top-bar-section li.has-dropdown.not-click a:hover {
+	background:#902929;
+	}
+.top-bar-section .dropdown li:not(.has-form):not(.active):hover > a:not(.button) {
+	background: #802424	}
+.top-bar, .fixednav, .top-bar .title-area, .top-bar.expanded .title-area {
+	background: #a02d2d	}	
+.top-bar input[type="text"] {
+	border-color: #a02d2d	}
+.accordian-percent {
+	background: #902929	}
+.results-header h3 {
+    color: #902929	}
+.sidebar-tags h4, .sidebar-cats h4 {
+    color: #902929	}	
+h3.section-header, h3.section-header a  {
+    color: #802424	}	
+h3.section-header a:hover  {
+    color: #902929	}		
+/* Medium and Up Only */	
+@media only screen and (min-width: 720px) {
+	.top-bar-section li.active:not(.has-form) a:not(.button) {
+		background: #a02d2d		}
+	.top-bar-section li.active:not(.has-form) a:not(.button):hover {
+		background: #902929		}
+	.top-bar-section .dropdown li.active:not(.has-form) a:not(.button) {
+		background: #902929		}
+	.top-bar-section .dropdown li.active:not(.has-form) a:not(.button):hover {
+		background: #802424		}		
+	}
+/* Small Only */	
+@media only screen and (max-width: 719px) {
+	.top-bar-section ul li, .top-bar-section .has-form {
+		background: #902929		}
+	.top-bar-section li:not(.has-form) a:not(.button):hover, .top-bar-section ul li:hover:not(.has-form) > a {
+		background: #802424		}
+	}
+</style>
+<style class="cat-colours">
+.catcolour_sport_standard{background:#1FA464;}.catcolour_sport_inverted *{color:#1FA464 !important;}.catcolour_entertainment_standard{background:#B03232;}.catcolour_entertainment_inverted *{color:#B03232 !important;}.catcolour_lifestyle_standard{background:#9B2C6F;}.catcolour_lifestyle_inverted *{color:#9B2C6F !important;}	
+</style>	<link href='https://fonts.googleapis.com/css?family=Comfortaa:300,400,700' rel='stylesheet' type='text/css'>
+	</head>	
+<body class='template-list'
+ng-app="primomoApp">
+
+<div><div ng-init="deckArray=[{name:'ASH', subtitle:'', image:'/site/assets/files/5530/ash1977cover.300x300.jpg', copyright:'This is the cover art for 1977 by the artist Ash. The cover art copyright is believed to belong to the label, Infectious Records, or the graphic artist(s).', plays:63, wins:22, gamePlays:0, gameWins:0, cardPageId:5530},{name:'Black Grape', subtitle:'', image:'/site/assets/files/5531/blackgrape_greatwhenyourestraightyeah.300x300.jpg', copyright:'This is the cover art for the album It’s Great When You’re Straight…Yeah by the artist Black Grape. The cover art copyright is believed to belong to the label, Radioactive Records, or the graphic artist(s).', plays:63, wins:22, gamePlays:0, gameWins:0, cardPageId:5531},{name:'Blur', subtitle:'', image:'/site/assets/files/5532/blur_28band_29.300x300.jpg', copyright:'By Various (cropped and combined together by Indopug) [CC BY-SA 4.0 (http://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons', plays:121, wins:90, gamePlays:0, gameWins:0, cardPageId:5532},{name:'The Boo Radleys', subtitle:'', image:'/site/assets/files/5533/wakeup_thebooradleys_cover.300x300.jpg', copyright:'This is the cover art for Wake Up! (The Boo Radleys album) . The cover art copyright is believed to belong to the record label or the graphic artist(s).', plays:60, wins:19, gamePlays:0, gameWins:0, cardPageId:5533},{name:'Cast', subtitle:'', image:'/site/assets/files/5534/cast_-_band_members.300x300.jpg', copyright:'Promotional image of Cast released in 1996. Copyright belongs to the band&amp;#039;s record labels Polydor Records and A&amp;amp;M Records or the photographer Norman Watson.', plays:85, wins:44, gamePlays:0, gameWins:0, cardPageId:5534},{name:'The Divine Comedy', subtitle:'', image:'/site/assets/files/5535/tdc_findesiecle.300x300.jpg', copyright:'This is the front cover for the album Fin de Siècle by the artist The Divine Comedy. The cover art copyright is believed to belong to the label, Setanta Records, or the graphic artist(s).', plays:59, wins:18, gamePlays:0, gameWins:0, cardPageId:5535},{name:'Dodgy', subtitle:'', image:'/site/assets/files/5536/freepeacesweet.300x300.jpg', copyright:'A&amp;amp;M', plays:67, wins:27, gamePlays:0, gameWins:0, cardPageId:5536},{name:'Echobelly', subtitle:'', image:'/site/assets/files/5537/echobelly_on.300x300.jpg', copyright:'This is the front cover for the album On by the artist Echobelly. The cover art copyright is believed to belong to the label, Rhythm King, or the graphic artist(s).', plays:52, wins:11, gamePlays:0, gameWins:0, cardPageId:5537},{name:'Elastica', subtitle:'', image:'/site/assets/files/5538/elastica-elastica.300x300.jpg', copyright:'This is the cover art for the album Elastica by the artist Elastica. The cover art copyright is believed to belong to the label, Deceptive RecordsGeffen Records, or the graphic artist(s).', plays:63, wins:22, gamePlays:0, gameWins:0, cardPageId:5538},{name:'Gene', subtitle:'', image:'/site/assets/files/5539/27olympian_27_by_gene_28album_cover_29.300x300.jpg', copyright:'Andy Vella', plays:52, wins:11, gamePlays:0, gameWins:0, cardPageId:5539},{name:'Menswear', subtitle:'', image:'/site/assets/files/5540/menswear_nuisance.300x300.jpg', copyright:'Laurel', plays:53, wins:12, gamePlays:0, gameWins:0, cardPageId:5540},{name:'Oasis', subtitle:'', image:'/site/assets/files/5541/oasis_1997.300x300.jpg', copyright:'Sony Music Entertainment UK Ltd./Big Brother Recordings, Ltd., 1997', plays:162, wins:141, gamePlays:0, gameWins:0, cardPageId:5541},{name:'Ocean Colour Scene', subtitle:'', image:'/site/assets/files/5542/moseley_shoals.300x300.jpg', copyright:'This is the cover art for the album Moseley Shoals by the artist Ocean Colour Scene. The cover art copyright is believed to belong to the label, MCA, or the graphic artist(s).
+Moseley Shoals album cover.', plays:78, wins:38, gamePlays:0, gameWins:0, cardPageId:5542},{name:'Pulp', subtitle:'', image:'/site/assets/files/5543/pulp-his_27n_27_hers.300x300.jpg', copyright:'This is the cover art for the album His &amp;#039;n&amp;#039; Hers by the artist Pulp. The cover art copyright is believed to belong to the label, Island, or the graphic artist(s).', plays:110, wins:72, gamePlays:0, gameWins:0, cardPageId:5543},{name:'Shed Seven', subtitle:'', image:'/site/assets/files/5544/changegivershedsevencover.300x300.jpg', copyright:'Polydor', plays:84, wins:47, gamePlays:0, gameWins:0, cardPageId:5544},{name:'Sleeper', subtitle:'', image:'/site/assets/files/5545/smartsleeper.300x300.jpg', copyright:'This is the cover art for Smart by the artist Sleeper. The cover art copyright is believed to belong to the label, Arista/Indolent, or the graphic artist(s).', plays:64, wins:23, gamePlays:0, gameWins:0, cardPageId:5545},{name:'The Bluetones', subtitle:'', image:'/site/assets/files/5546/the_bluetones.300x300.jpg', copyright:'By Sry85 (Own work) [GFDL (http://www.gnu.org/copyleft/fdl.html) or CC BY 3.0 (http://creativecommons.org/licenses/by/3.0)], via Wikimedia Commons', plays:72, wins:32, gamePlays:0, gameWins:0, cardPageId:5546},{name:'Suede', subtitle:'', image:'/site/assets/files/5547/suede.300x300.jpg', copyright:'This is the cover art for the album Suede by the artist Suede. The cover art copyright is believed to belong to the label, Nude Records, or the graphic artist(s).', plays:84, wins:44, gamePlays:0, gameWins:0, cardPageId:5547},{name:'Supergrass', subtitle:'', image:'/site/assets/files/5548/i_should_coco.300x300.jpg', copyright:'This is the cover art for the album I Should Coco by the artist Supergrass. The cover art copyright is believed to belong to the label, Parlophone, or the graphic artist(s).', plays:84, wins:43, gamePlays:0, gameWins:0, cardPageId:5548},]; gameArray=[{title:'Best Britpop Band', interrogative:'Who is', possessive:' ', possessiveAlt:'', subject:'the Best Britpop Band', summary:'Who is the Best Britpop Band?'}]; pageId=5529;"></div></div>
+
+<div ng-controller="primomoController" class="page-wrap">
+
+<div class="fixednav">
+	<div class="row topbar-container">
+		<top-bar id="top-menu" class="top-bar top-menu" mobile-show-parent-link="true" is-hover="false">
+			<ul class="title-area">
+				<li class="name">
+					<h1><a href="/"><img class="primomo-logo" src="/site/templates/images/primomologotext.svg"><span></span></a></h1>
+				</li>
+				<li toggle-top-bar onclick="document.getElementById('top-search').classList.remove('expanded')" class="toggle-topbar toggle-topbar-main menu-icon"><a href=""><span></span></a></li>
+			</ul>
+			<top-bar-section ng-cloakx>
+				<ul class="right">
+					
+					
+<ul class="primenu">
+	<li>
+		<a href='/categories/entertainment/'>Entertainment</a>
+	</li>
+	<li>
+		<a href='/categories/sport/'>Sport</a>
+	</li>
+	<li>
+		<a href='/categories/lifestyle/'>Lifestyle</a>
+	</li>
+</ul>					
+					<li has-dropdown class="primenu-hasdropdown">
+						<a>More</a>
+						<ul top-bar-dropdown ng-cloak>
+							
+<ul class="more-menu">
+	<li>
+		<a href='/categories/entertainment/tv/'>TV</a>
+	</li>
+	<li>
+		<a href='/categories/lifestyle/people/'>People</a>
+	</li>
+	<li>
+		<a href='/categories/sport/football/'>Football</a>
+	</li>
+	<li>
+		<a href='/categories/lifestyle/food/'>Food</a>
+	</li>
+	<li>
+		<a href='/categories/entertainment/music/'>Music</a>
+	</li>
+	<li>
+		<a href='/categories/entertainment/movies/'>Movies</a>
+	</li>
+	<li>
+		<a href='/categories/'>All Categories</a>
+	</li>
+</ul>						</ul>
+					</li>
+					
+					<ul>
+						<li class="has-form search-form-medium-up">
+						    <div class="row collapse">
+						      <div class="large-12 small-12 columns">
+						        <form id="site-search-form" class="clearfix" action="/search/" method="get">
+									<input type="text" name="q" value="" placeholder="Search">
+								</form>
+						      </div>
+						    </div>
+						</li>
+					</ul>
+					
+				</ul>
+			</top-bar-section>
+		</top-bar>
+		
+		<top-bar id="top-search" class="top-bar top-search show-for-small-only" data-topbar="" style="height: 45px">
+			<ul class="title-area">
+				<li class="name"></li>
+				<li toggle-top-bar onclick="document.getElementById('top-menu').classList.remove('expanded')" class="toggle-topbar toggle-topbar-search menu-icon"><a href=""><span></span></a></li>
+			</ul>
+			<top-bar-section ng-cloak>
+				<ul>
+				  <li class="has-form search-form-small-only">
+				    <div class="row collapse">
+				      <div class="large-12 small-12 columns">
+				        <form id="site-search-form" class="clearfix" action="/search/" method="get">
+							<input type="text" name="q" value="" placeholder="Search">
+						</form>
+				      </div>
+				    </div>
+				  </li>
+				</ul>
+			</top-bar-section>
+		</top-bar>
+	</div>
+</div>
+
+
+<div class="row-container ccolour_base main-header">
+	<div class="row">
+		<div class="column">
+			<h2 class="top-header">Best Britpop Band</h2>
+		</div>
+	</div>
+	</div>
+
+<div id="body-wrap">
+	<div class="row-container">
+	<div class="row list-grid-row" id="sectionid1">
+		<div class="column">
+			<h3 class="left section-header">Related Lists</a></h3>
+				
+		</div>
+		
+		
+			<div class="column list-grid">
+				<div equalizer class="row">
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-13323'>
+
+	<a href='/list/best-guns-n-roses/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/13323/promoted-media-optimized_5658eff54962e.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Guns N' Roses</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-13301'>
+
+	<a href='/list/best-nirvana-song/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/13301/nirvana93.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Nirvana Song</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-13278'>
+
+	<a href='/list/best-green-day-song/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/13278/green-day.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Green Day Song</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-13112'>
+
+	<a href='/list/best-tina-turner-song/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/13112/tina_turner_21021985_01_350.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Tina Turner Song</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-12962'>
+
+	<a href='/list/best-heart-song/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/12962/heart.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Heart Song</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-12938'>
+
+	<a href='/list/coolest-album-cover/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/12938/dark-side-of-the-moon.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Coolest Album Cover</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-12894'>
+
+	<a href='/list/best-fleetwood-mac-song/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/12894/fleetwood_mac_2009.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Fleetwood Mac Song</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-12839'>
+
+	<a href='/list/best-led-zeppelin-song/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/12839/jimmy_page_with_robert_plant_2_-_led_zeppelin_-_1977.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Led Zeppelin Song</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-12794'>
+
+	<a href='/list/best-elvis-song/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/12794/elvis_presley_promoting_jailhouse_rock.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Elvis Song</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-12702'>
+
+	<a href='/list/best-nsync-song/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/12702/nsync_1998_debut_album_worldwide_edition.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best *NSYNC Song</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-12634'>
+
+	<a href='/list/best-the-rolling-stones-song/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/12634/trs_20150623_milwaukee_jp_105.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best The Rolling Stones Song</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-12513'>
+
+	<a href='/list/best-only-fools-horses-character/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/12513/only_fools_logo.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Only Fools & Horses Character</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-12437'>
+
+	<a href='/list/best-uk-eurovision-entry/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/12437/eurovisionsongcontest.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best UK Eurovision Entry</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-12268'>
+
+	<a href='/list/bands-artists-you-wish-you-saw-live/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/12268/sexpistolsnorway1977.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Band/Artist You Wish You Had Seen Live</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-12067'>
+
+	<a href='/list/favourite-oasis-song/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/12067/morning_glory_28oasis_single_29.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Favourite Oasis Song</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-12025'>
+
+	<a href='/list/favourite-take-that-song/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/12025/back_for_good_cover.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Favourite Take That Song</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-11959'>
+
+	<a href='/list/best-ac-dc-song/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/11959/acdc_highway_to_hell.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best AC/DC Song</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_lifestyle_standard catcolorstyle_standard' id='list-11761'>
+
+	<a href='/list/favourite-zoo-animal/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/11761/640px-san_diego_zoo_entrance_elephant.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Favourite Zoo Animal</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_lifestyle_standard catcolorstyle_standard' id='list-11729'>
+
+	<a href='/list/best-european-city-break/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/11729/640px-louvre_museum_wikimedia_commons.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best European City Break</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-11689'>
+
+	<a href='/list/mercury-prize-winners/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/11689/mercurymp6401.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Mercury Prize Winners</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_lifestyle_standard catcolorstyle_standard' id='list-11579'>
+
+	<a href='/list/britains-favourite-bird/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/11579/eurasian_blue_tit_lancashire.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Britain's Favourite Bird</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-11367'>
+
+	<a href='/list/best-the-kinks-song/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/11367/helmfrid-sofa4_touched.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best The Kinks Song</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-11269'>
+
+	<a href='/list/best-u2-song/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/11269/u2_2015.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best U2 Song</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-11254'>
+
+	<a href='/list/best-u2-ablum/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/11254/2005-11-21_u2_40_msg_by_zg.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best U2 Album</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+									</div>
+			</div>	
+						<div class="column"><div class='pagination-centered'><ul class='pagination'><li class='MarkupPagerNavPrevious MarkupPagerNavFirst'><a href='/list/best-britpop-band/'><span><<</span></a></li><li class='MarkupPagerNavFirstNum'><a href='/list/best-britpop-band/'><span>1</span></a></li><li class='current'><a href='/list/best-britpop-band/page2'><span>2</span></a></li><li><a href='/list/best-britpop-band/page3'><span>3</span></a></li><li class='MarkupPagerNavLastNum'><a href='/list/best-britpop-band/page4'><span>4</span></a></li><li class='MarkupPagerNavNext MarkupPagerNavLast'><a href='/list/best-britpop-band/page3'><span>>></span></a></li></ul></div></div>	</div>
+</div></div>
+
+</div> <!--ng-controller-->
+<footer class="ccolour_base">
+
+<div class="row">
+	<div class="medium-4 medium-push-8 columns">
+		<ul class="footer-social">
+			<li>
+				<a href="" class="xxx" style="opacity: 0 !important"></a>
+			</li>
+			<li>
+				<a href="" class="xxx" style="opacity: 0 !important"></a>
+			</li>
+			<!-- <li><a href="/about" class="mail"></a></li> -->
+		</ul>
+	</div>
+	<div class="medium-8 medium-pull-4 columns">		
+	</div>
+</div>
+
+</footer>
+<script>
+flowtype(document.body.querySelector('#stack-container'), {
+   minimum   : 0,
+   maximum   : 600,
+   minFont   : 1,
+   maxFont   : 50,
+   fontRatio : 14,
+   lineRatio : 1.45
+});	
+flowtype(document.body.querySelector('#gamemessage-container'), {
+   minimum   : 0,
+   maximum   : 600,
+   minFont   : 1,
+   maxFont   : 50,
+   fontRatio : 14,
+   lineRatio : 1.45
+});	
+</script>
+</body>
+</html>

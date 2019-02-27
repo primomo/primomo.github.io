@@ -1,0 +1,378 @@
+<!DOCTYPE html>
+<!--[if IE 9]><html class="lt-ie10" lang="en" > <![endif]-->
+<html class="no-js" lang="en" itemscope itemtype="http://schema.org/ItemList">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+	<style type="text/css">@charset "UTF-8";[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {display: none !important;}</style>	
+	<link rel="canonical" href="">
+	
+		
+	
+	<!-- Meta -->
+	<title>Greatest San Diego Padres Player - Primomo</title>
+	<meta name="description" content="Who is the Greatest Ever San Diego Padres Player? Tony Gwynn? Trevor Hoffman? Dave Winfield? Goose Gossage? Randy Jones? Ken Caminiti? Fred McGriff? Benito Santiago? Garry Templeton? Adrian Gonzalez? Jake Peavy? Gary Sheffield? Steve Finley? Nate Colbert? Ryan Klesko? Greg Vaughn? Phil Nevin? Ozzie Smith? Eric Show? Brian Giles? " />
+	<!-- Schema -->
+	<meta itemprop="name" content="Greatest San Diego Padres Player">
+	<meta itemprop="description" content="Who is the Greatest Ever San Diego Padres Player? Tony Gwynn? Trevor Hoffman? Dave Winfield? Goose Gossage? Randy Jones? Ken Caminiti? Fred McGriff? Benito Santiago? Garry Templeton? Adrian Gonzalez? Jake Peavy? Gary Sheffield? Steve Finley? Nate Colbert? Ryan Klesko? Greg Vaughn? Phil Nevin? Ozzie Smith? Eric Show? Brian Giles? "> 
+	<meta itemprop="image" content=""> 
+	 <meta itemprop="itemListOrder" content="Descending" /> 	<!-- Twitter -->
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:site" content="@playprimomo">
+	<meta name="twitter:title" content="Greatest San Diego Padres Player">
+	<meta name="twitter:description" content="Who is the Greatest Ever San Diego Padres Player? Tony Gwynn? Trevor Hoffman? Dave Winfield? Goose Gossage? Randy Jones? Ken Caminiti? Fred McGriff? Benito Santiago? Garry Templeton? Adrian Gonzalez? Jake Peavy? Gary Sheffield? Steve Finley? Nate Colbert? Ryan Klesko? Greg Vaughn? Phil Nevin? Ozzie Smith? Eric Show? Brian Giles? "> 
+	<meta name="twitter:creator" content="@playprimomo">
+	<meta name="twitter:image:src" content=""> 
+	<!-- Open Graph -->
+	<meta property="og:title" content="Greatest San Diego Padres Player" />
+	<meta property="og:type" content="article" /> 
+	<meta property="og:url" content="" /> 
+	<meta property="og:image" content=""> 
+	<meta property="og:image:width" content="500"> 
+	<meta property="og:image:height" content="300"> 
+	<meta property="og:description" content="Who is the Greatest Ever San Diego Padres Player? Tony Gwynn? Trevor Hoffman? Dave Winfield? Goose Gossage? Randy Jones? Ken Caminiti? Fred McGriff? Benito Santiago? Garry Templeton? Adrian Gonzalez? Jake Peavy? Gary Sheffield? Steve Finley? Nate Colbert? Ryan Klesko? Greg Vaughn? Phil Nevin? Ozzie Smith? Eric Show? Brian Giles? " /> 
+	<meta property="og:site_name" content="Primomo" />
+	<meta property="article:section" content="Baseball" />  
+	<meta property="article:tag" content="San Diego Padres , San Diego , California, Adam Driver , Phil Mickelson , Ted Danson , Cameron Diaz" />  
+	<meta property="fb:admins" content="690322552, 598310032" />	
+
+	<link rel="stylesheet" href="/site/templates/components/normalize/normalize.min.css" />
+	<link rel="stylesheet" href="/site/templates/components/foundation/foundation.min.css" />
+	<link rel="stylesheet" href="/site/templates/components/animate-scss/animate.min.css" />
+
+	<script src="/site/templates/components/angular/angular.min.js"></script>
+	<script src="/site/templates/components/angular/angular-touch.min.js"></script>
+	<script src="/site/templates/components/angular-foundation/mm-foundation-tpls-0.8.0.min.js"></script>
+	<script src="/site/templates/components/modernizr.js"></script>
+	<script src="/site/templates/components/fastclick.js"></script>
+	
+	<script src="/site/templates/components/ng-FitText.js"></script>
+	<script src="/site/templates/components/flowtype.min.js"></script>
+	<script src="/site/templates/scripts/angular-swing.min.js"></script>
+	<script src="/site/templates/scripts/angular-equalizer.min.js"></script>
+	<script src="/site/templates/scripts/primomo.min.js"></script>
+	
+	<link rel="stylesheet" href="/site/templates/styles/primomo.min.css?" />
+	
+	<style class="game-colour">
+/* ccolour_base - base */
+.ccolour_base { background: #1FA464}
+.ccolour_base-border { border-color: #1FA464}
+.ccolour_base-text { color: #1FA464}
+/* ccolour_d1 - darker 1 */
+.ccolour_d1 { background: #1c935a}
+.ccolour_d1-border { border-color: #1c935a}
+.ccolour_d1-text { color: #1c935a}
+/* ccolour_d2 - darker 2 */
+.ccolour_d2 { background: #19824f}
+.ccolour_d2-border { border-color: #19824f}
+.ccolour_d2-text { color: #19824f}
+/* ccolour_d3 - darker 3 */
+.ccolour_d3 { background: #157145}
+.ccolour_d3-border { border-color: #157145}
+.ccolour_d3-text { color: #157145}
+/* ccolour_l1 - lighter 1 */
+.ccolour_l1, {background: #24be74}
+.ccolour_l1-border { border-color: #24be74}
+.ccolour_l1-text { color: #24be74}
+/* Colour Styles */
+body, #viewport, .page-wrap:before {
+	background: #1FA464	}
+.top-bar-section ul li, .top-bar-section li:not(.has-form) a:not(.button), .top-bar-section .has-form {
+	background: none;
+	}
+.top-bar-section li:not(.has-form) a:not(.button):hover, .top-bar-section ul li:hover:not(.has-form) > a, .top-bar-section .dropdown li:not(.has-form):not(.active) > a:not(.button) {
+	background: #19824f	}
+html.touch .top-bar-section li.has-dropdown a:hover {
+	background:none;
+	}
+html.touch .top-bar-section li.has-dropdown.not-click a:hover {
+	background:#19824f;
+	}
+.top-bar-section .dropdown li:not(.has-form):not(.active):hover > a:not(.button) {
+	background: #157145	}
+.top-bar, .fixednav, .top-bar .title-area, .top-bar.expanded .title-area {
+	background: #1c935a	}	
+.top-bar input[type="text"] {
+	border-color: #1c935a	}
+.accordian-percent {
+	background: #19824f	}
+.results-header h3 {
+    color: #19824f	}
+.sidebar-tags h4, .sidebar-cats h4 {
+    color: #19824f	}	
+h3.section-header, h3.section-header a  {
+    color: #157145	}	
+h3.section-header a:hover  {
+    color: #19824f	}		
+/* Medium and Up Only */	
+@media only screen and (min-width: 720px) {
+	.top-bar-section li.active:not(.has-form) a:not(.button) {
+		background: #1c935a		}
+	.top-bar-section li.active:not(.has-form) a:not(.button):hover {
+		background: #19824f		}
+	.top-bar-section .dropdown li.active:not(.has-form) a:not(.button) {
+		background: #19824f		}
+	.top-bar-section .dropdown li.active:not(.has-form) a:not(.button):hover {
+		background: #157145		}		
+	}
+/* Small Only */	
+@media only screen and (max-width: 719px) {
+	.top-bar-section ul li, .top-bar-section .has-form {
+		background: #19824f		}
+	.top-bar-section li:not(.has-form) a:not(.button):hover, .top-bar-section ul li:hover:not(.has-form) > a {
+		background: #157145		}
+	}
+</style>
+<style class="cat-colours">
+.catcolour_sport_standard{background:#1FA464;}.catcolour_sport_inverted *{color:#1FA464 !important;}.catcolour_entertainment_standard{background:#B03232;}.catcolour_entertainment_inverted *{color:#B03232 !important;}.catcolour_lifestyle_standard{background:#9B2C6F;}.catcolour_lifestyle_inverted *{color:#9B2C6F !important;}	
+</style>	<link href='https://fonts.googleapis.com/css?family=Comfortaa:300,400,700' rel='stylesheet' type='text/css'>
+	</head>	
+<body class='template-list'
+ng-app="primomoApp">
+
+<div><div ng-init="deckArray=[{name:'Tony Gwynn', subtitle:'', image:'/site/assets/files/7630/tony_gwynn_2011.300x300.jpg', copyright:'By Krusty from Saint Paul, MN (Parade of Legends_0499) [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons', plays:5, wins:5, gamePlays:0, gameWins:0, cardPageId:7630},{name:'Trevor Hoffman', subtitle:'', image:'/site/assets/files/7631/trevor_hoffman_01.300x300.jpg', copyright:'By Djh57 (Own work) [CC BY 3.0 (http://creativecommons.org/licenses/by/3.0)], via Wikimedia Commons', plays:3, wins:2, gamePlays:0, gameWins:0, cardPageId:7631},{name:'Dave Winfield', subtitle:'', image:'/site/assets/files/7632/davewinfieldbymariocasciano.300x300.jpg', copyright:'By Mario Casciano (Own work) [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons', plays:7, wins:6, gamePlays:0, gameWins:0, cardPageId:7632},{name:'Goose Gossage', subtitle:'', image:'/site/assets/files/7633/goosegossage_8_2007.300x300.jpg', copyright:'By Philkon Phil Konstantin (Own work) [Public domain], via Wikimedia Commons', plays:2, wins:1, gamePlays:0, gameWins:0, cardPageId:7633},{name:'Randy Jones', subtitle:'', image:'/site/assets/files/7634/randyjonesbyphilkonstantin.300x300.jpg', copyright:'By Philkon Phil Konstantin (Own work) [Public domain], via Wikimedia Commons', plays:1, wins:0, gamePlays:0, gameWins:0, cardPageId:7634},{name:'Ken Caminiti', subtitle:'', image:'/site/assets/files/7635/ken_caminiti_at_batting_practice.300x300.jpg', copyright:'Karen Warren', plays:1, wins:0, gamePlays:0, gameWins:0, cardPageId:7635},{name:'Fred McGriff', subtitle:'', image:'/site/assets/files/7636/fred_mcgriff.300x300.jpg', copyright:'By Wknight94 (Own work) [GFDL (http://www.gnu.org/copyleft/fdl.html) or CC-BY-SA-3.0 (http://creativecommons.org/licenses/by-sa/3.0/)], via Wikimedia Commons', plays:2, wins:1, gamePlays:0, gameWins:0, cardPageId:7636},{name:'Benito Santiago', subtitle:'', image:'/site/assets/files/7637/121693.300x300.jpg', copyright:'Fair use', plays:1, wins:0, gamePlays:0, gameWins:0, cardPageId:7637},{name:'Garry Templeton', subtitle:'', image:'/site/assets/files/7638/garytempleton.300x300.jpg', copyright:'Fair use', plays:1, wins:0, gamePlays:0, gameWins:0, cardPageId:7638},{name:'Adrian Gonzalez', subtitle:'', image:'/site/assets/files/7639/adrian_gonzalez_01.300x300.jpg', copyright:'By Djh57 (Own work) [CC BY 3.0 (http://creativecommons.org/licenses/by/3.0)], via Wikimedia Commons', plays:2, wins:1, gamePlays:0, gameWins:0, cardPageId:7639},{name:'Jake Peavy', subtitle:'', image:'/site/assets/files/7640/jake_delivers.300x300.jpg', copyright:'By Jim Epler on Flickr (Original version) UCinternational (Crop) [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons', plays:1, wins:0, gamePlays:0, gameWins:0, cardPageId:7640},{name:'Gary Sheffield', subtitle:'', image:'/site/assets/files/7641/gary_sheffield2.300x300.jpg', copyright:'Googie man at the English language Wikipedia [GFDL (http://www.gnu.org/copyleft/fdl.html) or CC-BY-SA-3.0 (http://creativecommons.org/licenses/by-sa/3.0/)], via Wikimedia Commons', plays:2, wins:1, gamePlays:0, gameWins:0, cardPageId:7641},{name:'Steve Finley', subtitle:'', image:'/site/assets/files/7642/steve_finley.300x300.jpg', copyright:'By Jessica Merz (jessicafm) from Novato, USA (Flickr) [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons', plays:1, wins:0, gamePlays:0, gameWins:0, cardPageId:7642},{name:'Nate Colbert', subtitle:'', image:'/site/assets/files/7643/colbert.300x300.jpg', copyright:'Fair use', plays:3, wins:2, gamePlays:0, gameWins:0, cardPageId:7643},{name:'Ryan Klesko', subtitle:'', image:'/site/assets/files/7644/klesko.300x300.jpg', copyright:'By User shgmom56 on Flickr (From Flickr; description page is (was) here) [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons', plays:1, wins:0, gamePlays:0, gameWins:0, cardPageId:7644},{name:'Greg Vaughn', subtitle:'', image:'/site/assets/files/7645/8654-7fr.300x300.jpg', copyright:'Fair use', plays:1, wins:0, gamePlays:0, gameWins:0, cardPageId:7645},{name:'Phil Nevin', subtitle:'', image:'/site/assets/files/7646/nevin-e1444869874230.300x300.jpg', copyright:'Fair use', plays:1, wins:0, gamePlays:0, gameWins:0, cardPageId:7646},{name:'Ozzie Smith', subtitle:'', image:'/site/assets/files/7647/ozzie_smith_1983.300x300.jpg', copyright:'Johnmaxmena [CC BY 3.0 (http://creativecommons.org/licenses/by/3.0)], via Wikimedia Commons', plays:1, wins:0, gamePlays:0, gameWins:0, cardPageId:7647},{name:'Eric Show', subtitle:'', image:'/site/assets/files/7648/eric_show_baseballcard.300x300.jpg', copyright:'TOPPS', plays:1, wins:0, gamePlays:0, gameWins:0, cardPageId:7648},{name:'Brian Giles', subtitle:'', image:'/site/assets/files/7649/brian_giles_2008.300x300.jpg', copyright:'By ewen and donabel (Brian Giles) [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons', plays:1, wins:0, gamePlays:0, gameWins:0, cardPageId:7649},]; gameArray=[{title:'Greatest San Diego Padres Player', interrogative:'Who is', possessive:' ', possessiveAlt:'', subject:'the Greatest Ever San Diego Padres Player', summary:'Who is the Greatest Ever San Diego Padres Player?'}]; pageId=7629;"></div></div>
+
+<div ng-controller="primomoController" class="page-wrap">
+
+<div class="fixednav">
+	<div class="row topbar-container">
+		<top-bar id="top-menu" class="top-bar top-menu" mobile-show-parent-link="true" is-hover="false">
+			<ul class="title-area">
+				<li class="name">
+					<h1><a href="/"><img class="primomo-logo" src="/site/templates/images/primomologotext.svg"><span></span></a></h1>
+				</li>
+				<li toggle-top-bar onclick="document.getElementById('top-search').classList.remove('expanded')" class="toggle-topbar toggle-topbar-main menu-icon"><a href=""><span></span></a></li>
+			</ul>
+			<top-bar-section ng-cloakx>
+				<ul class="right">
+					
+					
+<ul class="primenu">
+	<li>
+		<a href='/categories/entertainment/'>Entertainment</a>
+	</li>
+	<li>
+		<a href='/categories/sport/'>Sport</a>
+	</li>
+	<li>
+		<a href='/categories/lifestyle/'>Lifestyle</a>
+	</li>
+</ul>					
+					<li has-dropdown class="primenu-hasdropdown">
+						<a>More</a>
+						<ul top-bar-dropdown ng-cloak>
+							
+<ul class="more-menu">
+	<li>
+		<a href='/categories/entertainment/tv/'>TV</a>
+	</li>
+	<li>
+		<a href='/categories/lifestyle/people/'>People</a>
+	</li>
+	<li>
+		<a href='/categories/sport/football/'>Football</a>
+	</li>
+	<li>
+		<a href='/categories/lifestyle/food/'>Food</a>
+	</li>
+	<li>
+		<a href='/categories/entertainment/music/'>Music</a>
+	</li>
+	<li>
+		<a href='/categories/entertainment/movies/'>Movies</a>
+	</li>
+	<li>
+		<a href='/categories/'>All Categories</a>
+	</li>
+</ul>						</ul>
+					</li>
+					
+					<ul>
+						<li class="has-form search-form-medium-up">
+						    <div class="row collapse">
+						      <div class="large-12 small-12 columns">
+						        <form id="site-search-form" class="clearfix" action="/search/" method="get">
+									<input type="text" name="q" value="" placeholder="Search">
+								</form>
+						      </div>
+						    </div>
+						</li>
+					</ul>
+					
+				</ul>
+			</top-bar-section>
+		</top-bar>
+		
+		<top-bar id="top-search" class="top-bar top-search show-for-small-only" data-topbar="" style="height: 45px">
+			<ul class="title-area">
+				<li class="name"></li>
+				<li toggle-top-bar onclick="document.getElementById('top-menu').classList.remove('expanded')" class="toggle-topbar toggle-topbar-search menu-icon"><a href=""><span></span></a></li>
+			</ul>
+			<top-bar-section ng-cloak>
+				<ul>
+				  <li class="has-form search-form-small-only">
+				    <div class="row collapse">
+				      <div class="large-12 small-12 columns">
+				        <form id="site-search-form" class="clearfix" action="/search/" method="get">
+							<input type="text" name="q" value="" placeholder="Search">
+						</form>
+				      </div>
+				    </div>
+				  </li>
+				</ul>
+			</top-bar-section>
+		</top-bar>
+	</div>
+</div>
+
+
+<div class="row-container ccolour_base main-header">
+	<div class="row">
+		<div class="column">
+			<h2 class="top-header">Greatest San Diego Padres Player</h2>
+		</div>
+	</div>
+	</div>
+
+<div id="body-wrap">
+	<div class="row-container">
+	<div class="row list-grid-row" id="sectionid1">
+		<div class="column">
+			<h3 class="left section-header">Related Lists</a></h3>
+				
+		</div>
+		
+		
+			<div class="column list-grid">
+				<div equalizer class="row">
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_sport_standard catcolorstyle_standard' id='list-6286'>
+
+	<a href='/list/americas-greatest-ryder-cup-player/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/6286/1024px-rydercuplogo_svg.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>America's Greatest Ryder Cup Player</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-6027'>
+
+	<a href='/list/best-martin-scorsese-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/6027/martin_scorsese_cannes_2010.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Martin Scorsese Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-5666'>
+
+	<a href='/list/best-leonardo-dicaprio/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/5666/leonardo_dicaprio_2014.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Leonardo DiCaprio Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-2632'>
+
+	<a href='/list/best-rom-com/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/2632/best-rom-com-qqq1hzqb.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Rom-Com</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-2572'>
+
+	<a href='/list/best-action-star/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/2572/best-action-star-jwonxr71.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Action Star</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+									</div>
+			</div>	
+						<div class="column"><div class='pagination-centered'><ul class='pagination'><li class='MarkupPagerNavPrevious MarkupPagerNavFirst'><a href='/list/greatest-san-diego-padres-player/'><span><<</span></a></li><li class='MarkupPagerNavFirstNum'><a href='/list/greatest-san-diego-padres-player/'><span>1</span></a></li><li class='current MarkupPagerNavLast MarkupPagerNavLastNum'><a href='/list/greatest-san-diego-padres-player/page2'><span>2</span></a></li></ul></div></div>	</div>
+</div></div>
+
+</div> <!--ng-controller-->
+<footer class="ccolour_base">
+
+<div class="row">
+	<div class="medium-4 medium-push-8 columns">
+		<ul class="footer-social">
+			<li>
+				<a href="" class="xxx" style="opacity: 0 !important"></a>
+			</li>
+			<li>
+				<a href="" class="xxx" style="opacity: 0 !important"></a>
+			</li>
+			<!-- <li><a href="/about" class="mail"></a></li> -->
+		</ul>
+	</div>
+	<div class="medium-8 medium-pull-4 columns">		
+	</div>
+</div>
+
+</footer>
+<script>
+flowtype(document.body.querySelector('#stack-container'), {
+   minimum   : 0,
+   maximum   : 600,
+   minFont   : 1,
+   maxFont   : 50,
+   fontRatio : 14,
+   lineRatio : 1.45
+});	
+flowtype(document.body.querySelector('#gamemessage-container'), {
+   minimum   : 0,
+   maximum   : 600,
+   minFont   : 1,
+   maxFont   : 50,
+   fontRatio : 14,
+   lineRatio : 1.45
+});	
+</script>
+</body>
+</html>

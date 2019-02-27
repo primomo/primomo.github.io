@@ -1,0 +1,395 @@
+<!DOCTYPE html>
+<!--[if IE 9]><html class="lt-ie10" lang="en" > <![endif]-->
+<html class="no-js" lang="en" itemscope itemtype="http://schema.org/ItemList">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+	<style type="text/css">@charset "UTF-8";[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {display: none !important;}</style>	
+	<link rel="canonical" href="">
+	
+		
+	
+	<!-- Meta -->
+	<title>Hottest Woman of 2016 - Primomo</title>
+	<meta name="description" content="Who is the Hottest Women of 2016? Michelle Keegan? Kendall Jenner? Jennifer Lawrence? Kate Upton? Caroline Flack? Ariana Grande? Margot Robbie? Emilia Clarke? Kelly Brook? Britney Spears? Kim Kardashian? Taylor Swift? Natalie Dormer? Sofia Vergara? Emily Ratajkowski? Beyoncé? Meg Turney? Katy Perry? Rihanna? Candice Swanepoel? " />
+	<!-- Schema -->
+	<meta itemprop="name" content="Hottest Woman of 2016">
+	<meta itemprop="description" content="Who is the Hottest Women of 2016? Michelle Keegan? Kendall Jenner? Jennifer Lawrence? Kate Upton? Caroline Flack? Ariana Grande? Margot Robbie? Emilia Clarke? Kelly Brook? Britney Spears? Kim Kardashian? Taylor Swift? Natalie Dormer? Sofia Vergara? Emily Ratajkowski? Beyoncé? Meg Turney? Katy Perry? Rihanna? Candice Swanepoel? "> 
+	<meta itemprop="image" content=""> 
+	 <meta itemprop="itemListOrder" content="Descending" /> 	<!-- Twitter -->
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:site" content="@playprimomo">
+	<meta name="twitter:title" content="Hottest Woman of 2016">
+	<meta name="twitter:description" content="Who is the Hottest Women of 2016? Michelle Keegan? Kendall Jenner? Jennifer Lawrence? Kate Upton? Caroline Flack? Ariana Grande? Margot Robbie? Emilia Clarke? Kelly Brook? Britney Spears? Kim Kardashian? Taylor Swift? Natalie Dormer? Sofia Vergara? Emily Ratajkowski? Beyoncé? Meg Turney? Katy Perry? Rihanna? Candice Swanepoel? "> 
+	<meta name="twitter:creator" content="@playprimomo">
+	<meta name="twitter:image:src" content=""> 
+	<!-- Open Graph -->
+	<meta property="og:title" content="Hottest Woman of 2016" />
+	<meta property="og:type" content="article" /> 
+	<meta property="og:url" content="" /> 
+	<meta property="og:image" content=""> 
+	<meta property="og:image:width" content="500"> 
+	<meta property="og:image:height" content="300"> 
+	<meta property="og:description" content="Who is the Hottest Women of 2016? Michelle Keegan? Kendall Jenner? Jennifer Lawrence? Kate Upton? Caroline Flack? Ariana Grande? Margot Robbie? Emilia Clarke? Kelly Brook? Britney Spears? Kim Kardashian? Taylor Swift? Natalie Dormer? Sofia Vergara? Emily Ratajkowski? Beyoncé? Meg Turney? Katy Perry? Rihanna? Candice Swanepoel? " /> 
+	<meta property="og:site_name" content="Primomo" />
+	<meta property="article:section" content="Hottest" />  
+	<meta property="article:tag" content="Sexy, Sexiest, Coronation Street , Reality , The Hunger Games , Game of Thrones , Neighbours, FHM" />  
+	<meta property="fb:admins" content="690322552, 598310032" />	
+
+	<link rel="stylesheet" href="/site/templates/components/normalize/normalize.min.css" />
+	<link rel="stylesheet" href="/site/templates/components/foundation/foundation.min.css" />
+	<link rel="stylesheet" href="/site/templates/components/animate-scss/animate.min.css" />
+
+	<script src="/site/templates/components/angular/angular.min.js"></script>
+	<script src="/site/templates/components/angular/angular-touch.min.js"></script>
+	<script src="/site/templates/components/angular-foundation/mm-foundation-tpls-0.8.0.min.js"></script>
+	<script src="/site/templates/components/modernizr.js"></script>
+	<script src="/site/templates/components/fastclick.js"></script>
+	
+	<script src="/site/templates/components/ng-FitText.js"></script>
+	<script src="/site/templates/components/flowtype.min.js"></script>
+	<script src="/site/templates/scripts/angular-swing.min.js"></script>
+	<script src="/site/templates/scripts/angular-equalizer.min.js"></script>
+	<script src="/site/templates/scripts/primomo.min.js"></script>
+	
+	<link rel="stylesheet" href="/site/templates/styles/primomo.min.css?" />
+	
+	<style class="game-colour">
+/* ccolour_base - base */
+.ccolour_base { background: #9B2C6F}
+.ccolour_base-border { border-color: #9B2C6F}
+.ccolour_base-text { color: #9B2C6F}
+/* ccolour_d1 - darker 1 */
+.ccolour_d1 { background: #8b2764}
+.ccolour_d1-border { border-color: #8b2764}
+.ccolour_d1-text { color: #8b2764}
+/* ccolour_d2 - darker 2 */
+.ccolour_d2 { background: #7b2358}
+.ccolour_d2-border { border-color: #7b2358}
+.ccolour_d2-text { color: #7b2358}
+/* ccolour_d3 - darker 3 */
+.ccolour_d3 { background: #6b1e4d}
+.ccolour_d3-border { border-color: #6b1e4d}
+.ccolour_d3-text { color: #6b1e4d}
+/* ccolour_l1 - lighter 1 */
+.ccolour_l1, {background: #b33380}
+.ccolour_l1-border { border-color: #b33380}
+.ccolour_l1-text { color: #b33380}
+/* Colour Styles */
+body, #viewport, .page-wrap:before {
+	background: #9B2C6F	}
+.top-bar-section ul li, .top-bar-section li:not(.has-form) a:not(.button), .top-bar-section .has-form {
+	background: none;
+	}
+.top-bar-section li:not(.has-form) a:not(.button):hover, .top-bar-section ul li:hover:not(.has-form) > a, .top-bar-section .dropdown li:not(.has-form):not(.active) > a:not(.button) {
+	background: #7b2358	}
+html.touch .top-bar-section li.has-dropdown a:hover {
+	background:none;
+	}
+html.touch .top-bar-section li.has-dropdown.not-click a:hover {
+	background:#7b2358;
+	}
+.top-bar-section .dropdown li:not(.has-form):not(.active):hover > a:not(.button) {
+	background: #6b1e4d	}
+.top-bar, .fixednav, .top-bar .title-area, .top-bar.expanded .title-area {
+	background: #8b2764	}	
+.top-bar input[type="text"] {
+	border-color: #8b2764	}
+.accordian-percent {
+	background: #7b2358	}
+.results-header h3 {
+    color: #7b2358	}
+.sidebar-tags h4, .sidebar-cats h4 {
+    color: #7b2358	}	
+h3.section-header, h3.section-header a  {
+    color: #6b1e4d	}	
+h3.section-header a:hover  {
+    color: #7b2358	}		
+/* Medium and Up Only */	
+@media only screen and (min-width: 720px) {
+	.top-bar-section li.active:not(.has-form) a:not(.button) {
+		background: #8b2764		}
+	.top-bar-section li.active:not(.has-form) a:not(.button):hover {
+		background: #7b2358		}
+	.top-bar-section .dropdown li.active:not(.has-form) a:not(.button) {
+		background: #7b2358		}
+	.top-bar-section .dropdown li.active:not(.has-form) a:not(.button):hover {
+		background: #6b1e4d		}		
+	}
+/* Small Only */	
+@media only screen and (max-width: 719px) {
+	.top-bar-section ul li, .top-bar-section .has-form {
+		background: #7b2358		}
+	.top-bar-section li:not(.has-form) a:not(.button):hover, .top-bar-section ul li:hover:not(.has-form) > a {
+		background: #6b1e4d		}
+	}
+</style>
+<style class="cat-colours">
+.catcolour_sport_standard{background:#1FA464;}.catcolour_sport_inverted *{color:#1FA464 !important;}.catcolour_entertainment_standard{background:#B03232;}.catcolour_entertainment_inverted *{color:#B03232 !important;}.catcolour_lifestyle_standard{background:#9B2C6F;}.catcolour_lifestyle_inverted *{color:#9B2C6F !important;}	
+</style>	<link href='https://fonts.googleapis.com/css?family=Comfortaa:300,400,700' rel='stylesheet' type='text/css'>
+	</head>	
+<body class='template-list'
+ng-app="primomoApp">
+
+<div><div ng-init="deckArray=[{name:'Michelle Keegan', subtitle:'', image:'/site/assets/files/4853/michelle_keegan.300x300.jpg', copyright:'By Sarah Winterman (Flickr: Me &amp;amp; Michelle Keegan (Corronation Street)) [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons', plays:170, wins:55, gamePlays:0, gameWins:0, cardPageId:4853},{name:'Kendall Jenner', subtitle:'', image:'/site/assets/files/4854/kendall_jenner_cannes_2014_28cropped_29.300x300.jpg', copyright:'Georges Biard [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons', plays:262, wins:151, gamePlays:0, gameWins:0, cardPageId:4854},{name:'Jennifer Lawrence', subtitle:'', image:'/site/assets/files/4855/jennifer_lawrence_at_the_83rd_academy_awards_crop.300x300.jpg', copyright:'By Jennifer_Lawrence_at_the_83rd_Academy_Awards.jpg: Mingle MediaTV derivative work: Tabercil (Jennifer_Lawrence_at_the_83rd_Academy_Awards.jpg) [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons', plays:283, wins:180, gamePlays:0, gameWins:0, cardPageId:4855},{name:'Kate Upton', subtitle:'', image:'/site/assets/files/4856/kate_upton_at_2011_jets_vip_draft_party_28crop_29.300x300.jpg', copyright:'Peter Ko [CC BY 3.0 (http://creativecommons.org/licenses/by/3.0)], via Wikimedia Commons', plays:235, wins:122, gamePlays:0, gameWins:0, cardPageId:4856},{name:'Caroline Flack', subtitle:'', image:'/site/assets/files/4857/caroline_flack.300x300.jpg', copyright:'By Scottish Beauty Blog [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons', plays:144, wins:28, gamePlays:0, gameWins:0, cardPageId:4857},{name:'Ariana Grande', subtitle:'', image:'/site/assets/files/4858/93_3_flz_jingle_ball_tampa_florida_img_6850_2811490195453_29_28cropped_29.300x300.jpg', copyright:'By Melissa Rose from USA (IMG_6850) [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons', plays:244, wins:138, gamePlays:0, gameWins:0, cardPageId:4858},{name:'Margot Robbie', subtitle:'', image:'/site/assets/files/4859/margot_robbie_28cropped_29.300x300.jpg', copyright:'By Margot_Robbie.jpg: Eva Rinaldi derivative work: Jbarta (Margot_Robbie.jpg) [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons', plays:234, wins:129, gamePlays:0, gameWins:0, cardPageId:4859},{name:'Emilia Clarke', subtitle:'', image:'/site/assets/files/4860/emilia_clarke_2013_28straighten_colors_2_29.300x300.jpg', copyright:'By NI Executive  Uploaded by MyCanon (Emilia Clarke) [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons', plays:222, wins:113, gamePlays:0, gameWins:0, cardPageId:4860},{name:'Kelly Brook', subtitle:'', image:'/site/assets/files/4861/kelly_brook_at_2015_tca_28cropped_29.300x300.jpg', copyright:'By RedCarpetReport [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons', plays:197, wins:82, gamePlays:0, gameWins:0, cardPageId:4861},{name:'Britney Spears', subtitle:'', image:'/site/assets/files/4862/britneypom13.300x300.jpg', copyright:'By https://www.flickr.com/photos/rhysadams/ [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons', plays:251, wins:153, gamePlays:0, gameWins:0, cardPageId:4862},{name:'Kim Kardashian', subtitle:'', image:'/site/assets/files/4863/kim_kardashian_2011.300x300.jpg', copyright:'By Toglenn (Own work) [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0) or GFDL (http://www.gnu.org/copyleft/fdl.html)], via Wikimedia Commons', plays:230, wins:117, gamePlays:0, gameWins:0, cardPageId:4863},{name:'Taylor Swift', subtitle:'', image:'/site/assets/files/4864/taylor_swift_043_2818117777270_29.300x300.jpg', copyright:'By GabboT (Taylor Swift 043) [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons', plays:229, wins:119, gamePlays:0, gameWins:0, cardPageId:4864},{name:'Natalie Dormer', subtitle:'', image:'/site/assets/files/4865/natalie_dormer_2014_comic_con_28cropped_29.300x300.jpg', copyright:'By Gage Skidmore [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons', plays:185, wins:69, gamePlays:0, gameWins:0, cardPageId:4865},{name:'Sofia Vergara', subtitle:'', image:'/site/assets/files/4866/sof_c3_ada_vergara_2013.300x300.jpg', copyright:'By Jenn Deering Davis  Uploaded by MyCanon (Sofía Vergara) [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons', plays:230, wins:118, gamePlays:0, gameWins:0, cardPageId:4866},{name:'Emily Ratajkowski', subtitle:'', image:'/site/assets/files/4867/march_2012_issue_3_cover_of_treats_21.300x300.jpg', copyright:'treats!/Steve Shaw', plays:207, wins:95, gamePlays:0, gameWins:0, cardPageId:4867},{name:'Beyoncé', subtitle:'', image:'/site/assets/files/4868/beyonce_knowles_with_necklaces.300x300.jpg', copyright:'Parkwood [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons', plays:253, wins:150, gamePlays:0, gameWins:0, cardPageId:4868},{name:'Meg Turney', subtitle:'', image:'/site/assets/files/4869/meg_turney_as_elizabeth_from_bioshock.300x300.jpg', copyright:'By Pat Loika (Elizabeth from Bioshock) [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons', plays:141, wins:26, gamePlays:0, gameWins:0, cardPageId:4869},{name:'Katy Perry', subtitle:'', image:'/site/assets/files/4870/katy_perry_e2_80_93zenith_paris.300x300.jpg', copyright:'By oouinouin from Nanterre, France (http://www.flickr.com/photos/oouinouin/5512330507/) [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons', plays:233, wins:121, gamePlays:0, gameWins:0, cardPageId:4870},{name:'Rihanna', subtitle:'', image:'/site/assets/files/4871/rihanna_2012_28cropped_29.300x300.jpg', copyright:'By Liam Mendes  Uploaded by MyCanon (Rihanna) [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons', plays:221, wins:106, gamePlays:0, gameWins:0, cardPageId:4871},{name:'Candice Swanepoel', subtitle:'', image:'/site/assets/files/4872/candice-swanepoel_2010-03-31_victoriassecretstorechicago_photo-by-adam_bielawski.300x300.jpg', copyright:'By Photobra, Adam Bielawski (Own work) [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0) or GFDL (http://www.gnu.org/copyleft/fdl.html)], via Wikimedia Commons', plays:237, wins:132, gamePlays:0, gameWins:0, cardPageId:4872},]; gameArray=[{title:'Hottest Woman of 2016', interrogative:'Who is', possessive:' ', possessiveAlt:'', subject:'the Hottest Women of 2016', summary:'Who is the Hottest Women of 2016?'}]; pageId=4852;"></div></div>
+
+<div ng-controller="primomoController" class="page-wrap">
+
+<div class="fixednav">
+	<div class="row topbar-container">
+		<top-bar id="top-menu" class="top-bar top-menu" mobile-show-parent-link="true" is-hover="false">
+			<ul class="title-area">
+				<li class="name">
+					<h1><a href="/"><img class="primomo-logo" src="/site/templates/images/primomologotext.svg"><span></span></a></h1>
+				</li>
+				<li toggle-top-bar onclick="document.getElementById('top-search').classList.remove('expanded')" class="toggle-topbar toggle-topbar-main menu-icon"><a href=""><span></span></a></li>
+			</ul>
+			<top-bar-section ng-cloakx>
+				<ul class="right">
+					
+					
+<ul class="primenu">
+	<li>
+		<a href='/categories/entertainment/'>Entertainment</a>
+	</li>
+	<li>
+		<a href='/categories/sport/'>Sport</a>
+	</li>
+	<li>
+		<a href='/categories/lifestyle/'>Lifestyle</a>
+	</li>
+</ul>					
+					<li has-dropdown class="primenu-hasdropdown">
+						<a>More</a>
+						<ul top-bar-dropdown ng-cloak>
+							
+<ul class="more-menu">
+	<li>
+		<a href='/categories/entertainment/tv/'>TV</a>
+	</li>
+	<li>
+		<a href='/categories/lifestyle/people/'>People</a>
+	</li>
+	<li>
+		<a href='/categories/sport/football/'>Football</a>
+	</li>
+	<li>
+		<a href='/categories/lifestyle/food/'>Food</a>
+	</li>
+	<li>
+		<a href='/categories/entertainment/music/'>Music</a>
+	</li>
+	<li>
+		<a href='/categories/entertainment/movies/'>Movies</a>
+	</li>
+	<li>
+		<a href='/categories/'>All Categories</a>
+	</li>
+</ul>						</ul>
+					</li>
+					
+					<ul>
+						<li class="has-form search-form-medium-up">
+						    <div class="row collapse">
+						      <div class="large-12 small-12 columns">
+						        <form id="site-search-form" class="clearfix" action="/search/" method="get">
+									<input type="text" name="q" value="" placeholder="Search">
+								</form>
+						      </div>
+						    </div>
+						</li>
+					</ul>
+					
+				</ul>
+			</top-bar-section>
+		</top-bar>
+		
+		<top-bar id="top-search" class="top-bar top-search show-for-small-only" data-topbar="" style="height: 45px">
+			<ul class="title-area">
+				<li class="name"></li>
+				<li toggle-top-bar onclick="document.getElementById('top-menu').classList.remove('expanded')" class="toggle-topbar toggle-topbar-search menu-icon"><a href=""><span></span></a></li>
+			</ul>
+			<top-bar-section ng-cloak>
+				<ul>
+				  <li class="has-form search-form-small-only">
+				    <div class="row collapse">
+				      <div class="large-12 small-12 columns">
+				        <form id="site-search-form" class="clearfix" action="/search/" method="get">
+							<input type="text" name="q" value="" placeholder="Search">
+						</form>
+				      </div>
+				    </div>
+				  </li>
+				</ul>
+			</top-bar-section>
+		</top-bar>
+	</div>
+</div>
+
+
+<div class="row-container ccolour_base main-header">
+	<div class="row">
+		<div class="column">
+			<h2 class="top-header">Hottest Woman of 2016</h2>
+		</div>
+	</div>
+	</div>
+
+<div id="body-wrap">
+	<div class="row-container">
+	<div class="row list-grid-row" id="sectionid1">
+		<div class="column">
+			<h3 class="left section-header">Related Lists</a></h3>
+				
+		</div>
+		
+		
+			<div class="column list-grid">
+				<div equalizer class="row">
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_lifestyle_standard catcolorstyle_standard' id='list-4829'>
+
+	<a href='/list/hottest-male-of-2015/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/4829/jamie_dornan_2014.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Hottest Male of 2016</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-4406'>
+
+	<a href='/list/best-soap-opera/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/4406/den_ange_divorce.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Soap Opera</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_lifestyle_standard catcolorstyle_standard' id='list-4037'>
+
+	<a href='/list/hottest-female-cartoon-character/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/4037/cool_world_characters_jack_and_holly.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Hottest Female Cartoon Character</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_lifestyle_standard catcolorstyle_standard' id='list-3338'>
+
+	<a href='/list/hottest-taylor-swift-ex/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/3338/taylorswiftapr09.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Hottest Taylor Swift Ex-Boyfriend</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-2102'>
+
+	<a href='/list/best-movie-franchises/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/2102/best-movie-franchises-j0ngcfiu.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Movie Franchises</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_lifestyle_standard catcolorstyle_standard' id='list-1179'>
+
+	<a href='/list/sexiest-redhead-actress/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/1179/emma-stone-photo-call.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Hottest Female Redhead</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+									</div>
+			</div>	
+						<div class="column"><div class='pagination-centered'><ul class='pagination'><li class='MarkupPagerNavPrevious MarkupPagerNavFirst'><a href='/list/hottest-woman-of-2015/'><span><<</span></a></li><li class='MarkupPagerNavFirstNum'><a href='/list/hottest-woman-of-2015/'><span>1</span></a></li><li class='current MarkupPagerNavLast MarkupPagerNavLastNum'><a href='/list/hottest-woman-of-2015/page2'><span>2</span></a></li></ul></div></div>	</div>
+</div></div>
+
+</div> <!--ng-controller-->
+<footer class="ccolour_base">
+
+<div class="row">
+	<div class="medium-4 medium-push-8 columns">
+		<ul class="footer-social">
+			<li>
+				<a href="" class="xxx" style="opacity: 0 !important"></a>
+			</li>
+			<li>
+				<a href="" class="xxx" style="opacity: 0 !important"></a>
+			</li>
+			<!-- <li><a href="/about" class="mail"></a></li> -->
+		</ul>
+	</div>
+	<div class="medium-8 medium-pull-4 columns">		
+	</div>
+</div>
+
+</footer>
+<script>
+flowtype(document.body.querySelector('#stack-container'), {
+   minimum   : 0,
+   maximum   : 600,
+   minFont   : 1,
+   maxFont   : 50,
+   fontRatio : 14,
+   lineRatio : 1.45
+});	
+flowtype(document.body.querySelector('#gamemessage-container'), {
+   minimum   : 0,
+   maximum   : 600,
+   minFont   : 1,
+   maxFont   : 50,
+   fontRatio : 14,
+   lineRatio : 1.45
+});	
+</script>
+</body>
+</html>

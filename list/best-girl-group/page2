@@ -1,0 +1,701 @@
+<!DOCTYPE html>
+<!--[if IE 9]><html class="lt-ie10" lang="en" > <![endif]-->
+<html class="no-js" lang="en" itemscope itemtype="http://schema.org/ItemList">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+	<style type="text/css">@charset "UTF-8";[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {display: none !important;}</style>	
+	<link rel="canonical" href="">
+	
+		
+	
+	<!-- Meta -->
+	<title>Best Girl Group - Primomo</title>
+	<meta name="description" content="These ladies have sold out arenas across the world, but who are the best girl group ever? Spice Girls? TLC? Destiny's Child? The Pussycat Dolls? Bananarama? The Supremes? En Vogue? Salt-N-Pepa? Sugababes? All Saints? Atomic Kitten? The Go-Go's? t.A.T.u.? Girls Aloud? The Saturdays? Little Mix? Fifth Harmony? 2NE1? Girls' Generation? AKB48? " />
+	<!-- Schema -->
+	<meta itemprop="name" content="Best Girl Group">
+	<meta itemprop="description" content="These ladies have sold out arenas across the world, but who are the best girl group ever? Spice Girls? TLC? Destiny's Child? The Pussycat Dolls? Bananarama? The Supremes? En Vogue? Salt-N-Pepa? Sugababes? All Saints? Atomic Kitten? The Go-Go's? t.A.T.u.? Girls Aloud? The Saturdays? Little Mix? Fifth Harmony? 2NE1? Girls' Generation? AKB48? "> 
+	<meta itemprop="image" content=""> 
+	 <meta itemprop="itemListOrder" content="Descending" /> 	<!-- Twitter -->
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:site" content="@playprimomo">
+	<meta name="twitter:title" content="Best Girl Group">
+	<meta name="twitter:description" content="These ladies have sold out arenas across the world, but who are the best girl group ever? Spice Girls? TLC? Destiny's Child? The Pussycat Dolls? Bananarama? The Supremes? En Vogue? Salt-N-Pepa? Sugababes? All Saints? Atomic Kitten? The Go-Go's? t.A.T.u.? Girls Aloud? The Saturdays? Little Mix? Fifth Harmony? 2NE1? Girls' Generation? AKB48? "> 
+	<meta name="twitter:creator" content="@playprimomo">
+	<meta name="twitter:image:src" content=""> 
+	<!-- Open Graph -->
+	<meta property="og:title" content="Best Girl Group" />
+	<meta property="og:type" content="article" /> 
+	<meta property="og:url" content="" /> 
+	<meta property="og:image" content=""> 
+	<meta property="og:image:width" content="500"> 
+	<meta property="og:image:height" content="300"> 
+	<meta property="og:description" content="These ladies have sold out arenas across the world, but who are the best girl group ever? Spice Girls? TLC? Destiny's Child? The Pussycat Dolls? Bananarama? The Supremes? En Vogue? Salt-N-Pepa? Sugababes? All Saints? Atomic Kitten? The Go-Go's? t.A.T.u.? Girls Aloud? The Saturdays? Little Mix? Fifth Harmony? 2NE1? Girls' Generation? AKB48? " /> 
+	<meta property="og:site_name" content="Primomo" />
+	<meta property="article:section" content="Music" />  
+	<meta property="article:tag" content="Girlband, Pop Music, Boyband, Victoria Beckham, Melanie Brown, Geri Halliwell, Beyoncé Knowles, Michelle Williams, Kelly Rowland, chart, Billboard, Nicole Scherzinger, Cheryl Cole, Kimberley Walsh, One Direction" />  
+	<meta property="fb:admins" content="690322552, 598310032" />	
+
+	<link rel="stylesheet" href="/site/templates/components/normalize/normalize.min.css" />
+	<link rel="stylesheet" href="/site/templates/components/foundation/foundation.min.css" />
+	<link rel="stylesheet" href="/site/templates/components/animate-scss/animate.min.css" />
+
+	<script src="/site/templates/components/angular/angular.min.js"></script>
+	<script src="/site/templates/components/angular/angular-touch.min.js"></script>
+	<script src="/site/templates/components/angular-foundation/mm-foundation-tpls-0.8.0.min.js"></script>
+	<script src="/site/templates/components/modernizr.js"></script>
+	<script src="/site/templates/components/fastclick.js"></script>
+	
+	<script src="/site/templates/components/ng-FitText.js"></script>
+	<script src="/site/templates/components/flowtype.min.js"></script>
+	<script src="/site/templates/scripts/angular-swing.min.js"></script>
+	<script src="/site/templates/scripts/angular-equalizer.min.js"></script>
+	<script src="/site/templates/scripts/primomo.min.js"></script>
+	
+	<link rel="stylesheet" href="/site/templates/styles/primomo.min.css?" />
+	
+	<style class="game-colour">
+/* ccolour_base - base */
+.ccolour_base { background: #B03232}
+.ccolour_base-border { border-color: #B03232}
+.ccolour_base-text { color: #B03232}
+/* ccolour_d1 - darker 1 */
+.ccolour_d1 { background: #a02d2d}
+.ccolour_d1-border { border-color: #a02d2d}
+.ccolour_d1-text { color: #a02d2d}
+/* ccolour_d2 - darker 2 */
+.ccolour_d2 { background: #902929}
+.ccolour_d2-border { border-color: #902929}
+.ccolour_d2-text { color: #902929}
+/* ccolour_d3 - darker 3 */
+.ccolour_d3 { background: #802424}
+.ccolour_d3-border { border-color: #802424}
+.ccolour_d3-text { color: #802424}
+/* ccolour_l1 - lighter 1 */
+.ccolour_l1, {background: #c73a3a}
+.ccolour_l1-border { border-color: #c73a3a}
+.ccolour_l1-text { color: #c73a3a}
+/* Colour Styles */
+body, #viewport, .page-wrap:before {
+	background: #B03232	}
+.top-bar-section ul li, .top-bar-section li:not(.has-form) a:not(.button), .top-bar-section .has-form {
+	background: none;
+	}
+.top-bar-section li:not(.has-form) a:not(.button):hover, .top-bar-section ul li:hover:not(.has-form) > a, .top-bar-section .dropdown li:not(.has-form):not(.active) > a:not(.button) {
+	background: #902929	}
+html.touch .top-bar-section li.has-dropdown a:hover {
+	background:none;
+	}
+html.touch .top-bar-section li.has-dropdown.not-click a:hover {
+	background:#902929;
+	}
+.top-bar-section .dropdown li:not(.has-form):not(.active):hover > a:not(.button) {
+	background: #802424	}
+.top-bar, .fixednav, .top-bar .title-area, .top-bar.expanded .title-area {
+	background: #a02d2d	}	
+.top-bar input[type="text"] {
+	border-color: #a02d2d	}
+.accordian-percent {
+	background: #902929	}
+.results-header h3 {
+    color: #902929	}
+.sidebar-tags h4, .sidebar-cats h4 {
+    color: #902929	}	
+h3.section-header, h3.section-header a  {
+    color: #802424	}	
+h3.section-header a:hover  {
+    color: #902929	}		
+/* Medium and Up Only */	
+@media only screen and (min-width: 720px) {
+	.top-bar-section li.active:not(.has-form) a:not(.button) {
+		background: #a02d2d		}
+	.top-bar-section li.active:not(.has-form) a:not(.button):hover {
+		background: #902929		}
+	.top-bar-section .dropdown li.active:not(.has-form) a:not(.button) {
+		background: #902929		}
+	.top-bar-section .dropdown li.active:not(.has-form) a:not(.button):hover {
+		background: #802424		}		
+	}
+/* Small Only */	
+@media only screen and (max-width: 719px) {
+	.top-bar-section ul li, .top-bar-section .has-form {
+		background: #902929		}
+	.top-bar-section li:not(.has-form) a:not(.button):hover, .top-bar-section ul li:hover:not(.has-form) > a {
+		background: #802424		}
+	}
+</style>
+<style class="cat-colours">
+.catcolour_sport_standard{background:#1FA464;}.catcolour_sport_inverted *{color:#1FA464 !important;}.catcolour_entertainment_standard{background:#B03232;}.catcolour_entertainment_inverted *{color:#B03232 !important;}.catcolour_lifestyle_standard{background:#9B2C6F;}.catcolour_lifestyle_inverted *{color:#9B2C6F !important;}	
+</style>	<link href='https://fonts.googleapis.com/css?family=Comfortaa:300,400,700' rel='stylesheet' type='text/css'>
+	</head>	
+<body class='template-list'
+ng-app="primomoApp">
+
+<div><div ng-init="deckArray=[{name:'Spice Girls', subtitle:'', image:'/site/assets/files/1798/spice_girls_in_toronto_2c_ontario.300x300.jpg', copyright:'By Ezekiel. (Own work) [Public domain], via Wikimedia Commons', plays:29480, wins:16085, gamePlays:0, gameWins:0, cardPageId:1798},{name:'TLC', subtitle:'', image:'/site/assets/files/1799/tlccrazysexycool.300x300.jpg', copyright:'Fair use', plays:23381, wins:9557, gamePlays:0, gameWins:0, cardPageId:1799},{name:'Destiny\'s Child', subtitle:'', image:'/site/assets/files/1800/destiny_27s_child_e2_80_93_destiny_fulfilled.300x300.jpg', copyright:'Fair use', plays:27278, wins:13469, gamePlays:0, gameWins:0, cardPageId:1800},{name:'The Pussycat Dolls', subtitle:'', image:'/site/assets/files/1801/pcd_-_ddwt-v1433279684.300x300.jpg', copyright:'By ruiwen (Filckr) [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons', plays:25775, wins:11969, gamePlays:0, gameWins:0, cardPageId:1801},{name:'Bananarama', subtitle:'', image:'/site/assets/files/1802/bananarama_crop.300x300.jpg', copyright:'By Bananarama.jpg: Maciej Zgadzaj derivative work: Tuzapicabit at en.wikipedia (Bananarama.jpg) [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons', plays:22258, wins:8420, gamePlays:0, gameWins:0, cardPageId:1802},{name:'The Supremes', subtitle:'', image:'/site/assets/files/1803/the_supremes_1966.300x300.jpg', copyright:'By CBS Television (eBay item photo front photo back) [Public domain], via Wikimedia Commons', plays:23224, wins:9392, gamePlays:0, gameWins:0, cardPageId:1803},{name:'En Vogue', subtitle:'', image:'/site/assets/files/1804/en_vogue_live.300x300.jpg', copyright:'By http://en.wikipedia.org/wiki/User:Aroundtheclock [Public domain], via Wikimedia Commons', plays:22404, wins:8580, gamePlays:0, gameWins:0, cardPageId:1804},{name:'Salt-N-Pepa', subtitle:'', image:'/site/assets/files/1806/salt-n-pepa_2013.300x300.jpg', copyright:'By David Burke [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons', plays:22275, wins:8433, gamePlays:0, gameWins:0, cardPageId:1806},{name:'Sugababes', subtitle:'', image:'/site/assets/files/1807/sugababes_-_hammersmith_apollo_110406_283_29.300x300.jpg', copyright:'By Mandy Coombes (Sugababes - Hammersmith Apollo 110406 (3)) [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0) or CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons', plays:23472, wins:9680, gamePlays:0, gameWins:0, cardPageId:1807},{name:'All Saints', subtitle:'', image:'/site/assets/files/1809/all_saints_-_album_cover.300x300.jpg', copyright:'Fair use', plays:22459, wins:8711, gamePlays:0, gameWins:0, cardPageId:1809},{name:'Atomic Kitten', subtitle:'', image:'/site/assets/files/1810/atomic_kitten_28cropped_version_29-v1433280577.300x300.jpg', copyright:'DARIO SEVERI [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons', plays:22122, wins:8281, gamePlays:0, gameWins:0, cardPageId:1810},{name:'The Go-Go\'s', subtitle:'', image:'/site/assets/files/1811/gogos-vacation.300x300.jpg', copyright:'Fair use', plays:22654, wins:8826, gamePlays:0, gameWins:0, cardPageId:1811},{name:'t.A.T.u.', subtitle:'', image:'/site/assets/files/1812/t.a.t.u-f5qppegt.300x300.jpg', copyright:'By NatureBoyMD (Own work) [GFDL (www.gnu.org/copyleft/fdl.html), CC-BY-SA-3.0 (http://creativecommons.org/licenses/by-sa/3.0/) or Public domain], via Wikimedia Commons', plays:22700, wins:8870, gamePlays:0, gameWins:0, cardPageId:1812},{name:'Girls Aloud', subtitle:'', image:'/site/assets/files/1813/ten_tour_2013.300x300.jpg', copyright:'By CKWNNS (Own work) [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons', plays:24234, wins:10400, gamePlays:0, gameWins:0, cardPageId:1813},{name:'The Saturdays', subtitle:'', image:'/site/assets/files/1814/the_saturdays_in_sept_2011.300x300.jpg', copyright:'By rosieecr (Flickr: THE SATURDAYS) [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons', plays:23730, wins:9904, gamePlays:0, gameWins:0, cardPageId:1814},{name:'Little Mix', subtitle:'', image:'/site/assets/files/1815/little_mix_salute_2014.300x300.jpg', copyright:'By Littlemix21 (Own work) [CC BY-SA 4.0 (http://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons', plays:32487, wins:20868, gamePlays:0, gameWins:0, cardPageId:1815},{name:'Fifth Harmony', subtitle:'', image:'/site/assets/files/13382/fifth_harmony_-_reflection_28official_album_cover_29.300x300.jpg', copyright:'Epic Syco', plays:26881, wins:13203, gamePlays:0, gameWins:0, cardPageId:13382},{name:'2NE1', subtitle:'', image:'/site/assets/files/13383/2ne1goawayjpn-regulr.300x300.jpg', copyright:'YG Entertainment', plays:33745, wins:22869, gamePlays:0, gameWins:0, cardPageId:13383},{name:'Girls\' Generation', subtitle:'', image:'/site/assets/files/13384/girls_27_generation_at_kbs_gayo_daechukje_2015_06.300x300.jpg', copyright:'By Pabian (151230 2015 KBS 가요대축제 소녀시대) [CC BY 4.0 (http://creativecommons.org/licenses/by/4.0)], via Wikimedia Commons', plays:46720, wins:39501, gamePlays:0, gameWins:0, cardPageId:13384},{name:'AKB48', subtitle:'', image:'/site/assets/files/13385/akb48_20090703_japan_expo_52.300x300.jpg', copyright:'By Georges Seguin (Okki) (Own work) [GFDL (http://www.gnu.org/copyleft/fdl.html) or CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons', plays:28572, wins:15924, gamePlays:0, gameWins:0, cardPageId:13385},]; gameArray=[{title:'Best Girl Group', interrogative:'Who are', possessive:' ', possessiveAlt:'', subject:'the Best Girl Group', summary:'These ladies have sold out arenas across the world, but who are the best girl group ever?'}]; pageId=1796;"></div></div>
+
+<div ng-controller="primomoController" class="page-wrap">
+
+<div class="fixednav">
+	<div class="row topbar-container">
+		<top-bar id="top-menu" class="top-bar top-menu" mobile-show-parent-link="true" is-hover="false">
+			<ul class="title-area">
+				<li class="name">
+					<h1><a href="/"><img class="primomo-logo" src="/site/templates/images/primomologotext.svg"><span></span></a></h1>
+				</li>
+				<li toggle-top-bar onclick="document.getElementById('top-search').classList.remove('expanded')" class="toggle-topbar toggle-topbar-main menu-icon"><a href=""><span></span></a></li>
+			</ul>
+			<top-bar-section ng-cloakx>
+				<ul class="right">
+					
+					
+<ul class="primenu">
+	<li>
+		<a href='/categories/entertainment/'>Entertainment</a>
+	</li>
+	<li>
+		<a href='/categories/sport/'>Sport</a>
+	</li>
+	<li>
+		<a href='/categories/lifestyle/'>Lifestyle</a>
+	</li>
+</ul>					
+					<li has-dropdown class="primenu-hasdropdown">
+						<a>More</a>
+						<ul top-bar-dropdown ng-cloak>
+							
+<ul class="more-menu">
+	<li>
+		<a href='/categories/entertainment/tv/'>TV</a>
+	</li>
+	<li>
+		<a href='/categories/lifestyle/people/'>People</a>
+	</li>
+	<li>
+		<a href='/categories/sport/football/'>Football</a>
+	</li>
+	<li>
+		<a href='/categories/lifestyle/food/'>Food</a>
+	</li>
+	<li>
+		<a href='/categories/entertainment/music/'>Music</a>
+	</li>
+	<li>
+		<a href='/categories/entertainment/movies/'>Movies</a>
+	</li>
+	<li>
+		<a href='/categories/'>All Categories</a>
+	</li>
+</ul>						</ul>
+					</li>
+					
+					<ul>
+						<li class="has-form search-form-medium-up">
+						    <div class="row collapse">
+						      <div class="large-12 small-12 columns">
+						        <form id="site-search-form" class="clearfix" action="/search/" method="get">
+									<input type="text" name="q" value="" placeholder="Search">
+								</form>
+						      </div>
+						    </div>
+						</li>
+					</ul>
+					
+				</ul>
+			</top-bar-section>
+		</top-bar>
+		
+		<top-bar id="top-search" class="top-bar top-search show-for-small-only" data-topbar="" style="height: 45px">
+			<ul class="title-area">
+				<li class="name"></li>
+				<li toggle-top-bar onclick="document.getElementById('top-menu').classList.remove('expanded')" class="toggle-topbar toggle-topbar-search menu-icon"><a href=""><span></span></a></li>
+			</ul>
+			<top-bar-section ng-cloak>
+				<ul>
+				  <li class="has-form search-form-small-only">
+				    <div class="row collapse">
+				      <div class="large-12 small-12 columns">
+				        <form id="site-search-form" class="clearfix" action="/search/" method="get">
+							<input type="text" name="q" value="" placeholder="Search">
+						</form>
+				      </div>
+				    </div>
+				  </li>
+				</ul>
+			</top-bar-section>
+		</top-bar>
+	</div>
+</div>
+
+
+<div class="row-container ccolour_base main-header">
+	<div class="row">
+		<div class="column">
+			<h2 class="top-header">Best Girl Group</h2>
+		</div>
+	</div>
+	</div>
+
+<div id="body-wrap">
+	<div class="row-container">
+	<div class="row list-grid-row" id="sectionid1">
+		<div class="column">
+			<h3 class="left section-header">Related Lists</a></h3>
+				
+		</div>
+		
+		
+			<div class="column list-grid">
+				<div equalizer class="row">
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-11507'>
+
+	<a href='/list/best-girls-aloud-song/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/11507/call_the_shots.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Girls Aloud Song</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-11419'>
+
+	<a href='/list/pop-powerlist-2016/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/11419/believe_tour_12_2c_2012.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Pop Powerlist 2016</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_lifestyle_standard catcolorstyle_standard' id='list-11329'>
+
+	<a href='/list/best-harry/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/11329/wizarding-world-of-harry-potter.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Harry</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-10959'>
+
+	<a href='/list/best-super-junior-song/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/10959/super_junior_cropped.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Super Junior Song</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-10921'>
+
+	<a href='/list/best-girls-generation-song/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/10921/girls_27_generation_at_dmc_festival_2015_mbc_radio_dj_concert_02.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Girls' Generation (SNSD) Song</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-10815'>
+
+	<a href='/list/best-big-bang-songs/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/10815/bigbang_in_k-collection_2012.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Big Bang Song</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-10800'>
+
+	<a href='/list/best-madonna-album/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/10800/true_blue_madonna.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Madonna Album</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-10779'>
+
+	<a href='/list/favourite-madonna-song/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/10779/madonna_by_david_shankbone_cropped.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Favourite Madonna Song</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_lifestyle_standard catcolorstyle_standard' id='list-9980'>
+
+	<a href='/list/hottest-male-in-pop/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/9980/one_direction_-_infinity.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Hottest Male in Pop</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_lifestyle_standard catcolorstyle_standard' id='list-9931'>
+
+	<a href='/list/hottest-celebrity-couple/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/9931/1412468828463_wps_2_victoria_and_david_beckha.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Hottest Celebrity Couple</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-9796'>
+
+	<a href='/list/your-favourite-one-direction-song/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/9796/morethanthis.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Favourite One Direction Song</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-9720'>
+
+	<a href='/list/your-favourite-spice-girls-song/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/9720/too_much_28spice_girls_song_29_coverart.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Your Favourite Spice Girls Song</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-9527'>
+
+	<a href='/list/your-favourite-lady-gaga-song/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/9527/lady_gaga_glitter_and_grease2.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Your Favourite Lady Gaga Song</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-9446'>
+
+	<a href='/list/best-katy-perry-song/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/9446/katy_perry_e2_80_93zenith_paris.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Your Favourite Katy Perry Song</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-9423'>
+
+	<a href='/list/best-rihanna-song/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/9423/rihanna_concert_in_washington_dc_282_29.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Rihanna Song</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-9373'>
+
+	<a href='/list/best-beyonce-song/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/9373/beyonce_knowles_with_necklaces.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Beyoncé Song</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-9345'>
+
+	<a href='/list/best-shakira-song/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/9345/shakira_stops_by_soundcheck_cropped.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Shakira Song</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_sport_standard catcolorstyle_standard' id='list-8985'>
+
+	<a href='/list/greatest-atlanta-hawks-player/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/8985/atlanta_hawks_2015_primary_logo.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest Atlanta Hawks Player</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-6142'>
+
+	<a href='/list/best-female-vocalists/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/6142/whitney_houston_welcome_home_heroes_1_cropped.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Female Vocalists</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-6092'>
+
+	<a href='/list/best-k-pop-band/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/6092/bigbang_extraordinary_20_27s.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best K-Pop Band</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-5840'>
+
+	<a href='/list/best-ryan-gosling-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/5840/ryan_gosling_2_cannes_2011_28cropped_29.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Ryan Gosling Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-5483'>
+
+	<a href='/list/best-biggest-selling-album/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/5483/dark_side_of_the_moon.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Biggest Selling Album</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-5235'>
+
+	<a href='/list/favourite-x-factor-judge/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/5235/x_factor_uk_2015_logo.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Favourite X Factor Judge</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-5222'>
+
+	<a href='/list/favourite-x-factor-winner/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/5222/x_factor_uk_2015_logo.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Favourite X Factor Winner</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+									</div>
+			</div>	
+						<div class="column"><div class='pagination-centered'><ul class='pagination'><li class='MarkupPagerNavPrevious MarkupPagerNavFirst'><a href='/list/best-girl-group/'><span><<</span></a></li><li class='MarkupPagerNavFirstNum'><a href='/list/best-girl-group/'><span>1</span></a></li><li class='current'><a href='/list/best-girl-group/page2'><span>2</span></a></li><li class='MarkupPagerNavLastNum'><a href='/list/best-girl-group/page3'><span>3</span></a></li><li class='MarkupPagerNavNext MarkupPagerNavLast'><a href='/list/best-girl-group/page3'><span>>></span></a></li></ul></div></div>	</div>
+</div></div>
+
+</div> <!--ng-controller-->
+<footer class="ccolour_base">
+
+<div class="row">
+	<div class="medium-4 medium-push-8 columns">
+		<ul class="footer-social">
+			<li>
+				<a href="" class="xxx" style="opacity: 0 !important"></a>
+			</li>
+			<li>
+				<a href="" class="xxx" style="opacity: 0 !important"></a>
+			</li>
+			<!-- <li><a href="/about" class="mail"></a></li> -->
+		</ul>
+	</div>
+	<div class="medium-8 medium-pull-4 columns">		
+	</div>
+</div>
+
+</footer>
+<script>
+flowtype(document.body.querySelector('#stack-container'), {
+   minimum   : 0,
+   maximum   : 600,
+   minFont   : 1,
+   maxFont   : 50,
+   fontRatio : 14,
+   lineRatio : 1.45
+});	
+flowtype(document.body.querySelector('#gamemessage-container'), {
+   minimum   : 0,
+   maximum   : 600,
+   minFont   : 1,
+   maxFont   : 50,
+   fontRatio : 14,
+   lineRatio : 1.45
+});	
+</script>
+</body>
+</html>

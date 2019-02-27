@@ -1,0 +1,361 @@
+<!DOCTYPE html>
+<!--[if IE 9]><html class="lt-ie10" lang="en" > <![endif]-->
+<html class="no-js" lang="en" itemscope itemtype="http://schema.org/ItemList">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+	<style type="text/css">@charset "UTF-8";[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {display: none !important;}</style>	
+	<link rel="canonical" href="">
+	
+		
+	
+	<!-- Meta -->
+	<title>Best Scottish Band - Primomo</title>
+	<meta name="description" content="Who are  Best Scottish Band Ever? Belle and Sebastian? The Proclaimers? Primal Scream? Franz Ferdinand? Biffy Clyro? Mogwai? Simple Minds? Idlewild? The Jesus and Mary Chain? Big Country? Orange Juice? Teenage Fanclub? Frightened Rabbit? Runrig? Wet Wet Wet? Travis? Bay City Rollers? Chvrches? Sensational Alex Harvey Band? Deacon Blue? Nazareth? Texas? " />
+	<!-- Schema -->
+	<meta itemprop="name" content="Best Scottish Band">
+	<meta itemprop="description" content="Who are  Best Scottish Band Ever? Belle and Sebastian? The Proclaimers? Primal Scream? Franz Ferdinand? Biffy Clyro? Mogwai? Simple Minds? Idlewild? The Jesus and Mary Chain? Big Country? Orange Juice? Teenage Fanclub? Frightened Rabbit? Runrig? Wet Wet Wet? Travis? Bay City Rollers? Chvrches? Sensational Alex Harvey Band? Deacon Blue? Nazareth? Texas? "> 
+	<meta itemprop="image" content=""> 
+	 <meta itemprop="itemListOrder" content="Descending" /> 	<!-- Twitter -->
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:site" content="@playprimomo">
+	<meta name="twitter:title" content="Best Scottish Band">
+	<meta name="twitter:description" content="Who are  Best Scottish Band Ever? Belle and Sebastian? The Proclaimers? Primal Scream? Franz Ferdinand? Biffy Clyro? Mogwai? Simple Minds? Idlewild? The Jesus and Mary Chain? Big Country? Orange Juice? Teenage Fanclub? Frightened Rabbit? Runrig? Wet Wet Wet? Travis? Bay City Rollers? Chvrches? Sensational Alex Harvey Band? Deacon Blue? Nazareth? Texas? "> 
+	<meta name="twitter:creator" content="@playprimomo">
+	<meta name="twitter:image:src" content=""> 
+	<!-- Open Graph -->
+	<meta property="og:title" content="Best Scottish Band" />
+	<meta property="og:type" content="article" /> 
+	<meta property="og:url" content="" /> 
+	<meta property="og:image" content=""> 
+	<meta property="og:image:width" content="500"> 
+	<meta property="og:image:height" content="300"> 
+	<meta property="og:description" content="Who are  Best Scottish Band Ever? Belle and Sebastian? The Proclaimers? Primal Scream? Franz Ferdinand? Biffy Clyro? Mogwai? Simple Minds? Idlewild? The Jesus and Mary Chain? Big Country? Orange Juice? Teenage Fanclub? Frightened Rabbit? Runrig? Wet Wet Wet? Travis? Bay City Rollers? Chvrches? Sensational Alex Harvey Band? Deacon Blue? Nazareth? Texas? " /> 
+	<meta property="og:site_name" content="Primomo" />
+	<meta property="article:section" content="Music" />  
+	<meta property="article:tag" content="Scottish, Scotland, Glasgow, Edinburgh" />  
+	<meta property="fb:admins" content="690322552, 598310032" />	
+
+	<link rel="stylesheet" href="/site/templates/components/normalize/normalize.min.css" />
+	<link rel="stylesheet" href="/site/templates/components/foundation/foundation.min.css" />
+	<link rel="stylesheet" href="/site/templates/components/animate-scss/animate.min.css" />
+
+	<script src="/site/templates/components/angular/angular.min.js"></script>
+	<script src="/site/templates/components/angular/angular-touch.min.js"></script>
+	<script src="/site/templates/components/angular-foundation/mm-foundation-tpls-0.8.0.min.js"></script>
+	<script src="/site/templates/components/modernizr.js"></script>
+	<script src="/site/templates/components/fastclick.js"></script>
+	
+	<script src="/site/templates/components/ng-FitText.js"></script>
+	<script src="/site/templates/components/flowtype.min.js"></script>
+	<script src="/site/templates/scripts/angular-swing.min.js"></script>
+	<script src="/site/templates/scripts/angular-equalizer.min.js"></script>
+	<script src="/site/templates/scripts/primomo.min.js"></script>
+	
+	<link rel="stylesheet" href="/site/templates/styles/primomo.min.css?" />
+	
+	<style class="game-colour">
+/* ccolour_base - base */
+.ccolour_base { background: #B03232}
+.ccolour_base-border { border-color: #B03232}
+.ccolour_base-text { color: #B03232}
+/* ccolour_d1 - darker 1 */
+.ccolour_d1 { background: #a02d2d}
+.ccolour_d1-border { border-color: #a02d2d}
+.ccolour_d1-text { color: #a02d2d}
+/* ccolour_d2 - darker 2 */
+.ccolour_d2 { background: #902929}
+.ccolour_d2-border { border-color: #902929}
+.ccolour_d2-text { color: #902929}
+/* ccolour_d3 - darker 3 */
+.ccolour_d3 { background: #802424}
+.ccolour_d3-border { border-color: #802424}
+.ccolour_d3-text { color: #802424}
+/* ccolour_l1 - lighter 1 */
+.ccolour_l1, {background: #c73a3a}
+.ccolour_l1-border { border-color: #c73a3a}
+.ccolour_l1-text { color: #c73a3a}
+/* Colour Styles */
+body, #viewport, .page-wrap:before {
+	background: #B03232	}
+.top-bar-section ul li, .top-bar-section li:not(.has-form) a:not(.button), .top-bar-section .has-form {
+	background: none;
+	}
+.top-bar-section li:not(.has-form) a:not(.button):hover, .top-bar-section ul li:hover:not(.has-form) > a, .top-bar-section .dropdown li:not(.has-form):not(.active) > a:not(.button) {
+	background: #902929	}
+html.touch .top-bar-section li.has-dropdown a:hover {
+	background:none;
+	}
+html.touch .top-bar-section li.has-dropdown.not-click a:hover {
+	background:#902929;
+	}
+.top-bar-section .dropdown li:not(.has-form):not(.active):hover > a:not(.button) {
+	background: #802424	}
+.top-bar, .fixednav, .top-bar .title-area, .top-bar.expanded .title-area {
+	background: #a02d2d	}	
+.top-bar input[type="text"] {
+	border-color: #a02d2d	}
+.accordian-percent {
+	background: #902929	}
+.results-header h3 {
+    color: #902929	}
+.sidebar-tags h4, .sidebar-cats h4 {
+    color: #902929	}	
+h3.section-header, h3.section-header a  {
+    color: #802424	}	
+h3.section-header a:hover  {
+    color: #902929	}		
+/* Medium and Up Only */	
+@media only screen and (min-width: 720px) {
+	.top-bar-section li.active:not(.has-form) a:not(.button) {
+		background: #a02d2d		}
+	.top-bar-section li.active:not(.has-form) a:not(.button):hover {
+		background: #902929		}
+	.top-bar-section .dropdown li.active:not(.has-form) a:not(.button) {
+		background: #902929		}
+	.top-bar-section .dropdown li.active:not(.has-form) a:not(.button):hover {
+		background: #802424		}		
+	}
+/* Small Only */	
+@media only screen and (max-width: 719px) {
+	.top-bar-section ul li, .top-bar-section .has-form {
+		background: #902929		}
+	.top-bar-section li:not(.has-form) a:not(.button):hover, .top-bar-section ul li:hover:not(.has-form) > a {
+		background: #802424		}
+	}
+</style>
+<style class="cat-colours">
+.catcolour_sport_standard{background:#1FA464;}.catcolour_sport_inverted *{color:#1FA464 !important;}.catcolour_entertainment_standard{background:#B03232;}.catcolour_entertainment_inverted *{color:#B03232 !important;}.catcolour_lifestyle_standard{background:#9B2C6F;}.catcolour_lifestyle_inverted *{color:#9B2C6F !important;}	
+</style>	<link href='https://fonts.googleapis.com/css?family=Comfortaa:300,400,700' rel='stylesheet' type='text/css'>
+	</head>	
+<body class='template-list'
+ng-app="primomoApp">
+
+<div><div ng-init="deckArray=[{name:'Belle and Sebastian', subtitle:'', image:'/site/assets/files/12657/belle_and_sebastian_british_band.300x300.jpg', copyright:'By Marisa Privitera (from agency Bestest via e-mail) [CC BY-SA 2.5 (http://creativecommons.org/licenses/by-sa/2.5)], via Wikimedia Commons', plays:45, wins:15, gamePlays:0, gameWins:0, cardPageId:12657},{name:'The Proclaimers', subtitle:'', image:'/site/assets/files/12658/proclaimers_hit_the_highway.300x300.jpg', copyright:'Chrysalis', plays:67, wins:39, gamePlays:0, gameWins:0, cardPageId:12658},{name:'Primal Scream', subtitle:'', image:'/site/assets/files/12659/primal_scream_2009_09_20_006.300x300.jpg', copyright:'LivePict.com [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons', plays:65, wins:36, gamePlays:0, gameWins:0, cardPageId:12659},{name:'Franz Ferdinand', subtitle:'', image:'/site/assets/files/12660/tonight-ff.300x300.jpg', copyright:'Domino Epic Sony', plays:50, wins:20, gamePlays:0, gameWins:0, cardPageId:12660},{name:'Biffy Clyro', subtitle:'', image:'/site/assets/files/12661/biffyclyrosingles.300x300.jpg', copyright:'Beggars Banquet', plays:59, wins:30, gamePlays:0, gameWins:0, cardPageId:12661},{name:'Mogwai', subtitle:'', image:'/site/assets/files/12662/batcat_28mogwai_album_29.300x300.jpg', copyright:'Wall of Sound', plays:50, wins:20, gamePlays:0, gameWins:0, cardPageId:12662},{name:'Simple Minds', subtitle:'', image:'/site/assets/files/12663/once_upon_a_time_simple_minds_album_-_cover_art.300x300.jpg', copyright:'Virgin', plays:82, wins:55, gamePlays:0, gameWins:0, cardPageId:12663},{name:'Idlewild', subtitle:'', image:'/site/assets/files/12664/idlewild_at_the_outsider_2007.300x300.jpg', copyright:'By The original uploader was Mriain at English Wikipedia (Transferred from en.wikipedia to Commons.) [CC BY-SA 2.5 (http://creativecommons.org/licenses/by-sa/2.5)], via Wikimedia Commons', plays:42, wins:13, gamePlays:0, gameWins:0, cardPageId:12664},{name:'The Jesus and Mary Chain', subtitle:'', image:'/site/assets/files/12665/jesus_and_mary_chain_2007.300x300.jpg', copyright:'By Liane Chan from Buena Park, United States (P1080632.JPG) [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons', plays:53, wins:24, gamePlays:0, gameWins:0, cardPageId:12665},{name:'Big Country', subtitle:'', image:'/site/assets/files/12666/big_country_promo_shot_bw001.300x300.jpg', copyright:'Mercury/Virgin EMI', plays:79, wins:51, gamePlays:0, gameWins:0, cardPageId:12666},{name:'Orange Juice', subtitle:'', image:'/site/assets/files/12667/ripituporangejuice.300x300.jpg', copyright:'Polydor', plays:36, wins:6, gamePlays:0, gameWins:0, cardPageId:12667},{name:'Teenage Fanclub', subtitle:'', image:'/site/assets/files/12668/teenage_fanclub_2008_09_21_003.300x300.jpg', copyright:'LivePict.com [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons', plays:59, wins:31, gamePlays:0, gameWins:0, cardPageId:12668},{name:'Frightened Rabbit', subtitle:'', image:'/site/assets/files/12669/frightened_rabbit_2013.300x300.jpg', copyright:'By Jester Jay Goldman [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons', plays:45, wins:15, gamePlays:0, gameWins:0, cardPageId:12669},{name:'Runrig', subtitle:'', image:'/site/assets/files/12670/play_gaelic.300x300.jpg', copyright:'Neptune', plays:53, wins:24, gamePlays:0, gameWins:0, cardPageId:12670},{name:'Wet Wet Wet', subtitle:'', image:'/site/assets/files/12671/wetwetwet-montreux.300x300.jpg', copyright:'By Andwhatsnext, aka Nancy J Price - http://andwhatsnext.com/bands (Own work) [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0) or GFDL (http://www.gnu.org/copyleft/fdl.html)], via Wikimedia Commons', plays:59, wins:29, gamePlays:0, gameWins:0, cardPageId:12671},{name:'Travis', subtitle:'', image:'/site/assets/files/12672/travis-wiltern-21nov2007.300x300.jpg', copyright:'By Liane Chan (Flickr) [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons', plays:50, wins:21, gamePlays:0, gameWins:0, cardPageId:12672},{name:'Bay City Rollers', subtitle:'', image:'/site/assets/files/12673/baycityrollers1976robbogaerts.300x300.jpg', copyright:'By Rob Bogaerts (ANEFO) (GaHetNa (Nationaal Archief NL)) [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons', plays:83, wins:64, gamePlays:0, gameWins:0, cardPageId:12673},{name:'Chvrches', subtitle:'', image:'/site/assets/files/12674/chvrches_2014.300x300.jpg', copyright:'By GabboT [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons', plays:54, wins:25, gamePlays:0, gameWins:0, cardPageId:12674},{name:'Sensational Alex Harvey Band', subtitle:'', image:'/site/assets/files/12675/this_is.300x300.jpg', copyright:'Metronome Records', plays:53, wins:23, gamePlays:0, gameWins:0, cardPageId:12675},{name:'Deacon Blue', subtitle:'', image:'/site/assets/files/12676/the_very_best_of_deacon_blue.300x300.jpg', copyright:'Columbia', plays:51, wins:21, gamePlays:0, gameWins:0, cardPageId:12676},{name:'Nazareth', subtitle:'', image:'/site/assets/files/12677/nazarethnazareth.300x300.jpg', copyright:'Mountain', plays:80, wins:53, gamePlays:0, gameWins:0, cardPageId:12677},{name:'Texas', subtitle:'', image:'/site/assets/files/12679/800px-fil_2011_-_texas_concert_at_keroman_2.300x300.jpg', copyright:'By user:XIIIfromTOKYO (Own work) [GFDL (http://www.gnu.org/copyleft/fdl.html) or CC BY 3.0 (http://creativecommons.org/licenses/by/3.0)], via Wikimedia Commons', plays:45, wins:15, gamePlays:0, gameWins:0, cardPageId:12679},]; gameArray=[{title:'Best Scottish Band', interrogative:'Who are', possessive:' ', possessiveAlt:'', subject:'Best Scottish Band Ever', summary:'Who are  Best Scottish Band Ever?'}]; pageId=12656;"></div></div>
+
+<div ng-controller="primomoController" class="page-wrap">
+
+<div class="fixednav">
+	<div class="row topbar-container">
+		<top-bar id="top-menu" class="top-bar top-menu" mobile-show-parent-link="true" is-hover="false">
+			<ul class="title-area">
+				<li class="name">
+					<h1><a href="/"><img class="primomo-logo" src="/site/templates/images/primomologotext.svg"><span></span></a></h1>
+				</li>
+				<li toggle-top-bar onclick="document.getElementById('top-search').classList.remove('expanded')" class="toggle-topbar toggle-topbar-main menu-icon"><a href=""><span></span></a></li>
+			</ul>
+			<top-bar-section ng-cloakx>
+				<ul class="right">
+					
+					
+<ul class="primenu">
+	<li>
+		<a href='/categories/entertainment/'>Entertainment</a>
+	</li>
+	<li>
+		<a href='/categories/sport/'>Sport</a>
+	</li>
+	<li>
+		<a href='/categories/lifestyle/'>Lifestyle</a>
+	</li>
+</ul>					
+					<li has-dropdown class="primenu-hasdropdown">
+						<a>More</a>
+						<ul top-bar-dropdown ng-cloak>
+							
+<ul class="more-menu">
+	<li>
+		<a href='/categories/entertainment/tv/'>TV</a>
+	</li>
+	<li>
+		<a href='/categories/lifestyle/people/'>People</a>
+	</li>
+	<li>
+		<a href='/categories/sport/football/'>Football</a>
+	</li>
+	<li>
+		<a href='/categories/lifestyle/food/'>Food</a>
+	</li>
+	<li>
+		<a href='/categories/entertainment/music/'>Music</a>
+	</li>
+	<li>
+		<a href='/categories/entertainment/movies/'>Movies</a>
+	</li>
+	<li>
+		<a href='/categories/'>All Categories</a>
+	</li>
+</ul>						</ul>
+					</li>
+					
+					<ul>
+						<li class="has-form search-form-medium-up">
+						    <div class="row collapse">
+						      <div class="large-12 small-12 columns">
+						        <form id="site-search-form" class="clearfix" action="/search/" method="get">
+									<input type="text" name="q" value="" placeholder="Search">
+								</form>
+						      </div>
+						    </div>
+						</li>
+					</ul>
+					
+				</ul>
+			</top-bar-section>
+		</top-bar>
+		
+		<top-bar id="top-search" class="top-bar top-search show-for-small-only" data-topbar="" style="height: 45px">
+			<ul class="title-area">
+				<li class="name"></li>
+				<li toggle-top-bar onclick="document.getElementById('top-menu').classList.remove('expanded')" class="toggle-topbar toggle-topbar-search menu-icon"><a href=""><span></span></a></li>
+			</ul>
+			<top-bar-section ng-cloak>
+				<ul>
+				  <li class="has-form search-form-small-only">
+				    <div class="row collapse">
+				      <div class="large-12 small-12 columns">
+				        <form id="site-search-form" class="clearfix" action="/search/" method="get">
+							<input type="text" name="q" value="" placeholder="Search">
+						</form>
+				      </div>
+				    </div>
+				  </li>
+				</ul>
+			</top-bar-section>
+		</top-bar>
+	</div>
+</div>
+
+
+<div class="row-container ccolour_base main-header">
+	<div class="row">
+		<div class="column">
+			<h2 class="top-header">Best Scottish Band</h2>
+		</div>
+	</div>
+	</div>
+
+<div id="body-wrap">
+	<div class="row-container">
+	<div class="row list-grid-row" id="sectionid1">
+		<div class="column">
+			<h3 class="left section-header">Related Lists</a></h3>
+				
+		</div>
+		
+		
+			<div class="column list-grid">
+				<div equalizer class="row">
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_sport_standard catcolorstyle_standard' id='list-4201'>
+
+	<a href='/list/greatest-celtic-player/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/4201/1024px-celtic_fc_svg.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest Celtic Player</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_lifestyle_standard catcolorstyle_standard' id='list-2532'>
+
+	<a href='/list/great-scots/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/2532/great-scots-5yayzc3p.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Great Scots</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-1863'>
+
+	<a href='/list/best-james-bond-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/1863/best-james-bond-movie-te1m13gx.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best James Bond Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-1324'>
+
+	<a href='/list/best-james-bond-ever/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/1324/best-james-bond-ever-uenalyqz.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best James Bond Ever</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+									</div>
+			</div>	
+						<div class="column"><div class='pagination-centered'><ul class='pagination'><li class='MarkupPagerNavPrevious MarkupPagerNavFirst'><a href='/list/best-scottish-band/'><span><<</span></a></li><li class='MarkupPagerNavFirstNum'><a href='/list/best-scottish-band/'><span>1</span></a></li><li class='current MarkupPagerNavLast MarkupPagerNavLastNum'><a href='/list/best-scottish-band/page2'><span>2</span></a></li></ul></div></div>	</div>
+</div></div>
+
+</div> <!--ng-controller-->
+<footer class="ccolour_base">
+
+<div class="row">
+	<div class="medium-4 medium-push-8 columns">
+		<ul class="footer-social">
+			<li>
+				<a href="" class="xxx" style="opacity: 0 !important"></a>
+			</li>
+			<li>
+				<a href="" class="xxx" style="opacity: 0 !important"></a>
+			</li>
+			<!-- <li><a href="/about" class="mail"></a></li> -->
+		</ul>
+	</div>
+	<div class="medium-8 medium-pull-4 columns">		
+	</div>
+</div>
+
+</footer>
+<script>
+flowtype(document.body.querySelector('#stack-container'), {
+   minimum   : 0,
+   maximum   : 600,
+   minFont   : 1,
+   maxFont   : 50,
+   fontRatio : 14,
+   lineRatio : 1.45
+});	
+flowtype(document.body.querySelector('#gamemessage-container'), {
+   minimum   : 0,
+   maximum   : 600,
+   minFont   : 1,
+   maxFont   : 50,
+   fontRatio : 14,
+   lineRatio : 1.45
+});	
+</script>
+</body>
+</html>

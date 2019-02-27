@@ -1,0 +1,581 @@
+<!DOCTYPE html>
+<!--[if IE 9]><html class="lt-ie10" lang="en" > <![endif]-->
+<html class="no-js" lang="en" itemscope itemtype="http://schema.org/ItemList">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+	<style type="text/css">@charset "UTF-8";[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {display: none !important;}</style>	
+	<link rel="canonical" href="">
+	
+		
+	
+	<!-- Meta -->
+	<title>Best Pie - Primomo</title>
+	<meta name="description" content="As winter ascends and the nights are drawing in, our minds turn to our favourite comfort food here at Primomo towers. Pies! We absolutely love them, who ate all the pies? We did!
+
+We had so much fun putting this list together for you, although our mouths were watering a lot. Sweet &amp; savoury, encased &amp; closed we have all the pies for you but can you pick the best pie?
+We have some classic savoury ones, Steak and Kidney, Chicken and Mushroom and new kid on the block, the Chicken Balti. For those with a sweet tooth, how about the Lemon Meringue Pie, the Pumpkin Pie or even the Apple Pie. And of course Christmas wouldn't be Christmas without consuming far too many Mince Pies. Oh, there goes my mouth watering again!
+This will be a hotly contested poll with the votes evenly split, check out who comes out on top in the league table then take a peek at the other fun lists in the related section." />
+	<!-- Schema -->
+	<meta itemprop="name" content="Best Pie">
+	<meta itemprop="description" content="As winter ascends and the nights are drawing in, our minds turn to our favourite comfort food here at Primomo towers. Pies! We absolutely love them, who ate all the pies? We did!
+
+We had so much fun putting this list together for you, although our mouths were watering a lot. Sweet &amp; savoury, encased &amp; closed we have all the pies for you but can you pick the best pie?
+We have some classic savoury ones, Steak and Kidney, Chicken and Mushroom and new kid on the block, the Chicken Balti. For those with a sweet tooth, how about the Lemon Meringue Pie, the Pumpkin Pie or even the Apple Pie. And of course Christmas wouldn't be Christmas without consuming far too many Mince Pies. Oh, there goes my mouth watering again!
+This will be a hotly contested poll with the votes evenly split, check out who comes out on top in the league table then take a peek at the other fun lists in the related section."> 
+	<meta itemprop="image" content=""> 
+	 <meta itemprop="itemListOrder" content="Descending" /> 	<!-- Twitter -->
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:site" content="@playprimomo">
+	<meta name="twitter:title" content="Best Pie">
+	<meta name="twitter:description" content="As winter ascends and the nights are drawing in, our minds turn to our favourite comfort food here at Primomo towers. Pies! We absolutely love them, who ate all the pies? We did!
+
+We had so much fun putting this list together for you, although our mouths were watering a lot. Sweet &amp; savoury, encased &amp; closed we have all the pies for you but can you pick the best pie?
+We have some classic savoury ones, Steak and Kidney, Chicken and Mushroom and new kid on the block, the Chicken Balti. For those with a sweet tooth, how about the Lemon Meringue Pie, the Pumpkin Pie or even the Apple Pie. And of course Christmas wouldn't be Christmas without consuming far too many Mince Pies. Oh, there goes my mouth watering again!
+This will be a hotly contested poll with the votes evenly split, check out who comes out on top in the league table then take a peek at the other fun lists in the related section."> 
+	<meta name="twitter:creator" content="@playprimomo">
+	<meta name="twitter:image:src" content=""> 
+	<!-- Open Graph -->
+	<meta property="og:title" content="Best Pie" />
+	<meta property="og:type" content="article" /> 
+	<meta property="og:url" content="" /> 
+	<meta property="og:image" content=""> 
+	<meta property="og:image:width" content="500"> 
+	<meta property="og:image:height" content="300"> 
+	<meta property="og:description" content="As winter ascends and the nights are drawing in, our minds turn to our favourite comfort food here at Primomo towers. Pies! We absolutely love them, who ate all the pies? We did!
+
+We had so much fun putting this list together for you, although our mouths were watering a lot. Sweet &amp; savoury, encased &amp; closed we have all the pies for you but can you pick the best pie?
+We have some classic savoury ones, Steak and Kidney, Chicken and Mushroom and new kid on the block, the Chicken Balti. For those with a sweet tooth, how about the Lemon Meringue Pie, the Pumpkin Pie or even the Apple Pie. And of course Christmas wouldn't be Christmas without consuming far too many Mince Pies. Oh, there goes my mouth watering again!
+This will be a hotly contested poll with the votes evenly split, check out who comes out on top in the league table then take a peek at the other fun lists in the related section." /> 
+	<meta property="og:site_name" content="Primomo" />
+	<meta property="article:section" content="Food" />  
+	<meta property="article:tag" content="Pie, Football, Food, Takeaway" />  
+	<meta property="fb:admins" content="690322552, 598310032" />	
+
+	<link rel="stylesheet" href="/site/templates/components/normalize/normalize.min.css" />
+	<link rel="stylesheet" href="/site/templates/components/foundation/foundation.min.css" />
+	<link rel="stylesheet" href="/site/templates/components/animate-scss/animate.min.css" />
+
+	<script src="/site/templates/components/angular/angular.min.js"></script>
+	<script src="/site/templates/components/angular/angular-touch.min.js"></script>
+	<script src="/site/templates/components/angular-foundation/mm-foundation-tpls-0.8.0.min.js"></script>
+	<script src="/site/templates/components/modernizr.js"></script>
+	<script src="/site/templates/components/fastclick.js"></script>
+	
+	<script src="/site/templates/components/ng-FitText.js"></script>
+	<script src="/site/templates/components/flowtype.min.js"></script>
+	<script src="/site/templates/scripts/angular-swing.min.js"></script>
+	<script src="/site/templates/scripts/angular-equalizer.min.js"></script>
+	<script src="/site/templates/scripts/primomo.min.js"></script>
+	
+	<link rel="stylesheet" href="/site/templates/styles/primomo.min.css?" />
+	
+	<style class="game-colour">
+/* ccolour_base - base */
+.ccolour_base { background: #9B2C6F}
+.ccolour_base-border { border-color: #9B2C6F}
+.ccolour_base-text { color: #9B2C6F}
+/* ccolour_d1 - darker 1 */
+.ccolour_d1 { background: #8b2764}
+.ccolour_d1-border { border-color: #8b2764}
+.ccolour_d1-text { color: #8b2764}
+/* ccolour_d2 - darker 2 */
+.ccolour_d2 { background: #7b2358}
+.ccolour_d2-border { border-color: #7b2358}
+.ccolour_d2-text { color: #7b2358}
+/* ccolour_d3 - darker 3 */
+.ccolour_d3 { background: #6b1e4d}
+.ccolour_d3-border { border-color: #6b1e4d}
+.ccolour_d3-text { color: #6b1e4d}
+/* ccolour_l1 - lighter 1 */
+.ccolour_l1, {background: #b33380}
+.ccolour_l1-border { border-color: #b33380}
+.ccolour_l1-text { color: #b33380}
+/* Colour Styles */
+body, #viewport, .page-wrap:before {
+	background: #9B2C6F	}
+.top-bar-section ul li, .top-bar-section li:not(.has-form) a:not(.button), .top-bar-section .has-form {
+	background: none;
+	}
+.top-bar-section li:not(.has-form) a:not(.button):hover, .top-bar-section ul li:hover:not(.has-form) > a, .top-bar-section .dropdown li:not(.has-form):not(.active) > a:not(.button) {
+	background: #7b2358	}
+html.touch .top-bar-section li.has-dropdown a:hover {
+	background:none;
+	}
+html.touch .top-bar-section li.has-dropdown.not-click a:hover {
+	background:#7b2358;
+	}
+.top-bar-section .dropdown li:not(.has-form):not(.active):hover > a:not(.button) {
+	background: #6b1e4d	}
+.top-bar, .fixednav, .top-bar .title-area, .top-bar.expanded .title-area {
+	background: #8b2764	}	
+.top-bar input[type="text"] {
+	border-color: #8b2764	}
+.accordian-percent {
+	background: #7b2358	}
+.results-header h3 {
+    color: #7b2358	}
+.sidebar-tags h4, .sidebar-cats h4 {
+    color: #7b2358	}	
+h3.section-header, h3.section-header a  {
+    color: #6b1e4d	}	
+h3.section-header a:hover  {
+    color: #7b2358	}		
+/* Medium and Up Only */	
+@media only screen and (min-width: 720px) {
+	.top-bar-section li.active:not(.has-form) a:not(.button) {
+		background: #8b2764		}
+	.top-bar-section li.active:not(.has-form) a:not(.button):hover {
+		background: #7b2358		}
+	.top-bar-section .dropdown li.active:not(.has-form) a:not(.button) {
+		background: #7b2358		}
+	.top-bar-section .dropdown li.active:not(.has-form) a:not(.button):hover {
+		background: #6b1e4d		}		
+	}
+/* Small Only */	
+@media only screen and (max-width: 719px) {
+	.top-bar-section ul li, .top-bar-section .has-form {
+		background: #7b2358		}
+	.top-bar-section li:not(.has-form) a:not(.button):hover, .top-bar-section ul li:hover:not(.has-form) > a {
+		background: #6b1e4d		}
+	}
+</style>
+<style class="cat-colours">
+.catcolour_sport_standard{background:#1FA464;}.catcolour_sport_inverted *{color:#1FA464 !important;}.catcolour_entertainment_standard{background:#B03232;}.catcolour_entertainment_inverted *{color:#B03232 !important;}.catcolour_lifestyle_standard{background:#9B2C6F;}.catcolour_lifestyle_inverted *{color:#9B2C6F !important;}	
+</style>	<link href='https://fonts.googleapis.com/css?family=Comfortaa:300,400,700' rel='stylesheet' type='text/css'>
+	</head>	
+<body class='template-list'
+ng-app="primomoApp">
+
+<div><div ng-init="deckArray=[{name:'Steak and kidney', subtitle:'', image:'/site/assets/files/2909/steak_and_kidney_pie.300x300.jpg', copyright:'By Sean Whitton (User:Xyrael) (Own work) [GFDL (http://www.gnu.org/copyleft/fdl.html), CC-BY-SA-3.0 (http://creativecommons.org/licenses/by-sa/3.0/) or CC BY-SA 2.5-2.0-1.0 (http://creativecommons.org/licenses/by-sa/2.5-2.0-1.0)], via Wikimedia Commons', plays:30, wins:20, gamePlays:0, gameWins:0, cardPageId:2909},{name:'Chicken and mushroom', subtitle:'', image:'/site/assets/files/2910/chicken_pie.300x300.jpg', copyright:'By Oddbodz (Own work) [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0) or GFDL (http://www.gnu.org/copyleft/fdl.html)], via Wikimedia Commons', plays:30, wins:20, gamePlays:0, gameWins:0, cardPageId:2910},{name:'Pork', subtitle:'', image:'/site/assets/files/2911/pork_pie_on_plate.300x300.jpg', copyright:'By Palladian (Evan Izer) [GFDL (http://www.gnu.org/copyleft/fdl.html) or CC BY-SA 4.0-3.0-2.5-2.0-1.0 (http://creativecommons.org/licenses/by-sa/4.0-3.0-2.5-2.0-1.0)], via Wikimedia Commons', plays:24, wins:14, gamePlays:0, gameWins:0, cardPageId:2911},{name:'Fish', subtitle:'', image:'/site/assets/files/2912/fish_pie.300x300.jpg', copyright:'By Atelier Joly (Own work) [GFDL (http://www.gnu.org/copyleft/fdl.html) or CC-BY-SA-3.0 (http://creativecommons.org/licenses/by-sa/3.0/)], via Wikimedia Commons', plays:20, wins:10, gamePlays:0, gameWins:0, cardPageId:2912},{name:'Apple', subtitle:'', image:'/site/assets/files/2913/apple_pie.300x300.jpg', copyright:'By Dan Parsons (http://www.flickr.com/photos/dan90266/42759561/) [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons', plays:27, wins:17, gamePlays:0, gameWins:0, cardPageId:2913},{name:'Pumpkin', subtitle:'', image:'/site/assets/files/2914/pumpkin_pie.300x300.jpg', copyright:'By Peggy Greb [Public domain], via Wikimedia Commons', plays:17, wins:6, gamePlays:0, gameWins:0, cardPageId:2914},{name:'Lemon meringue', subtitle:'', image:'/site/assets/files/2915/nci_visuals_food_pie.300x300.jpg', copyright:'By Renee Comet (photographer) [Public domain], via Wikimedia Commons', plays:17, wins:6, gamePlays:0, gameWins:0, cardPageId:2915},{name:'Key lime', subtitle:'', image:'/site/assets/files/2916/key_limepie.300x300.jpg', copyright:'By Peter Veldhuizen (Own work) [Public domain], via Wikimedia Commons', plays:18, wins:7, gamePlays:0, gameWins:0, cardPageId:2916},{name:'Cottage/Shepherd\'s', subtitle:'', image:'/site/assets/files/2917/shepherdspie2.300x300.jpg', copyright:'By Susieclue (Own work) [Public domain], via Wikimedia Commons', plays:19, wins:9, gamePlays:0, gameWins:0, cardPageId:2917},{name:'Mince', subtitle:'', image:'/site/assets/files/2918/mince_pie.300x300.jpg', copyright:'By en:User:Jmb (en:Image:Mince Pie PICT6878a.jpg) [GFDL (http://www.gnu.org/copyleft/fdl.html), CC-BY-SA-3.0 (http://creativecommons.org/licenses/by-sa/3.0/) or CC BY 2.5 (http://creativecommons.org/licenses/by/2.5)], via Wikimedia Commons', plays:16, wins:5, gamePlays:0, gameWins:0, cardPageId:2918},{name:'Pecan', subtitle:'', image:'/site/assets/files/2919/pecan_pie_2c_november_2010.300x300.jpg', copyright:'By Joe Hakim (Flickr: Pecan Pie) [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons', plays:11, wins:0, gamePlays:0, gameWins:0, cardPageId:2919},{name:'Meat and potato', subtitle:'', image:'/site/assets/files/2920/grandma_pollards_meat_and_potato_pies_285815022642_29.300x300.jpg', copyright:'By Paul Downey from Berkhamsted, UK [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons', plays:23, wins:12, gamePlays:0, gameWins:0, cardPageId:2920},{name:'Chicken balti', subtitle:'', image:'/site/assets/files/2921/chicken_balti_bhuna-v1436104673.300x300.jpg', copyright:'By Edinburgh Blog [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons', plays:15, wins:5, gamePlays:0, gameWins:0, cardPageId:2921},{name:'Steak and ale', subtitle:'', image:'/site/assets/files/2922/steak_and_onion_pie.300x300.jpg', copyright:'By Alpha [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons', plays:31, wins:22, gamePlays:0, gameWins:0, cardPageId:2922},{name:'Pizza', subtitle:'', image:'/site/assets/files/2923/my_tomato_pie_pizza_and_calzone.300x300.jpg', copyright:'By JamesLTIII (Own work) [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0) or GFDL (http://www.gnu.org/copyleft/fdl.html)], via Wikimedia Commons', plays:27, wins:18, gamePlays:0, gameWins:0, cardPageId:2923},{name:'Chart', subtitle:'', image:'/site/assets/files/2924/pie_chart_ep_election_2004_exploded.300x300.jpg', copyright:'This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license.', plays:11, wins:0, gamePlays:0, gameWins:0, cardPageId:2924},{name:'Cherry', subtitle:'', image:'/site/assets/files/2925/cherry-pie-slice.300x300.jpg', copyright:'By Evan-Amos (Own work) [Public domain], via Wikimedia Commons', plays:21, wins:10, gamePlays:0, gameWins:0, cardPageId:2925},{name:'Mississippi mud', subtitle:'', image:'/site/assets/files/2926/mud_pie_28cropped_29.300x300.jpg', copyright:'By Mud_pie.JPG: User:Chensiyuan derivative work: Mindmatrix (Mud_pie.JPG) [CC BY-SA 2.5-2.0-1.0 (http://creativecommons.org/licenses/by-sa/2.5-2.0-1.0), CC-BY-SA-3.0 (http://creativecommons.org/licenses/by-sa/3.0/) or GFDL (http://www.gnu.org/copyleft/fdl.html)], via Wikimedia Commons', plays:17, wins:6, gamePlays:0, gameWins:0, cardPageId:2926},]; gameArray=[{title:'Best Pie', interrogative:'What is', possessive:' ', possessiveAlt:'', subject:'the Best pie', summary:'Who ate all the pies? ME. What is the Best pie?'}]; pageId=2908;"></div></div>
+
+<div ng-controller="primomoController" class="page-wrap">
+
+<div class="fixednav">
+	<div class="row topbar-container">
+		<top-bar id="top-menu" class="top-bar top-menu" mobile-show-parent-link="true" is-hover="false">
+			<ul class="title-area">
+				<li class="name">
+					<h1><a href="/"><img class="primomo-logo" src="/site/templates/images/primomologotext.svg"><span></span></a></h1>
+				</li>
+				<li toggle-top-bar onclick="document.getElementById('top-search').classList.remove('expanded')" class="toggle-topbar toggle-topbar-main menu-icon"><a href=""><span></span></a></li>
+			</ul>
+			<top-bar-section ng-cloakx>
+				<ul class="right">
+					
+					
+<ul class="primenu">
+	<li>
+		<a href='/categories/entertainment/'>Entertainment</a>
+	</li>
+	<li>
+		<a href='/categories/sport/'>Sport</a>
+	</li>
+	<li>
+		<a href='/categories/lifestyle/'>Lifestyle</a>
+	</li>
+</ul>					
+					<li has-dropdown class="primenu-hasdropdown">
+						<a>More</a>
+						<ul top-bar-dropdown ng-cloak>
+							
+<ul class="more-menu">
+	<li>
+		<a href='/categories/entertainment/tv/'>TV</a>
+	</li>
+	<li>
+		<a href='/categories/lifestyle/people/'>People</a>
+	</li>
+	<li>
+		<a href='/categories/sport/football/'>Football</a>
+	</li>
+	<li>
+		<a href='/categories/lifestyle/food/'>Food</a>
+	</li>
+	<li>
+		<a href='/categories/entertainment/music/'>Music</a>
+	</li>
+	<li>
+		<a href='/categories/entertainment/movies/'>Movies</a>
+	</li>
+	<li>
+		<a href='/categories/'>All Categories</a>
+	</li>
+</ul>						</ul>
+					</li>
+					
+					<ul>
+						<li class="has-form search-form-medium-up">
+						    <div class="row collapse">
+						      <div class="large-12 small-12 columns">
+						        <form id="site-search-form" class="clearfix" action="/search/" method="get">
+									<input type="text" name="q" value="" placeholder="Search">
+								</form>
+						      </div>
+						    </div>
+						</li>
+					</ul>
+					
+				</ul>
+			</top-bar-section>
+		</top-bar>
+		
+		<top-bar id="top-search" class="top-bar top-search show-for-small-only" data-topbar="" style="height: 45px">
+			<ul class="title-area">
+				<li class="name"></li>
+				<li toggle-top-bar onclick="document.getElementById('top-menu').classList.remove('expanded')" class="toggle-topbar toggle-topbar-search menu-icon"><a href=""><span></span></a></li>
+			</ul>
+			<top-bar-section ng-cloak>
+				<ul>
+				  <li class="has-form search-form-small-only">
+				    <div class="row collapse">
+				      <div class="large-12 small-12 columns">
+				        <form id="site-search-form" class="clearfix" action="/search/" method="get">
+							<input type="text" name="q" value="" placeholder="Search">
+						</form>
+				      </div>
+				    </div>
+				  </li>
+				</ul>
+			</top-bar-section>
+		</top-bar>
+	</div>
+</div>
+
+
+<div class="row-container ccolour_base main-header">
+	<div class="row">
+		<div class="column">
+			<h2 class="top-header">Best Pie</h2>
+		</div>
+	</div>
+	</div>
+
+<div id="body-wrap">
+	<div class="row-container">
+	<div class="row list-grid-row" id="sectionid1">
+		<div class="column">
+			<h3 class="left section-header">Related Lists</a></h3>
+				
+		</div>
+		
+		
+			<div class="column list-grid">
+				<div equalizer class="row">
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_lifestyle_standard catcolorstyle_standard' id='list-5797'>
+
+	<a href='/list/favourite-pork-product/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/5797/1024px-american_pork_cuts_svg.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Favourite Pork Product</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_lifestyle_standard catcolorstyle_standard' id='list-5786'>
+
+	<a href='/list/best-meat/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/5786/foodmeat.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Meat</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_lifestyle_standard catcolorstyle_standard' id='list-5036'>
+
+	<a href='/list/best-pudding/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/5036/christmas_pudding.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Pudding</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_lifestyle_standard catcolorstyle_standard' id='list-4935'>
+
+	<a href='/list/favourite-nut/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/4935/fancy_raw_mixed_nuts_macro.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Favourite Nut</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_lifestyle_standard catcolorstyle_standard' id='list-4521'>
+
+	<a href='/list/best-supermarket/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/4521/sb-butik_1941.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Supermarket</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_lifestyle_standard catcolorstyle_standard' id='list-4446'>
+
+	<a href='/list/best-crisps/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/4446/potato-chips.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Crisps</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_lifestyle_standard catcolorstyle_standard' id='list-4425'>
+
+	<a href='/list/best-biscuit/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/4425/digestive_biscuits.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Biscuit</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_lifestyle_standard catcolorstyle_standard' id='list-3680'>
+
+	<a href='/list/best-tapas/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/3680/tapasenbarcelona.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Tapas</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_lifestyle_standard catcolorstyle_standard' id='list-3262'>
+
+	<a href='/list/best-cheese/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/3262/800px-cheese_platter.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Cheese</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_lifestyle_standard catcolorstyle_standard' id='list-2997'>
+
+	<a href='/list/best-hangover-cures/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/2997/best-hangover-cures-nfe3snfl.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Hangover Cures</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_lifestyle_standard catcolorstyle_standard' id='list-2928'>
+
+	<a href='/list/best-takeaway/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/2928/best-takeaway-poasfagd.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Takeaway</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_sport_standard catcolorstyle_standard' id='list-2884'>
+
+	<a href='/list/greatest-everton-player/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/2884/greatest-everton-player-ii8p5hhm.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest Everton Player</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_sport_standard catcolorstyle_standard' id='list-2763'>
+
+	<a href='/list/greatest-northern-irish-sports-star/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/2763/greatest-northern-irish-sports-star-kta0hvpa.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest Northern Irish Sports Star</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_lifestyle_standard catcolorstyle_standard' id='list-2532'>
+
+	<a href='/list/great-scots/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/2532/great-scots-5yayzc3p.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Great Scots</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_sport_standard catcolorstyle_standard' id='list-1899'>
+
+	<a href='/list/greatest-footballer-ever/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/1899/greatest-footballer-ever-q6fw0tro.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest Footballer Ever</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_sport_standard catcolorstyle_standard' id='list-1520'>
+
+	<a href='/list/greatest-manchester-united-player/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/1520/greatest-manchester-united-player-atrkycpt.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest Manchester United Player</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+									</div>
+			</div>	
+						<div class="column"><div class='pagination-centered'><ul class='pagination'><li class='MarkupPagerNavPrevious MarkupPagerNavFirst'><a href='/list/best-pie/'><span><<</span></a></li><li class='MarkupPagerNavFirstNum'><a href='/list/best-pie/'><span>1</span></a></li><li class='current MarkupPagerNavLast MarkupPagerNavLastNum'><a href='/list/best-pie/page2'><span>2</span></a></li></ul></div></div>	</div>
+</div></div>
+
+</div> <!--ng-controller-->
+<footer class="ccolour_base">
+
+<div class="row">
+	<div class="medium-4 medium-push-8 columns">
+		<ul class="footer-social">
+			<li>
+				<a href="" class="xxx" style="opacity: 0 !important"></a>
+			</li>
+			<li>
+				<a href="" class="xxx" style="opacity: 0 !important"></a>
+			</li>
+			<!-- <li><a href="/about" class="mail"></a></li> -->
+		</ul>
+	</div>
+	<div class="medium-8 medium-pull-4 columns">		
+	</div>
+</div>
+
+</footer>
+<script>
+flowtype(document.body.querySelector('#stack-container'), {
+   minimum   : 0,
+   maximum   : 600,
+   minFont   : 1,
+   maxFont   : 50,
+   fontRatio : 14,
+   lineRatio : 1.45
+});	
+flowtype(document.body.querySelector('#gamemessage-container'), {
+   minimum   : 0,
+   maximum   : 600,
+   minFont   : 1,
+   maxFont   : 50,
+   fontRatio : 14,
+   lineRatio : 1.45
+});	
+</script>
+</body>
+</html>

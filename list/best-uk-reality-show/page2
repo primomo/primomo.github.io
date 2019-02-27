@@ -1,0 +1,497 @@
+<!DOCTYPE html>
+<!--[if IE 9]><html class="lt-ie10" lang="en" > <![endif]-->
+<html class="no-js" lang="en" itemscope itemtype="http://schema.org/ItemList">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+	<style type="text/css">@charset "UTF-8";[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {display: none !important;}</style>	
+	<link rel="canonical" href="">
+	
+		
+	
+	<!-- Meta -->
+	<title>Best UK Reality Show - Primomo</title>
+	<meta name="description" content="Which is the Best UK Reality Show? The Apprentice? I'm a Celebrity...Get Me Out of Here!? The Undateables? The Island with Bear Gryll? Strictly Come Dancing? Gogglebox? The Only Way Is Essex? The Great British Bake Off? Made in Chelsea? Britain's Got Talent? Dragons' Den? The Voice? Don't Tell the Bride? Come Dine with Me? The X Factor? Big Brother? First Dates? Embarrassing Bodies? Geordie Shore? " />
+	<!-- Schema -->
+	<meta itemprop="name" content="Best UK Reality Show">
+	<meta itemprop="description" content="Which is the Best UK Reality Show? The Apprentice? I'm a Celebrity...Get Me Out of Here!? The Undateables? The Island with Bear Gryll? Strictly Come Dancing? Gogglebox? The Only Way Is Essex? The Great British Bake Off? Made in Chelsea? Britain's Got Talent? Dragons' Den? The Voice? Don't Tell the Bride? Come Dine with Me? The X Factor? Big Brother? First Dates? Embarrassing Bodies? Geordie Shore? "> 
+	<meta itemprop="image" content=""> 
+	 <meta itemprop="itemListOrder" content="Descending" /> 	<!-- Twitter -->
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:site" content="@playprimomo">
+	<meta name="twitter:title" content="Best UK Reality Show">
+	<meta name="twitter:description" content="Which is the Best UK Reality Show? The Apprentice? I'm a Celebrity...Get Me Out of Here!? The Undateables? The Island with Bear Gryll? Strictly Come Dancing? Gogglebox? The Only Way Is Essex? The Great British Bake Off? Made in Chelsea? Britain's Got Talent? Dragons' Den? The Voice? Don't Tell the Bride? Come Dine with Me? The X Factor? Big Brother? First Dates? Embarrassing Bodies? Geordie Shore? "> 
+	<meta name="twitter:creator" content="@playprimomo">
+	<meta name="twitter:image:src" content=""> 
+	<!-- Open Graph -->
+	<meta property="og:title" content="Best UK Reality Show" />
+	<meta property="og:type" content="article" /> 
+	<meta property="og:url" content="" /> 
+	<meta property="og:image" content=""> 
+	<meta property="og:image:width" content="500"> 
+	<meta property="og:image:height" content="300"> 
+	<meta property="og:description" content="Which is the Best UK Reality Show? The Apprentice? I'm a Celebrity...Get Me Out of Here!? The Undateables? The Island with Bear Gryll? Strictly Come Dancing? Gogglebox? The Only Way Is Essex? The Great British Bake Off? Made in Chelsea? Britain's Got Talent? Dragons' Den? The Voice? Don't Tell the Bride? Come Dine with Me? The X Factor? Big Brother? First Dates? Embarrassing Bodies? Geordie Shore? " /> 
+	<meta property="og:site_name" content="Primomo" />
+	<meta property="article:section" content="TV" />  
+	<meta property="article:tag" content="Reality , UK, Simon Cowell, Alan sugar , BBC, ITV , Channel 4, Ant & Dec" />  
+	<meta property="fb:admins" content="690322552, 598310032" />	
+
+	<link rel="stylesheet" href="/site/templates/components/normalize/normalize.min.css" />
+	<link rel="stylesheet" href="/site/templates/components/foundation/foundation.min.css" />
+	<link rel="stylesheet" href="/site/templates/components/animate-scss/animate.min.css" />
+
+	<script src="/site/templates/components/angular/angular.min.js"></script>
+	<script src="/site/templates/components/angular/angular-touch.min.js"></script>
+	<script src="/site/templates/components/angular-foundation/mm-foundation-tpls-0.8.0.min.js"></script>
+	<script src="/site/templates/components/modernizr.js"></script>
+	<script src="/site/templates/components/fastclick.js"></script>
+	
+	<script src="/site/templates/components/ng-FitText.js"></script>
+	<script src="/site/templates/components/flowtype.min.js"></script>
+	<script src="/site/templates/scripts/angular-swing.min.js"></script>
+	<script src="/site/templates/scripts/angular-equalizer.min.js"></script>
+	<script src="/site/templates/scripts/primomo.min.js"></script>
+	
+	<link rel="stylesheet" href="/site/templates/styles/primomo.min.css?" />
+	
+	<style class="game-colour">
+/* ccolour_base - base */
+.ccolour_base { background: #B03232}
+.ccolour_base-border { border-color: #B03232}
+.ccolour_base-text { color: #B03232}
+/* ccolour_d1 - darker 1 */
+.ccolour_d1 { background: #a02d2d}
+.ccolour_d1-border { border-color: #a02d2d}
+.ccolour_d1-text { color: #a02d2d}
+/* ccolour_d2 - darker 2 */
+.ccolour_d2 { background: #902929}
+.ccolour_d2-border { border-color: #902929}
+.ccolour_d2-text { color: #902929}
+/* ccolour_d3 - darker 3 */
+.ccolour_d3 { background: #802424}
+.ccolour_d3-border { border-color: #802424}
+.ccolour_d3-text { color: #802424}
+/* ccolour_l1 - lighter 1 */
+.ccolour_l1, {background: #c73a3a}
+.ccolour_l1-border { border-color: #c73a3a}
+.ccolour_l1-text { color: #c73a3a}
+/* Colour Styles */
+body, #viewport, .page-wrap:before {
+	background: #B03232	}
+.top-bar-section ul li, .top-bar-section li:not(.has-form) a:not(.button), .top-bar-section .has-form {
+	background: none;
+	}
+.top-bar-section li:not(.has-form) a:not(.button):hover, .top-bar-section ul li:hover:not(.has-form) > a, .top-bar-section .dropdown li:not(.has-form):not(.active) > a:not(.button) {
+	background: #902929	}
+html.touch .top-bar-section li.has-dropdown a:hover {
+	background:none;
+	}
+html.touch .top-bar-section li.has-dropdown.not-click a:hover {
+	background:#902929;
+	}
+.top-bar-section .dropdown li:not(.has-form):not(.active):hover > a:not(.button) {
+	background: #802424	}
+.top-bar, .fixednav, .top-bar .title-area, .top-bar.expanded .title-area {
+	background: #a02d2d	}	
+.top-bar input[type="text"] {
+	border-color: #a02d2d	}
+.accordian-percent {
+	background: #902929	}
+.results-header h3 {
+    color: #902929	}
+.sidebar-tags h4, .sidebar-cats h4 {
+    color: #902929	}	
+h3.section-header, h3.section-header a  {
+    color: #802424	}	
+h3.section-header a:hover  {
+    color: #902929	}		
+/* Medium and Up Only */	
+@media only screen and (min-width: 720px) {
+	.top-bar-section li.active:not(.has-form) a:not(.button) {
+		background: #a02d2d		}
+	.top-bar-section li.active:not(.has-form) a:not(.button):hover {
+		background: #902929		}
+	.top-bar-section .dropdown li.active:not(.has-form) a:not(.button) {
+		background: #902929		}
+	.top-bar-section .dropdown li.active:not(.has-form) a:not(.button):hover {
+		background: #802424		}		
+	}
+/* Small Only */	
+@media only screen and (max-width: 719px) {
+	.top-bar-section ul li, .top-bar-section .has-form {
+		background: #902929		}
+	.top-bar-section li:not(.has-form) a:not(.button):hover, .top-bar-section ul li:hover:not(.has-form) > a {
+		background: #802424		}
+	}
+</style>
+<style class="cat-colours">
+.catcolour_sport_standard{background:#1FA464;}.catcolour_sport_inverted *{color:#1FA464 !important;}.catcolour_entertainment_standard{background:#B03232;}.catcolour_entertainment_inverted *{color:#B03232 !important;}.catcolour_lifestyle_standard{background:#9B2C6F;}.catcolour_lifestyle_inverted *{color:#9B2C6F !important;}	
+</style>	<link href='https://fonts.googleapis.com/css?family=Comfortaa:300,400,700' rel='stylesheet' type='text/css'>
+	</head>	
+<body class='template-list'
+ng-app="primomoApp">
+
+<div><div ng-init="deckArray=[{name:'The Apprentice', subtitle:'', image:'/site/assets/files/4743/applogo.300x300.jpg', copyright:'BBC', plays:54, wins:27, gamePlays:0, gameWins:0, cardPageId:4743},{name:'I\'m a Celebrity...Get Me Out of Here!', subtitle:'', image:'/site/assets/files/4744/iacgmooh_logo.300x300.jpg', copyright:'ITV', plays:80, wins:53, gamePlays:0, gameWins:0, cardPageId:4744},{name:'The Undateables', subtitle:'', image:'/site/assets/files/4745/71bb8d79-d61c-4abf-b09e-6c1e255b0b15.300x300.jpg', copyright:'Channel 4', plays:46, wins:16, gamePlays:0, gameWins:0, cardPageId:4745},{name:'The Island with Bear Gryll', subtitle:'', image:'/site/assets/files/4746/the_island_with_bear_grylls_jpg.300x300.jpg', copyright:'Channel 4', plays:35, wins:5, gamePlays:0, gameWins:0, cardPageId:4746},{name:'Strictly Come Dancing', subtitle:'', image:'/site/assets/files/4747/strictly_come_dancing_titlecard.300x300.jpg', copyright:'BBC', plays:64, wins:37, gamePlays:0, gameWins:0, cardPageId:4747},{name:'Gogglebox', subtitle:'', image:'/site/assets/files/4748/gogglebox_logo.300x300.jpg', copyright:'All3Media and Channel 4', plays:60, wins:31, gamePlays:0, gameWins:0, cardPageId:4748},{name:'The Only Way Is Essex', subtitle:'', image:'/site/assets/files/4749/towie_logo.300x300.jpg', copyright:'ITVBe', plays:49, wins:21, gamePlays:0, gameWins:0, cardPageId:4749},{name:'The Great British Bake Off', subtitle:'', image:'/site/assets/files/4750/the_great_british_bake_off_title.300x300.jpg', copyright:'BBC', plays:54, wins:24, gamePlays:0, gameWins:0, cardPageId:4750},{name:'Made in Chelsea', subtitle:'', image:'/site/assets/files/4751/made_in_chelsea_logo.300x300.jpg', copyright:'E4', plays:43, wins:14, gamePlays:0, gameWins:0, cardPageId:4751},{name:'Britain\'s Got Talent', subtitle:'', image:'/site/assets/files/4752/britains-got-talent.300x300.jpg', copyright:'FremantleMedia.', plays:76, wins:49, gamePlays:0, gameWins:0, cardPageId:4752},{name:'Dragons\' Den', subtitle:'', image:'/site/assets/files/4753/p02m6zg2.300x300.jpg', copyright:'BBC', plays:49, wins:19, gamePlays:0, gameWins:0, cardPageId:4753},{name:'The Voice', subtitle:'', image:'/site/assets/files/4754/the_voice_of_.300x300.jpg', copyright:'John de Mol', plays:49, wins:19, gamePlays:0, gameWins:0, cardPageId:4754},{name:'Don\'t Tell the Bride', subtitle:'', image:'/site/assets/files/4755/dont-tell-the-bride-91.300x300.jpg', copyright:'BBC', plays:41, wins:11, gamePlays:0, gameWins:0, cardPageId:4755},{name:'Come Dine with Me', subtitle:'', image:'/site/assets/files/4756/comedinewithme_2010_screeng.300x300.jpg', copyright:'Channel 4', plays:47, wins:17, gamePlays:0, gameWins:0, cardPageId:4756},{name:'The X Factor', subtitle:'', image:'/site/assets/files/4757/x_factor_uk_2015_logo.300x300.jpg', copyright:'ITV', plays:102, wins:80, gamePlays:0, gameWins:0, cardPageId:4757},{name:'Big Brother', subtitle:'', image:'/site/assets/files/4758/big_brother_eye_logo_for_the_16th_uk_series.300x300.jpg', copyright:'Endemol UK', plays:76, wins:51, gamePlays:0, gameWins:0, cardPageId:4758},{name:'First Dates', subtitle:'', image:'/site/assets/files/4759/first_dates.300x300.jpg', copyright:'Channel 4', plays:60, wins:30, gamePlays:0, gameWins:0, cardPageId:4759},{name:'Embarrassing Bodies', subtitle:'', image:'/site/assets/files/4760/embarrassing_bodies.300x300.jpg', copyright:'channel 4', plays:43, wins:13, gamePlays:0, gameWins:0, cardPageId:4760},{name:'Geordie Shore', subtitle:'', image:'/site/assets/files/4765/geordie_shore.300x300.jpg', copyright:'By Schenngirl10 (Own work) [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons', plays:52, wins:23, gamePlays:0, gameWins:0, cardPageId:4765},]; gameArray=[{title:'Best UK Reality Show', interrogative:'Which is', possessive:' ', possessiveAlt:'', subject:'the Best UK Reality Show', summary:'Which is the Best UK Reality Show?'}]; pageId=4742;"></div></div>
+
+<div ng-controller="primomoController" class="page-wrap">
+
+<div class="fixednav">
+	<div class="row topbar-container">
+		<top-bar id="top-menu" class="top-bar top-menu" mobile-show-parent-link="true" is-hover="false">
+			<ul class="title-area">
+				<li class="name">
+					<h1><a href="/"><img class="primomo-logo" src="/site/templates/images/primomologotext.svg"><span></span></a></h1>
+				</li>
+				<li toggle-top-bar onclick="document.getElementById('top-search').classList.remove('expanded')" class="toggle-topbar toggle-topbar-main menu-icon"><a href=""><span></span></a></li>
+			</ul>
+			<top-bar-section ng-cloakx>
+				<ul class="right">
+					
+					
+<ul class="primenu">
+	<li>
+		<a href='/categories/entertainment/'>Entertainment</a>
+	</li>
+	<li>
+		<a href='/categories/sport/'>Sport</a>
+	</li>
+	<li>
+		<a href='/categories/lifestyle/'>Lifestyle</a>
+	</li>
+</ul>					
+					<li has-dropdown class="primenu-hasdropdown">
+						<a>More</a>
+						<ul top-bar-dropdown ng-cloak>
+							
+<ul class="more-menu">
+	<li>
+		<a href='/categories/entertainment/tv/'>TV</a>
+	</li>
+	<li>
+		<a href='/categories/lifestyle/people/'>People</a>
+	</li>
+	<li>
+		<a href='/categories/sport/football/'>Football</a>
+	</li>
+	<li>
+		<a href='/categories/lifestyle/food/'>Food</a>
+	</li>
+	<li>
+		<a href='/categories/entertainment/music/'>Music</a>
+	</li>
+	<li>
+		<a href='/categories/entertainment/movies/'>Movies</a>
+	</li>
+	<li>
+		<a href='/categories/'>All Categories</a>
+	</li>
+</ul>						</ul>
+					</li>
+					
+					<ul>
+						<li class="has-form search-form-medium-up">
+						    <div class="row collapse">
+						      <div class="large-12 small-12 columns">
+						        <form id="site-search-form" class="clearfix" action="/search/" method="get">
+									<input type="text" name="q" value="" placeholder="Search">
+								</form>
+						      </div>
+						    </div>
+						</li>
+					</ul>
+					
+				</ul>
+			</top-bar-section>
+		</top-bar>
+		
+		<top-bar id="top-search" class="top-bar top-search show-for-small-only" data-topbar="" style="height: 45px">
+			<ul class="title-area">
+				<li class="name"></li>
+				<li toggle-top-bar onclick="document.getElementById('top-menu').classList.remove('expanded')" class="toggle-topbar toggle-topbar-search menu-icon"><a href=""><span></span></a></li>
+			</ul>
+			<top-bar-section ng-cloak>
+				<ul>
+				  <li class="has-form search-form-small-only">
+				    <div class="row collapse">
+				      <div class="large-12 small-12 columns">
+				        <form id="site-search-form" class="clearfix" action="/search/" method="get">
+							<input type="text" name="q" value="" placeholder="Search">
+						</form>
+				      </div>
+				    </div>
+				  </li>
+				</ul>
+			</top-bar-section>
+		</top-bar>
+	</div>
+</div>
+
+
+<div class="row-container ccolour_base main-header">
+	<div class="row">
+		<div class="column">
+			<h2 class="top-header">Best UK Reality Show</h2>
+		</div>
+	</div>
+	</div>
+
+<div id="body-wrap">
+	<div class="row-container">
+	<div class="row list-grid-row" id="sectionid1">
+		<div class="column">
+			<h3 class="left section-header">Related Lists</a></h3>
+				
+		</div>
+		
+		
+			<div class="column list-grid">
+				<div equalizer class="row">
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-6049'>
+
+	<a href='/list/best-dr.who-villains/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/6049/angel.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Dr.Who Villain</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_lifestyle_standard catcolorstyle_standard' id='list-5961'>
+
+	<a href='/list/favourite-royal/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/5961/the_british_royal_family_on_the_balcony_of_buckingham_palace.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Favourite Royal</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-5645'>
+
+	<a href='/list/favourite-gogglebox-viewer/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/5645/gogglebox_logo.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Favourite Gogglebox Viewer</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-5289'>
+
+	<a href='/list/favourite-uk-quiz-show/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/5289/small_qr-eyscyd0lqkkgsxw9xrsps6i7dflxdjmdh3rjapno.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Favourite UK Quiz Show</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-5235'>
+
+	<a href='/list/favourite-x-factor-judge/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/5235/x_factor_uk_2015_logo.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Favourite X Factor Judge</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-5222'>
+
+	<a href='/list/favourite-x-factor-winner/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/5222/x_factor_uk_2015_logo.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Favourite X Factor Winner</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-4406'>
+
+	<a href='/list/best-soap-opera/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/4406/den_ange_divorce.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Soap Opera</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-4330'>
+
+	<a href='/list/best-british-sitcom/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/4330/onlyfools_del_fall.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best British Sitcom</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-2000'>
+
+	<a href='/list/best-boy-band/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/2000/best-boy-band-oujdyz5t.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Boy Band</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_lifestyle_standard catcolorstyle_standard' id='list-1439'>
+
+	<a href='/list/best-welsh/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/1439/best-welsh-h4evwess.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Welsh</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-1421'>
+
+	<a href='/list/best-dr-who-ever/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/1421/best-dr-who-ever-97fewzml.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Dr Who Ever</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-1265'>
+
+	<a href='/list/best-channel-4-sitcom/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/1265/channel_4_new_logo_svg-v1432835731.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Channel 4 Sitcom</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+									</div>
+			</div>	
+						<div class="column"><div class='pagination-centered'><ul class='pagination'><li class='MarkupPagerNavPrevious MarkupPagerNavFirst'><a href='/list/best-uk-reality-show/'><span><<</span></a></li><li class='MarkupPagerNavFirstNum'><a href='/list/best-uk-reality-show/'><span>1</span></a></li><li class='current MarkupPagerNavLast MarkupPagerNavLastNum'><a href='/list/best-uk-reality-show/page2'><span>2</span></a></li></ul></div></div>	</div>
+</div></div>
+
+</div> <!--ng-controller-->
+<footer class="ccolour_base">
+
+<div class="row">
+	<div class="medium-4 medium-push-8 columns">
+		<ul class="footer-social">
+			<li>
+				<a href="" class="xxx" style="opacity: 0 !important"></a>
+			</li>
+			<li>
+				<a href="" class="xxx" style="opacity: 0 !important"></a>
+			</li>
+			<!-- <li><a href="/about" class="mail"></a></li> -->
+		</ul>
+	</div>
+	<div class="medium-8 medium-pull-4 columns">		
+	</div>
+</div>
+
+</footer>
+<script>
+flowtype(document.body.querySelector('#stack-container'), {
+   minimum   : 0,
+   maximum   : 600,
+   minFont   : 1,
+   maxFont   : 50,
+   fontRatio : 14,
+   lineRatio : 1.45
+});	
+flowtype(document.body.querySelector('#gamemessage-container'), {
+   minimum   : 0,
+   maximum   : 600,
+   minFont   : 1,
+   maxFont   : 50,
+   fontRatio : 14,
+   lineRatio : 1.45
+});	
+</script>
+</body>
+</html>

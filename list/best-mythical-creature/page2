@@ -1,0 +1,701 @@
+<!DOCTYPE html>
+<!--[if IE 9]><html class="lt-ie10" lang="en" > <![endif]-->
+<html class="no-js" lang="en" itemscope itemtype="http://schema.org/ItemList">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+	<style type="text/css">@charset "UTF-8";[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {display: none !important;}</style>	
+	<link rel="canonical" href="">
+	
+		
+	
+	<!-- Meta -->
+	<title>Best Mythical Creature - Primomo</title>
+	<meta name="description" content="Which is  the Best Mythical Creature? Bigfoot? Centaur? Dragons? Fairy? Goblin? Griffin? Nessie? Mermaid? Ogre? Ghost? Vampire? Werewolf? Zombie? Leprechaun? Elf? Unicorn? " />
+	<!-- Schema -->
+	<meta itemprop="name" content="Best Mythical Creature">
+	<meta itemprop="description" content="Which is  the Best Mythical Creature? Bigfoot? Centaur? Dragons? Fairy? Goblin? Griffin? Nessie? Mermaid? Ogre? Ghost? Vampire? Werewolf? Zombie? Leprechaun? Elf? Unicorn? "> 
+	<meta itemprop="image" content=""> 
+	 <meta itemprop="itemListOrder" content="Descending" /> 	<!-- Twitter -->
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:site" content="@playprimomo">
+	<meta name="twitter:title" content="Best Mythical Creature">
+	<meta name="twitter:description" content="Which is  the Best Mythical Creature? Bigfoot? Centaur? Dragons? Fairy? Goblin? Griffin? Nessie? Mermaid? Ogre? Ghost? Vampire? Werewolf? Zombie? Leprechaun? Elf? Unicorn? "> 
+	<meta name="twitter:creator" content="@playprimomo">
+	<meta name="twitter:image:src" content=""> 
+	<!-- Open Graph -->
+	<meta property="og:title" content="Best Mythical Creature" />
+	<meta property="og:type" content="article" /> 
+	<meta property="og:url" content="" /> 
+	<meta property="og:image" content=""> 
+	<meta property="og:image:width" content="500"> 
+	<meta property="og:image:height" content="300"> 
+	<meta property="og:description" content="Which is  the Best Mythical Creature? Bigfoot? Centaur? Dragons? Fairy? Goblin? Griffin? Nessie? Mermaid? Ogre? Ghost? Vampire? Werewolf? Zombie? Leprechaun? Elf? Unicorn? " /> 
+	<meta property="og:site_name" content="Primomo" />
+	<meta property="article:section" content="Random" />  
+	<meta property="article:tag" content="Mythical , Funny, Zombie, Vampire" />  
+	<meta property="fb:admins" content="690322552, 598310032" />	
+
+	<link rel="stylesheet" href="/site/templates/components/normalize/normalize.min.css" />
+	<link rel="stylesheet" href="/site/templates/components/foundation/foundation.min.css" />
+	<link rel="stylesheet" href="/site/templates/components/animate-scss/animate.min.css" />
+
+	<script src="/site/templates/components/angular/angular.min.js"></script>
+	<script src="/site/templates/components/angular/angular-touch.min.js"></script>
+	<script src="/site/templates/components/angular-foundation/mm-foundation-tpls-0.8.0.min.js"></script>
+	<script src="/site/templates/components/modernizr.js"></script>
+	<script src="/site/templates/components/fastclick.js"></script>
+	
+	<script src="/site/templates/components/ng-FitText.js"></script>
+	<script src="/site/templates/components/flowtype.min.js"></script>
+	<script src="/site/templates/scripts/angular-swing.min.js"></script>
+	<script src="/site/templates/scripts/angular-equalizer.min.js"></script>
+	<script src="/site/templates/scripts/primomo.min.js"></script>
+	
+	<link rel="stylesheet" href="/site/templates/styles/primomo.min.css?" />
+	
+	<style class="game-colour">
+/* ccolour_base - base */
+.ccolour_base { background: #9B2C6F}
+.ccolour_base-border { border-color: #9B2C6F}
+.ccolour_base-text { color: #9B2C6F}
+/* ccolour_d1 - darker 1 */
+.ccolour_d1 { background: #8b2764}
+.ccolour_d1-border { border-color: #8b2764}
+.ccolour_d1-text { color: #8b2764}
+/* ccolour_d2 - darker 2 */
+.ccolour_d2 { background: #7b2358}
+.ccolour_d2-border { border-color: #7b2358}
+.ccolour_d2-text { color: #7b2358}
+/* ccolour_d3 - darker 3 */
+.ccolour_d3 { background: #6b1e4d}
+.ccolour_d3-border { border-color: #6b1e4d}
+.ccolour_d3-text { color: #6b1e4d}
+/* ccolour_l1 - lighter 1 */
+.ccolour_l1, {background: #b33380}
+.ccolour_l1-border { border-color: #b33380}
+.ccolour_l1-text { color: #b33380}
+/* Colour Styles */
+body, #viewport, .page-wrap:before {
+	background: #9B2C6F	}
+.top-bar-section ul li, .top-bar-section li:not(.has-form) a:not(.button), .top-bar-section .has-form {
+	background: none;
+	}
+.top-bar-section li:not(.has-form) a:not(.button):hover, .top-bar-section ul li:hover:not(.has-form) > a, .top-bar-section .dropdown li:not(.has-form):not(.active) > a:not(.button) {
+	background: #7b2358	}
+html.touch .top-bar-section li.has-dropdown a:hover {
+	background:none;
+	}
+html.touch .top-bar-section li.has-dropdown.not-click a:hover {
+	background:#7b2358;
+	}
+.top-bar-section .dropdown li:not(.has-form):not(.active):hover > a:not(.button) {
+	background: #6b1e4d	}
+.top-bar, .fixednav, .top-bar .title-area, .top-bar.expanded .title-area {
+	background: #8b2764	}	
+.top-bar input[type="text"] {
+	border-color: #8b2764	}
+.accordian-percent {
+	background: #7b2358	}
+.results-header h3 {
+    color: #7b2358	}
+.sidebar-tags h4, .sidebar-cats h4 {
+    color: #7b2358	}	
+h3.section-header, h3.section-header a  {
+    color: #6b1e4d	}	
+h3.section-header a:hover  {
+    color: #7b2358	}		
+/* Medium and Up Only */	
+@media only screen and (min-width: 720px) {
+	.top-bar-section li.active:not(.has-form) a:not(.button) {
+		background: #8b2764		}
+	.top-bar-section li.active:not(.has-form) a:not(.button):hover {
+		background: #7b2358		}
+	.top-bar-section .dropdown li.active:not(.has-form) a:not(.button) {
+		background: #7b2358		}
+	.top-bar-section .dropdown li.active:not(.has-form) a:not(.button):hover {
+		background: #6b1e4d		}		
+	}
+/* Small Only */	
+@media only screen and (max-width: 719px) {
+	.top-bar-section ul li, .top-bar-section .has-form {
+		background: #7b2358		}
+	.top-bar-section li:not(.has-form) a:not(.button):hover, .top-bar-section ul li:hover:not(.has-form) > a {
+		background: #6b1e4d		}
+	}
+</style>
+<style class="cat-colours">
+.catcolour_sport_standard{background:#1FA464;}.catcolour_sport_inverted *{color:#1FA464 !important;}.catcolour_entertainment_standard{background:#B03232;}.catcolour_entertainment_inverted *{color:#B03232 !important;}.catcolour_lifestyle_standard{background:#9B2C6F;}.catcolour_lifestyle_inverted *{color:#9B2C6F !important;}	
+</style>	<link href='https://fonts.googleapis.com/css?family=Comfortaa:300,400,700' rel='stylesheet' type='text/css'>
+	</head>	
+<body class='template-list'
+ng-app="primomoApp">
+
+<div><div ng-init="deckArray=[{name:'Bigfoot', subtitle:'', image:'/site/assets/files/13218/harry-and-the-hendersons-di.300x300.jpg', copyright:'Universal Pictures', plays:46, wins:14, gamePlays:0, gameWins:0, cardPageId:13218},{name:'Centaur', subtitle:'', image:'/site/assets/files/13219/centaur_nymph_marqueste_tuileries.300x300.jpg', copyright:'Laurent Marqueste [Public domain], via Wikimedia Commons', plays:56, wins:22, gamePlays:0, gameWins:0, cardPageId:13219},{name:'Dragons', subtitle:'', image:'/site/assets/files/13220/varnadragons.300x300.jpg', copyright:'By Grantscharoff (Own work) [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons', plays:113, wins:93, gamePlays:0, gameWins:0, cardPageId:13220},{name:'Fairy', subtitle:'', image:'/site/assets/files/13221/cottingley_fairies_1.300x300.jpg', copyright:'Elsie Wright', plays:74, wins:43, gamePlays:0, gameWins:0, cardPageId:13221},{name:'Goblin', subtitle:'', image:'/site/assets/files/13222/goblin_by_armandeo64.300x300.jpg', copyright:'By Armandeo64 (Own work (http://armandeo64.deviantart.com/)) [CC BY-SA 4.0 (http://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons', plays:48, wins:14, gamePlays:0, gameWins:0, cardPageId:13222},{name:'Griffin', subtitle:'', image:'/site/assets/files/13223/buckbeak.300x300.jpg', copyright:'Warner Bros. Pictures', plays:85, wins:54, gamePlays:0, gameWins:0, cardPageId:13223},{name:'Nessie', subtitle:'', image:'/site/assets/files/13224/hoaxed_photo_of_the_loch_ness_monster.300x300.jpg', copyright:'Author disputed, but was originally published under the claimed authorship of Robert Kenneth Wilson. Image from Daily Mail.', plays:50, wins:17, gamePlays:0, gameWins:0, cardPageId:13224},{name:'Mermaid', subtitle:'', image:'/site/assets/files/13225/splashedspeciale.300x300.jpg', copyright:'Touchstone Films', plays:65, wins:33, gamePlays:0, gameWins:0, cardPageId:13225},{name:'Ogre', subtitle:'', image:'/site/assets/files/13226/shrekcharacter.300x300.jpg', copyright:'DreamWorks Pictures', plays:50, wins:16, gamePlays:0, gameWins:0, cardPageId:13226},{name:'Ghost', subtitle:'', image:'/site/assets/files/13227/slimer.300x300.jpg', copyright:'Columbia Pictures', plays:70, wins:38, gamePlays:0, gameWins:0, cardPageId:13227},{name:'Vampire', subtitle:'', image:'/site/assets/files/13228/vampiree3.300x300.jpg', copyright:'By Carniphage [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons', plays:72, wins:39, gamePlays:0, gameWins:0, cardPageId:13228},{name:'Werewolf', subtitle:'', image:'/site/assets/files/13229/teen-wolf.300x300.jpg', copyright:'Atlantic Releasing Corporation', plays:54, wins:21, gamePlays:0, gameWins:0, cardPageId:13229},{name:'Zombie', subtitle:'', image:'/site/assets/files/13230/zombies_nightofthelivingdead.300x300.jpg', copyright:'By Direction and cinematography both by George A. Romero (Screenshot from timeinc.net) [Public domain], via Wikimedia Commons', plays:57, wins:24, gamePlays:0, gameWins:0, cardPageId:13230},{name:'Leprechaun', subtitle:'', image:'/site/assets/files/13231/menwithleprechaun.300x300.jpg', copyright:'Cls14', plays:42, wins:8, gamePlays:0, gameWins:0, cardPageId:13231},{name:'Elf', subtitle:'', image:'/site/assets/files/13232/legolas600ppx.300x300.jpg', copyright:'New Line Cinema', plays:61, wins:28, gamePlays:0, gameWins:0, cardPageId:13232},{name:'Unicorn', subtitle:'', image:'/site/assets/files/13233/obama_unicorn_rainbows.300x300.jpg', copyright:'fair use', plays:77, wins:46, gamePlays:0, gameWins:0, cardPageId:13233},]; gameArray=[{title:'Best Mythical Creature', interrogative:'Which is', possessive:' ', possessiveAlt:'', subject:'the Best Mythical Creature', summary:'Which is  the Best Mythical Creature?'}]; pageId=13217;"></div></div>
+
+<div ng-controller="primomoController" class="page-wrap">
+
+<div class="fixednav">
+	<div class="row topbar-container">
+		<top-bar id="top-menu" class="top-bar top-menu" mobile-show-parent-link="true" is-hover="false">
+			<ul class="title-area">
+				<li class="name">
+					<h1><a href="/"><img class="primomo-logo" src="/site/templates/images/primomologotext.svg"><span></span></a></h1>
+				</li>
+				<li toggle-top-bar onclick="document.getElementById('top-search').classList.remove('expanded')" class="toggle-topbar toggle-topbar-main menu-icon"><a href=""><span></span></a></li>
+			</ul>
+			<top-bar-section ng-cloakx>
+				<ul class="right">
+					
+					
+<ul class="primenu">
+	<li>
+		<a href='/categories/entertainment/'>Entertainment</a>
+	</li>
+	<li>
+		<a href='/categories/sport/'>Sport</a>
+	</li>
+	<li>
+		<a href='/categories/lifestyle/'>Lifestyle</a>
+	</li>
+</ul>					
+					<li has-dropdown class="primenu-hasdropdown">
+						<a>More</a>
+						<ul top-bar-dropdown ng-cloak>
+							
+<ul class="more-menu">
+	<li>
+		<a href='/categories/entertainment/tv/'>TV</a>
+	</li>
+	<li>
+		<a href='/categories/lifestyle/people/'>People</a>
+	</li>
+	<li>
+		<a href='/categories/sport/football/'>Football</a>
+	</li>
+	<li>
+		<a href='/categories/lifestyle/food/'>Food</a>
+	</li>
+	<li>
+		<a href='/categories/entertainment/music/'>Music</a>
+	</li>
+	<li>
+		<a href='/categories/entertainment/movies/'>Movies</a>
+	</li>
+	<li>
+		<a href='/categories/'>All Categories</a>
+	</li>
+</ul>						</ul>
+					</li>
+					
+					<ul>
+						<li class="has-form search-form-medium-up">
+						    <div class="row collapse">
+						      <div class="large-12 small-12 columns">
+						        <form id="site-search-form" class="clearfix" action="/search/" method="get">
+									<input type="text" name="q" value="" placeholder="Search">
+								</form>
+						      </div>
+						    </div>
+						</li>
+					</ul>
+					
+				</ul>
+			</top-bar-section>
+		</top-bar>
+		
+		<top-bar id="top-search" class="top-bar top-search show-for-small-only" data-topbar="" style="height: 45px">
+			<ul class="title-area">
+				<li class="name"></li>
+				<li toggle-top-bar onclick="document.getElementById('top-menu').classList.remove('expanded')" class="toggle-topbar toggle-topbar-search menu-icon"><a href=""><span></span></a></li>
+			</ul>
+			<top-bar-section ng-cloak>
+				<ul>
+				  <li class="has-form search-form-small-only">
+				    <div class="row collapse">
+				      <div class="large-12 small-12 columns">
+				        <form id="site-search-form" class="clearfix" action="/search/" method="get">
+							<input type="text" name="q" value="" placeholder="Search">
+						</form>
+				      </div>
+				    </div>
+				  </li>
+				</ul>
+			</top-bar-section>
+		</top-bar>
+	</div>
+</div>
+
+
+<div class="row-container ccolour_base main-header">
+	<div class="row">
+		<div class="column">
+			<h2 class="top-header">Best Mythical Creature</h2>
+		</div>
+	</div>
+	</div>
+
+<div id="body-wrap">
+	<div class="row-container">
+	<div class="row list-grid-row" id="sectionid1">
+		<div class="column">
+			<h3 class="left section-header">Related Lists</a></h3>
+				
+		</div>
+		
+		
+			<div class="column list-grid">
+				<div equalizer class="row">
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_lifestyle_standard catcolorstyle_standard' id='list-11067'>
+
+	<a href='/list/best-lord/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/11067/lord-sugar.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Lord</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_lifestyle_standard catcolorstyle_standard' id='list-11022'>
+
+	<a href='/list/favourite-childhood-foods/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/11022/9aa1e2f1-ce75-eade-6b9c1a7e9c64ecb7.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Favourite Childhood Food</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_lifestyle_standard catcolorstyle_standard' id='list-10999'>
+
+	<a href='/list/favourite-90s-sweet/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/10999/91ulwt_2bmcrl__sl1500.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Favourite 90s Sweet</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_lifestyle_standard catcolorstyle_standard' id='list-10872'>
+
+	<a href='/list/top-sauce/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/10872/20110104-131326-boise-fry-company-dipping-sauces.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Top Sauce</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_lifestyle_standard catcolorstyle_standard' id='list-9959'>
+
+	<a href='/list/best-darts-nickname/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/9959/_1091740_harvey300.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Darts Nickname</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_lifestyle_standard catcolorstyle_standard' id='list-9830'>
+
+	<a href='/list/best-breed-of-dog/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/9830/collage_of_nine_dogs.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Breed of Dog</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_lifestyle_standard catcolorstyle_standard' id='list-6856'>
+
+	<a href='/list/best-viners/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/6856/vine-logo.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Viners</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_lifestyle_standard catcolorstyle_standard' id='list-6710'>
+
+	<a href='/list/hottest-male-disney-character/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/6710/quiz-which-disney-prince-is-your-true-love-1-28264-1388941313-0_big.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Hottest Male Disney Character</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_lifestyle_standard catcolorstyle_standard' id='list-6619'>
+
+	<a href='/list/best-pub-in-tonbridge/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/6619/oldchequers.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Pub in Tonbridge</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_lifestyle_standard catcolorstyle_standard' id='list-6489'>
+
+	<a href='/list/celebrations-vs-heroes/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/6489/a9cumrucaaacbcx.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Celebrations Vs Heroes</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-5862'>
+
+	<a href='/list/best-late-night-talk-show-host/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/5862/president_barack_obama_with_david_letterman_09-21-09.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Late-Night Talk Show Host</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-5691'>
+
+	<a href='/list/favourite-looney-tunes-character/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/5691/looney_tunes_careta.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Favourite Looney Tunes Character</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-5380'>
+
+	<a href='/list/best-family-guy-character/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/5380/griffin_family.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Family Guy Character</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-5356'>
+
+	<a href='/list/favourite-dr-seuss-book/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/5356/how_the_grinch_stole_christmas_cover.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Favourite Dr. Seuss Book</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_lifestyle_standard catcolorstyle_standard' id='list-5310'>
+
+	<a href='/list/favourite-board-game/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/5310/flickr_-_official_u_s__navy_imagery_-_sailors_play_board_games_with_children_at_the_cameron_community_ministries_during_rochester_navy_week.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Favourite Board Game</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_lifestyle_standard catcolorstyle_standard' id='list-5248'>
+
+	<a href='/list/favourite-vlogger/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/5248/zoe_sugg_by_gage_skidmore.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Favourite YouTuber</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_lifestyle_standard catcolorstyle_standard' id='list-4679'>
+
+	<a href='/list/best-best/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/4679/george_best_1976.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Bestest Best</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_lifestyle_standard catcolorstyle_standard' id='list-4664'>
+
+	<a href='/list/greatest-great/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/4664/the_great_wall_of_china_at_jinshanling-edit.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest Great</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_lifestyle_standard catcolorstyle_standard' id='list-4637'>
+
+	<a href='/list/top-tops/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/4637/top_trumpslogo.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Top Top</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-4330'>
+
+	<a href='/list/best-british-sitcom/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/4330/onlyfools_del_fall.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best British Sitcom</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-4290'>
+
+	<a href='/list/best-us-sitcom/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/4290/11103892_f57d05a21e.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best US Sitcom</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_lifestyle_standard catcolorstyle_standard' id='list-4134'>
+
+	<a href='/list/best-snl-cast-member/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/4134/snl_original_cast.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best SNL Cast Member</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-3726'>
+
+	<a href='/list/best-vampire-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/3726/bela_lugosi_as_dracula-2.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Vampire Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-3696'>
+
+	<a href='/list/best-zombie-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/3696/zombies_nightofthelivingdead.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Zombie Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+									</div>
+			</div>	
+						<div class="column"><div class='pagination-centered'><ul class='pagination'><li class='MarkupPagerNavPrevious MarkupPagerNavFirst'><a href='/list/best-mythical-creature/'><span><<</span></a></li><li class='MarkupPagerNavFirstNum'><a href='/list/best-mythical-creature/'><span>1</span></a></li><li class='current'><a href='/list/best-mythical-creature/page2'><span>2</span></a></li><li class='MarkupPagerNavLastNum'><a href='/list/best-mythical-creature/page3'><span>3</span></a></li><li class='MarkupPagerNavNext MarkupPagerNavLast'><a href='/list/best-mythical-creature/page3'><span>>></span></a></li></ul></div></div>	</div>
+</div></div>
+
+</div> <!--ng-controller-->
+<footer class="ccolour_base">
+
+<div class="row">
+	<div class="medium-4 medium-push-8 columns">
+		<ul class="footer-social">
+			<li>
+				<a href="" class="xxx" style="opacity: 0 !important"></a>
+			</li>
+			<li>
+				<a href="" class="xxx" style="opacity: 0 !important"></a>
+			</li>
+			<!-- <li><a href="/about" class="mail"></a></li> -->
+		</ul>
+	</div>
+	<div class="medium-8 medium-pull-4 columns">		
+	</div>
+</div>
+
+</footer>
+<script>
+flowtype(document.body.querySelector('#stack-container'), {
+   minimum   : 0,
+   maximum   : 600,
+   minFont   : 1,
+   maxFont   : 50,
+   fontRatio : 14,
+   lineRatio : 1.45
+});	
+flowtype(document.body.querySelector('#gamemessage-container'), {
+   minimum   : 0,
+   maximum   : 600,
+   minFont   : 1,
+   maxFont   : 50,
+   fontRatio : 14,
+   lineRatio : 1.45
+});	
+</script>
+</body>
+</html>

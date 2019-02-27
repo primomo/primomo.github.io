@@ -1,0 +1,378 @@
+<!DOCTYPE html>
+<!--[if IE 9]><html class="lt-ie10" lang="en" > <![endif]-->
+<html class="no-js" lang="en" itemscope itemtype="http://schema.org/ItemList">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+	<style type="text/css">@charset "UTF-8";[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {display: none !important;}</style>	
+	<link rel="canonical" href="">
+	
+		
+	
+	<!-- Meta -->
+	<title>Favourite Zoo Animal - Primomo</title>
+	<meta name="description" content="What is Your Favourite Zoo Animal? Lion? Zebra? Penguin? Monkey? Giraffe? Elephant? Tiger? Gorilla? Giant Panda? Meerkat? Polar Bear? Hippopotamus? Flamingo? Crocodile? Sloth? Rhinoceros? Ring-Tailed Lemur? Chimpanzee? Kangaroo? Wolf? " />
+	<!-- Schema -->
+	<meta itemprop="name" content="Favourite Zoo Animal">
+	<meta itemprop="description" content="What is Your Favourite Zoo Animal? Lion? Zebra? Penguin? Monkey? Giraffe? Elephant? Tiger? Gorilla? Giant Panda? Meerkat? Polar Bear? Hippopotamus? Flamingo? Crocodile? Sloth? Rhinoceros? Ring-Tailed Lemur? Chimpanzee? Kangaroo? Wolf? "> 
+	<meta itemprop="image" content=""> 
+	 <meta itemprop="itemListOrder" content="Descending" /> 	<!-- Twitter -->
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:site" content="@playprimomo">
+	<meta name="twitter:title" content="Favourite Zoo Animal">
+	<meta name="twitter:description" content="What is Your Favourite Zoo Animal? Lion? Zebra? Penguin? Monkey? Giraffe? Elephant? Tiger? Gorilla? Giant Panda? Meerkat? Polar Bear? Hippopotamus? Flamingo? Crocodile? Sloth? Rhinoceros? Ring-Tailed Lemur? Chimpanzee? Kangaroo? Wolf? "> 
+	<meta name="twitter:creator" content="@playprimomo">
+	<meta name="twitter:image:src" content=""> 
+	<!-- Open Graph -->
+	<meta property="og:title" content="Favourite Zoo Animal" />
+	<meta property="og:type" content="article" /> 
+	<meta property="og:url" content="" /> 
+	<meta property="og:image" content=""> 
+	<meta property="og:image:width" content="500"> 
+	<meta property="og:image:height" content="300"> 
+	<meta property="og:description" content="What is Your Favourite Zoo Animal? Lion? Zebra? Penguin? Monkey? Giraffe? Elephant? Tiger? Gorilla? Giant Panda? Meerkat? Polar Bear? Hippopotamus? Flamingo? Crocodile? Sloth? Rhinoceros? Ring-Tailed Lemur? Chimpanzee? Kangaroo? Wolf? " /> 
+	<meta property="og:site_name" content="Primomo" />
+	<meta property="article:section" content="Animals" />  
+	<meta property="article:tag" content="Zoo, Africa , San Diego , London" />  
+	<meta property="fb:admins" content="690322552, 598310032" />	
+
+	<link rel="stylesheet" href="/site/templates/components/normalize/normalize.min.css" />
+	<link rel="stylesheet" href="/site/templates/components/foundation/foundation.min.css" />
+	<link rel="stylesheet" href="/site/templates/components/animate-scss/animate.min.css" />
+
+	<script src="/site/templates/components/angular/angular.min.js"></script>
+	<script src="/site/templates/components/angular/angular-touch.min.js"></script>
+	<script src="/site/templates/components/angular-foundation/mm-foundation-tpls-0.8.0.min.js"></script>
+	<script src="/site/templates/components/modernizr.js"></script>
+	<script src="/site/templates/components/fastclick.js"></script>
+	
+	<script src="/site/templates/components/ng-FitText.js"></script>
+	<script src="/site/templates/components/flowtype.min.js"></script>
+	<script src="/site/templates/scripts/angular-swing.min.js"></script>
+	<script src="/site/templates/scripts/angular-equalizer.min.js"></script>
+	<script src="/site/templates/scripts/primomo.min.js"></script>
+	
+	<link rel="stylesheet" href="/site/templates/styles/primomo.min.css?" />
+	
+	<style class="game-colour">
+/* ccolour_base - base */
+.ccolour_base { background: #9B2C6F}
+.ccolour_base-border { border-color: #9B2C6F}
+.ccolour_base-text { color: #9B2C6F}
+/* ccolour_d1 - darker 1 */
+.ccolour_d1 { background: #8b2764}
+.ccolour_d1-border { border-color: #8b2764}
+.ccolour_d1-text { color: #8b2764}
+/* ccolour_d2 - darker 2 */
+.ccolour_d2 { background: #7b2358}
+.ccolour_d2-border { border-color: #7b2358}
+.ccolour_d2-text { color: #7b2358}
+/* ccolour_d3 - darker 3 */
+.ccolour_d3 { background: #6b1e4d}
+.ccolour_d3-border { border-color: #6b1e4d}
+.ccolour_d3-text { color: #6b1e4d}
+/* ccolour_l1 - lighter 1 */
+.ccolour_l1, {background: #b33380}
+.ccolour_l1-border { border-color: #b33380}
+.ccolour_l1-text { color: #b33380}
+/* Colour Styles */
+body, #viewport, .page-wrap:before {
+	background: #9B2C6F	}
+.top-bar-section ul li, .top-bar-section li:not(.has-form) a:not(.button), .top-bar-section .has-form {
+	background: none;
+	}
+.top-bar-section li:not(.has-form) a:not(.button):hover, .top-bar-section ul li:hover:not(.has-form) > a, .top-bar-section .dropdown li:not(.has-form):not(.active) > a:not(.button) {
+	background: #7b2358	}
+html.touch .top-bar-section li.has-dropdown a:hover {
+	background:none;
+	}
+html.touch .top-bar-section li.has-dropdown.not-click a:hover {
+	background:#7b2358;
+	}
+.top-bar-section .dropdown li:not(.has-form):not(.active):hover > a:not(.button) {
+	background: #6b1e4d	}
+.top-bar, .fixednav, .top-bar .title-area, .top-bar.expanded .title-area {
+	background: #8b2764	}	
+.top-bar input[type="text"] {
+	border-color: #8b2764	}
+.accordian-percent {
+	background: #7b2358	}
+.results-header h3 {
+    color: #7b2358	}
+.sidebar-tags h4, .sidebar-cats h4 {
+    color: #7b2358	}	
+h3.section-header, h3.section-header a  {
+    color: #6b1e4d	}	
+h3.section-header a:hover  {
+    color: #7b2358	}		
+/* Medium and Up Only */	
+@media only screen and (min-width: 720px) {
+	.top-bar-section li.active:not(.has-form) a:not(.button) {
+		background: #8b2764		}
+	.top-bar-section li.active:not(.has-form) a:not(.button):hover {
+		background: #7b2358		}
+	.top-bar-section .dropdown li.active:not(.has-form) a:not(.button) {
+		background: #7b2358		}
+	.top-bar-section .dropdown li.active:not(.has-form) a:not(.button):hover {
+		background: #6b1e4d		}		
+	}
+/* Small Only */	
+@media only screen and (max-width: 719px) {
+	.top-bar-section ul li, .top-bar-section .has-form {
+		background: #7b2358		}
+	.top-bar-section li:not(.has-form) a:not(.button):hover, .top-bar-section ul li:hover:not(.has-form) > a {
+		background: #6b1e4d		}
+	}
+</style>
+<style class="cat-colours">
+.catcolour_sport_standard{background:#1FA464;}.catcolour_sport_inverted *{color:#1FA464 !important;}.catcolour_entertainment_standard{background:#B03232;}.catcolour_entertainment_inverted *{color:#B03232 !important;}.catcolour_lifestyle_standard{background:#9B2C6F;}.catcolour_lifestyle_inverted *{color:#9B2C6F !important;}	
+</style>	<link href='https://fonts.googleapis.com/css?family=Comfortaa:300,400,700' rel='stylesheet' type='text/css'>
+	</head>	
+<body class='template-list'
+ng-app="primomoApp">
+
+<div><div ng-init="deckArray=[{name:'Lion', subtitle:'', image:'/site/assets/files/11762/640px-lions_family_portrait_masai_mara.300x300.jpg', copyright:'By Benh LIEU SONG (Own work) [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons', plays:28, wins:15, gamePlays:0, gameWins:0, cardPageId:11762},{name:'Zebra', subtitle:'', image:'/site/assets/files/11763/320px-plains_zebra_equus_quagga.300x300.jpg', copyright:'By Muhammad Mahdi Karim (www.micro2macro.net) Facebook Youtube (Own work) [GFDL 1.2 (http://www.gnu.org/licenses/old-licenses/fdl-1.2.html)], via Wikimedia Commons', plays:23, wins:10, gamePlays:0, gameWins:0, cardPageId:11763},{name:'Penguin', subtitle:'', image:'/site/assets/files/11764/517px-penguins_walking_-moltke_harbour_2c_south_georgia_2c_british_overseas_territory_2c_uk-8.300x300.jpg', copyright:'By Liam Quinn from Canada [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons', plays:24, wins:11, gamePlays:0, gameWins:0, cardPageId:11764},{name:'Monkey', subtitle:'', image:'/site/assets/files/11765/360px-cute_monkey_cropped.300x300.jpg', copyright:'Augustus Binu [CC BY-SA 4.0 (http://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons', plays:20, wins:8, gamePlays:0, gameWins:0, cardPageId:11765},{name:'Giraffe', subtitle:'', image:'/site/assets/files/11766/640px-giraffe_ithala_kzn_south_africa_luca_galuzzi_2004.300x300.jpg', copyright:'By Luca Galuzzi (Lucag) [CC BY-SA 2.5 (http://creativecommons.org/licenses/by-sa/2.5)], via Wikimedia Commons', plays:30, wins:18, gamePlays:0, gameWins:0, cardPageId:11766},{name:'Elephant', subtitle:'', image:'/site/assets/files/11768/african_forest_elephant.300x300.jpg', copyright:'By Peter H. Wrege (Own work) [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0) or GFDL (http://www.gnu.org/copyleft/fdl.html)], via Wikimedia Commons', plays:45, wins:35, gamePlays:0, gameWins:0, cardPageId:11768},{name:'Tiger', subtitle:'', image:'/site/assets/files/11769/panthera_tigris_corbetti_28tierpark_berlin_29_832-714-_28118_29.300x300.jpg', copyright:'By Lotse (Own work) [GFDL (http://www.gnu.org/copyleft/fdl.html) or CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons', plays:45, wins:34, gamePlays:0, gameWins:0, cardPageId:11769},{name:'Gorilla', subtitle:'', image:'/site/assets/files/11770/gorilla_gorilla11.300x300.jpg', copyright:'By Pierre Fidenci ([1]) [CC BY-SA 2.5 (http://creativecommons.org/licenses/by-sa/2.5) or CC BY-SA 2.5 (http://creativecommons.org/licenses/by-sa/2.5)], via Wikimedia Commons', plays:23, wins:10, gamePlays:0, gameWins:0, cardPageId:11770},{name:'Giant Panda', subtitle:'', image:'/site/assets/files/11771/320px-grosser_panda.300x300.jpg', copyright:'By J. Patrick Fischer (Own work) [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons', plays:20, wins:7, gamePlays:0, gameWins:0, cardPageId:11771},{name:'Meerkat', subtitle:'', image:'/site/assets/files/11772/320px-meerkat_28suricata_suricatta_29_tswalu.300x300.jpg', copyright:'By Charlesjsharp (Own work, from Sharp Photography, sharpphotography) [CC BY-SA 4.0 (http://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons', plays:18, wins:5, gamePlays:0, gameWins:0, cardPageId:11772},{name:'Polar Bear', subtitle:'', image:'/site/assets/files/11773/polar_bear_-_alaska_28cropped_29.300x300.jpg', copyright:'By Alan Wilson (www.naturespicsonline.com: [1]) [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons', plays:16, wins:3, gamePlays:0, gameWins:0, cardPageId:11773},{name:'Hippopotamus', subtitle:'', image:'/site/assets/files/11774/320px-hippo_at_dawn.300x300.jpg', copyright:'By Gusjer (Hippo at dawn. Chobe National Park) [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons', plays:20, wins:7, gamePlays:0, gameWins:0, cardPageId:11774},{name:'Flamingo', subtitle:'', image:'/site/assets/files/11775/320px-flamingos_laguna_colorada.300x300.jpg', copyright:'By [ Valdiney Pimenta] (Own work by uploader) [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons', plays:18, wins:6, gamePlays:0, gameWins:0, cardPageId:11775},{name:'Crocodile', subtitle:'', image:'/site/assets/files/11776/320px-crocodylus_mindorensis_basking_on_a_rock_in_the_disulap_river_2c_barangay_disulap_-_zookeys-266-001-g102.300x300.jpg', copyright:'By Brown R, Siler C, Oliveros C, Welton L, Rock A, Swab J, Van Weerd M, van Beijnen J, Rodriguez D, Jose E, Diesmos A [CC BY 3.0 (http://creativecommons.org/licenses/by/3.0)], via Wikimedia Commons', plays:31, wins:19, gamePlays:0, gameWins:0, cardPageId:11776},{name:'Sloth', subtitle:'', image:'/site/assets/files/11777/360px-bradypus.300x300.jpg', copyright:'Tauchgurke [Public domain], via Wikimedia Commons', plays:19, wins:7, gamePlays:0, gameWins:0, cardPageId:11777},{name:'Rhinoceros', subtitle:'', image:'/site/assets/files/11778/waterberg_nashorn2.300x300.jpg', copyright:'By Ikiwaner (Own work) [GFDL 1.2 (http://www.gnu.org/licenses/old-licenses/fdl-1.2.html)], via Wikimedia Commons', plays:23, wins:10, gamePlays:0, gameWins:0, cardPageId:11778},{name:'Ring-Tailed Lemur', subtitle:'', image:'/site/assets/files/11779/ringtailed_lemurs.300x300.jpg', copyright:'https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Ringtailed_lemurs.jpg/320px-Ringtailed_lemurs.jpg', plays:19, wins:6, gamePlays:0, gameWins:0, cardPageId:11779},{name:'Chimpanzee', subtitle:'', image:'/site/assets/files/11780/320px-schimpanse_zoo_leipzig.300x300.jpg', copyright:'By Thomas Lersch (Own work) [GFDL (http://www.gnu.org/copyleft/fdl.html), CC-BY-SA-3.0 (http://creativecommons.org/licenses/by-sa/3.0/) or CC BY 2.5 (http://creativecommons.org/licenses/by/2.5)], via Wikimedia Commons', plays:30, wins:18, gamePlays:0, gameWins:0, cardPageId:11780},{name:'Kangaroo', subtitle:'', image:'/site/assets/files/11781/320px-kangaroo_and_joey03.300x300.jpg', copyright:'By Taken by fir0002 | flagstaffotos.com.au Canon 20D + Canon 70-200mm f/2.8 L (Own work) [GFDL 1.2 (http://www.gnu.org/licenses/old-licenses/fdl-1.2.html)], via Wikimedia Commons', plays:15, wins:2, gamePlays:0, gameWins:0, cardPageId:11781},{name:'Wolf', subtitle:'', image:'/site/assets/files/11782/243px-howlsnow.300x300.jpg', copyright:'By Retron (self-made now) [Public domain], via Wikimedia Commons', plays:26, wins:15, gamePlays:0, gameWins:0, cardPageId:11782},]; gameArray=[{title:'Favourite Zoo Animal', interrogative:'What is', possessive:'Your ', possessiveAlt:'My ', subject:'Favourite Zoo Animal', summary:'What is Your Favourite Zoo Animal?'}]; pageId=11761;"></div></div>
+
+<div ng-controller="primomoController" class="page-wrap">
+
+<div class="fixednav">
+	<div class="row topbar-container">
+		<top-bar id="top-menu" class="top-bar top-menu" mobile-show-parent-link="true" is-hover="false">
+			<ul class="title-area">
+				<li class="name">
+					<h1><a href="/"><img class="primomo-logo" src="/site/templates/images/primomologotext.svg"><span></span></a></h1>
+				</li>
+				<li toggle-top-bar onclick="document.getElementById('top-search').classList.remove('expanded')" class="toggle-topbar toggle-topbar-main menu-icon"><a href=""><span></span></a></li>
+			</ul>
+			<top-bar-section ng-cloakx>
+				<ul class="right">
+					
+					
+<ul class="primenu">
+	<li>
+		<a href='/categories/entertainment/'>Entertainment</a>
+	</li>
+	<li>
+		<a href='/categories/sport/'>Sport</a>
+	</li>
+	<li>
+		<a href='/categories/lifestyle/'>Lifestyle</a>
+	</li>
+</ul>					
+					<li has-dropdown class="primenu-hasdropdown">
+						<a>More</a>
+						<ul top-bar-dropdown ng-cloak>
+							
+<ul class="more-menu">
+	<li>
+		<a href='/categories/entertainment/tv/'>TV</a>
+	</li>
+	<li>
+		<a href='/categories/lifestyle/people/'>People</a>
+	</li>
+	<li>
+		<a href='/categories/sport/football/'>Football</a>
+	</li>
+	<li>
+		<a href='/categories/lifestyle/food/'>Food</a>
+	</li>
+	<li>
+		<a href='/categories/entertainment/music/'>Music</a>
+	</li>
+	<li>
+		<a href='/categories/entertainment/movies/'>Movies</a>
+	</li>
+	<li>
+		<a href='/categories/'>All Categories</a>
+	</li>
+</ul>						</ul>
+					</li>
+					
+					<ul>
+						<li class="has-form search-form-medium-up">
+						    <div class="row collapse">
+						      <div class="large-12 small-12 columns">
+						        <form id="site-search-form" class="clearfix" action="/search/" method="get">
+									<input type="text" name="q" value="" placeholder="Search">
+								</form>
+						      </div>
+						    </div>
+						</li>
+					</ul>
+					
+				</ul>
+			</top-bar-section>
+		</top-bar>
+		
+		<top-bar id="top-search" class="top-bar top-search show-for-small-only" data-topbar="" style="height: 45px">
+			<ul class="title-area">
+				<li class="name"></li>
+				<li toggle-top-bar onclick="document.getElementById('top-menu').classList.remove('expanded')" class="toggle-topbar toggle-topbar-search menu-icon"><a href=""><span></span></a></li>
+			</ul>
+			<top-bar-section ng-cloak>
+				<ul>
+				  <li class="has-form search-form-small-only">
+				    <div class="row collapse">
+				      <div class="large-12 small-12 columns">
+				        <form id="site-search-form" class="clearfix" action="/search/" method="get">
+							<input type="text" name="q" value="" placeholder="Search">
+						</form>
+				      </div>
+				    </div>
+				  </li>
+				</ul>
+			</top-bar-section>
+		</top-bar>
+	</div>
+</div>
+
+
+<div class="row-container ccolour_base main-header">
+	<div class="row">
+		<div class="column">
+			<h2 class="top-header">Favourite Zoo Animal</h2>
+		</div>
+	</div>
+	</div>
+
+<div id="body-wrap">
+	<div class="row-container">
+	<div class="row list-grid-row" id="sectionid1">
+		<div class="column">
+			<h3 class="left section-header">Related Lists</a></h3>
+				
+		</div>
+		
+		
+			<div class="column list-grid">
+				<div equalizer class="row">
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_sport_standard catcolorstyle_standard' id='list-1769'>
+
+	<a href='/list/greatest-arsenal-player/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/1769/greatest-arsenal-player-hp946j4e.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest Arsenal Player</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_sport_standard catcolorstyle_standard' id='list-1741'>
+
+	<a href='/list/greatest-spurs-player/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/1741/greatest-spurs-player-w2v9jkpn.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest Spurs Player</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_sport_standard catcolorstyle_standard' id='list-1670'>
+
+	<a href='/list/greatest-chelsea-player/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/1670/greatest-chelsea-player-akaqvfse.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest Chelsea Player</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_sport_standard catcolorstyle_standard' id='list-1620'>
+
+	<a href='/list/greatest-female-tennis-player/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/1620/greatest-female-tennis-player-qpbowbhi.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest Female Tennis Player</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_sport_standard catcolorstyle_standard' id='list-1588'>
+
+	<a href='/list/greatest-male-tennis-player/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/1588/greatest-male-tennis-player-dv0h4rop.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest Male Tennis Player</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+									</div>
+			</div>	
+						<div class="column"><div class='pagination-centered'><ul class='pagination'><li class='MarkupPagerNavPrevious MarkupPagerNavFirst'><a href='/list/favourite-zoo-animal/'><span><<</span></a></li><li class='MarkupPagerNavFirstNum'><a href='/list/favourite-zoo-animal/'><span>1</span></a></li><li class='current MarkupPagerNavLast MarkupPagerNavLastNum'><a href='/list/favourite-zoo-animal/page2'><span>2</span></a></li></ul></div></div>	</div>
+</div></div>
+
+</div> <!--ng-controller-->
+<footer class="ccolour_base">
+
+<div class="row">
+	<div class="medium-4 medium-push-8 columns">
+		<ul class="footer-social">
+			<li>
+				<a href="" class="xxx" style="opacity: 0 !important"></a>
+			</li>
+			<li>
+				<a href="" class="xxx" style="opacity: 0 !important"></a>
+			</li>
+			<!-- <li><a href="/about" class="mail"></a></li> -->
+		</ul>
+	</div>
+	<div class="medium-8 medium-pull-4 columns">		
+	</div>
+</div>
+
+</footer>
+<script>
+flowtype(document.body.querySelector('#stack-container'), {
+   minimum   : 0,
+   maximum   : 600,
+   minFont   : 1,
+   maxFont   : 50,
+   fontRatio : 14,
+   lineRatio : 1.45
+});	
+flowtype(document.body.querySelector('#gamemessage-container'), {
+   minimum   : 0,
+   maximum   : 600,
+   minFont   : 1,
+   maxFont   : 50,
+   fontRatio : 14,
+   lineRatio : 1.45
+});	
+</script>
+</body>
+</html>

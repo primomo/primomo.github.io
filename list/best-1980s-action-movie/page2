@@ -1,0 +1,701 @@
+<!DOCTYPE html>
+<!--[if IE 9]><html class="lt-ie10" lang="en" > <![endif]-->
+<html class="no-js" lang="en" itemscope itemtype="http://schema.org/ItemList">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+	<style type="text/css">@charset "UTF-8";[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {display: none !important;}</style>	
+	<link rel="canonical" href="">
+	
+		
+	
+	<!-- Meta -->
+	<title>Best 1980's Action Movie - Primomo</title>
+	<meta name="description" content="Willis, Gibson, Stallone, Schwarzenegger, Action was great during the 1980\'s, but which is the Best Action Movie from this decades? RoboCop? Die Hard? Predator? Lethal Weapon? First Blood? Aliens? The Running Man? Mad Max 2? Missing in Action? Police Story 2? The Terminator? A Better Tomorrow? Death Wish II? Commando? Project A? The Exterminator? Conan the Barbarian? Flash Gordon? Raiders of the Lost Ark? For Your Eyes Only? " />
+	<!-- Schema -->
+	<meta itemprop="name" content="Best 1980's Action Movie">
+	<meta itemprop="description" content="Willis, Gibson, Stallone, Schwarzenegger, Action was great during the 1980\'s, but which is the Best Action Movie from this decades? RoboCop? Die Hard? Predator? Lethal Weapon? First Blood? Aliens? The Running Man? Mad Max 2? Missing in Action? Police Story 2? The Terminator? A Better Tomorrow? Death Wish II? Commando? Project A? The Exterminator? Conan the Barbarian? Flash Gordon? Raiders of the Lost Ark? For Your Eyes Only? "> 
+	<meta itemprop="image" content=""> 
+	 <meta itemprop="itemListOrder" content="Descending" /> 	<!-- Twitter -->
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:site" content="@playprimomo">
+	<meta name="twitter:title" content="Best 1980's Action Movie">
+	<meta name="twitter:description" content="Willis, Gibson, Stallone, Schwarzenegger, Action was great during the 1980\'s, but which is the Best Action Movie from this decades? RoboCop? Die Hard? Predator? Lethal Weapon? First Blood? Aliens? The Running Man? Mad Max 2? Missing in Action? Police Story 2? The Terminator? A Better Tomorrow? Death Wish II? Commando? Project A? The Exterminator? Conan the Barbarian? Flash Gordon? Raiders of the Lost Ark? For Your Eyes Only? "> 
+	<meta name="twitter:creator" content="@playprimomo">
+	<meta name="twitter:image:src" content=""> 
+	<!-- Open Graph -->
+	<meta property="og:title" content="Best 1980's Action Movie" />
+	<meta property="og:type" content="article" /> 
+	<meta property="og:url" content="" /> 
+	<meta property="og:image" content=""> 
+	<meta property="og:image:width" content="500"> 
+	<meta property="og:image:height" content="300"> 
+	<meta property="og:description" content="Willis, Gibson, Stallone, Schwarzenegger, Action was great during the 1980\'s, but which is the Best Action Movie from this decades? RoboCop? Die Hard? Predator? Lethal Weapon? First Blood? Aliens? The Running Man? Mad Max 2? Missing in Action? Police Story 2? The Terminator? A Better Tomorrow? Death Wish II? Commando? Project A? The Exterminator? Conan the Barbarian? Flash Gordon? Raiders of the Lost Ark? For Your Eyes Only? " /> 
+	<meta property="og:site_name" content="Primomo" />
+	<meta property="article:section" content="Movies" />  
+	<meta property="article:tag" content="Action, 1980s, Bruce Willis, Arnold Schwarzenegger, Mel Gibson, Sylvester Stallone, James Cameron, Sigourney Weaver, Chuck Norris, Jackie Chan, Charles Bronson, Timothy Dalton, Brian Blessed, Queen, Freddie Mercury, Steven Spielberg, George Lucas, Harrison Ford, James Bond, Roger Moore" />  
+	<meta property="fb:admins" content="690322552, 598310032" />	
+
+	<link rel="stylesheet" href="/site/templates/components/normalize/normalize.min.css" />
+	<link rel="stylesheet" href="/site/templates/components/foundation/foundation.min.css" />
+	<link rel="stylesheet" href="/site/templates/components/animate-scss/animate.min.css" />
+
+	<script src="/site/templates/components/angular/angular.min.js"></script>
+	<script src="/site/templates/components/angular/angular-touch.min.js"></script>
+	<script src="/site/templates/components/angular-foundation/mm-foundation-tpls-0.8.0.min.js"></script>
+	<script src="/site/templates/components/modernizr.js"></script>
+	<script src="/site/templates/components/fastclick.js"></script>
+	
+	<script src="/site/templates/components/ng-FitText.js"></script>
+	<script src="/site/templates/components/flowtype.min.js"></script>
+	<script src="/site/templates/scripts/angular-swing.min.js"></script>
+	<script src="/site/templates/scripts/angular-equalizer.min.js"></script>
+	<script src="/site/templates/scripts/primomo.min.js"></script>
+	
+	<link rel="stylesheet" href="/site/templates/styles/primomo.min.css?" />
+	
+	<style class="game-colour">
+/* ccolour_base - base */
+.ccolour_base { background: #B03232}
+.ccolour_base-border { border-color: #B03232}
+.ccolour_base-text { color: #B03232}
+/* ccolour_d1 - darker 1 */
+.ccolour_d1 { background: #a02d2d}
+.ccolour_d1-border { border-color: #a02d2d}
+.ccolour_d1-text { color: #a02d2d}
+/* ccolour_d2 - darker 2 */
+.ccolour_d2 { background: #902929}
+.ccolour_d2-border { border-color: #902929}
+.ccolour_d2-text { color: #902929}
+/* ccolour_d3 - darker 3 */
+.ccolour_d3 { background: #802424}
+.ccolour_d3-border { border-color: #802424}
+.ccolour_d3-text { color: #802424}
+/* ccolour_l1 - lighter 1 */
+.ccolour_l1, {background: #c73a3a}
+.ccolour_l1-border { border-color: #c73a3a}
+.ccolour_l1-text { color: #c73a3a}
+/* Colour Styles */
+body, #viewport, .page-wrap:before {
+	background: #B03232	}
+.top-bar-section ul li, .top-bar-section li:not(.has-form) a:not(.button), .top-bar-section .has-form {
+	background: none;
+	}
+.top-bar-section li:not(.has-form) a:not(.button):hover, .top-bar-section ul li:hover:not(.has-form) > a, .top-bar-section .dropdown li:not(.has-form):not(.active) > a:not(.button) {
+	background: #902929	}
+html.touch .top-bar-section li.has-dropdown a:hover {
+	background:none;
+	}
+html.touch .top-bar-section li.has-dropdown.not-click a:hover {
+	background:#902929;
+	}
+.top-bar-section .dropdown li:not(.has-form):not(.active):hover > a:not(.button) {
+	background: #802424	}
+.top-bar, .fixednav, .top-bar .title-area, .top-bar.expanded .title-area {
+	background: #a02d2d	}	
+.top-bar input[type="text"] {
+	border-color: #a02d2d	}
+.accordian-percent {
+	background: #902929	}
+.results-header h3 {
+    color: #902929	}
+.sidebar-tags h4, .sidebar-cats h4 {
+    color: #902929	}	
+h3.section-header, h3.section-header a  {
+    color: #802424	}	
+h3.section-header a:hover  {
+    color: #902929	}		
+/* Medium and Up Only */	
+@media only screen and (min-width: 720px) {
+	.top-bar-section li.active:not(.has-form) a:not(.button) {
+		background: #a02d2d		}
+	.top-bar-section li.active:not(.has-form) a:not(.button):hover {
+		background: #902929		}
+	.top-bar-section .dropdown li.active:not(.has-form) a:not(.button) {
+		background: #902929		}
+	.top-bar-section .dropdown li.active:not(.has-form) a:not(.button):hover {
+		background: #802424		}		
+	}
+/* Small Only */	
+@media only screen and (max-width: 719px) {
+	.top-bar-section ul li, .top-bar-section .has-form {
+		background: #902929		}
+	.top-bar-section li:not(.has-form) a:not(.button):hover, .top-bar-section ul li:hover:not(.has-form) > a {
+		background: #802424		}
+	}
+</style>
+<style class="cat-colours">
+.catcolour_sport_standard{background:#1FA464;}.catcolour_sport_inverted *{color:#1FA464 !important;}.catcolour_entertainment_standard{background:#B03232;}.catcolour_entertainment_inverted *{color:#B03232 !important;}.catcolour_lifestyle_standard{background:#9B2C6F;}.catcolour_lifestyle_inverted *{color:#9B2C6F !important;}	
+</style>	<link href='https://fonts.googleapis.com/css?family=Comfortaa:300,400,700' rel='stylesheet' type='text/css'>
+	</head>	
+<body class='template-list'
+ng-app="primomoApp">
+
+<div><div ng-init="deckArray=[{name:'RoboCop', subtitle:'', image:'/site/assets/files/2135/robocop-jksya3zg.300x300.jpg', copyright:'Fair use - This image&amp;#039;s copyright is believed to belong to distributor, publisher or creator.', plays:55, wins:28, gamePlays:0, gameWins:0, cardPageId:2135},{name:'Die Hard', subtitle:'', image:'/site/assets/files/2136/die_hard-v1433753411.300x300.jpg', copyright:'Fair use - This image&amp;#039;s copyright is believed to belong to distributor, publisher or creator.', plays:66, wins:41, gamePlays:0, gameWins:0, cardPageId:2136},{name:'Predator', subtitle:'', image:'/site/assets/files/2137/predator_movie.300x300.jpg', copyright:'Fair use - This image&amp;#039;s copyright is believed to belong to distributor, publisher or creator.', plays:51, wins:24, gamePlays:0, gameWins:0, cardPageId:2137},{name:'Lethal Weapon', subtitle:'', image:'/site/assets/files/2138/lethal_weapon1-v1433753633.300x300.jpg', copyright:'Fair use - This image&amp;#039;s copyright is believed to belong to distributor, publisher or creator.', plays:96, wins:75, gamePlays:0, gameWins:0, cardPageId:2138},{name:'First Blood', subtitle:'', image:'/site/assets/files/2139/first_blood_poster.300x300.jpg', copyright:'Fair use - This image&amp;#039;s copyright is believed to belong to distributor, publisher or creator.', plays:67, wins:40, gamePlays:0, gameWins:0, cardPageId:2139},{name:'Aliens', subtitle:'', image:'/site/assets/files/2140/aliens_poster.300x300.jpg', copyright:'Fair use - This image&amp;#039;s copyright is believed to belong to distributor, publisher or creator.', plays:71, wins:47, gamePlays:0, gameWins:0, cardPageId:2140},{name:'The Running Man', subtitle:'', image:'/site/assets/files/2141/running_man_theatrical_poster-v1433753900.300x300.jpg', copyright:'Fair use - This image&amp;#039;s copyright is believed to belong to distributor, publisher or creator.', plays:53, wins:25, gamePlays:0, gameWins:0, cardPageId:2141},{name:'Mad Max 2', subtitle:'', image:'/site/assets/files/2142/mad_max_two_the_road_warrior.300x300.jpg', copyright:'Fair use - This image&amp;#039;s copyright is believed to belong to distributor, publisher or creator.', plays:41, wins:13, gamePlays:0, gameWins:0, cardPageId:2142},{name:'Missing in Action', subtitle:'', image:'/site/assets/files/2143/missing_in_action_28film_poster_29.300x300.jpg', copyright:'Fair use - This image&amp;#039;s copyright is believed to belong to distributor, publisher or creator.', plays:40, wins:13, gamePlays:0, gameWins:0, cardPageId:2143},{name:'Police Story 2', subtitle:'', image:'/site/assets/files/2144/police-story-2-poster-1.300x300.jpg', copyright:'Fair use - This image&amp;#039;s copyright is believed to belong to distributor, publisher or creator.', plays:41, wins:13, gamePlays:0, gameWins:0, cardPageId:2144},{name:'The Terminator', subtitle:'', image:'/site/assets/files/2145/terminator1984movieposter-v1433754256.300x300.jpg', copyright:'Fair use - This image&amp;#039;s copyright is believed to belong to distributor, publisher or creator.', plays:72, wins:45, gamePlays:0, gameWins:0, cardPageId:2145},{name:'A Better Tomorrow', subtitle:'', image:'/site/assets/files/2146/abettertomorrowposterhk.300x300.jpg', copyright:'Fair use - This image&amp;#039;s copyright is believed to belong to distributor, publisher or creator.', plays:34, wins:6, gamePlays:0, gameWins:0, cardPageId:2146},{name:'Death Wish II', subtitle:'', image:'/site/assets/files/2147/death_wish_ii-v1433754453.300x300.jpg', copyright:'Fair use - This image&amp;#039;s copyright is believed to belong to distributor, publisher or creator.', plays:40, wins:12, gamePlays:0, gameWins:0, cardPageId:2147},{name:'Commando', subtitle:'', image:'/site/assets/files/2148/commandoposter-v1433754562.300x300.jpg', copyright:'Fair use - This image&amp;#039;s copyright is believed to belong to distributor, publisher or creator.', plays:54, wins:28, gamePlays:0, gameWins:0, cardPageId:2148},{name:'Project A', subtitle:'', image:'/site/assets/files/2149/project_a_poster-v1433754656.300x300.jpg', copyright:'Fair use - This image&amp;#039;s copyright is believed to belong to distributor, publisher or creator.', plays:34, wins:7, gamePlays:0, gameWins:0, cardPageId:2149},{name:'The Exterminator', subtitle:'', image:'/site/assets/files/2150/exterminator_ver1.300x300.jpg', copyright:'Fair use - This image&amp;#039;s copyright is believed to belong to distributor, publisher or creator.', plays:40, wins:12, gamePlays:0, gameWins:0, cardPageId:2150},{name:'Conan the Barbarian', subtitle:'', image:'/site/assets/files/2151/conan_the_barbarian_by_renato_casaro-v1433754807.300x300.jpg', copyright:'Fair use - This image&amp;#039;s copyright is believed to belong to distributor, publisher or creator.', plays:45, wins:17, gamePlays:0, gameWins:0, cardPageId:2151},{name:'Flash Gordon', subtitle:'', image:'/site/assets/files/2152/flash_gordon_movie_poster-v1433754934.300x300.jpg', copyright:'Fair use - This image&amp;#039;s copyright is believed to belong to distributor, publisher or creator.', plays:42, wins:16, gamePlays:0, gameWins:0, cardPageId:2152},{name:'Raiders of the Lost Ark', subtitle:'', image:'/site/assets/files/2153/raiders-v1433755084.300x300.jpg', copyright:'Fair use - This image&amp;#039;s copyright is believed to belong to distributor, publisher or creator.', plays:80, wins:55, gamePlays:0, gameWins:0, cardPageId:2153},{name:'For Your Eyes Only', subtitle:'', image:'/site/assets/files/2154/for_your_eyes_only_-_uk_cinema_poster.300x300.jpg', copyright:'Fair use - This image&amp;#039;s copyright is believed to belong to distributor, publisher or creator.', plays:42, wins:15, gamePlays:0, gameWins:0, cardPageId:2154},]; gameArray=[{title:'Best 1980\'s Action Movie', interrogative:'What is', possessive:' ', possessiveAlt:'', subject:'the Best 1980\'s Action Movie', summary:'Willis, Gibson, Stallone, Schwarzenegger, Action was great during the 1980\'s, but which is the Best Action Movie from this decades?'}]; pageId=2134;"></div></div>
+
+<div ng-controller="primomoController" class="page-wrap">
+
+<div class="fixednav">
+	<div class="row topbar-container">
+		<top-bar id="top-menu" class="top-bar top-menu" mobile-show-parent-link="true" is-hover="false">
+			<ul class="title-area">
+				<li class="name">
+					<h1><a href="/"><img class="primomo-logo" src="/site/templates/images/primomologotext.svg"><span></span></a></h1>
+				</li>
+				<li toggle-top-bar onclick="document.getElementById('top-search').classList.remove('expanded')" class="toggle-topbar toggle-topbar-main menu-icon"><a href=""><span></span></a></li>
+			</ul>
+			<top-bar-section ng-cloakx>
+				<ul class="right">
+					
+					
+<ul class="primenu">
+	<li>
+		<a href='/categories/entertainment/'>Entertainment</a>
+	</li>
+	<li>
+		<a href='/categories/sport/'>Sport</a>
+	</li>
+	<li>
+		<a href='/categories/lifestyle/'>Lifestyle</a>
+	</li>
+</ul>					
+					<li has-dropdown class="primenu-hasdropdown">
+						<a>More</a>
+						<ul top-bar-dropdown ng-cloak>
+							
+<ul class="more-menu">
+	<li>
+		<a href='/categories/entertainment/tv/'>TV</a>
+	</li>
+	<li>
+		<a href='/categories/lifestyle/people/'>People</a>
+	</li>
+	<li>
+		<a href='/categories/sport/football/'>Football</a>
+	</li>
+	<li>
+		<a href='/categories/lifestyle/food/'>Food</a>
+	</li>
+	<li>
+		<a href='/categories/entertainment/music/'>Music</a>
+	</li>
+	<li>
+		<a href='/categories/entertainment/movies/'>Movies</a>
+	</li>
+	<li>
+		<a href='/categories/'>All Categories</a>
+	</li>
+</ul>						</ul>
+					</li>
+					
+					<ul>
+						<li class="has-form search-form-medium-up">
+						    <div class="row collapse">
+						      <div class="large-12 small-12 columns">
+						        <form id="site-search-form" class="clearfix" action="/search/" method="get">
+									<input type="text" name="q" value="" placeholder="Search">
+								</form>
+						      </div>
+						    </div>
+						</li>
+					</ul>
+					
+				</ul>
+			</top-bar-section>
+		</top-bar>
+		
+		<top-bar id="top-search" class="top-bar top-search show-for-small-only" data-topbar="" style="height: 45px">
+			<ul class="title-area">
+				<li class="name"></li>
+				<li toggle-top-bar onclick="document.getElementById('top-menu').classList.remove('expanded')" class="toggle-topbar toggle-topbar-search menu-icon"><a href=""><span></span></a></li>
+			</ul>
+			<top-bar-section ng-cloak>
+				<ul>
+				  <li class="has-form search-form-small-only">
+				    <div class="row collapse">
+				      <div class="large-12 small-12 columns">
+				        <form id="site-search-form" class="clearfix" action="/search/" method="get">
+							<input type="text" name="q" value="" placeholder="Search">
+						</form>
+				      </div>
+				    </div>
+				  </li>
+				</ul>
+			</top-bar-section>
+		</top-bar>
+	</div>
+</div>
+
+
+<div class="row-container ccolour_base main-header">
+	<div class="row">
+		<div class="column">
+			<h2 class="top-header">Best 1980's Action Movie</h2>
+		</div>
+	</div>
+	</div>
+
+<div id="body-wrap">
+	<div class="row-container">
+	<div class="row list-grid-row" id="sectionid1">
+		<div class="column">
+			<h3 class="left section-header">Related Lists</a></h3>
+				
+		</div>
+		
+		
+			<div class="column list-grid">
+				<div equalizer class="row">
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_lifestyle_standard catcolorstyle_standard' id='list-13092'>
+
+	<a href='/list/hottest-women-over-60/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/13092/cr2csqewwaeonrh.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Hottest Women Over 60</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-12876'>
+
+	<a href='/list/best-gene-wilder-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/12876/gene_wilder_1970.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Gene Wilder Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-12476'>
+
+	<a href='/list/best-thundercats-character/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/12476/thunder_cats_screen.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Thundercats Character</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-12331'>
+
+	<a href='/list/best-one-hit-wonder/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/12331/tonibasilmickey.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best One Hit Wonder</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-12268'>
+
+	<a href='/list/bands-artists-you-wish-you-saw-live/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/12268/sexpistolsnorway1977.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Band/Artist You Wish You Had Seen Live</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_lifestyle_standard catcolorstyle_standard' id='list-12089'>
+
+	<a href='/list/favourite-jones/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/12089/a-tom-ic_jones-1.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Favourite Jones</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_lifestyle_standard catcolorstyle_standard' id='list-12047'>
+
+	<a href='/list/best-smith/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/12047/nobel_peace_price_concert_2009_will_smith_and_jada_pinkett_smith_with_children2.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Smith</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_lifestyle_standard catcolorstyle_standard' id='list-11923'>
+
+	<a href='/list/favourite-childhood-party-foods/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/11923/img_7848.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Favourite Childhood Party Foods</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-11902'>
+
+	<a href='/list/best-prince-song/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/11902/prince_at_coachella.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Prince Song</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-11821'>
+
+	<a href='/list/best-david-bowie-song/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/11821/david-bowie_chicago_2002-08-08_photoby_adam-bielawski-cropped.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best David Bowie Song</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-11535'>
+
+	<a href='/list/best-80s-cartoon/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/11535/muppetbabiestitle.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best 80s Cartoon</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_lifestyle_standard catcolorstyle_standard' id='list-11470'>
+
+	<a href='/list/best-10p-crisps/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/11470/1416783226001.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best 10p Crisps</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-11449'>
+
+	<a href='/list/best-abba-song/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/11449/abba_-_toppop_1974_5.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best ABBA Song</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_lifestyle_standard catcolorstyle_standard' id='list-11232'>
+
+	<a href='/list/best-ice-creams/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/11232/ice-lollies.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Ice Cream/Lolly</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-11119'>
+
+	<a href='/list/deadliest-warrior-season-1/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/11119/deadliest_warrior_630_17na2ma-17na2mi.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Deadliest Warrior (season 1)</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_lifestyle_standard catcolorstyle_standard' id='list-11043'>
+
+	<a href='/list/packed-lunch-biscuit/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/11043/188630_1.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Favourite Packed Lunch Biscuit</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_lifestyle_standard catcolorstyle_standard' id='list-11022'>
+
+	<a href='/list/favourite-childhood-foods/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/11022/9aa1e2f1-ce75-eade-6b9c1a7e9c64ecb7.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Favourite Childhood Food</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-10837'>
+
+	<a href='/list/greatest-the-smiths-song/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/10837/smithspromophoto_tqid_1985.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest The Smiths Song</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-10552'>
+
+	<a href='/list/greatest-queen-album/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/10552/queenperforming1977.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest Queen Album</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-10527'>
+
+	<a href='/list/best-queen-song/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/10527/bohemian_rhapsody.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Queen Song</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-10188'>
+
+	<a href='/list/best-james-bond-villains/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/10188/19d5cz4vefuipjpg.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best James Bond Villain</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_lifestyle_standard catcolorstyle_standard' id='list-10167'>
+
+	<a href='/list/best-bond-girl/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/10167/bond_girls_collage.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Bond Girl</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-10105'>
+
+	<a href='/list/best-first-person-shooter/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/10105/halo3-gameplay.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best First Person Shooter</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_lifestyle_standard catcolorstyle_standard' id='list-10069'>
+
+	<a href='/list/coolest-cars/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/10069/teamtimecar_com-bttf_delorean_time_machine-otogodfrey_com-jmortonphoto_com-07.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Coolest Cars in Film & TV</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+									</div>
+			</div>	
+						<div class="column"><div class='pagination-centered'><ul class='pagination'><li class='MarkupPagerNavPrevious MarkupPagerNavFirst'><a href='/list/best-1980s-action-movie/'><span><<</span></a></li><li class='MarkupPagerNavFirstNum'><a href='/list/best-1980s-action-movie/'><span>1</span></a></li><li class='current'><a href='/list/best-1980s-action-movie/page2'><span>2</span></a></li><li><a href='/list/best-1980s-action-movie/page3'><span>3</span></a></li><li><a href='/list/best-1980s-action-movie/page4'><span>4</span></a></li><li class='MarkupPagerNavLastNum'><a href='/list/best-1980s-action-movie/page5'><span>5</span></a></li><li class='MarkupPagerNavNext MarkupPagerNavLast'><a href='/list/best-1980s-action-movie/page3'><span>>></span></a></li></ul></div></div>	</div>
+</div></div>
+
+</div> <!--ng-controller-->
+<footer class="ccolour_base">
+
+<div class="row">
+	<div class="medium-4 medium-push-8 columns">
+		<ul class="footer-social">
+			<li>
+				<a href="" class="xxx" style="opacity: 0 !important"></a>
+			</li>
+			<li>
+				<a href="" class="xxx" style="opacity: 0 !important"></a>
+			</li>
+			<!-- <li><a href="/about" class="mail"></a></li> -->
+		</ul>
+	</div>
+	<div class="medium-8 medium-pull-4 columns">		
+	</div>
+</div>
+
+</footer>
+<script>
+flowtype(document.body.querySelector('#stack-container'), {
+   minimum   : 0,
+   maximum   : 600,
+   minFont   : 1,
+   maxFont   : 50,
+   fontRatio : 14,
+   lineRatio : 1.45
+});	
+flowtype(document.body.querySelector('#gamemessage-container'), {
+   minimum   : 0,
+   maximum   : 600,
+   minFont   : 1,
+   maxFont   : 50,
+   fontRatio : 14,
+   lineRatio : 1.45
+});	
+</script>
+</body>
+</html>

@@ -1,0 +1,370 @@
+<!DOCTYPE html>
+<!--[if IE 9]><html class="lt-ie10" lang="en" > <![endif]-->
+<html class="no-js" lang="en" itemscope itemtype="http://schema.org/ItemList">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+	<style type="text/css">@charset "UTF-8";[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {display: none !important;}</style>	
+	<link rel="canonical" href="">
+	
+		
+	
+	<!-- Meta -->
+	<title>Best Harrison Ford Movie - Primomo</title>
+	<meta name="description" content="What is the Best Harrison Ford Movie? Star Wars? Apocalypse Now? The Empire Strikes Back? Raiders of the Lost Ark? Blade Runner? Return of the Jedi? Indiana Jones and the Temple of Doom? Witness? Working Girl? Indiana Jones and the Last Crusade? Patriot Games? The Fugitive? Clear and Present Danger? Air Force One? Six Days Seven Nights? Regarding Henry? What Lies Beneath? American Graffiti? Star Wars: The Force Awakens? " />
+	<!-- Schema -->
+	<meta itemprop="name" content="Best Harrison Ford Movie">
+	<meta itemprop="description" content="What is the Best Harrison Ford Movie? Star Wars? Apocalypse Now? The Empire Strikes Back? Raiders of the Lost Ark? Blade Runner? Return of the Jedi? Indiana Jones and the Temple of Doom? Witness? Working Girl? Indiana Jones and the Last Crusade? Patriot Games? The Fugitive? Clear and Present Danger? Air Force One? Six Days Seven Nights? Regarding Henry? What Lies Beneath? American Graffiti? Star Wars: The Force Awakens? "> 
+	<meta itemprop="image" content=""> 
+	 <meta itemprop="itemListOrder" content="Descending" /> 	<!-- Twitter -->
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:site" content="@playprimomo">
+	<meta name="twitter:title" content="Best Harrison Ford Movie">
+	<meta name="twitter:description" content="What is the Best Harrison Ford Movie? Star Wars? Apocalypse Now? The Empire Strikes Back? Raiders of the Lost Ark? Blade Runner? Return of the Jedi? Indiana Jones and the Temple of Doom? Witness? Working Girl? Indiana Jones and the Last Crusade? Patriot Games? The Fugitive? Clear and Present Danger? Air Force One? Six Days Seven Nights? Regarding Henry? What Lies Beneath? American Graffiti? Star Wars: The Force Awakens? "> 
+	<meta name="twitter:creator" content="@playprimomo">
+	<meta name="twitter:image:src" content=""> 
+	<!-- Open Graph -->
+	<meta property="og:title" content="Best Harrison Ford Movie" />
+	<meta property="og:type" content="article" /> 
+	<meta property="og:url" content="" /> 
+	<meta property="og:image" content=""> 
+	<meta property="og:image:width" content="500"> 
+	<meta property="og:image:height" content="300"> 
+	<meta property="og:description" content="What is the Best Harrison Ford Movie? Star Wars? Apocalypse Now? The Empire Strikes Back? Raiders of the Lost Ark? Blade Runner? Return of the Jedi? Indiana Jones and the Temple of Doom? Witness? Working Girl? Indiana Jones and the Last Crusade? Patriot Games? The Fugitive? Clear and Present Danger? Air Force One? Six Days Seven Nights? Regarding Henry? What Lies Beneath? American Graffiti? Star Wars: The Force Awakens? " /> 
+	<meta property="og:site_name" content="Primomo" />
+	<meta property="article:section" content="Movies" />  
+	<meta property="article:tag" content="Harrison Ford, George Lucas, Alec Guinness, Carrie Fisher, Francis Ford Coppola, Marlon Brando, Steven Spielburg, Indiana Jones, Ridley Scott, Melanie Griffith , Sigourney Weaver, Sean Connery, Tom Clancy , Sean Bean , Tommy Lee Jones, Gary Oldman, Glenn Close , William H. Macy, Annette Bening , J. J. Abrams , Michelle Pfeiffer" />  
+	<meta property="fb:admins" content="690322552, 598310032" />	
+
+	<link rel="stylesheet" href="/site/templates/components/normalize/normalize.min.css" />
+	<link rel="stylesheet" href="/site/templates/components/foundation/foundation.min.css" />
+	<link rel="stylesheet" href="/site/templates/components/animate-scss/animate.min.css" />
+
+	<script src="/site/templates/components/angular/angular.min.js"></script>
+	<script src="/site/templates/components/angular/angular-touch.min.js"></script>
+	<script src="/site/templates/components/angular-foundation/mm-foundation-tpls-0.8.0.min.js"></script>
+	<script src="/site/templates/components/modernizr.js"></script>
+	<script src="/site/templates/components/fastclick.js"></script>
+	
+	<script src="/site/templates/components/ng-FitText.js"></script>
+	<script src="/site/templates/components/flowtype.min.js"></script>
+	<script src="/site/templates/scripts/angular-swing.min.js"></script>
+	<script src="/site/templates/scripts/angular-equalizer.min.js"></script>
+	<script src="/site/templates/scripts/primomo.min.js"></script>
+	
+	<link rel="stylesheet" href="/site/templates/styles/primomo.min.css?" />
+	
+	<style class="game-colour">
+/* ccolour_base - base */
+.ccolour_base { background: #B03232}
+.ccolour_base-border { border-color: #B03232}
+.ccolour_base-text { color: #B03232}
+/* ccolour_d1 - darker 1 */
+.ccolour_d1 { background: #a02d2d}
+.ccolour_d1-border { border-color: #a02d2d}
+.ccolour_d1-text { color: #a02d2d}
+/* ccolour_d2 - darker 2 */
+.ccolour_d2 { background: #902929}
+.ccolour_d2-border { border-color: #902929}
+.ccolour_d2-text { color: #902929}
+/* ccolour_d3 - darker 3 */
+.ccolour_d3 { background: #802424}
+.ccolour_d3-border { border-color: #802424}
+.ccolour_d3-text { color: #802424}
+/* ccolour_l1 - lighter 1 */
+.ccolour_l1, {background: #c73a3a}
+.ccolour_l1-border { border-color: #c73a3a}
+.ccolour_l1-text { color: #c73a3a}
+/* Colour Styles */
+body, #viewport, .page-wrap:before {
+	background: #B03232	}
+.top-bar-section ul li, .top-bar-section li:not(.has-form) a:not(.button), .top-bar-section .has-form {
+	background: none;
+	}
+.top-bar-section li:not(.has-form) a:not(.button):hover, .top-bar-section ul li:hover:not(.has-form) > a, .top-bar-section .dropdown li:not(.has-form):not(.active) > a:not(.button) {
+	background: #902929	}
+html.touch .top-bar-section li.has-dropdown a:hover {
+	background:none;
+	}
+html.touch .top-bar-section li.has-dropdown.not-click a:hover {
+	background:#902929;
+	}
+.top-bar-section .dropdown li:not(.has-form):not(.active):hover > a:not(.button) {
+	background: #802424	}
+.top-bar, .fixednav, .top-bar .title-area, .top-bar.expanded .title-area {
+	background: #a02d2d	}	
+.top-bar input[type="text"] {
+	border-color: #a02d2d	}
+.accordian-percent {
+	background: #902929	}
+.results-header h3 {
+    color: #902929	}
+.sidebar-tags h4, .sidebar-cats h4 {
+    color: #902929	}	
+h3.section-header, h3.section-header a  {
+    color: #802424	}	
+h3.section-header a:hover  {
+    color: #902929	}		
+/* Medium and Up Only */	
+@media only screen and (min-width: 720px) {
+	.top-bar-section li.active:not(.has-form) a:not(.button) {
+		background: #a02d2d		}
+	.top-bar-section li.active:not(.has-form) a:not(.button):hover {
+		background: #902929		}
+	.top-bar-section .dropdown li.active:not(.has-form) a:not(.button) {
+		background: #902929		}
+	.top-bar-section .dropdown li.active:not(.has-form) a:not(.button):hover {
+		background: #802424		}		
+	}
+/* Small Only */	
+@media only screen and (max-width: 719px) {
+	.top-bar-section ul li, .top-bar-section .has-form {
+		background: #902929		}
+	.top-bar-section li:not(.has-form) a:not(.button):hover, .top-bar-section ul li:hover:not(.has-form) > a {
+		background: #802424		}
+	}
+</style>
+<style class="cat-colours">
+.catcolour_sport_standard{background:#1FA464;}.catcolour_sport_inverted *{color:#1FA464 !important;}.catcolour_entertainment_standard{background:#B03232;}.catcolour_entertainment_inverted *{color:#B03232 !important;}.catcolour_lifestyle_standard{background:#9B2C6F;}.catcolour_lifestyle_inverted *{color:#9B2C6F !important;}	
+</style>	<link href='https://fonts.googleapis.com/css?family=Comfortaa:300,400,700' rel='stylesheet' type='text/css'>
+	</head>	
+<body class='template-list'
+ng-app="primomoApp">
+
+<div><div ng-init="deckArray=[{name:'Star Wars', subtitle:'', image:'/site/assets/files/4063/starwarsmovieposter1977.300x300.jpg', copyright:'This is a poster for Star Wars.
+The poster art copyright is believed to belong to the distributor of the film, 20th Century Fox, the publisher of the film or the graphic artist.', plays:40, wins:29, gamePlays:0, gameWins:0, cardPageId:4063},{name:'Apocalypse Now', subtitle:'', image:'/site/assets/files/4064/apocalypse_now_poster.300x300.jpg', copyright:'This is a poster for Apocalypse Now.
+The poster art copyright is believed to belong to the distributor of the film, the publisher of the film or the graphic artist.', plays:17, wins:5, gamePlays:0, gameWins:0, cardPageId:4064},{name:'The Empire Strikes Back', subtitle:'', image:'/site/assets/files/4065/sw_-_empire_strikes_back.300x300.jpg', copyright:'Fair use - This image&amp;#039;s copyright is believed to belong to distributor, publisher or creator.', plays:35, wins:29, gamePlays:0, gameWins:0, cardPageId:4065},{name:'Raiders of the Lost Ark', subtitle:'', image:'/site/assets/files/4066/raiders.300x300.jpg', copyright:'Raiders of the Lost Ark oiginal release poster by Richard Amsel. ™ &amp;amp; © 1981 Lucasfilm Ltd.', plays:30, wins:20, gamePlays:0, gameWins:0, cardPageId:4066},{name:'Blade Runner', subtitle:'', image:'/site/assets/files/4067/blade_runner_poster.300x300.jpg', copyright:'The Blade Runner movie poster.
+The film © 1982, 1991 The Blade Runner Partnership
+Poster artwork © 1982 The Ladd Company', plays:26, wins:15, gamePlays:0, gameWins:0, cardPageId:4067},{name:'Return of the Jedi', subtitle:'', image:'/site/assets/files/4068/returnofthejediposter1983.300x300.jpg', copyright:'This is a poster for Star Wars Episode VI: Return of the Jedi.
+The poster art copyright is believed to belong to the distributor of the film, 20th Century Fox, the publisher of the film or the graphic artist.', plays:27, wins:15, gamePlays:0, gameWins:0, cardPageId:4068},{name:'Indiana Jones and the Temple of Doom', subtitle:'', image:'/site/assets/files/4069/indiana_jones_and_the_temple_of_doom_posterb.300x300.jpg', copyright:'Fair use - This image&amp;#039;s copyright is believed to belong to distributor, publisher or creator.', plays:35, wins:23, gamePlays:0, gameWins:0, cardPageId:4069},{name:'Witness', subtitle:'', image:'/site/assets/files/4070/witness_movie.300x300.jpg', copyright:'This is a poster for Witness.
+The poster art copyright is believed to belong to the distributor of the film, Paramount Pictures, the publisher of the film or the graphic artist.', plays:22, wins:10, gamePlays:0, gameWins:0, cardPageId:4070},{name:'Working Girl', subtitle:'', image:'/site/assets/files/4071/working_girl.300x300.jpg', copyright:'This is a poster for Working Girl.
+The poster art copyright is believed to belong to the distributor of the film, 20th Century Fox, the publisher of the film or the graphic artist.', plays:17, wins:5, gamePlays:0, gameWins:0, cardPageId:4071},{name:'Indiana Jones and the Last Crusade', subtitle:'', image:'/site/assets/files/4072/indiana_jones_and_the_last_crusade_a.300x300.jpg', copyright:'This is a poster for Indiana Jones and the Last Crusade.
+The poster art copyright is believed to belong to the distributor of the film, Paramount Pictures, the publisher of the film or the graphic artist.', plays:20, wins:9, gamePlays:0, gameWins:0, cardPageId:4072},{name:'Patriot Games', subtitle:'', image:'/site/assets/files/4073/patriot_games_theatrical_poster.300x300.jpg', copyright:'Copyright Paramount Pictures. 1992.', plays:17, wins:5, gamePlays:0, gameWins:0, cardPageId:4073},{name:'The Fugitive', subtitle:'', image:'/site/assets/files/4074/the_fugitive_movie.300x300.jpg', copyright:'1993 Warner Bros. All Rights Reserved.', plays:24, wins:12, gamePlays:0, gameWins:0, cardPageId:4074},{name:'Clear and Present Danger', subtitle:'', image:'/site/assets/files/4075/clear_and_present_danger_film.300x300.jpg', copyright:'This is a poster for Clear and Present Danger.
+The poster art copyright is believed to belong to the distributor of the film, Paramount Pictures, the publisher of the film or the graphic artist.', plays:16, wins:4, gamePlays:0, gameWins:0, cardPageId:4075},{name:'Air Force One', subtitle:'', image:'/site/assets/files/4076/air_force_one_28movie_poster_29.300x300.jpg', copyright:'Fair use - This image&amp;#039;s copyright is believed to belong to distributor, publisher or creator.', plays:25, wins:13, gamePlays:0, gameWins:0, cardPageId:4076},{name:'Six Days Seven Nights', subtitle:'', image:'/site/assets/files/4077/six_days_seven_nights.300x300.jpg', copyright:'Fair use - This image&amp;#039;s copyright is believed to belong to distributor, publisher or creator.', plays:15, wins:4, gamePlays:0, gameWins:0, cardPageId:4077},{name:'Regarding Henry', subtitle:'', image:'/site/assets/files/4078/regarding_henry_ver1.300x300.jpg', copyright:'Copyright © 1991 by Paramount Pictures. All Rights Reserved.', plays:12, wins:0, gamePlays:0, gameWins:0, cardPageId:4078},{name:'What Lies Beneath', subtitle:'', image:'/site/assets/files/4079/what_lies_beneath.300x300.jpg', copyright:'Fair use - This image&amp;#039;s copyright is believed to belong to distributor, publisher or creator.', plays:15, wins:3, gamePlays:0, gameWins:0, cardPageId:4079},{name:'American Graffiti', subtitle:'', image:'/site/assets/files/4080/american_graffiti_ver1.300x300.jpg', copyright:'Fair use - This image&amp;#039;s copyright is believed to belong to distributor, publisher or creator.', plays:15, wins:3, gamePlays:0, gameWins:0, cardPageId:4080},{name:'Star Wars: The Force Awakens', subtitle:'', image:'/site/assets/files/6522/star_wars_the_force_awakens_theatrical_poster.300x300.jpg', copyright:'Walt Disney Studios Motion Pictures', plays:24, wins:12, gamePlays:0, gameWins:0, cardPageId:6522},]; gameArray=[{title:'Best Harrison Ford Movie', interrogative:'What is', possessive:' ', possessiveAlt:'', subject:'the Best Harrison Ford Movie', summary:'What is the Best Harrison Ford Movie?'}]; pageId=4062;"></div></div>
+
+<div ng-controller="primomoController" class="page-wrap">
+
+<div class="fixednav">
+	<div class="row topbar-container">
+		<top-bar id="top-menu" class="top-bar top-menu" mobile-show-parent-link="true" is-hover="false">
+			<ul class="title-area">
+				<li class="name">
+					<h1><a href="/"><img class="primomo-logo" src="/site/templates/images/primomologotext.svg"><span></span></a></h1>
+				</li>
+				<li toggle-top-bar onclick="document.getElementById('top-search').classList.remove('expanded')" class="toggle-topbar toggle-topbar-main menu-icon"><a href=""><span></span></a></li>
+			</ul>
+			<top-bar-section ng-cloakx>
+				<ul class="right">
+					
+					
+<ul class="primenu">
+	<li>
+		<a href='/categories/entertainment/'>Entertainment</a>
+	</li>
+	<li>
+		<a href='/categories/sport/'>Sport</a>
+	</li>
+	<li>
+		<a href='/categories/lifestyle/'>Lifestyle</a>
+	</li>
+</ul>					
+					<li has-dropdown class="primenu-hasdropdown">
+						<a>More</a>
+						<ul top-bar-dropdown ng-cloak>
+							
+<ul class="more-menu">
+	<li>
+		<a href='/categories/entertainment/tv/'>TV</a>
+	</li>
+	<li>
+		<a href='/categories/lifestyle/people/'>People</a>
+	</li>
+	<li>
+		<a href='/categories/sport/football/'>Football</a>
+	</li>
+	<li>
+		<a href='/categories/lifestyle/food/'>Food</a>
+	</li>
+	<li>
+		<a href='/categories/entertainment/music/'>Music</a>
+	</li>
+	<li>
+		<a href='/categories/entertainment/movies/'>Movies</a>
+	</li>
+	<li>
+		<a href='/categories/'>All Categories</a>
+	</li>
+</ul>						</ul>
+					</li>
+					
+					<ul>
+						<li class="has-form search-form-medium-up">
+						    <div class="row collapse">
+						      <div class="large-12 small-12 columns">
+						        <form id="site-search-form" class="clearfix" action="/search/" method="get">
+									<input type="text" name="q" value="" placeholder="Search">
+								</form>
+						      </div>
+						    </div>
+						</li>
+					</ul>
+					
+				</ul>
+			</top-bar-section>
+		</top-bar>
+		
+		<top-bar id="top-search" class="top-bar top-search show-for-small-only" data-topbar="" style="height: 45px">
+			<ul class="title-area">
+				<li class="name"></li>
+				<li toggle-top-bar onclick="document.getElementById('top-menu').classList.remove('expanded')" class="toggle-topbar toggle-topbar-search menu-icon"><a href=""><span></span></a></li>
+			</ul>
+			<top-bar-section ng-cloak>
+				<ul>
+				  <li class="has-form search-form-small-only">
+				    <div class="row collapse">
+				      <div class="large-12 small-12 columns">
+				        <form id="site-search-form" class="clearfix" action="/search/" method="get">
+							<input type="text" name="q" value="" placeholder="Search">
+						</form>
+				      </div>
+				    </div>
+				  </li>
+				</ul>
+			</top-bar-section>
+		</top-bar>
+	</div>
+</div>
+
+
+<div class="row-container ccolour_base main-header">
+	<div class="row">
+		<div class="column">
+			<h2 class="top-header">Best Harrison Ford Movie</h2>
+		</div>
+	</div>
+	</div>
+
+<div id="body-wrap">
+	<div class="row-container">
+	<div class="row list-grid-row" id="sectionid1">
+		<div class="column">
+			<h3 class="left section-header">Related Lists</a></h3>
+				
+		</div>
+		
+		
+			<div class="column list-grid">
+				<div equalizer class="row">
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-1390'>
+
+	<a href='/list/greatest-road-trip-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/1390/greatest-road-trip-movie-kqr3iyhj.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest Road Trip Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-1324'>
+
+	<a href='/list/best-james-bond-ever/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/1324/best-james-bond-ever-uenalyqz.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best James Bond Ever</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-1265'>
+
+	<a href='/list/best-channel-4-sitcom/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/1265/channel_4_new_logo_svg-v1432835731.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Channel 4 Sitcom</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-1216'>
+
+	<a href='/list/best-steven-spielberg-film/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/1216/best-steven-spielburg-movie-mpvtbi1c.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Steven Spielberg Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+									</div>
+			</div>	
+						<div class="column"><div class='pagination-centered'><ul class='pagination'><li class='MarkupPagerNavPrevious MarkupPagerNavFirst'><a href='/list/best-harrison-ford-movie/page3'><span><<</span></a></li><li class='MarkupPagerNavFirstNum'><a href='/list/best-harrison-ford-movie/'><span>1</span></a></li><li><a href='/list/best-harrison-ford-movie/page2'><span>2</span></a></li><li><a href='/list/best-harrison-ford-movie/page3'><span>3</span></a></li><li class='current MarkupPagerNavLast MarkupPagerNavLastNum'><a href='/list/best-harrison-ford-movie/page4'><span>4</span></a></li></ul></div></div>	</div>
+</div></div>
+
+</div> <!--ng-controller-->
+<footer class="ccolour_base">
+
+<div class="row">
+	<div class="medium-4 medium-push-8 columns">
+		<ul class="footer-social">
+			<li>
+				<a href="" class="xxx" style="opacity: 0 !important"></a>
+			</li>
+			<li>
+				<a href="" class="xxx" style="opacity: 0 !important"></a>
+			</li>
+			<!-- <li><a href="/about" class="mail"></a></li> -->
+		</ul>
+	</div>
+	<div class="medium-8 medium-pull-4 columns">		
+	</div>
+</div>
+
+</footer>
+<script>
+flowtype(document.body.querySelector('#stack-container'), {
+   minimum   : 0,
+   maximum   : 600,
+   minFont   : 1,
+   maxFont   : 50,
+   fontRatio : 14,
+   lineRatio : 1.45
+});	
+flowtype(document.body.querySelector('#gamemessage-container'), {
+   minimum   : 0,
+   maximum   : 600,
+   minFont   : 1,
+   maxFont   : 50,
+   fontRatio : 14,
+   lineRatio : 1.45
+});	
+</script>
+</body>
+</html>

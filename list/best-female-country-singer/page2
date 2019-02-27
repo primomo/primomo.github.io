@@ -1,0 +1,463 @@
+<!DOCTYPE html>
+<!--[if IE 9]><html class="lt-ie10" lang="en" > <![endif]-->
+<html class="no-js" lang="en" itemscope itemtype="http://schema.org/ItemList">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+	<style type="text/css">@charset "UTF-8";[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {display: none !important;}</style>	
+	<link rel="canonical" href="">
+	
+		
+	
+	<!-- Meta -->
+	<title>Best Female Country Singer - Primomo</title>
+	<meta name="description" content="Who is  the Best Female Country Singer of All Time? Carrie Underwood? Dolly Parton? Shania Twain? Patsy Cline? Martina McBride? Reba McEntire? Miranda Lambert? Faith Hill? Linda Ronstadt? Loretta Lynn? Sara Evans? Emmylou Harris? Tammy Wynette? Patty Loveless? Alison Krauss? LeAnn Rimes? June Carter Cash? Trisha Yearwood? Dixie Chicks? Barbara Mandrell? Kellie Pickler? Wynonna Judd? Lee Ann Womack? " />
+	<!-- Schema -->
+	<meta itemprop="name" content="Best Female Country Singer">
+	<meta itemprop="description" content="Who is  the Best Female Country Singer of All Time? Carrie Underwood? Dolly Parton? Shania Twain? Patsy Cline? Martina McBride? Reba McEntire? Miranda Lambert? Faith Hill? Linda Ronstadt? Loretta Lynn? Sara Evans? Emmylou Harris? Tammy Wynette? Patty Loveless? Alison Krauss? LeAnn Rimes? June Carter Cash? Trisha Yearwood? Dixie Chicks? Barbara Mandrell? Kellie Pickler? Wynonna Judd? Lee Ann Womack? "> 
+	<meta itemprop="image" content=""> 
+	 <meta itemprop="itemListOrder" content="Descending" /> 	<!-- Twitter -->
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:site" content="@playprimomo">
+	<meta name="twitter:title" content="Best Female Country Singer">
+	<meta name="twitter:description" content="Who is  the Best Female Country Singer of All Time? Carrie Underwood? Dolly Parton? Shania Twain? Patsy Cline? Martina McBride? Reba McEntire? Miranda Lambert? Faith Hill? Linda Ronstadt? Loretta Lynn? Sara Evans? Emmylou Harris? Tammy Wynette? Patty Loveless? Alison Krauss? LeAnn Rimes? June Carter Cash? Trisha Yearwood? Dixie Chicks? Barbara Mandrell? Kellie Pickler? Wynonna Judd? Lee Ann Womack? "> 
+	<meta name="twitter:creator" content="@playprimomo">
+	<meta name="twitter:image:src" content=""> 
+	<!-- Open Graph -->
+	<meta property="og:title" content="Best Female Country Singer" />
+	<meta property="og:type" content="article" /> 
+	<meta property="og:url" content="" /> 
+	<meta property="og:image" content=""> 
+	<meta property="og:image:width" content="500"> 
+	<meta property="og:image:height" content="300"> 
+	<meta property="og:description" content="Who is  the Best Female Country Singer of All Time? Carrie Underwood? Dolly Parton? Shania Twain? Patsy Cline? Martina McBride? Reba McEntire? Miranda Lambert? Faith Hill? Linda Ronstadt? Loretta Lynn? Sara Evans? Emmylou Harris? Tammy Wynette? Patty Loveless? Alison Krauss? LeAnn Rimes? June Carter Cash? Trisha Yearwood? Dixie Chicks? Barbara Mandrell? Kellie Pickler? Wynonna Judd? Lee Ann Womack? " /> 
+	<meta property="og:site_name" content="Primomo" />
+	<meta property="article:section" content="Music" />  
+	<meta property="article:tag" content="Country , Folk , Blues, Nashville, USA" />  
+	<meta property="fb:admins" content="690322552, 598310032" />	
+
+	<link rel="stylesheet" href="/site/templates/components/normalize/normalize.min.css" />
+	<link rel="stylesheet" href="/site/templates/components/foundation/foundation.min.css" />
+	<link rel="stylesheet" href="/site/templates/components/animate-scss/animate.min.css" />
+
+	<script src="/site/templates/components/angular/angular.min.js"></script>
+	<script src="/site/templates/components/angular/angular-touch.min.js"></script>
+	<script src="/site/templates/components/angular-foundation/mm-foundation-tpls-0.8.0.min.js"></script>
+	<script src="/site/templates/components/modernizr.js"></script>
+	<script src="/site/templates/components/fastclick.js"></script>
+	
+	<script src="/site/templates/components/ng-FitText.js"></script>
+	<script src="/site/templates/components/flowtype.min.js"></script>
+	<script src="/site/templates/scripts/angular-swing.min.js"></script>
+	<script src="/site/templates/scripts/angular-equalizer.min.js"></script>
+	<script src="/site/templates/scripts/primomo.min.js"></script>
+	
+	<link rel="stylesheet" href="/site/templates/styles/primomo.min.css?" />
+	
+	<style class="game-colour">
+/* ccolour_base - base */
+.ccolour_base { background: #B03232}
+.ccolour_base-border { border-color: #B03232}
+.ccolour_base-text { color: #B03232}
+/* ccolour_d1 - darker 1 */
+.ccolour_d1 { background: #a02d2d}
+.ccolour_d1-border { border-color: #a02d2d}
+.ccolour_d1-text { color: #a02d2d}
+/* ccolour_d2 - darker 2 */
+.ccolour_d2 { background: #902929}
+.ccolour_d2-border { border-color: #902929}
+.ccolour_d2-text { color: #902929}
+/* ccolour_d3 - darker 3 */
+.ccolour_d3 { background: #802424}
+.ccolour_d3-border { border-color: #802424}
+.ccolour_d3-text { color: #802424}
+/* ccolour_l1 - lighter 1 */
+.ccolour_l1, {background: #c73a3a}
+.ccolour_l1-border { border-color: #c73a3a}
+.ccolour_l1-text { color: #c73a3a}
+/* Colour Styles */
+body, #viewport, .page-wrap:before {
+	background: #B03232	}
+.top-bar-section ul li, .top-bar-section li:not(.has-form) a:not(.button), .top-bar-section .has-form {
+	background: none;
+	}
+.top-bar-section li:not(.has-form) a:not(.button):hover, .top-bar-section ul li:hover:not(.has-form) > a, .top-bar-section .dropdown li:not(.has-form):not(.active) > a:not(.button) {
+	background: #902929	}
+html.touch .top-bar-section li.has-dropdown a:hover {
+	background:none;
+	}
+html.touch .top-bar-section li.has-dropdown.not-click a:hover {
+	background:#902929;
+	}
+.top-bar-section .dropdown li:not(.has-form):not(.active):hover > a:not(.button) {
+	background: #802424	}
+.top-bar, .fixednav, .top-bar .title-area, .top-bar.expanded .title-area {
+	background: #a02d2d	}	
+.top-bar input[type="text"] {
+	border-color: #a02d2d	}
+.accordian-percent {
+	background: #902929	}
+.results-header h3 {
+    color: #902929	}
+.sidebar-tags h4, .sidebar-cats h4 {
+    color: #902929	}	
+h3.section-header, h3.section-header a  {
+    color: #802424	}	
+h3.section-header a:hover  {
+    color: #902929	}		
+/* Medium and Up Only */	
+@media only screen and (min-width: 720px) {
+	.top-bar-section li.active:not(.has-form) a:not(.button) {
+		background: #a02d2d		}
+	.top-bar-section li.active:not(.has-form) a:not(.button):hover {
+		background: #902929		}
+	.top-bar-section .dropdown li.active:not(.has-form) a:not(.button) {
+		background: #902929		}
+	.top-bar-section .dropdown li.active:not(.has-form) a:not(.button):hover {
+		background: #802424		}		
+	}
+/* Small Only */	
+@media only screen and (max-width: 719px) {
+	.top-bar-section ul li, .top-bar-section .has-form {
+		background: #902929		}
+	.top-bar-section li:not(.has-form) a:not(.button):hover, .top-bar-section ul li:hover:not(.has-form) > a {
+		background: #802424		}
+	}
+</style>
+<style class="cat-colours">
+.catcolour_sport_standard{background:#1FA464;}.catcolour_sport_inverted *{color:#1FA464 !important;}.catcolour_entertainment_standard{background:#B03232;}.catcolour_entertainment_inverted *{color:#B03232 !important;}.catcolour_lifestyle_standard{background:#9B2C6F;}.catcolour_lifestyle_inverted *{color:#9B2C6F !important;}	
+</style>	<link href='https://fonts.googleapis.com/css?family=Comfortaa:300,400,700' rel='stylesheet' type='text/css'>
+	</head>	
+<body class='template-list'
+ng-app="primomoApp">
+
+<div><div ng-init="deckArray=[{name:'Carrie Underwood', subtitle:'', image:'/site/assets/files/13011/carrie_underwood_2_2c_2012.300x300.jpg', copyright:'By Dephisticate  Uploaded by MyCanon (Carrie Underwood) [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons', plays:161, wins:77, gamePlays:0, gameWins:0, cardPageId:13011},{name:'Dolly Parton', subtitle:'', image:'/site/assets/files/13012/dolly_parton_accepting_liseberg_applause_award_2010_portrait.300x300.jpg', copyright:'By Curtis Hilbun [CC BY 3.0 (http://creativecommons.org/licenses/by/3.0)], via Wikimedia Commons', plays:228, wins:147, gamePlays:0, gameWins:0, cardPageId:13012},{name:'Shania Twain', subtitle:'', image:'/site/assets/files/13013/shaniatwainjunoawardsmar2011.300x300.jpg', copyright:'Sara Collaton [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons', plays:171, wins:88, gamePlays:0, gameWins:0, cardPageId:13013},{name:'Patsy Cline', subtitle:'', image:'/site/assets/files/13014/patsy_cline_ii.300x300.jpg', copyright:'By Four Star Records  derivative work: User:Dottiewest1fan (Patsy Cline - A Fan&amp;#039;s Tribute) [Public domain], via Wikimedia Commons', plays:240, wins:161, gamePlays:0, gameWins:0, cardPageId:13014},{name:'Martina McBride', subtitle:'', image:'/site/assets/files/13015/mte1oda0otcxmzc3nziyodkz.300x300.jpg', copyright:'RCA Records', plays:181, wins:93, gamePlays:0, gameWins:0, cardPageId:13015},{name:'Reba McEntire', subtitle:'', image:'/site/assets/files/13016/rebamcentire.300x300.jpg', copyright:'By David B. King (http://flickr.com/photos/bootbearwdc/60578534/) [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons', plays:217, wins:135, gamePlays:0, gameWins:0, cardPageId:13016},{name:'Miranda Lambert', subtitle:'', image:'/site/assets/files/13017/miranda_lambert.300x300.jpg', copyright:'By Lukelambert (Own work) [Public domain], via Wikimedia Commons', plays:134, wins:47, gamePlays:0, gameWins:0, cardPageId:13017},{name:'Faith Hill', subtitle:'', image:'/site/assets/files/13018/faith_hill_2006.300x300.jpg', copyright:'By sisterphotography (Flickr) [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons', plays:142, wins:56, gamePlays:0, gameWins:0, cardPageId:13018},{name:'Linda Ronstadt', subtitle:'', image:'/site/assets/files/13019/lindaronstadtperforming.300x300.jpg', copyright:'Carl Lender [GFDL (http://www.gnu.org/copyleft/fdl.html) or CC-BY-SA-3.0 (http://creativecommons.org/licenses/by-sa/3.0/)], via Wikimedia Commons', plays:219, wins:152, gamePlays:0, gameWins:0, cardPageId:13019},{name:'Loretta Lynn', subtitle:'', image:'/site/assets/files/13020/loretta_lynn.300x300.jpg', copyright:'By Scott Schram (http://schram.net/ ] (http://www.flickr.com/photos/schram/19988923/) [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons', plays:260, wins:178, gamePlays:0, gameWins:0, cardPageId:13020},{name:'Sara Evans', subtitle:'', image:'/site/assets/files/13021/country_singer_sara_evans.300x300.jpg', copyright:'By Mass Communication Specialist 3rd Class Mandy Hunsucker, U.S. Navy (http://www.navy.mil; exact Source) [Public domain], via Wikimedia Commons', plays:146, wins:58, gamePlays:0, gameWins:0, cardPageId:13021},{name:'Emmylou Harris', subtitle:'', image:'/site/assets/files/13022/emmylouharrissf2005.300x300.jpg', copyright:'By Yogibones from (optional) (Flickr) [CC BY 2.5 (http://creativecommons.org/licenses/by/2.5)], via Wikimedia Commons', plays:191, wins:107, gamePlays:0, gameWins:0, cardPageId:13022},{name:'Tammy Wynette', subtitle:'', image:'/site/assets/files/13023/tammy_wynette.300x300.jpg', copyright:'By Hubert Long (manager)/Epic Records [Public domain], via Wikimedia Commons', plays:218, wins:137, gamePlays:0, gameWins:0, cardPageId:13023},{name:'Patty Loveless', subtitle:'', image:'/site/assets/files/13024/loveless02.300x300.jpg', copyright:'LarkCGN at the German language Wikipedia [GFDL (http://www.gnu.org/copyleft/fdl.html) or CC-BY-SA-3.0 (http://creativecommons.org/licenses/by-sa/3.0/)], via Wikimedia Commons', plays:155, wins:67, gamePlays:0, gameWins:0, cardPageId:13024},{name:'Alison Krauss', subtitle:'', image:'/site/assets/files/13025/alison_krauss_merlefest_2007_01.300x300.jpg', copyright:'By Filberthockey at en.wikipedia (Own work Transferred from en.wikipedia.) [Public domain], via Wikimedia Commons', plays:168, wins:81, gamePlays:0, gameWins:0, cardPageId:13025},{name:'LeAnn Rimes', subtitle:'', image:'/site/assets/files/13026/leann_rimes_2009.300x300.jpg', copyright:'By Yahoo! Blog  Uploaded by MyCanon (LeAnn Rimes) [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons', plays:128, wins:39, gamePlays:0, gameWins:0, cardPageId:13026},{name:'June Carter Cash', subtitle:'', image:'/site/assets/files/13027/50a34155023a00bf315b2597ecb1883c.300x300.jpg', copyright:'Rolling stone magazine', plays:145, wins:56, gamePlays:0, gameWins:0, cardPageId:13027},{name:'Trisha Yearwood', subtitle:'', image:'/site/assets/files/13028/trisha_yearwood_uso_2010.300x300.jpg', copyright:'By DOD photo by U.S. Navy Petty Officer 1st Class Chad J. McNeeley [Public domain], via Wikimedia Commons', plays:163, wins:74, gamePlays:0, gameWins:0, cardPageId:13028},{name:'Dixie Chicks', subtitle:'', image:'/site/assets/files/13029/dixiechicksmsg062003.300x300.jpg', copyright:'By The original uploader was Wasted Time R at English Wikipedia [CC BY-SA 2.5 (http://creativecommons.org/licenses/by-sa/2.5)], via Wikimedia Commons', plays:133, wins:44, gamePlays:0, gameWins:0, cardPageId:13029},{name:'Barbara Mandrell', subtitle:'', image:'/site/assets/files/13030/barbara_mandrell_dn-st-87-03190.300x300.jpg', copyright:'By U.S. DoD [Public domain], via Wikimedia Commons', plays:131, wins:43, gamePlays:0, gameWins:0, cardPageId:13030},{name:'Kellie Pickler', subtitle:'', image:'/site/assets/files/13031/kelliep.300x300.jpg', copyright:'By Jazills (Own work) [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons', plays:102, wins:13, gamePlays:0, gameWins:0, cardPageId:13031},{name:'Wynonna Judd', subtitle:'', image:'/site/assets/files/13032/wynonna_judd_openarms.300x300.jpg', copyright:'This image is a work of a U.S. Army soldier or employee, taken or made as part of that person&amp;#039;s official duties. As a work of the U.S. federal government, the image is in the public domain.', plays:142, wins:53, gamePlays:0, gameWins:0, cardPageId:13032},{name:'Lee Ann Womack', subtitle:'', image:'/site/assets/files/13033/612pgjfp91l__sx355_.300x300.jpg', copyright:'MCA Nashville', plays:141, wins:52, gamePlays:0, gameWins:0, cardPageId:13033},]; gameArray=[{title:'Best Female Country Singer', interrogative:'Who is', possessive:' ', possessiveAlt:'', subject:'the Best Female Country Singer of All Time', summary:'Who is  the Best Female Country Singer of All Time?'}]; pageId=13010;"></div></div>
+
+<div ng-controller="primomoController" class="page-wrap">
+
+<div class="fixednav">
+	<div class="row topbar-container">
+		<top-bar id="top-menu" class="top-bar top-menu" mobile-show-parent-link="true" is-hover="false">
+			<ul class="title-area">
+				<li class="name">
+					<h1><a href="/"><img class="primomo-logo" src="/site/templates/images/primomologotext.svg"><span></span></a></h1>
+				</li>
+				<li toggle-top-bar onclick="document.getElementById('top-search').classList.remove('expanded')" class="toggle-topbar toggle-topbar-main menu-icon"><a href=""><span></span></a></li>
+			</ul>
+			<top-bar-section ng-cloakx>
+				<ul class="right">
+					
+					
+<ul class="primenu">
+	<li>
+		<a href='/categories/entertainment/'>Entertainment</a>
+	</li>
+	<li>
+		<a href='/categories/sport/'>Sport</a>
+	</li>
+	<li>
+		<a href='/categories/lifestyle/'>Lifestyle</a>
+	</li>
+</ul>					
+					<li has-dropdown class="primenu-hasdropdown">
+						<a>More</a>
+						<ul top-bar-dropdown ng-cloak>
+							
+<ul class="more-menu">
+	<li>
+		<a href='/categories/entertainment/tv/'>TV</a>
+	</li>
+	<li>
+		<a href='/categories/lifestyle/people/'>People</a>
+	</li>
+	<li>
+		<a href='/categories/sport/football/'>Football</a>
+	</li>
+	<li>
+		<a href='/categories/lifestyle/food/'>Food</a>
+	</li>
+	<li>
+		<a href='/categories/entertainment/music/'>Music</a>
+	</li>
+	<li>
+		<a href='/categories/entertainment/movies/'>Movies</a>
+	</li>
+	<li>
+		<a href='/categories/'>All Categories</a>
+	</li>
+</ul>						</ul>
+					</li>
+					
+					<ul>
+						<li class="has-form search-form-medium-up">
+						    <div class="row collapse">
+						      <div class="large-12 small-12 columns">
+						        <form id="site-search-form" class="clearfix" action="/search/" method="get">
+									<input type="text" name="q" value="" placeholder="Search">
+								</form>
+						      </div>
+						    </div>
+						</li>
+					</ul>
+					
+				</ul>
+			</top-bar-section>
+		</top-bar>
+		
+		<top-bar id="top-search" class="top-bar top-search show-for-small-only" data-topbar="" style="height: 45px">
+			<ul class="title-area">
+				<li class="name"></li>
+				<li toggle-top-bar onclick="document.getElementById('top-menu').classList.remove('expanded')" class="toggle-topbar toggle-topbar-search menu-icon"><a href=""><span></span></a></li>
+			</ul>
+			<top-bar-section ng-cloak>
+				<ul>
+				  <li class="has-form search-form-small-only">
+				    <div class="row collapse">
+				      <div class="large-12 small-12 columns">
+				        <form id="site-search-form" class="clearfix" action="/search/" method="get">
+							<input type="text" name="q" value="" placeholder="Search">
+						</form>
+				      </div>
+				    </div>
+				  </li>
+				</ul>
+			</top-bar-section>
+		</top-bar>
+	</div>
+</div>
+
+
+<div class="row-container ccolour_base main-header">
+	<div class="row">
+		<div class="column">
+			<h2 class="top-header">Best Female Country Singer</h2>
+		</div>
+	</div>
+	</div>
+
+<div id="body-wrap">
+	<div class="row-container">
+	<div class="row list-grid-row" id="sectionid1">
+		<div class="column">
+			<h3 class="left section-header">Related Lists</a></h3>
+				
+		</div>
+		
+		
+			<div class="column list-grid">
+				<div equalizer class="row">
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_sport_standard catcolorstyle_standard' id='list-6923'>
+
+	<a href='/list/greatest-boxer/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/6923/27809_mayweather-vs-pacquiao-live.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest Boxer</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_lifestyle_standard catcolorstyle_standard' id='list-6856'>
+
+	<a href='/list/best-viners/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/6856/vine-logo.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Viners</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-6463'>
+
+	<a href='/list/favourite-real-housewife/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/6463/housewives_of_beverly_hills_cast_season_6.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Favourite Real Housewife</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_sport_standard catcolorstyle_standard' id='list-6286'>
+
+	<a href='/list/americas-greatest-ryder-cup-player/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/6286/1024px-rydercuplogo_svg.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>America's Greatest Ryder Cup Player</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-5862'>
+
+	<a href='/list/best-late-night-talk-show-host/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/5862/president_barack_obama_with_david_letterman_09-21-09.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Late-Night Talk Show Host</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_sport_standard catcolorstyle_standard' id='list-3792'>
+
+	<a href='/list/greatest-boston-red-sox-player/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/3792/786px-redsoxprimary_hangingsocks_svg.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest Boston Red Sox Player</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-2964'>
+
+	<a href='/list/best-michael-jackson-song/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/2964/best-michael-jackson-song-vco4qacv.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Michael Jackson song</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_sport_standard catcolorstyle_standard' id='list-2841'>
+
+	<a href='/list/greatest-olympian/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/2841/greatest-olympian-moedrksy.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest Olympian</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_sport_standard catcolorstyle_standard' id='list-2509'>
+
+	<a href='/list/greatest-all-black/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/2509/800px-all_blacks_logo_svg.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest All Black</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-2037'>
+
+	<a href='/list/best-american-gangster-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/2037/best-american-gangster-movie-8wd8j2sj.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best American Gangster Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+									</div>
+			</div>	
+						<div class="column"><div class='pagination-centered'><ul class='pagination'><li class='MarkupPagerNavPrevious MarkupPagerNavFirst'><a href='/list/best-female-country-singer/'><span><<</span></a></li><li class='MarkupPagerNavFirstNum'><a href='/list/best-female-country-singer/'><span>1</span></a></li><li class='current MarkupPagerNavLast MarkupPagerNavLastNum'><a href='/list/best-female-country-singer/page2'><span>2</span></a></li></ul></div></div>	</div>
+</div></div>
+
+</div> <!--ng-controller-->
+<footer class="ccolour_base">
+
+<div class="row">
+	<div class="medium-4 medium-push-8 columns">
+		<ul class="footer-social">
+			<li>
+				<a href="" class="xxx" style="opacity: 0 !important"></a>
+			</li>
+			<li>
+				<a href="" class="xxx" style="opacity: 0 !important"></a>
+			</li>
+			<!-- <li><a href="/about" class="mail"></a></li> -->
+		</ul>
+	</div>
+	<div class="medium-8 medium-pull-4 columns">		
+	</div>
+</div>
+
+</footer>
+<script>
+flowtype(document.body.querySelector('#stack-container'), {
+   minimum   : 0,
+   maximum   : 600,
+   minFont   : 1,
+   maxFont   : 50,
+   fontRatio : 14,
+   lineRatio : 1.45
+});	
+flowtype(document.body.querySelector('#gamemessage-container'), {
+   minimum   : 0,
+   maximum   : 600,
+   minFont   : 1,
+   maxFont   : 50,
+   fontRatio : 14,
+   lineRatio : 1.45
+});	
+</script>
+</body>
+</html>

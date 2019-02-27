@@ -1,0 +1,386 @@
+<!DOCTYPE html>
+<!--[if IE 9]><html class="lt-ie10" lang="en" > <![endif]-->
+<html class="no-js" lang="en" itemscope itemtype="http://schema.org/ItemList">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+	<style type="text/css">@charset "UTF-8";[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {display: none !important;}</style>	
+	<link rel="canonical" href="">
+	
+		
+	
+	<!-- Meta -->
+	<title>Best Nicolas Cage Movie - Primomo</title>
+	<meta name="description" content="This game has been carefully curated to celebrate the films of Nicolas Cage. Making his big screen debut in the early 1980s, Cage has played a variety of different roles from low budget independent coming of age Comedies, Romantic Fantasies to big budgets Action Thrillers. Nicolas Cage has received the highest of critical acclaim by winning the Best Actor category at the Academy Awards for his betrayal of Ben Sanderson in the 1995 romantic drama Leaving Las Vegas.
+This shortlist has all of Nicolas Cage's Best Films to date, films included are The Rock, Face/Off and Raising Arizona.
+Simply pick your Favourite Nicolas Cage Movie and compare it your results with other Primomo users." />
+	<!-- Schema -->
+	<meta itemprop="name" content="Best Nicolas Cage Movie">
+	<meta itemprop="description" content="This game has been carefully curated to celebrate the films of Nicolas Cage. Making his big screen debut in the early 1980s, Cage has played a variety of different roles from low budget independent coming of age Comedies, Romantic Fantasies to big budgets Action Thrillers. Nicolas Cage has received the highest of critical acclaim by winning the Best Actor category at the Academy Awards for his betrayal of Ben Sanderson in the 1995 romantic drama Leaving Las Vegas.
+This shortlist has all of Nicolas Cage's Best Films to date, films included are The Rock, Face/Off and Raising Arizona.
+Simply pick your Favourite Nicolas Cage Movie and compare it your results with other Primomo users."> 
+	<meta itemprop="image" content=""> 
+	 <meta itemprop="itemListOrder" content="Descending" /> 	<!-- Twitter -->
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:site" content="@playprimomo">
+	<meta name="twitter:title" content="Best Nicolas Cage Movie">
+	<meta name="twitter:description" content="This game has been carefully curated to celebrate the films of Nicolas Cage. Making his big screen debut in the early 1980s, Cage has played a variety of different roles from low budget independent coming of age Comedies, Romantic Fantasies to big budgets Action Thrillers. Nicolas Cage has received the highest of critical acclaim by winning the Best Actor category at the Academy Awards for his betrayal of Ben Sanderson in the 1995 romantic drama Leaving Las Vegas.
+This shortlist has all of Nicolas Cage's Best Films to date, films included are The Rock, Face/Off and Raising Arizona.
+Simply pick your Favourite Nicolas Cage Movie and compare it your results with other Primomo users."> 
+	<meta name="twitter:creator" content="@playprimomo">
+	<meta name="twitter:image:src" content=""> 
+	<!-- Open Graph -->
+	<meta property="og:title" content="Best Nicolas Cage Movie" />
+	<meta property="og:type" content="article" /> 
+	<meta property="og:url" content="" /> 
+	<meta property="og:image" content=""> 
+	<meta property="og:image:width" content="500"> 
+	<meta property="og:image:height" content="300"> 
+	<meta property="og:description" content="This game has been carefully curated to celebrate the films of Nicolas Cage. Making his big screen debut in the early 1980s, Cage has played a variety of different roles from low budget independent coming of age Comedies, Romantic Fantasies to big budgets Action Thrillers. Nicolas Cage has received the highest of critical acclaim by winning the Best Actor category at the Academy Awards for his betrayal of Ben Sanderson in the 1995 romantic drama Leaving Las Vegas.
+This shortlist has all of Nicolas Cage's Best Films to date, films included are The Rock, Face/Off and Raising Arizona.
+Simply pick your Favourite Nicolas Cage Movie and compare it your results with other Primomo users." /> 
+	<meta property="og:site_name" content="Primomo" />
+	<meta property="article:section" content="Movies" />  
+	<meta property="article:tag" content="Nicolas Cage, Michael Bay, Sean Connery, John Cusack , John Travolta, Angelina Jolie , Coen Brothers, Jared Leto , Meg Ryan, Ridley Scott, Meryl Streep" />  
+	<meta property="fb:admins" content="690322552, 598310032" />	
+
+	<link rel="stylesheet" href="/site/templates/components/normalize/normalize.min.css" />
+	<link rel="stylesheet" href="/site/templates/components/foundation/foundation.min.css" />
+	<link rel="stylesheet" href="/site/templates/components/animate-scss/animate.min.css" />
+
+	<script src="/site/templates/components/angular/angular.min.js"></script>
+	<script src="/site/templates/components/angular/angular-touch.min.js"></script>
+	<script src="/site/templates/components/angular-foundation/mm-foundation-tpls-0.8.0.min.js"></script>
+	<script src="/site/templates/components/modernizr.js"></script>
+	<script src="/site/templates/components/fastclick.js"></script>
+	
+	<script src="/site/templates/components/ng-FitText.js"></script>
+	<script src="/site/templates/components/flowtype.min.js"></script>
+	<script src="/site/templates/scripts/angular-swing.min.js"></script>
+	<script src="/site/templates/scripts/angular-equalizer.min.js"></script>
+	<script src="/site/templates/scripts/primomo.min.js"></script>
+	
+	<link rel="stylesheet" href="/site/templates/styles/primomo.min.css?" />
+	
+	<style class="game-colour">
+/* ccolour_base - base */
+.ccolour_base { background: #B03232}
+.ccolour_base-border { border-color: #B03232}
+.ccolour_base-text { color: #B03232}
+/* ccolour_d1 - darker 1 */
+.ccolour_d1 { background: #a02d2d}
+.ccolour_d1-border { border-color: #a02d2d}
+.ccolour_d1-text { color: #a02d2d}
+/* ccolour_d2 - darker 2 */
+.ccolour_d2 { background: #902929}
+.ccolour_d2-border { border-color: #902929}
+.ccolour_d2-text { color: #902929}
+/* ccolour_d3 - darker 3 */
+.ccolour_d3 { background: #802424}
+.ccolour_d3-border { border-color: #802424}
+.ccolour_d3-text { color: #802424}
+/* ccolour_l1 - lighter 1 */
+.ccolour_l1, {background: #c73a3a}
+.ccolour_l1-border { border-color: #c73a3a}
+.ccolour_l1-text { color: #c73a3a}
+/* Colour Styles */
+body, #viewport, .page-wrap:before {
+	background: #B03232	}
+.top-bar-section ul li, .top-bar-section li:not(.has-form) a:not(.button), .top-bar-section .has-form {
+	background: none;
+	}
+.top-bar-section li:not(.has-form) a:not(.button):hover, .top-bar-section ul li:hover:not(.has-form) > a, .top-bar-section .dropdown li:not(.has-form):not(.active) > a:not(.button) {
+	background: #902929	}
+html.touch .top-bar-section li.has-dropdown a:hover {
+	background:none;
+	}
+html.touch .top-bar-section li.has-dropdown.not-click a:hover {
+	background:#902929;
+	}
+.top-bar-section .dropdown li:not(.has-form):not(.active):hover > a:not(.button) {
+	background: #802424	}
+.top-bar, .fixednav, .top-bar .title-area, .top-bar.expanded .title-area {
+	background: #a02d2d	}	
+.top-bar input[type="text"] {
+	border-color: #a02d2d	}
+.accordian-percent {
+	background: #902929	}
+.results-header h3 {
+    color: #902929	}
+.sidebar-tags h4, .sidebar-cats h4 {
+    color: #902929	}	
+h3.section-header, h3.section-header a  {
+    color: #802424	}	
+h3.section-header a:hover  {
+    color: #902929	}		
+/* Medium and Up Only */	
+@media only screen and (min-width: 720px) {
+	.top-bar-section li.active:not(.has-form) a:not(.button) {
+		background: #a02d2d		}
+	.top-bar-section li.active:not(.has-form) a:not(.button):hover {
+		background: #902929		}
+	.top-bar-section .dropdown li.active:not(.has-form) a:not(.button) {
+		background: #902929		}
+	.top-bar-section .dropdown li.active:not(.has-form) a:not(.button):hover {
+		background: #802424		}		
+	}
+/* Small Only */	
+@media only screen and (max-width: 719px) {
+	.top-bar-section ul li, .top-bar-section .has-form {
+		background: #902929		}
+	.top-bar-section li:not(.has-form) a:not(.button):hover, .top-bar-section ul li:hover:not(.has-form) > a {
+		background: #802424		}
+	}
+</style>
+<style class="cat-colours">
+.catcolour_sport_standard{background:#1FA464;}.catcolour_sport_inverted *{color:#1FA464 !important;}.catcolour_entertainment_standard{background:#B03232;}.catcolour_entertainment_inverted *{color:#B03232 !important;}.catcolour_lifestyle_standard{background:#9B2C6F;}.catcolour_lifestyle_inverted *{color:#9B2C6F !important;}	
+</style>	<link href='https://fonts.googleapis.com/css?family=Comfortaa:300,400,700' rel='stylesheet' type='text/css'>
+	</head>	
+<body class='template-list'
+ng-app="primomoApp">
+
+<div><div ng-init="deckArray=[{name:'The Rock', subtitle:'', image:'/site/assets/files/13964/the_rock_movie.300x300.jpg', copyright:'Buena Vista Pictures Distribution', plays:81, wins:43, gamePlays:0, gameWins:0, cardPageId:13964},{name:'Con Air', subtitle:'', image:'/site/assets/files/13965/conairinternational.300x300.jpg', copyright:'Buena Vista Pictures', plays:122, wins:91, gamePlays:0, gameWins:0, cardPageId:13965},{name:'Face/Off', subtitle:'', image:'/site/assets/files/13966/faceoff_1997_film_poster.300x300.jpg', copyright:'Buena Vista International', plays:89, wins:56, gamePlays:0, gameWins:0, cardPageId:13966},{name:'National Treasure', subtitle:'', image:'/site/assets/files/13967/movie_national_treasure.300x300.jpg', copyright:'Walt Disney Studios', plays:66, wins:29, gamePlays:0, gameWins:0, cardPageId:13967},{name:'Gone in 60 Seconds', subtitle:'', image:'/site/assets/files/13968/gone_in_sixty_seconds.300x300.jpg', copyright:'Walt Disney Studios', plays:85, wins:50, gamePlays:0, gameWins:0, cardPageId:13968},{name:'Leaving Las Vegas', subtitle:'', image:'/site/assets/files/13969/leaving_las_vegas_ver1.300x300.jpg', copyright:'United Artists', plays:73, wins:36, gamePlays:0, gameWins:0, cardPageId:13969},{name:'Raising Arizona', subtitle:'', image:'/site/assets/files/13970/raising-arizona-poster.300x300.jpg', copyright:'20th Century Fox', plays:63, wins:25, gamePlays:0, gameWins:0, cardPageId:13970},{name:'Lord of War', subtitle:'', image:'/site/assets/files/13971/lordofwar.300x300.jpg', copyright:'Lionsgate Films', plays:63, wins:25, gamePlays:0, gameWins:0, cardPageId:13971},{name:'City of Angels', subtitle:'', image:'/site/assets/files/13973/city_of_angels.300x300.jpg', copyright:'Warner Bros.', plays:68, wins:30, gamePlays:0, gameWins:0, cardPageId:13973},{name:'Kick-Ass', subtitle:'', image:'/site/assets/files/13974/kick-ass_film_poster.300x300.jpg', copyright:'Universal Pictures', plays:59, wins:20, gamePlays:0, gameWins:0, cardPageId:13974},{name:'Matchstick Men', subtitle:'', image:'/site/assets/files/13975/matchstick_men.300x300.jpg', copyright:'Warner Bros. Pictures', plays:57, wins:20, gamePlays:0, gameWins:0, cardPageId:13975},{name:'Adaptation', subtitle:'', image:'/site/assets/files/13976/adaptation__film.300x300.jpg', copyright:'Columbia Pictures', plays:54, wins:15, gamePlays:0, gameWins:0, cardPageId:13976},]; gameArray=[{title:'Best Nicolas Cage Movie', interrogative:'Which is', possessive:' ', possessiveAlt:'', subject:'the Best Nicolas Cage Movie', summary:'Which is  the Best Nicolas Cage Movie?'}]; pageId=13963;"></div></div>
+
+<div ng-controller="primomoController" class="page-wrap">
+
+<div class="fixednav">
+	<div class="row topbar-container">
+		<top-bar id="top-menu" class="top-bar top-menu" mobile-show-parent-link="true" is-hover="false">
+			<ul class="title-area">
+				<li class="name">
+					<h1><a href="/"><img class="primomo-logo" src="/site/templates/images/primomologotext.svg"><span></span></a></h1>
+				</li>
+				<li toggle-top-bar onclick="document.getElementById('top-search').classList.remove('expanded')" class="toggle-topbar toggle-topbar-main menu-icon"><a href=""><span></span></a></li>
+			</ul>
+			<top-bar-section ng-cloakx>
+				<ul class="right">
+					
+					
+<ul class="primenu">
+	<li>
+		<a href='/categories/entertainment/'>Entertainment</a>
+	</li>
+	<li>
+		<a href='/categories/sport/'>Sport</a>
+	</li>
+	<li>
+		<a href='/categories/lifestyle/'>Lifestyle</a>
+	</li>
+</ul>					
+					<li has-dropdown class="primenu-hasdropdown">
+						<a>More</a>
+						<ul top-bar-dropdown ng-cloak>
+							
+<ul class="more-menu">
+	<li>
+		<a href='/categories/entertainment/tv/'>TV</a>
+	</li>
+	<li>
+		<a href='/categories/lifestyle/people/'>People</a>
+	</li>
+	<li>
+		<a href='/categories/sport/football/'>Football</a>
+	</li>
+	<li>
+		<a href='/categories/lifestyle/food/'>Food</a>
+	</li>
+	<li>
+		<a href='/categories/entertainment/music/'>Music</a>
+	</li>
+	<li>
+		<a href='/categories/entertainment/movies/'>Movies</a>
+	</li>
+	<li>
+		<a href='/categories/'>All Categories</a>
+	</li>
+</ul>						</ul>
+					</li>
+					
+					<ul>
+						<li class="has-form search-form-medium-up">
+						    <div class="row collapse">
+						      <div class="large-12 small-12 columns">
+						        <form id="site-search-form" class="clearfix" action="/search/" method="get">
+									<input type="text" name="q" value="" placeholder="Search">
+								</form>
+						      </div>
+						    </div>
+						</li>
+					</ul>
+					
+				</ul>
+			</top-bar-section>
+		</top-bar>
+		
+		<top-bar id="top-search" class="top-bar top-search show-for-small-only" data-topbar="" style="height: 45px">
+			<ul class="title-area">
+				<li class="name"></li>
+				<li toggle-top-bar onclick="document.getElementById('top-menu').classList.remove('expanded')" class="toggle-topbar toggle-topbar-search menu-icon"><a href=""><span></span></a></li>
+			</ul>
+			<top-bar-section ng-cloak>
+				<ul>
+				  <li class="has-form search-form-small-only">
+				    <div class="row collapse">
+				      <div class="large-12 small-12 columns">
+				        <form id="site-search-form" class="clearfix" action="/search/" method="get">
+							<input type="text" name="q" value="" placeholder="Search">
+						</form>
+				      </div>
+				    </div>
+				  </li>
+				</ul>
+			</top-bar-section>
+		</top-bar>
+	</div>
+</div>
+
+
+<div class="row-container ccolour_base main-header">
+	<div class="row">
+		<div class="column">
+			<h2 class="top-header">Best Nicolas Cage Movie</h2>
+		</div>
+	</div>
+	</div>
+
+<div id="body-wrap">
+	<div class="row-container">
+	<div class="row list-grid-row" id="sectionid1">
+		<div class="column">
+			<h3 class="left section-header">Related Lists</a></h3>
+				
+		</div>
+		
+		
+			<div class="column list-grid">
+				<div equalizer class="row">
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-1828'>
+
+	<a href='/list/best-coen-brothers-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/1828/best-coen-brothers-movie-tmlsyouq.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Coen Brothers Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-1718'>
+
+	<a href='/list/best-quentin-tarantino-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/1718/best-quentin-tarantino-movie-wdjugjyd.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Quentin Tarantino Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-1390'>
+
+	<a href='/list/greatest-road-trip-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/1390/greatest-road-trip-movie-kqr3iyhj.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest Road Trip Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-1324'>
+
+	<a href='/list/best-james-bond-ever/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/1324/best-james-bond-ever-uenalyqz.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best James Bond Ever</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-1216'>
+
+	<a href='/list/best-steven-spielberg-film/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/1216/best-steven-spielburg-movie-mpvtbi1c.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Steven Spielberg Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+									</div>
+			</div>	
+						<div class="column"><div class='pagination-centered'><ul class='pagination'><li class='MarkupPagerNavPrevious MarkupPagerNavFirst'><a href='/list/best-nicolas-cage-movie/page2'><span><<</span></a></li><li class='MarkupPagerNavFirstNum'><a href='/list/best-nicolas-cage-movie/'><span>1</span></a></li><li><a href='/list/best-nicolas-cage-movie/page2'><span>2</span></a></li><li class='current MarkupPagerNavLast MarkupPagerNavLastNum'><a href='/list/best-nicolas-cage-movie/page3'><span>3</span></a></li></ul></div></div>	</div>
+</div></div>
+
+</div> <!--ng-controller-->
+<footer class="ccolour_base">
+
+<div class="row">
+	<div class="medium-4 medium-push-8 columns">
+		<ul class="footer-social">
+			<li>
+				<a href="" class="xxx" style="opacity: 0 !important"></a>
+			</li>
+			<li>
+				<a href="" class="xxx" style="opacity: 0 !important"></a>
+			</li>
+			<!-- <li><a href="/about" class="mail"></a></li> -->
+		</ul>
+	</div>
+	<div class="medium-8 medium-pull-4 columns">		
+	</div>
+</div>
+
+</footer>
+<script>
+flowtype(document.body.querySelector('#stack-container'), {
+   minimum   : 0,
+   maximum   : 600,
+   minFont   : 1,
+   maxFont   : 50,
+   fontRatio : 14,
+   lineRatio : 1.45
+});	
+flowtype(document.body.querySelector('#gamemessage-container'), {
+   minimum   : 0,
+   maximum   : 600,
+   minFont   : 1,
+   maxFont   : 50,
+   fontRatio : 14,
+   lineRatio : 1.45
+});	
+</script>
+</body>
+</html>

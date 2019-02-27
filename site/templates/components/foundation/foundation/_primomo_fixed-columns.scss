@@ -1,0 +1,49 @@
+@mixin fixed($width, $direction) {
+  position: relative;
+  z-index: 1;
+  width: rem-calc($width) + $column-gutter;
+  top: 0;
+  @if $direction == left {
+    left: 0;
+    float: left;
+  } @else {
+    right: 0;
+    float: right;
+  }
+}
+@mixin fluid($width, $direction) {
+  position: relative;
+  @if $direction == left {
+    padding-right: rem-calc($width) + ($column-gutter * 1.5);
+    margin-right: (rem-calc($width) + ($column-gutter * 1.5)) * -1;
+    float: left !important;
+  } @else {
+    padding-left: rem-calc($width) + ($column-gutter * 1.5);
+    margin-left: (rem-calc($width) + ($column-gutter * 1.5)) * -1;
+    float: right !important;
+  }
+}
+
+// Fixed 300px + 2px for border
+.row { position: relative; }
+@media #{$small-up} {
+  .small-fixed-300-left.column { @include fixed(308, left); }
+  .small-fixed-300-right.column { @include fixed(308, right); }
+  .small-fluid-300-left.column { @include fluid(308, left); }
+  .small-fluid-300-right.column { @include fluid(308, right); }
+}
+@media #{$medium-up} {
+  .medium-fixed-300-left.column { @include fixed(308, left); }
+  .medium-fixed-300-right.column { @include fixed(308, right); }
+  .medium-fluid-300-left.column { @include fluid(308, left); }
+  .medium-fluid-300-right.column { @include fluid(308, right); }
+}
+@media #{$large-up} {
+  .large-fixed-300-left.column { @include fixed(308, left); }
+  .large-fixed-300-right.column { @include fixed(308, right); }
+  .large-fluid-300-left.column { @include fluid(308, left); }
+  .large-fluid-300-right.column { @include fluid(308, right); }
+}
+
+// fix for fixed position on row element
+.fixed {position: fixed !important;}

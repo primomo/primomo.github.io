@@ -1,0 +1,26 @@
+.sidebar-tags a, .sidebar-cats a {
+    background: #B3B3B3;
+    border-bottom-left-radius: 0.8em ;
+    border-top-right-radius: 0.8em ;
+    color: white;
+    display: inline-block;
+    font-size: 0.6em;
+    letter-spacing: 0.1em;
+    margin: 0 0.7em 0.5em 0em;
+    padding: 0em 0.8em;
+}
+
+.sidebar-tags a:hover, .sidebar-cats a:hover {
+    background: grey;
+    color: white;
+    opacity: 0.7;
+}
+
+.sidebar-tags h4, .sidebar-cats h4 {
+    margin-top: 0.7em;
+}
+
+.sidebar-cats h4 {
+    temp: yep;
+    margin-top: 0em !important;
+}

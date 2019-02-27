@@ -1,0 +1,88 @@
+.read-more-state {
+display: none;
+}
+
+.read-more-wrap {
+position: relative;
+}
+
+.read-more-state ~ .read-more-wrap {
+opacity: 1;
+font-size: inherit;
+height: auto;
+max-height: 105px;
+overflow: hidden;
+transition: linear 0.25s;
+}
+
+.read-more-state:checked ~ .read-more-wrap {
+opacity: 1;
+font-size: inherit;
+height: auto;
+max-height: 1em;
+overflow: hidden;
+transition: linear 0.25s;
+}
+
+.read-more-state ~ .read-more-wrap::before {
+content: '';
+background: linear-gradient(to bottom, rgba(255, 255, 255, 0) 0%, #f0f0f0 100%);
+position: absolute;
+bottom: 0;
+width: 100%;
+height: 3.0rem;
+z-index: 1;
+opacity: 1;
+transition: linear 0.25s;
+}
+
+.read-more-state:checked ~ .read-more-wrap::before {
+opacity: 0;
+transition: linear 0.25s;
+}
+
+.read-more-state ~ .read-more-trigger:before {
+content: 'more';
+}
+
+.read-more-state:checked ~ .read-more-trigger:before {
+content: 'less';
+}
+
+.read-more-trigger {
+cursor: pointer;
+display: inline-block;
+padding: 0 .5rem;
+color: #666;
+font-size: .9rem;
+right: 0;
+position: absolute;
+background: #f0f0f0;
+bottom: 0rem;
+z-index: 1;
+box-shadow: 0px 0px 15px 15px rgba(240,240,240,1);
+transition: linear 0.25s;
+}
+
+.read-more-state:checked ~ .read-more-trigger {
+box-shadow: 0px 0px 15px 15px rgba(240,240,240,0);
+}
+
+.read-more-outerwrap {
+margin-top: 2rem;
+position: relative;
+}
+
+.read-more-wrap p {
+font-size: 15px;
+}
+
+.read-more-inner {
+overflow: auto;
+}
+
+@media only screen and (max-width: $small-breakpoint) { 
+.read-more-outerwrap {
+	margin-bottom: 2rem;
+}
+}

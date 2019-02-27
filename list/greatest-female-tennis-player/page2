@@ -1,0 +1,462 @@
+<!DOCTYPE html>
+<!--[if IE 9]><html class="lt-ie10" lang="en" > <![endif]-->
+<html class="no-js" lang="en" itemscope itemtype="http://schema.org/ItemList">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+	<style type="text/css">@charset "UTF-8";[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {display: none !important;}</style>	
+	<link rel="canonical" href="">
+	
+		
+	
+	<!-- Meta -->
+	<title>Greatest Female Tennis Player - Primomo</title>
+	<meta name="description" content="Who is the Greatest Female Tennis Player of All Time?
+
+This list includes 22-time Grand Slam Winner Steffi Graf, 7-time Wimbledon singles champion Serena Williams &amp; 9-time winner Martina Navratilova. Or will you prefer to see Ana Ivanovic, Margaret Court or Billie Jean King ranked the Greatest World Number 1? 
+
+Drop us a line, if you have any comments or you wish to suggest a new list idea, please contact us here." />
+	<!-- Schema -->
+	<meta itemprop="name" content="Greatest Female Tennis Player">
+	<meta itemprop="description" content="Who is the Greatest Female Tennis Player of All Time?
+
+This list includes 22-time Grand Slam Winner Steffi Graf, 7-time Wimbledon singles champion Serena Williams &amp; 9-time winner Martina Navratilova. Or will you prefer to see Ana Ivanovic, Margaret Court or Billie Jean King ranked the Greatest World Number 1? 
+
+Drop us a line, if you have any comments or you wish to suggest a new list idea, please contact us here."> 
+	<meta itemprop="image" content=""> 
+	 <meta itemprop="itemListOrder" content="Descending" /> 	<!-- Twitter -->
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:site" content="@playprimomo">
+	<meta name="twitter:title" content="Greatest Female Tennis Player">
+	<meta name="twitter:description" content="Who is the Greatest Female Tennis Player of All Time?
+
+This list includes 22-time Grand Slam Winner Steffi Graf, 7-time Wimbledon singles champion Serena Williams &amp; 9-time winner Martina Navratilova. Or will you prefer to see Ana Ivanovic, Margaret Court or Billie Jean King ranked the Greatest World Number 1? 
+
+Drop us a line, if you have any comments or you wish to suggest a new list idea, please contact us here."> 
+	<meta name="twitter:creator" content="@playprimomo">
+	<meta name="twitter:image:src" content=""> 
+	<!-- Open Graph -->
+	<meta property="og:title" content="Greatest Female Tennis Player" />
+	<meta property="og:type" content="article" /> 
+	<meta property="og:url" content="" /> 
+	<meta property="og:image" content=""> 
+	<meta property="og:image:width" content="500"> 
+	<meta property="og:image:height" content="300"> 
+	<meta property="og:description" content="Who is the Greatest Female Tennis Player of All Time?
+
+This list includes 22-time Grand Slam Winner Steffi Graf, 7-time Wimbledon singles champion Serena Williams &amp; 9-time winner Martina Navratilova. Or will you prefer to see Ana Ivanovic, Margaret Court or Billie Jean King ranked the Greatest World Number 1? 
+
+Drop us a line, if you have any comments or you wish to suggest a new list idea, please contact us here." /> 
+	<meta property="og:site_name" content="Primomo" />
+	<meta property="article:section" content="Tennis" />  
+	<meta property="article:tag" content="Tennis, Wimbledon, French Open, Australian Open, US Open, Melbourne, Paris, London, Grass, Hard, Clay, Grand Slam" />  
+	<meta property="fb:admins" content="690322552, 598310032" />	
+
+	<link rel="stylesheet" href="/site/templates/components/normalize/normalize.min.css" />
+	<link rel="stylesheet" href="/site/templates/components/foundation/foundation.min.css" />
+	<link rel="stylesheet" href="/site/templates/components/animate-scss/animate.min.css" />
+
+	<script src="/site/templates/components/angular/angular.min.js"></script>
+	<script src="/site/templates/components/angular/angular-touch.min.js"></script>
+	<script src="/site/templates/components/angular-foundation/mm-foundation-tpls-0.8.0.min.js"></script>
+	<script src="/site/templates/components/modernizr.js"></script>
+	<script src="/site/templates/components/fastclick.js"></script>
+	
+	<script src="/site/templates/components/ng-FitText.js"></script>
+	<script src="/site/templates/components/flowtype.min.js"></script>
+	<script src="/site/templates/scripts/angular-swing.min.js"></script>
+	<script src="/site/templates/scripts/angular-equalizer.min.js"></script>
+	<script src="/site/templates/scripts/primomo.min.js"></script>
+	
+	<link rel="stylesheet" href="/site/templates/styles/primomo.min.css?" />
+	
+	<style class="game-colour">
+/* ccolour_base - base */
+.ccolour_base { background: #1FA464}
+.ccolour_base-border { border-color: #1FA464}
+.ccolour_base-text { color: #1FA464}
+/* ccolour_d1 - darker 1 */
+.ccolour_d1 { background: #1c935a}
+.ccolour_d1-border { border-color: #1c935a}
+.ccolour_d1-text { color: #1c935a}
+/* ccolour_d2 - darker 2 */
+.ccolour_d2 { background: #19824f}
+.ccolour_d2-border { border-color: #19824f}
+.ccolour_d2-text { color: #19824f}
+/* ccolour_d3 - darker 3 */
+.ccolour_d3 { background: #157145}
+.ccolour_d3-border { border-color: #157145}
+.ccolour_d3-text { color: #157145}
+/* ccolour_l1 - lighter 1 */
+.ccolour_l1, {background: #24be74}
+.ccolour_l1-border { border-color: #24be74}
+.ccolour_l1-text { color: #24be74}
+/* Colour Styles */
+body, #viewport, .page-wrap:before {
+	background: #1FA464	}
+.top-bar-section ul li, .top-bar-section li:not(.has-form) a:not(.button), .top-bar-section .has-form {
+	background: none;
+	}
+.top-bar-section li:not(.has-form) a:not(.button):hover, .top-bar-section ul li:hover:not(.has-form) > a, .top-bar-section .dropdown li:not(.has-form):not(.active) > a:not(.button) {
+	background: #19824f	}
+html.touch .top-bar-section li.has-dropdown a:hover {
+	background:none;
+	}
+html.touch .top-bar-section li.has-dropdown.not-click a:hover {
+	background:#19824f;
+	}
+.top-bar-section .dropdown li:not(.has-form):not(.active):hover > a:not(.button) {
+	background: #157145	}
+.top-bar, .fixednav, .top-bar .title-area, .top-bar.expanded .title-area {
+	background: #1c935a	}	
+.top-bar input[type="text"] {
+	border-color: #1c935a	}
+.accordian-percent {
+	background: #19824f	}
+.results-header h3 {
+    color: #19824f	}
+.sidebar-tags h4, .sidebar-cats h4 {
+    color: #19824f	}	
+h3.section-header, h3.section-header a  {
+    color: #157145	}	
+h3.section-header a:hover  {
+    color: #19824f	}		
+/* Medium and Up Only */	
+@media only screen and (min-width: 720px) {
+	.top-bar-section li.active:not(.has-form) a:not(.button) {
+		background: #1c935a		}
+	.top-bar-section li.active:not(.has-form) a:not(.button):hover {
+		background: #19824f		}
+	.top-bar-section .dropdown li.active:not(.has-form) a:not(.button) {
+		background: #19824f		}
+	.top-bar-section .dropdown li.active:not(.has-form) a:not(.button):hover {
+		background: #157145		}		
+	}
+/* Small Only */	
+@media only screen and (max-width: 719px) {
+	.top-bar-section ul li, .top-bar-section .has-form {
+		background: #19824f		}
+	.top-bar-section li:not(.has-form) a:not(.button):hover, .top-bar-section ul li:hover:not(.has-form) > a {
+		background: #157145		}
+	}
+</style>
+<style class="cat-colours">
+.catcolour_sport_standard{background:#1FA464;}.catcolour_sport_inverted *{color:#1FA464 !important;}.catcolour_entertainment_standard{background:#B03232;}.catcolour_entertainment_inverted *{color:#B03232 !important;}.catcolour_lifestyle_standard{background:#9B2C6F;}.catcolour_lifestyle_inverted *{color:#9B2C6F !important;}	
+</style>	<link href='https://fonts.googleapis.com/css?family=Comfortaa:300,400,700' rel='stylesheet' type='text/css'>
+	</head>	
+<body class='template-list'
+ng-app="primomoApp">
+
+<div><div ng-init="deckArray=[{name:'Steffi Graf', subtitle:'', image:'/site/assets/files/1621/411px-steffi_graf_in_hamburg_2010_cropped-v1433197594.300x300.jpg', copyright:'By Steffi_Graf_in_Hamburg.jpg: Mark Henckel from Hamburg-Altona, Deutschland (http://sommer-in-hamburg.de/) derivative work: César [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons', plays:21, wins:16, gamePlays:0, gameWins:0, cardPageId:1621},{name:'Martina Navratilova', subtitle:'', image:'/site/assets/files/1622/martina-navratilova-wbqizoxd.300x300.jpg', copyright:'By User:Michal.Pohorelsky Cropped by User:Vanjagenije (cropped from: Navratilova-PragueOpen2006-05.jpg) [GFDL (http://www.gnu.org/copyleft/fdl.html), CC-BY-SA-3.0 (http://creativecommons.org/licenses/by-sa/3.0/) or CC BY 2.5 (http://creativecommons.org/licenses/by/2.5)], via Wikimedia Commons', plays:9, wins:3, gamePlays:0, gameWins:0, cardPageId:1622},{name:'Margaret Court', subtitle:'', image:'/site/assets/files/1623/margaret_court_1964-v1433197706.300x300.jpg', copyright:'By Koch, Eric / Anefo [CC BY-SA 3.0 nl (http://creativecommons.org/licenses/by-sa/3.0/nl/deed.en)], via Wikimedia Commons', plays:8, wins:2, gamePlays:0, gameWins:0, cardPageId:1623},{name:'Chris Evert', subtitle:'', image:'/site/assets/files/1624/448px-chris_evert-v1433197760.300x300.jpg', copyright:'By unknown, Florida Memory (Chris Evert) [see page for license], via Wikimedia Commons', plays:8, wins:2, gamePlays:0, gameWins:0, cardPageId:1624},{name:'Billie Jean King', subtitle:'', image:'/site/assets/files/1625/343px-bjk_headshot_2011_5x7_300dpi-v1433197819.300x300.jpg', copyright:'By Jonathan Exley (Billie Jean King Enterprises, Inc.) [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons', plays:6, wins:0, gamePlays:0, gameWins:0, cardPageId:1625},{name:'Serena Williams', subtitle:'', image:'/site/assets/files/1626/serena_williams_winning_wimbledon_ladies_singles_2012-v1433197866.300x300.jpg', copyright:'By Paulobrad (Own work) [CC BY-SA 4.0 (http://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons', plays:12, wins:6, gamePlays:0, gameWins:0, cardPageId:1626},{name:'Monica Seles', subtitle:'', image:'/site/assets/files/1627/monica-seles-7rl343od.300x300.jpg', copyright:'By http://www.flickr.com/photos/madmarlin_/ [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons', plays:7, wins:1, gamePlays:0, gameWins:0, cardPageId:1627},{name:'Venus Williams', subtitle:'', image:'/site/assets/files/1628/360px-venus_williams_2012-v1433197989.300x300.jpg', copyright:'By Ken Maynard (Flickr: Venus Williams) [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons', plays:14, wins:9, gamePlays:0, gameWins:0, cardPageId:1628},{name:'Justine Henin', subtitle:'', image:'/site/assets/files/1630/justine_henin_hardenne_medibank_international_2006_small-v1433198086.300x300.jpg', copyright:'By Glenn Thomas [CC BY-SA 2.5 (http://creativecommons.org/licenses/by-sa/2.5)], via Wikimedia Commons', plays:12, wins:6, gamePlays:0, gameWins:0, cardPageId:1630},{name:'Maureen Connolly', subtitle:'', image:'/site/assets/files/1631/maureen_connolly_1953-v1433198140.300x300.jpg', copyright:'By Pot, Harry / Anefo [CC BY-SA 3.0 nl (http://creativecommons.org/licenses/by-sa/3.0/nl/deed.en)], via Wikimedia Commons', plays:11, wins:6, gamePlays:0, gameWins:0, cardPageId:1631},{name:'Helen Wills', subtitle:'', image:'/site/assets/files/1632/helen-wills-anaotync.300x300.jpg', copyright:'Agence de presse Meurisse‏ [Public domain], via Wikimedia Commons', plays:12, wins:6, gamePlays:0, gameWins:0, cardPageId:1632},{name:'Martina Hingis', subtitle:'', image:'/site/assets/files/1633/483px-martina_hingis-_2006-v1433198270.300x300.jpg', copyright:'By Graffiti By Numbers (&amp;quot;Graffiti By Numbers&amp;quot;&amp;#039;s flickr account) [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons', plays:13, wins:7, gamePlays:0, gameWins:0, cardPageId:1633},{name:'Evonne Goolagong Cawley', subtitle:'', image:'/site/assets/files/1634/evonne_goolagong_1971-v1433198330.300x300.jpg', copyright:'By (...) Punt / Anefo (Nationaal Archief) [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons', plays:8, wins:2, gamePlays:0, gameWins:0, cardPageId:1634},{name:'Lindsay Davenport', subtitle:'', image:'/site/assets/files/1637/lindsay-davenport-xao7vpns.300x300.jpg', copyright:'By Donna &amp;amp; Keith (Lindsay Davenport) [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons', plays:15, wins:9, gamePlays:0, gameWins:0, cardPageId:1637},{name:'Arantxa Sánchez Vicario', subtitle:'', image:'/site/assets/files/1638/arantxa_sanchez_vicario-v1433198556.300x300.jpg', copyright:'By Bill Mitchell (Bill Mitchell.) [Attribution], via Wikimedia Commons', plays:7, wins:1, gamePlays:0, gameWins:0, cardPageId:1638},{name:'Kim Clijsters', subtitle:'', image:'/site/assets/files/1639/320px-kim_clijsters-v1433198597.300x300.jpg', copyright:'By Vegafi (Own work) [CC0], via Wikimedia Commons', plays:16, wins:10, gamePlays:0, gameWins:0, cardPageId:1639},{name:'Ana Ivanovic', subtitle:'', image:'/site/assets/files/1641/ana-ivanovic-dqs95eo1.300x300.jpg', copyright:'By Tatiana from Moscow, Russia (Ana Ivanovic) [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons', plays:25, wins:21, gamePlays:0, gameWins:0, cardPageId:1641},{name:'Maria Sharapova', subtitle:'', image:'/site/assets/files/1642/maria-sharapova-5p0plo9h.300x300.jpg', copyright:'By si.robi (Sharapova MA14 (19)) [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons', plays:14, wins:9, gamePlays:0, gameWins:0, cardPageId:1642},]; gameArray=[{title:'Greatest Female Tennis Player', interrogative:'Who is', possessive:' ', possessiveAlt:'', subject:'the Greatest Female Tennis Player', summary:'Serving up the best female tennis stars, but who\'s the greatest of all time?'}]; pageId=1620;"></div></div>
+
+<div ng-controller="primomoController" class="page-wrap">
+
+<div class="fixednav">
+	<div class="row topbar-container">
+		<top-bar id="top-menu" class="top-bar top-menu" mobile-show-parent-link="true" is-hover="false">
+			<ul class="title-area">
+				<li class="name">
+					<h1><a href="/"><img class="primomo-logo" src="/site/templates/images/primomologotext.svg"><span></span></a></h1>
+				</li>
+				<li toggle-top-bar onclick="document.getElementById('top-search').classList.remove('expanded')" class="toggle-topbar toggle-topbar-main menu-icon"><a href=""><span></span></a></li>
+			</ul>
+			<top-bar-section ng-cloakx>
+				<ul class="right">
+					
+					
+<ul class="primenu">
+	<li>
+		<a href='/categories/entertainment/'>Entertainment</a>
+	</li>
+	<li>
+		<a href='/categories/sport/'>Sport</a>
+	</li>
+	<li>
+		<a href='/categories/lifestyle/'>Lifestyle</a>
+	</li>
+</ul>					
+					<li has-dropdown class="primenu-hasdropdown">
+						<a>More</a>
+						<ul top-bar-dropdown ng-cloak>
+							
+<ul class="more-menu">
+	<li>
+		<a href='/categories/entertainment/tv/'>TV</a>
+	</li>
+	<li>
+		<a href='/categories/lifestyle/people/'>People</a>
+	</li>
+	<li>
+		<a href='/categories/sport/football/'>Football</a>
+	</li>
+	<li>
+		<a href='/categories/lifestyle/food/'>Food</a>
+	</li>
+	<li>
+		<a href='/categories/entertainment/music/'>Music</a>
+	</li>
+	<li>
+		<a href='/categories/entertainment/movies/'>Movies</a>
+	</li>
+	<li>
+		<a href='/categories/'>All Categories</a>
+	</li>
+</ul>						</ul>
+					</li>
+					
+					<ul>
+						<li class="has-form search-form-medium-up">
+						    <div class="row collapse">
+						      <div class="large-12 small-12 columns">
+						        <form id="site-search-form" class="clearfix" action="/search/" method="get">
+									<input type="text" name="q" value="" placeholder="Search">
+								</form>
+						      </div>
+						    </div>
+						</li>
+					</ul>
+					
+				</ul>
+			</top-bar-section>
+		</top-bar>
+		
+		<top-bar id="top-search" class="top-bar top-search show-for-small-only" data-topbar="" style="height: 45px">
+			<ul class="title-area">
+				<li class="name"></li>
+				<li toggle-top-bar onclick="document.getElementById('top-menu').classList.remove('expanded')" class="toggle-topbar toggle-topbar-search menu-icon"><a href=""><span></span></a></li>
+			</ul>
+			<top-bar-section ng-cloak>
+				<ul>
+				  <li class="has-form search-form-small-only">
+				    <div class="row collapse">
+				      <div class="large-12 small-12 columns">
+				        <form id="site-search-form" class="clearfix" action="/search/" method="get">
+							<input type="text" name="q" value="" placeholder="Search">
+						</form>
+				      </div>
+				    </div>
+				  </li>
+				</ul>
+			</top-bar-section>
+		</top-bar>
+	</div>
+</div>
+
+
+<div class="row-container ccolour_base main-header">
+	<div class="row">
+		<div class="column">
+			<h2 class="top-header">Greatest Female Tennis Player</h2>
+		</div>
+	</div>
+	</div>
+
+<div id="body-wrap">
+	<div class="row-container">
+	<div class="row list-grid-row" id="sectionid1">
+		<div class="column">
+			<h3 class="left section-header">Related Lists</a></h3>
+				
+		</div>
+		
+		
+			<div class="column list-grid">
+				<div equalizer class="row">
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_sport_standard catcolorstyle_standard' id='list-3470'>
+
+	<a href='/list/greatest-crystal-palace-player/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/3470/821px-crystal_palace_fc_logo_svg.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest Crystal Palace Player</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_lifestyle_standard catcolorstyle_standard' id='list-3452'>
+
+	<a href='/list/best-hat/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/3452/hats.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Hat</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-2457'>
+
+	<a href='/list/best-musical/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/2457/queen_27s_theatre_by_day.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Musical</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_sport_standard catcolorstyle_standard' id='list-2271'>
+
+	<a href='/list/best-football-stadia/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/2271/best-football-stadia-liltgpue.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Football Stadia</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_sport_standard catcolorstyle_standard' id='list-2245'>
+
+	<a href='/list/greatest-west-ham-player/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/2245/greatest-west-ham-player-ez6cdvnw.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest West Ham Player</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_sport_standard catcolorstyle_standard' id='list-1769'>
+
+	<a href='/list/greatest-arsenal-player/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/1769/greatest-arsenal-player-hp946j4e.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest Arsenal Player</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_sport_standard catcolorstyle_standard' id='list-1741'>
+
+	<a href='/list/greatest-spurs-player/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/1741/greatest-spurs-player-w2v9jkpn.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest Spurs Player</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_sport_standard catcolorstyle_standard' id='list-1670'>
+
+	<a href='/list/greatest-chelsea-player/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/1670/greatest-chelsea-player-akaqvfse.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest Chelsea Player</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_sport_standard catcolorstyle_standard' id='list-1588'>
+
+	<a href='/list/greatest-male-tennis-player/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/1588/greatest-male-tennis-player-dv0h4rop.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest Male Tennis Player</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+									</div>
+			</div>	
+						<div class="column"><div class='pagination-centered'><ul class='pagination'><li class='MarkupPagerNavPrevious MarkupPagerNavFirst'><a href='/list/greatest-female-tennis-player/'><span><<</span></a></li><li class='MarkupPagerNavFirstNum'><a href='/list/greatest-female-tennis-player/'><span>1</span></a></li><li class='current MarkupPagerNavLast MarkupPagerNavLastNum'><a href='/list/greatest-female-tennis-player/page2'><span>2</span></a></li></ul></div></div>	</div>
+</div></div>
+
+</div> <!--ng-controller-->
+<footer class="ccolour_base">
+
+<div class="row">
+	<div class="medium-4 medium-push-8 columns">
+		<ul class="footer-social">
+			<li>
+				<a href="" class="xxx" style="opacity: 0 !important"></a>
+			</li>
+			<li>
+				<a href="" class="xxx" style="opacity: 0 !important"></a>
+			</li>
+			<!-- <li><a href="/about" class="mail"></a></li> -->
+		</ul>
+	</div>
+	<div class="medium-8 medium-pull-4 columns">		
+	</div>
+</div>
+
+</footer>
+<script>
+flowtype(document.body.querySelector('#stack-container'), {
+   minimum   : 0,
+   maximum   : 600,
+   minFont   : 1,
+   maxFont   : 50,
+   fontRatio : 14,
+   lineRatio : 1.45
+});	
+flowtype(document.body.querySelector('#gamemessage-container'), {
+   minimum   : 0,
+   maximum   : 600,
+   minFont   : 1,
+   maxFont   : 50,
+   fontRatio : 14,
+   lineRatio : 1.45
+});	
+</script>
+</body>
+</html>

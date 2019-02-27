@@ -1,0 +1,42 @@
+
+
+.ad-holder-300-250 {
+    background: rgba(255, 255, 255, 0.30);
+    border: 0px solid #cbcbcb;
+    box-shadow: 0px 0px 4px 0px rgba(0,0,0,0.06),0px 0px 8px 0px rgba(0,0,0,0.05);
+    box-sizing: border-box ;
+    display: table-cell;
+    height: 250px;
+    margin: 0em auto 1.4em;
+    min-height: 250px ;
+    padding: 4px;
+    text-align: center;
+    width: 300px ;
+}
+
+.ad-holder-728-90 {
+    background: #fff;
+    border: 1px solid #cbcbcb;
+    box-sizing: content-box;
+    height: 90px;
+    margin: 0px auto 0px;
+    width: 728px;
+}
+
+.ad-holder {
+    display: block !important;
+}
+
+// move cookie notice above mobile footer ad
+html.touch body.template-list #mCCForm {
+    padding-bottom: 54px;
+}
+
+// hide mobile footer ad on desktop
+html.no-touch #rhw_footer {
+    display: none !important;
+}
+
+html.touch body.template-list footer {
+padding-bottom: 68px;
+}

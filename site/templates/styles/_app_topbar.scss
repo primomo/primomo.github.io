@@ -1,0 +1,323 @@
+/* 
+ * PRIMOMO 
+ * 
+ */
+ 
+
+/*Codekit*/
+#lpckWarningOverlay, #lpckConMessageOverlay {
+	top: auto !important;
+	bottom: 0px !important;
+	font-size: 0.5em !important;
+	padding: 5px 0px !important; }
+#lpckWarningOverlay p, #lpckConMessageOverlay p {
+	font-size: 10px !important;
+	margin: 0 15px !important; }
+ 
+/*** FONTS ***/ 
+
+body, button, .button, .top-bar-section ul li > a, top-bar-section ul li > a, .pricing-table .title, .pricing-table .price, .tabs dd > a, .tabs .tab-title > a, .side-nav, .side-nav li.active > a:first-child:not(.button), .accordion .accordion-navigation > a, .accordion dd > a, h1, h2, h3, h4, h5, h6, .sub-nav dt, .sub-nav dd, .sub-nav li, .label { 
+font-family: 'Comfortaa', sans-serif;
+font-weight: 400;
+letter-spacing: 0.05em;
+-webkit-font-smoothing: subpixel-antialiased;
+}
+
+/*** GENERAL ***/
+
+.primomo-content {
+	background: #f3f3f3;
+	padding: 2em;
+}
+
+/*** TOP BAR ***/
+
+.top-bar .name h1 img {
+width: 8em;
+margin-top: -3px; 
+}
+
+.top-bar .name h1 a {
+    padding-left: 0.5em;
+}
+
+.top-bar .top-bar-section {
+top: -480px;
+position: static;
+}
+
+body {
+padding-top: 2.8125rem;
+}
+
+.fixednav {
+width: 100%;
+left: 0;
+position: fixed;
+top: 0;
+z-index: 99;
+height: 45px;
+z-index: 99999999;
+
+box-shadow: 0px -9px 4px 
+10px rgba(0,0,0,0.16),
+0px -5px 8px 
+10px rgba(0,0,0,0.05);
+}
+
+.top-bar input[type="text"] {
+border-width: 0px;
+box-shadow: inset 0 0px 0px rgba(0, 0, 0, 0);
+}
+
+.top-bar input[type="text"]:focus {
+background-color: #ffffff;
+}
+
+.top-bar li.has-dropdown {
+	display: inline-block;
+}
+
+.topbar-container {
+    height: 45px;
+}
+
+//** Desktop **//
+@media only screen and (min-width: $small-breakpoint + em-calc(1)) { 
+
+.top-bar ul.right {
+	position: relative !important;
+}
+
+.top-bar ul.right > ul, ul.right div {
+	position: static;
+}
+
+.top-bar .has-form {
+	width: 2.7em;
+}
+	
+.top-bar input[type="text"] {
+-webkit-appearance: none;
+-moz-appearance: none;
+border-radius: 0;
+border-width: 0px;
+box-shadow: inset 0 0px 0px rgba(0, 0, 0, 0);
+color: rgba(0, 0, 0, 0.75);
+display: block;
+font-family: inherit;
+font-size: 0.875rem;
+margin: 0;
+background: url('/site/templates/images/search.svg');
+background-position: right 0.5em center;
+background-repeat: no-repeat;
+background-size: 1em;
+font-weight: normal;
+cursor: pointer !important;
+width: 0px;
+height: 100%;
+padding: 0.5rem 0.75rem;
+position: absolute;
+right: 0.6rem;
+top: 0em;
+background-color: none;
+opacity: 1;
+
+-webkit-transition:   background-color 0s ease !important;
+-moz-transition:    background-color 0s ease !important;
+-ms-transition:     background-color 0s ease !important;
+-o-transition:      background-color 0s ease !important;
+transition:   background-color 0s ease !important;
+}
+
+.top-bar input[type="text"]:focus {
+padding: 0.5rem 0.75rem;
+cursor: auto !important;
+width: 100%;
+background-color: #ffffff;
+opacity: 1;
+
+border-style: solid;
+border-top-width: 0.5em;
+border-bottom-width: 0.5em;
+
+-webkit-transition: background-color 0.15s ease !important;
+-moz-transition:    background-color 0.15s ease !important;
+-ms-transition:     background-color 0.15s ease !important;
+-o-transition:      background-color 0.15s ease !important;
+transition:   		background-color 0.15s ease !important;
+}
+
+}
+
+//** Mobile **//
+@media only screen and (max-width: $small-breakpoint) { 
+
+.top-bar .top-bar-section {
+top: -480px;
+transition: top .2s ease;
+position: relative;
+}
+
+.top-bar.expanded .top-bar-section {
+top: 0px;
+transition: top .3s ease;
+}
+
+.top-bar-section ul li.has-dropdown > a, .title.back.js-generated, li.parent-link.hide-for-medium-up > a.parent-link.js-generated {
+display: none;
+}
+
+.search-form-medium-up {
+display: none;
+}
+
+.top-bar-section .dropdown {
+position: static !important;
+height: auto;
+width: auto;
+overflow: visible;
+}
+
+.top-bar li.has-dropdown {
+	width: 100% !important;
+}
+
+.top-bar {
+overflow: visible;
+}
+
+.top-search {
+position: absolute;
+width: 100%;
+background: none;
+top: 0;
+}
+
+.top-bar.top-search .title-area {
+background: none;
+width: 0px;
+margin-left: 100%;
+}
+
+.top-bar .name h1 a {
+margin: 0;
+width: 100%;
+text-align: center;
+}
+
+.toggle-topbar.toggle-topbar-main {
+left: 0;
+right: auto;
+}
+.toggle-topbar.toggle-topbar-search {
+left: auto;
+right: 0;
+}
+
+.top-bar .title-area {
+z-index: 99;
+}
+
+.top-bar .toggle-topbar.menu-icon a span::after {
+content: "";
+box-shadow: none;
+width: 2em;
+height: 2em;
+background: url('/site/templates/images/toggle.svg');
+background-position: center center;
+background-repeat: no-repeat;
+background-size: 1.5em;
+margin-top: -1.1em;
+right: 1em;
+}
+
+.top-bar .toggle-topbar.toggle-topbar-search.menu-icon a span::after {
+content: "";
+box-shadow: none;
+width: 2em;
+height: 2em;
+background: url('/site/templates/images/search.svg');
+background-position: center center;
+background-repeat: no-repeat;
+background-size: 1.5em 1.5em;
+margin-top: -1.1em;
+left: 1em;
+}
+
+#top-menu>.title-area, .top-bar-section>ul {
+    box-shadow: 0px -9px 4px 
+    10px rgba(0,0,0,0.16),
+    0px -5px 8px 
+    10px rgba(0,0,0,0.05);
+}
+
+.fixednav {
+	box-shadow: none !important;
+}
+
+}
+
+//** Angular ng-cloak fix Desktop **//
+@media only screen and (min-width: $small-breakpoint + em-calc(1)) {
+
+ul.primenu li {
+    float: left;
+}
+
+ul.primenu li a, li.primenu-hasdropdown a {
+    color: #fff;
+    display: block;
+    font-size: 0.8125rem;
+    font-weight: normal;
+    line-height: 2.8125rem;
+    padding: 0 0.9375rem;
+    letter-spacing: 0.05rem;
+    text-transform: none;
+    width: 100%;
+}
+
+li.primenu-hasdropdown {
+    display: inline-block;
+    position: relative;
+    float: left;
+}
+
+li.primenu-hasdropdown a {
+    padding-right: 2.1875rem ;
+}
+
+.top-bar .has-form {
+    width: 2.7em;
+    height: 2.8125rem;
+    padding: 0 0.9375rem;
+    float: left;
+}
+
+top-bar-section ul {
+    display: inline;
+}
+
+li.primenu-hasdropdown>a:after {
+    border: inset 5px;
+    content: "";
+    display: block;
+    height: 0;
+    width: 0;
+    border-color: rgba(255,255,255,0.4) transparent transparent transparent;
+    border-left-style: solid;
+    margin-right: 0.9375rem;
+    margin-top: -2.5px;
+    position: absolute;
+    top: 1.40625rem;
+    right: 0;
+    border-top-style: solid;
+}
+
+}
+//** Angular ng-cloak fix Mobile **//
+@media only screen and (max-width: $small-breakpoint) { 
+	top-bar-section {display:none}
+}
+
+

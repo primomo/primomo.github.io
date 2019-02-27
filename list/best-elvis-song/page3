@@ -1,0 +1,633 @@
+<!DOCTYPE html>
+<!--[if IE 9]><html class="lt-ie10" lang="en" > <![endif]-->
+<html class="no-js" lang="en" itemscope itemtype="http://schema.org/ItemList">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+	<style type="text/css">@charset "UTF-8";[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {display: none !important;}</style>	
+	<link rel="canonical" href="">
+	
+		
+	
+	<!-- Meta -->
+	<title>Best Elvis Song - Primomo</title>
+	<meta name="description" content="Which is  the Best Elvis Song? Suspicious Minds? If I Can Dream? In the Ghetto? Jailhouse Rock? Hound Dog? Can't Help Falling in Love? A Little Less Conversation? Always On My Mind? Love Me Tender? Heartbreak Hotel? Are You Lonesome Tonight?? All Shook Up? (You're The) Devil In Disguise? Blue Suede Shoes? Promised Land? Don't Be Cruel? Burning Love? An American Trilogy? Kentucky Rain? Viva Las Vegas? Mystery Train? " />
+	<!-- Schema -->
+	<meta itemprop="name" content="Best Elvis Song">
+	<meta itemprop="description" content="Which is  the Best Elvis Song? Suspicious Minds? If I Can Dream? In the Ghetto? Jailhouse Rock? Hound Dog? Can't Help Falling in Love? A Little Less Conversation? Always On My Mind? Love Me Tender? Heartbreak Hotel? Are You Lonesome Tonight?? All Shook Up? (You're The) Devil In Disguise? Blue Suede Shoes? Promised Land? Don't Be Cruel? Burning Love? An American Trilogy? Kentucky Rain? Viva Las Vegas? Mystery Train? "> 
+	<meta itemprop="image" content=""> 
+	 <meta itemprop="itemListOrder" content="Descending" /> 	<!-- Twitter -->
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:site" content="@playprimomo">
+	<meta name="twitter:title" content="Best Elvis Song">
+	<meta name="twitter:description" content="Which is  the Best Elvis Song? Suspicious Minds? If I Can Dream? In the Ghetto? Jailhouse Rock? Hound Dog? Can't Help Falling in Love? A Little Less Conversation? Always On My Mind? Love Me Tender? Heartbreak Hotel? Are You Lonesome Tonight?? All Shook Up? (You're The) Devil In Disguise? Blue Suede Shoes? Promised Land? Don't Be Cruel? Burning Love? An American Trilogy? Kentucky Rain? Viva Las Vegas? Mystery Train? "> 
+	<meta name="twitter:creator" content="@playprimomo">
+	<meta name="twitter:image:src" content=""> 
+	<!-- Open Graph -->
+	<meta property="og:title" content="Best Elvis Song" />
+	<meta property="og:type" content="article" /> 
+	<meta property="og:url" content="" /> 
+	<meta property="og:image" content=""> 
+	<meta property="og:image:width" content="500"> 
+	<meta property="og:image:height" content="300"> 
+	<meta property="og:description" content="Which is  the Best Elvis Song? Suspicious Minds? If I Can Dream? In the Ghetto? Jailhouse Rock? Hound Dog? Can't Help Falling in Love? A Little Less Conversation? Always On My Mind? Love Me Tender? Heartbreak Hotel? Are You Lonesome Tonight?? All Shook Up? (You're The) Devil In Disguise? Blue Suede Shoes? Promised Land? Don't Be Cruel? Burning Love? An American Trilogy? Kentucky Rain? Viva Las Vegas? Mystery Train? " /> 
+	<meta property="og:site_name" content="Primomo" />
+	<meta property="article:section" content="Music" />  
+	<meta property="article:tag" content="Elvis , Elvis Presley , Blues, Rock, 1950s , 1960s" />  
+	<meta property="fb:admins" content="690322552, 598310032" />	
+
+	<link rel="stylesheet" href="/site/templates/components/normalize/normalize.min.css" />
+	<link rel="stylesheet" href="/site/templates/components/foundation/foundation.min.css" />
+	<link rel="stylesheet" href="/site/templates/components/animate-scss/animate.min.css" />
+
+	<script src="/site/templates/components/angular/angular.min.js"></script>
+	<script src="/site/templates/components/angular/angular-touch.min.js"></script>
+	<script src="/site/templates/components/angular-foundation/mm-foundation-tpls-0.8.0.min.js"></script>
+	<script src="/site/templates/components/modernizr.js"></script>
+	<script src="/site/templates/components/fastclick.js"></script>
+	
+	<script src="/site/templates/components/ng-FitText.js"></script>
+	<script src="/site/templates/components/flowtype.min.js"></script>
+	<script src="/site/templates/scripts/angular-swing.min.js"></script>
+	<script src="/site/templates/scripts/angular-equalizer.min.js"></script>
+	<script src="/site/templates/scripts/primomo.min.js"></script>
+	
+	<link rel="stylesheet" href="/site/templates/styles/primomo.min.css?" />
+	
+	<style class="game-colour">
+/* ccolour_base - base */
+.ccolour_base { background: #B03232}
+.ccolour_base-border { border-color: #B03232}
+.ccolour_base-text { color: #B03232}
+/* ccolour_d1 - darker 1 */
+.ccolour_d1 { background: #a02d2d}
+.ccolour_d1-border { border-color: #a02d2d}
+.ccolour_d1-text { color: #a02d2d}
+/* ccolour_d2 - darker 2 */
+.ccolour_d2 { background: #902929}
+.ccolour_d2-border { border-color: #902929}
+.ccolour_d2-text { color: #902929}
+/* ccolour_d3 - darker 3 */
+.ccolour_d3 { background: #802424}
+.ccolour_d3-border { border-color: #802424}
+.ccolour_d3-text { color: #802424}
+/* ccolour_l1 - lighter 1 */
+.ccolour_l1, {background: #c73a3a}
+.ccolour_l1-border { border-color: #c73a3a}
+.ccolour_l1-text { color: #c73a3a}
+/* Colour Styles */
+body, #viewport, .page-wrap:before {
+	background: #B03232	}
+.top-bar-section ul li, .top-bar-section li:not(.has-form) a:not(.button), .top-bar-section .has-form {
+	background: none;
+	}
+.top-bar-section li:not(.has-form) a:not(.button):hover, .top-bar-section ul li:hover:not(.has-form) > a, .top-bar-section .dropdown li:not(.has-form):not(.active) > a:not(.button) {
+	background: #902929	}
+html.touch .top-bar-section li.has-dropdown a:hover {
+	background:none;
+	}
+html.touch .top-bar-section li.has-dropdown.not-click a:hover {
+	background:#902929;
+	}
+.top-bar-section .dropdown li:not(.has-form):not(.active):hover > a:not(.button) {
+	background: #802424	}
+.top-bar, .fixednav, .top-bar .title-area, .top-bar.expanded .title-area {
+	background: #a02d2d	}	
+.top-bar input[type="text"] {
+	border-color: #a02d2d	}
+.accordian-percent {
+	background: #902929	}
+.results-header h3 {
+    color: #902929	}
+.sidebar-tags h4, .sidebar-cats h4 {
+    color: #902929	}	
+h3.section-header, h3.section-header a  {
+    color: #802424	}	
+h3.section-header a:hover  {
+    color: #902929	}		
+/* Medium and Up Only */	
+@media only screen and (min-width: 720px) {
+	.top-bar-section li.active:not(.has-form) a:not(.button) {
+		background: #a02d2d		}
+	.top-bar-section li.active:not(.has-form) a:not(.button):hover {
+		background: #902929		}
+	.top-bar-section .dropdown li.active:not(.has-form) a:not(.button) {
+		background: #902929		}
+	.top-bar-section .dropdown li.active:not(.has-form) a:not(.button):hover {
+		background: #802424		}		
+	}
+/* Small Only */	
+@media only screen and (max-width: 719px) {
+	.top-bar-section ul li, .top-bar-section .has-form {
+		background: #902929		}
+	.top-bar-section li:not(.has-form) a:not(.button):hover, .top-bar-section ul li:hover:not(.has-form) > a {
+		background: #802424		}
+	}
+</style>
+<style class="cat-colours">
+.catcolour_sport_standard{background:#1FA464;}.catcolour_sport_inverted *{color:#1FA464 !important;}.catcolour_entertainment_standard{background:#B03232;}.catcolour_entertainment_inverted *{color:#B03232 !important;}.catcolour_lifestyle_standard{background:#9B2C6F;}.catcolour_lifestyle_inverted *{color:#9B2C6F !important;}	
+</style>	<link href='https://fonts.googleapis.com/css?family=Comfortaa:300,400,700' rel='stylesheet' type='text/css'>
+	</head>	
+<body class='template-list'
+ng-app="primomoApp">
+
+<div><div ng-init="deckArray=[{name:'Suspicious Minds', subtitle:'', image:'/site/assets/files/12795/elvis_presley_suspiciousminds.300x300.jpg', copyright:'RCA', plays:510, wins:339, gamePlays:0, gameWins:0, cardPageId:12795},{name:'If I Can Dream', subtitle:'', image:'/site/assets/files/12796/if_i_can_dream_cover.300x300.jpg', copyright:'RCA Records', plays:405, wins:232, gamePlays:0, gameWins:0, cardPageId:12796},{name:'In the Ghetto', subtitle:'', image:'/site/assets/files/12797/in_the_ghetto.300x300.jpg', copyright:'RCA Victor', plays:408, wins:226, gamePlays:0, gameWins:0, cardPageId:12797},{name:'Jailhouse Rock', subtitle:'', image:'/site/assets/files/12798/jailhouse_rock.300x300.jpg', copyright:'RCA', plays:371, wins:188, gamePlays:0, gameWins:0, cardPageId:12798},{name:'Hound Dog', subtitle:'', image:'/site/assets/files/12799/houndcruel.300x300.jpg', copyright:'RCA Records', plays:310, wins:123, gamePlays:0, gameWins:0, cardPageId:12799},{name:'Can\'t Help Falling in Love', subtitle:'', image:'/site/assets/files/12800/elvis_-_rock_a_hula.300x300.jpg', copyright:'RCA Victor', plays:509, wins:351, gamePlays:0, gameWins:0, cardPageId:12800},{name:'A Little Less Conversation', subtitle:'', image:'/site/assets/files/12801/a_little_less_conversation_presley.300x300.jpg', copyright:'RCA', plays:260, wins:70, gamePlays:0, gameWins:0, cardPageId:12801},{name:'Always On My Mind', subtitle:'', image:'/site/assets/files/12802/51z7slgqgwl.300x300.jpg', copyright:'RCA', plays:436, wins:255, gamePlays:0, gameWins:0, cardPageId:12802},{name:'Love Me Tender', subtitle:'', image:'/site/assets/files/12803/lovemetenderelvissingle.300x300.jpg', copyright:'RCA Victor', plays:370, wins:187, gamePlays:0, gameWins:0, cardPageId:12803},{name:'Heartbreak Hotel', subtitle:'', image:'/site/assets/files/12804/heartbreak.300x300.jpg', copyright:'RCA Victor', plays:338, wins:152, gamePlays:0, gameWins:0, cardPageId:12804},{name:'Are You Lonesome Tonight?', subtitle:'', image:'/site/assets/files/12805/lonesome.300x300.jpg', copyright:'RCA Victor', plays:389, wins:208, gamePlays:0, gameWins:0, cardPageId:12805},{name:'All Shook Up', subtitle:'', image:'/site/assets/files/12806/all_shook_up_single.300x300.jpg', copyright:'RCA Victor', plays:327, wins:139, gamePlays:0, gameWins:0, cardPageId:12806},{name:'(You\'re The) Devil In Disguise', subtitle:'', image:'/site/assets/files/12807/elvis_devil_in_disguise.300x300.jpg', copyright:'RCA', plays:323, wins:133, gamePlays:0, gameWins:0, cardPageId:12807},{name:'Blue Suede Shoes', subtitle:'', image:'/site/assets/files/12808/blue-suede-shoes.300x300.jpg', copyright:'RCA', plays:279, wins:89, gamePlays:0, gameWins:0, cardPageId:12808},{name:'Promised Land', subtitle:'', image:'/site/assets/files/12809/elvis_presley_promised_land.300x300.jpg', copyright:'RCA Records', plays:306, wins:118, gamePlays:0, gameWins:0, cardPageId:12809},{name:'Don\'t Be Cruel', subtitle:'', image:'/site/assets/files/12810/elvis_presley-dont_be_cruel_s_8.300x300.jpg', copyright:'RCA', plays:338, wins:149, gamePlays:0, gameWins:0, cardPageId:12810},{name:'Burning Love', subtitle:'', image:'/site/assets/files/12811/elvisburninglove45.300x300.jpg', copyright:'RCA', plays:381, wins:194, gamePlays:0, gameWins:0, cardPageId:12811},{name:'An American Trilogy', subtitle:'', image:'/site/assets/files/12812/anamericantrilogycover.300x300.jpg', copyright:'RCA', plays:468, wins:297, gamePlays:0, gameWins:0, cardPageId:12812},{name:'Kentucky Rain', subtitle:'', image:'/site/assets/files/12813/kentucky_rain_single.300x300.jpg', copyright:'RCA', plays:363, wins:181, gamePlays:0, gameWins:0, cardPageId:12813},{name:'Viva Las Vegas', subtitle:'', image:'/site/assets/files/12814/elvis_presley_vivalasvegas45.300x300.jpg', copyright:'RCA Records', plays:328, wins:138, gamePlays:0, gameWins:0, cardPageId:12814},{name:'Mystery Train', subtitle:'', image:'/site/assets/files/12815/49786.300x300.jpg', copyright:'RCA', plays:261, wins:71, gamePlays:0, gameWins:0, cardPageId:12815},]; gameArray=[{title:'Best Elvis Song', interrogative:'Which is', possessive:' ', possessiveAlt:'', subject:'the Best Elvis Song', summary:'Which is  the Best Elvis Song?'}]; pageId=12794;"></div></div>
+
+<div ng-controller="primomoController" class="page-wrap">
+
+<div class="fixednav">
+	<div class="row topbar-container">
+		<top-bar id="top-menu" class="top-bar top-menu" mobile-show-parent-link="true" is-hover="false">
+			<ul class="title-area">
+				<li class="name">
+					<h1><a href="/"><img class="primomo-logo" src="/site/templates/images/primomologotext.svg"><span></span></a></h1>
+				</li>
+				<li toggle-top-bar onclick="document.getElementById('top-search').classList.remove('expanded')" class="toggle-topbar toggle-topbar-main menu-icon"><a href=""><span></span></a></li>
+			</ul>
+			<top-bar-section ng-cloakx>
+				<ul class="right">
+					
+					
+<ul class="primenu">
+	<li>
+		<a href='/categories/entertainment/'>Entertainment</a>
+	</li>
+	<li>
+		<a href='/categories/sport/'>Sport</a>
+	</li>
+	<li>
+		<a href='/categories/lifestyle/'>Lifestyle</a>
+	</li>
+</ul>					
+					<li has-dropdown class="primenu-hasdropdown">
+						<a>More</a>
+						<ul top-bar-dropdown ng-cloak>
+							
+<ul class="more-menu">
+	<li>
+		<a href='/categories/entertainment/tv/'>TV</a>
+	</li>
+	<li>
+		<a href='/categories/lifestyle/people/'>People</a>
+	</li>
+	<li>
+		<a href='/categories/sport/football/'>Football</a>
+	</li>
+	<li>
+		<a href='/categories/lifestyle/food/'>Food</a>
+	</li>
+	<li>
+		<a href='/categories/entertainment/music/'>Music</a>
+	</li>
+	<li>
+		<a href='/categories/entertainment/movies/'>Movies</a>
+	</li>
+	<li>
+		<a href='/categories/'>All Categories</a>
+	</li>
+</ul>						</ul>
+					</li>
+					
+					<ul>
+						<li class="has-form search-form-medium-up">
+						    <div class="row collapse">
+						      <div class="large-12 small-12 columns">
+						        <form id="site-search-form" class="clearfix" action="/search/" method="get">
+									<input type="text" name="q" value="" placeholder="Search">
+								</form>
+						      </div>
+						    </div>
+						</li>
+					</ul>
+					
+				</ul>
+			</top-bar-section>
+		</top-bar>
+		
+		<top-bar id="top-search" class="top-bar top-search show-for-small-only" data-topbar="" style="height: 45px">
+			<ul class="title-area">
+				<li class="name"></li>
+				<li toggle-top-bar onclick="document.getElementById('top-menu').classList.remove('expanded')" class="toggle-topbar toggle-topbar-search menu-icon"><a href=""><span></span></a></li>
+			</ul>
+			<top-bar-section ng-cloak>
+				<ul>
+				  <li class="has-form search-form-small-only">
+				    <div class="row collapse">
+				      <div class="large-12 small-12 columns">
+				        <form id="site-search-form" class="clearfix" action="/search/" method="get">
+							<input type="text" name="q" value="" placeholder="Search">
+						</form>
+				      </div>
+				    </div>
+				  </li>
+				</ul>
+			</top-bar-section>
+		</top-bar>
+	</div>
+</div>
+
+
+<div class="row-container ccolour_base main-header">
+	<div class="row">
+		<div class="column">
+			<h2 class="top-header">Best Elvis Song</h2>
+		</div>
+	</div>
+	</div>
+
+<div id="body-wrap">
+	<div class="row-container">
+	<div class="row list-grid-row" id="sectionid1">
+		<div class="column">
+			<h3 class="left section-header">Related Lists</a></h3>
+				
+		</div>
+		
+		
+			<div class="column list-grid">
+				<div equalizer class="row">
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-10721'>
+
+	<a href='/list/greatest-metallica-song/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/10721/metallica_london_2008-09-15_kirk_and_james.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest Metallica Song</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-10699'>
+
+	<a href='/list/best-red-hot-chili-peppers-song/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/10699/redhotchilipeppersadam1989.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Red Hot Chili Peppers Song</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-10677'>
+
+	<a href='/list/favourite-linkin-park-song/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/10677/chester-shinosa-montreal-2014.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Favourite Linkin Park Song</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-10656'>
+
+	<a href='/list/best-pink-floyd-song/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/10656/pink-floyd.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Pink Floyd Song</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-10639'>
+
+	<a href='/list/greatest-pink-floyd-album/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/10639/pink_floyd_-_division_bell.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest Pink Floyd Album</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-10552'>
+
+	<a href='/list/greatest-queen-album/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/10552/queenperforming1977.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest Queen Album</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-10527'>
+
+	<a href='/list/best-queen-song/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/10527/bohemian_rhapsody.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Queen Song</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-10003'>
+
+	<a href='/list/27-club/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/10003/jimi_hendrix_1967_uncropped.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>27 Club</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-9910'>
+
+	<a href='/list/best-bob-dylan-album/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/9910/bob_dylan_-_azkena_rock_festival_2010_2.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Bob Dylan Album</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_sport_standard catcolorstyle_standard' id='list-9307'>
+
+	<a href='/list/greatest-new-orleans-pelicans-player/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/9307/new_orleans_pelicans.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest New Orleans Pelicans Player</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-6945'>
+
+	<a href='/list/best-supergroup/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/6945/tn_400__cover.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Supergroup</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-6117'>
+
+	<a href='/list/best-alfred-hitchcock-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/6117/hitchcock_2c_alfred_02.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Alfred Hitchcock Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-5529'>
+
+	<a href='/list/best-britpop-band/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/5529/nme_blur_oasis.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Britpop Band</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-5507'>
+
+	<a href='/list/best-bond-theme/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/5507/goldfinger_ost.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best James Bond Theme</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-5483'>
+
+	<a href='/list/best-biggest-selling-album/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/5483/dark_side_of_the_moon.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Biggest Selling Album</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-3278'>
+
+	<a href='/list/best-frontman/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/3278/queen_-_montagem.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Rock Frontmen</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-2572'>
+
+	<a href='/list/best-action-star/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/2572/best-action-star-jwonxr71.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Action Star</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_sport_standard catcolorstyle_standard' id='list-2509'>
+
+	<a href='/list/greatest-all-black/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/2509/800px-all_blacks_logo_svg.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Greatest All Black</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-2353'>
+
+	<a href='/list/best-british-bands/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/2353/best-british-bands-mekfuzdp.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best British Bands</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-1980'>
+
+	<a href='/list/best-beatles-album/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/1980/paul_2c_george_26_john.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Beatles Album</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+									</div>
+			</div>	
+						<div class="column"><div class='pagination-centered'><ul class='pagination'><li class='MarkupPagerNavPrevious MarkupPagerNavFirst'><a href='/list/best-elvis-song/page2'><span><<</span></a></li><li class='MarkupPagerNavFirstNum'><a href='/list/best-elvis-song/'><span>1</span></a></li><li><a href='/list/best-elvis-song/page2'><span>2</span></a></li><li class='current MarkupPagerNavLast MarkupPagerNavLastNum'><a href='/list/best-elvis-song/page3'><span>3</span></a></li></ul></div></div>	</div>
+</div></div>
+
+</div> <!--ng-controller-->
+<footer class="ccolour_base">
+
+<div class="row">
+	<div class="medium-4 medium-push-8 columns">
+		<ul class="footer-social">
+			<li>
+				<a href="" class="xxx" style="opacity: 0 !important"></a>
+			</li>
+			<li>
+				<a href="" class="xxx" style="opacity: 0 !important"></a>
+			</li>
+			<!-- <li><a href="/about" class="mail"></a></li> -->
+		</ul>
+	</div>
+	<div class="medium-8 medium-pull-4 columns">		
+	</div>
+</div>
+
+</footer>
+<script>
+flowtype(document.body.querySelector('#stack-container'), {
+   minimum   : 0,
+   maximum   : 600,
+   minFont   : 1,
+   maxFont   : 50,
+   fontRatio : 14,
+   lineRatio : 1.45
+});	
+flowtype(document.body.querySelector('#gamemessage-container'), {
+   minimum   : 0,
+   maximum   : 600,
+   minFont   : 1,
+   maxFont   : 50,
+   fontRatio : 14,
+   lineRatio : 1.45
+});	
+</script>
+</body>
+</html>

@@ -1,0 +1,73 @@
+.sidebar-social {
+    margin-bottom: 1.2em;
+}
+
+.sidebar-social ul li {
+    display: inline-block;
+}
+
+.sidebar-social ul li span.sidebar-social-icon {
+    display: block;
+    width: 40px;
+    height: 40px;
+}
+
+.sidebar-social-icon svg {
+    fill: #ffffff;
+    border-radius: 100%;
+    width: 40px;
+    height: 40px;
+    background: #b3b3b3;
+}
+
+.sidebar-social-facebook a svg {
+    background: #3067a3;
+}
+
+.sidebar-social-facebook a:hover svg {
+    background: #244e7c;
+}
+
+.sidebar-social-twitter a svg {
+    background: #03b3ee;
+}
+
+.sidebar-social-twitter a:hover svg {
+    background: #028dbc;
+}
+
+.sidebar-social-gplus a svg {
+    background: #e15440;
+}
+
+.sidebar-social-gplus a:hover svg {
+    background: #ce3620;
+}
+
+.sidebar-social-email a svg {
+    background: #e2a849;
+}
+
+.sidebar-social-email a:hover svg {
+    background: #ce9942;
+}
+
+.sidebar-social-whatsapp a svg {
+    background: #59cb3f;
+}
+
+.sidebar-social-whatsapp a:hover svg {
+    background: #45a92e;
+}
+
+.sidebar-social-fbmessenger a svg {
+    background: #0084ff;
+}
+
+.sidebar-social-fbmessenger a:hover svg {
+    background: #006acc;
+}
+
+.no-touch .sidebar-social-fbmessenger, .no-touch .sidebar-social-whatsapp {
+	display: none !important;
+}

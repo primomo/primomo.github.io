@@ -1,0 +1,531 @@
+<!DOCTYPE html>
+<!--[if IE 9]><html class="lt-ie10" lang="en" > <![endif]-->
+<html class="no-js" lang="en" itemscope itemtype="http://schema.org/ItemList">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+	<style type="text/css">@charset "UTF-8";[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {display: none !important;}</style>	
+	<link rel="canonical" href="">
+	
+		
+	
+	<!-- Meta -->
+	<title>Best 90s Cartoon - Primomo</title>
+	<meta name="description" content="Which is  the Best 1990s Cartoon? The Simpsons? Batman: The Animated Series? Pokémon? Captain Planet and the Planeteers? Beavis and Butt-Head? The Ren & Stimpy Show? Spider-Man? X-Men? Animaniacs? Arthur? Biker Mice from Mars? Sailor Moon? Pinky and the Brain? Rugrats? Darkwing Duck? The Powerpuff Girls? Johnny Bravo? Hey Arnold!? SpongeBob SquarePants? South Park? " />
+	<!-- Schema -->
+	<meta itemprop="name" content="Best 90s Cartoon">
+	<meta itemprop="description" content="Which is  the Best 1990s Cartoon? The Simpsons? Batman: The Animated Series? Pokémon? Captain Planet and the Planeteers? Beavis and Butt-Head? The Ren & Stimpy Show? Spider-Man? X-Men? Animaniacs? Arthur? Biker Mice from Mars? Sailor Moon? Pinky and the Brain? Rugrats? Darkwing Duck? The Powerpuff Girls? Johnny Bravo? Hey Arnold!? SpongeBob SquarePants? South Park? "> 
+	<meta itemprop="image" content=""> 
+	 <meta itemprop="itemListOrder" content="Descending" /> 	<!-- Twitter -->
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:site" content="@playprimomo">
+	<meta name="twitter:title" content="Best 90s Cartoon">
+	<meta name="twitter:description" content="Which is  the Best 1990s Cartoon? The Simpsons? Batman: The Animated Series? Pokémon? Captain Planet and the Planeteers? Beavis and Butt-Head? The Ren & Stimpy Show? Spider-Man? X-Men? Animaniacs? Arthur? Biker Mice from Mars? Sailor Moon? Pinky and the Brain? Rugrats? Darkwing Duck? The Powerpuff Girls? Johnny Bravo? Hey Arnold!? SpongeBob SquarePants? South Park? "> 
+	<meta name="twitter:creator" content="@playprimomo">
+	<meta name="twitter:image:src" content=""> 
+	<!-- Open Graph -->
+	<meta property="og:title" content="Best 90s Cartoon" />
+	<meta property="og:type" content="article" /> 
+	<meta property="og:url" content="" /> 
+	<meta property="og:image" content=""> 
+	<meta property="og:image:width" content="500"> 
+	<meta property="og:image:height" content="300"> 
+	<meta property="og:description" content="Which is  the Best 1990s Cartoon? The Simpsons? Batman: The Animated Series? Pokémon? Captain Planet and the Planeteers? Beavis and Butt-Head? The Ren & Stimpy Show? Spider-Man? X-Men? Animaniacs? Arthur? Biker Mice from Mars? Sailor Moon? Pinky and the Brain? Rugrats? Darkwing Duck? The Powerpuff Girls? Johnny Bravo? Hey Arnold!? SpongeBob SquarePants? South Park? " /> 
+	<meta property="og:site_name" content="Primomo" />
+	<meta property="article:section" content="TV" />  
+	<meta property="article:tag" content="1990s, Cartoon, Retro , The Simpsons , Batman, Spiderman, Sailor Moon , X-men, Pokemon " />  
+	<meta property="fb:admins" content="690322552, 598310032" />	
+
+	<link rel="stylesheet" href="/site/templates/components/normalize/normalize.min.css" />
+	<link rel="stylesheet" href="/site/templates/components/foundation/foundation.min.css" />
+	<link rel="stylesheet" href="/site/templates/components/animate-scss/animate.min.css" />
+
+	<script src="/site/templates/components/angular/angular.min.js"></script>
+	<script src="/site/templates/components/angular/angular-touch.min.js"></script>
+	<script src="/site/templates/components/angular-foundation/mm-foundation-tpls-0.8.0.min.js"></script>
+	<script src="/site/templates/components/modernizr.js"></script>
+	<script src="/site/templates/components/fastclick.js"></script>
+	
+	<script src="/site/templates/components/ng-FitText.js"></script>
+	<script src="/site/templates/components/flowtype.min.js"></script>
+	<script src="/site/templates/scripts/angular-swing.min.js"></script>
+	<script src="/site/templates/scripts/angular-equalizer.min.js"></script>
+	<script src="/site/templates/scripts/primomo.min.js"></script>
+	
+	<link rel="stylesheet" href="/site/templates/styles/primomo.min.css?" />
+	
+	<style class="game-colour">
+/* ccolour_base - base */
+.ccolour_base { background: #B03232}
+.ccolour_base-border { border-color: #B03232}
+.ccolour_base-text { color: #B03232}
+/* ccolour_d1 - darker 1 */
+.ccolour_d1 { background: #a02d2d}
+.ccolour_d1-border { border-color: #a02d2d}
+.ccolour_d1-text { color: #a02d2d}
+/* ccolour_d2 - darker 2 */
+.ccolour_d2 { background: #902929}
+.ccolour_d2-border { border-color: #902929}
+.ccolour_d2-text { color: #902929}
+/* ccolour_d3 - darker 3 */
+.ccolour_d3 { background: #802424}
+.ccolour_d3-border { border-color: #802424}
+.ccolour_d3-text { color: #802424}
+/* ccolour_l1 - lighter 1 */
+.ccolour_l1, {background: #c73a3a}
+.ccolour_l1-border { border-color: #c73a3a}
+.ccolour_l1-text { color: #c73a3a}
+/* Colour Styles */
+body, #viewport, .page-wrap:before {
+	background: #B03232	}
+.top-bar-section ul li, .top-bar-section li:not(.has-form) a:not(.button), .top-bar-section .has-form {
+	background: none;
+	}
+.top-bar-section li:not(.has-form) a:not(.button):hover, .top-bar-section ul li:hover:not(.has-form) > a, .top-bar-section .dropdown li:not(.has-form):not(.active) > a:not(.button) {
+	background: #902929	}
+html.touch .top-bar-section li.has-dropdown a:hover {
+	background:none;
+	}
+html.touch .top-bar-section li.has-dropdown.not-click a:hover {
+	background:#902929;
+	}
+.top-bar-section .dropdown li:not(.has-form):not(.active):hover > a:not(.button) {
+	background: #802424	}
+.top-bar, .fixednav, .top-bar .title-area, .top-bar.expanded .title-area {
+	background: #a02d2d	}	
+.top-bar input[type="text"] {
+	border-color: #a02d2d	}
+.accordian-percent {
+	background: #902929	}
+.results-header h3 {
+    color: #902929	}
+.sidebar-tags h4, .sidebar-cats h4 {
+    color: #902929	}	
+h3.section-header, h3.section-header a  {
+    color: #802424	}	
+h3.section-header a:hover  {
+    color: #902929	}		
+/* Medium and Up Only */	
+@media only screen and (min-width: 720px) {
+	.top-bar-section li.active:not(.has-form) a:not(.button) {
+		background: #a02d2d		}
+	.top-bar-section li.active:not(.has-form) a:not(.button):hover {
+		background: #902929		}
+	.top-bar-section .dropdown li.active:not(.has-form) a:not(.button) {
+		background: #902929		}
+	.top-bar-section .dropdown li.active:not(.has-form) a:not(.button):hover {
+		background: #802424		}		
+	}
+/* Small Only */	
+@media only screen and (max-width: 719px) {
+	.top-bar-section ul li, .top-bar-section .has-form {
+		background: #902929		}
+	.top-bar-section li:not(.has-form) a:not(.button):hover, .top-bar-section ul li:hover:not(.has-form) > a {
+		background: #802424		}
+	}
+</style>
+<style class="cat-colours">
+.catcolour_sport_standard{background:#1FA464;}.catcolour_sport_inverted *{color:#1FA464 !important;}.catcolour_entertainment_standard{background:#B03232;}.catcolour_entertainment_inverted *{color:#B03232 !important;}.catcolour_lifestyle_standard{background:#9B2C6F;}.catcolour_lifestyle_inverted *{color:#9B2C6F !important;}	
+</style>	<link href='https://fonts.googleapis.com/css?family=Comfortaa:300,400,700' rel='stylesheet' type='text/css'>
+	</head>	
+<body class='template-list'
+ng-app="primomoApp">
+
+<div><div ng-init="deckArray=[{name:'The Simpsons', subtitle:'', image:'/site/assets/files/11558/simpsons_familypicture.300x300.jpg', copyright:'20th Century Fox Television', plays:245, wins:173, gamePlays:0, gameWins:0, cardPageId:11558},{name:'Batman: The Animated Series', subtitle:'', image:'/site/assets/files/11559/batman_the_animated_series_logo.300x300.jpg', copyright:'Warner Bros. Animation', plays:181, wins:97, gamePlays:0, gameWins:0, cardPageId:11559},{name:'Pokémon', subtitle:'', image:'/site/assets/files/11560/pokemon_1361115c.300x300.jpg', copyright:'The Pokémon Company International', plays:161, wins:79, gamePlays:0, gameWins:0, cardPageId:11560},{name:'Captain Planet and the Planeteers', subtitle:'', image:'/site/assets/files/11561/captain_planet_and_the_planeteers_title.300x300.jpg', copyright:'DIC Entertainment', plays:137, wins:49, gamePlays:0, gameWins:0, cardPageId:11561},{name:'Beavis and Butt-Head', subtitle:'', image:'/site/assets/files/11562/beavis_and_butt-head_titlecard.300x300.jpg', copyright:'Paramount Television', plays:128, wins:40, gamePlays:0, gameWins:0, cardPageId:11562},{name:'The Ren &amp; Stimpy Show', subtitle:'', image:'/site/assets/files/11563/the_ren_and_stimpy_show_title_card.300x300.jpg', copyright:'Spümcø Games Animation', plays:157, wins:70, gamePlays:0, gameWins:0, cardPageId:11563},{name:'Spider-Man', subtitle:'', image:'/site/assets/files/11564/spider-man_281994_tv_series_29_title_screen.300x300.jpg', copyright:'Marvel Films Animation', plays:152, wins:65, gamePlays:0, gameWins:0, cardPageId:11564},{name:'X-Men', subtitle:'', image:'/site/assets/files/11565/x-men-animated-series-intro.300x300.jpg', copyright:'Marvel Films Animation', plays:170, wins:84, gamePlays:0, gameWins:0, cardPageId:11565},{name:'Animaniacs', subtitle:'', image:'/site/assets/files/11566/640px-animaniacs_svg.300x300.jpg', copyright:'Warner Bros. Animation', plays:209, wins:126, gamePlays:0, gameWins:0, cardPageId:11566},{name:'Arthur', subtitle:'', image:'/site/assets/files/11567/arthurtv_logo.300x300.jpg', copyright:'Cinar', plays:155, wins:68, gamePlays:0, gameWins:0, cardPageId:11567},{name:'Biker Mice from Mars', subtitle:'', image:'/site/assets/files/11568/biker_mice_the_bros.300x300.jpg', copyright:'Marvel Productions/New World Animation', plays:125, wins:36, gamePlays:0, gameWins:0, cardPageId:11568},{name:'Sailor Moon', subtitle:'', image:'/site/assets/files/11569/screen-shot-2014-05-19-at-1_56_52-pm.300x300.jpg', copyright:'Toei Animation', plays:169, wins:84, gamePlays:0, gameWins:0, cardPageId:11569},{name:'Pinky and the Brain', subtitle:'', image:'/site/assets/files/11570/pinky_and_the_brain_vol1.300x300.jpg', copyright:'Warner Bros. Television', plays:189, wins:102, gamePlays:0, gameWins:0, cardPageId:11570},{name:'Rugrats', subtitle:'', image:'/site/assets/files/11571/rugrats_cast.300x300.jpg', copyright:'Viacom International Inc.', plays:213, wins:128, gamePlays:0, gameWins:0, cardPageId:11571},{name:'Darkwing Duck', subtitle:'', image:'/site/assets/files/11572/maxresdefault.300x300.jpg', copyright:'Walt Disney Television Animation', plays:159, wins:71, gamePlays:0, gameWins:0, cardPageId:11572},{name:'The Powerpuff Girls', subtitle:'', image:'/site/assets/files/11574/latest_cb_20120508020045.300x300.jpg', copyright:'Hanna-Barbera Cartoons', plays:184, wins:99, gamePlays:0, gameWins:0, cardPageId:11574},{name:'Johnny Bravo', subtitle:'', image:'/site/assets/files/11575/char_1751.300x300.jpg', copyright:'Hanna-Barbera', plays:151, wins:61, gamePlays:0, gameWins:0, cardPageId:11575},{name:'Hey Arnold!', subtitle:'', image:'/site/assets/files/11576/81jtnhsogfl__sl1500__0_0.300x300.jpg', copyright:'Snee-Oosh, Inc. Nickelodeon Animation Studios', plays:154, wins:69, gamePlays:0, gameWins:0, cardPageId:11576},{name:'SpongeBob SquarePants', subtitle:'', image:'/site/assets/files/11577/spongebob_squarepants_characters_cast.300x300.jpg', copyright:'Nickelodeon', plays:195, wins:112, gamePlays:0, gameWins:0, cardPageId:11577},{name:'South Park', subtitle:'', image:'/site/assets/files/11578/south_park.300x300.jpg', copyright:'Celluoid Studios Braniff Productions South Park Digital Studios', plays:186, wins:97, gamePlays:0, gameWins:0, cardPageId:11578},]; gameArray=[{title:'Best 90s Cartoon', interrogative:'Which is', possessive:' ', possessiveAlt:'', subject:'the Best 1990s Cartoon', summary:'Which is  the Best 1990s Cartoon?'}]; pageId=11557;"></div></div>
+
+<div ng-controller="primomoController" class="page-wrap">
+
+<div class="fixednav">
+	<div class="row topbar-container">
+		<top-bar id="top-menu" class="top-bar top-menu" mobile-show-parent-link="true" is-hover="false">
+			<ul class="title-area">
+				<li class="name">
+					<h1><a href="/"><img class="primomo-logo" src="/site/templates/images/primomologotext.svg"><span></span></a></h1>
+				</li>
+				<li toggle-top-bar onclick="document.getElementById('top-search').classList.remove('expanded')" class="toggle-topbar toggle-topbar-main menu-icon"><a href=""><span></span></a></li>
+			</ul>
+			<top-bar-section ng-cloakx>
+				<ul class="right">
+					
+					
+<ul class="primenu">
+	<li>
+		<a href='/categories/entertainment/'>Entertainment</a>
+	</li>
+	<li>
+		<a href='/categories/sport/'>Sport</a>
+	</li>
+	<li>
+		<a href='/categories/lifestyle/'>Lifestyle</a>
+	</li>
+</ul>					
+					<li has-dropdown class="primenu-hasdropdown">
+						<a>More</a>
+						<ul top-bar-dropdown ng-cloak>
+							
+<ul class="more-menu">
+	<li>
+		<a href='/categories/entertainment/tv/'>TV</a>
+	</li>
+	<li>
+		<a href='/categories/lifestyle/people/'>People</a>
+	</li>
+	<li>
+		<a href='/categories/sport/football/'>Football</a>
+	</li>
+	<li>
+		<a href='/categories/lifestyle/food/'>Food</a>
+	</li>
+	<li>
+		<a href='/categories/entertainment/music/'>Music</a>
+	</li>
+	<li>
+		<a href='/categories/entertainment/movies/'>Movies</a>
+	</li>
+	<li>
+		<a href='/categories/'>All Categories</a>
+	</li>
+</ul>						</ul>
+					</li>
+					
+					<ul>
+						<li class="has-form search-form-medium-up">
+						    <div class="row collapse">
+						      <div class="large-12 small-12 columns">
+						        <form id="site-search-form" class="clearfix" action="/search/" method="get">
+									<input type="text" name="q" value="" placeholder="Search">
+								</form>
+						      </div>
+						    </div>
+						</li>
+					</ul>
+					
+				</ul>
+			</top-bar-section>
+		</top-bar>
+		
+		<top-bar id="top-search" class="top-bar top-search show-for-small-only" data-topbar="" style="height: 45px">
+			<ul class="title-area">
+				<li class="name"></li>
+				<li toggle-top-bar onclick="document.getElementById('top-menu').classList.remove('expanded')" class="toggle-topbar toggle-topbar-search menu-icon"><a href=""><span></span></a></li>
+			</ul>
+			<top-bar-section ng-cloak>
+				<ul>
+				  <li class="has-form search-form-small-only">
+				    <div class="row collapse">
+				      <div class="large-12 small-12 columns">
+				        <form id="site-search-form" class="clearfix" action="/search/" method="get">
+							<input type="text" name="q" value="" placeholder="Search">
+						</form>
+				      </div>
+				    </div>
+				  </li>
+				</ul>
+			</top-bar-section>
+		</top-bar>
+	</div>
+</div>
+
+
+<div class="row-container ccolour_base main-header">
+	<div class="row">
+		<div class="column">
+			<h2 class="top-header">Best 90s Cartoon</h2>
+		</div>
+	</div>
+	</div>
+
+<div id="body-wrap">
+	<div class="row-container">
+	<div class="row list-grid-row" id="sectionid1">
+		<div class="column">
+			<h3 class="left section-header">Related Lists</a></h3>
+				
+		</div>
+		
+		
+			<div class="column list-grid">
+				<div equalizer class="row">
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-4916'>
+
+	<a href='/list/best-transformers-characters/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/4916/autobot_small.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Transformers Characters</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-4607'>
+
+	<a href='/list/best-studio-ghibli-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/4607/1280px-studio_ghibli_logo_svg.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Studio Ghibli Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-4290'>
+
+	<a href='/list/best-us-sitcom/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/4290/11103892_f57d05a21e.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best US Sitcom</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-4181'>
+
+	<a href='/list/best-justice-league-member/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/4181/jla-alexross.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Justice League Member</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_lifestyle_standard catcolorstyle_standard' id='list-4037'>
+
+	<a href='/list/hottest-female-cartoon-character/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/4037/cool_world_characters_jack_and_holly.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Hottest Female Cartoon Character</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-2687'>
+
+	<a href='/list/best-bill-murray-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/2687/best-bill-murray-movie-mvkr8jk2.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Bill Murray Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-2572'>
+
+	<a href='/list/best-action-star/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/2572/best-action-star-jwonxr71.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Action Star</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-2440'>
+
+	<a href='/list/best-james-cameron-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/2440/best-james-cameron-movie-ee5ppwu8.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best James Cameron Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-2211'>
+
+	<a href='/list/best-john-hughes-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/2211/best-john-hughes-movie-02z6dwz5.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best John Hughes Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-2102'>
+
+	<a href='/list/best-movie-franchises/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/2102/best-movie-franchises-j0ngcfiu.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Movie Franchises</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-1931'>
+
+	<a href='/list/best-disney-princess/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/1931/best-disney-princess-o27hmg9y.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Disney Princess</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-1692'>
+
+	<a href='/list/best-simpsons-character/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/1692/best-simpsons-character-giabt5t9.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Simpsons Character</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-1643'>
+
+	<a href='/list/best-pixar-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/1643/best-pixar-movie-cmrwevro.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Pixar Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-1209'>
+
+	<a href='/list/greatest-tim-burton-film/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/1209/best-tim-burton-movie-aozxdf5t.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Tim Burton Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+									</div>
+			</div>	
+						<div class="column"><div class='pagination-centered'><ul class='pagination'><li class='MarkupPagerNavPrevious MarkupPagerNavFirst'><a href='/list/best-90s-cartoon/page2'><span><<</span></a></li><li class='MarkupPagerNavFirstNum'><a href='/list/best-90s-cartoon/'><span>1</span></a></li><li><a href='/list/best-90s-cartoon/page2'><span>2</span></a></li><li class='current MarkupPagerNavLast MarkupPagerNavLastNum'><a href='/list/best-90s-cartoon/page3'><span>3</span></a></li></ul></div></div>	</div>
+</div></div>
+
+</div> <!--ng-controller-->
+<footer class="ccolour_base">
+
+<div class="row">
+	<div class="medium-4 medium-push-8 columns">
+		<ul class="footer-social">
+			<li>
+				<a href="" class="xxx" style="opacity: 0 !important"></a>
+			</li>
+			<li>
+				<a href="" class="xxx" style="opacity: 0 !important"></a>
+			</li>
+			<!-- <li><a href="/about" class="mail"></a></li> -->
+		</ul>
+	</div>
+	<div class="medium-8 medium-pull-4 columns">		
+	</div>
+</div>
+
+</footer>
+<script>
+flowtype(document.body.querySelector('#stack-container'), {
+   minimum   : 0,
+   maximum   : 600,
+   minFont   : 1,
+   maxFont   : 50,
+   fontRatio : 14,
+   lineRatio : 1.45
+});	
+flowtype(document.body.querySelector('#gamemessage-container'), {
+   minimum   : 0,
+   maximum   : 600,
+   minFont   : 1,
+   maxFont   : 50,
+   fontRatio : 14,
+   lineRatio : 1.45
+});	
+</script>
+</body>
+</html>

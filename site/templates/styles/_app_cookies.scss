@@ -1,0 +1,61 @@
+#mCCForm {
+    font-size: initial;
+    margin: 0;
+    z-index: 9999999;
+    box-shadow: 0px 9px 4px 10px rgba(0,0,0,0.16),0px 5px 8px 10px rgba(0,0,0,0.05);
+    position: fixed;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    color: white;
+    padding: 0.2em 0em;
+}
+
+.mCCF__message {
+    font-size: 90%;
+    letter-spacing: .03em;
+    line-height: 2;
+    margin: 0;
+}
+
+.mCCF__message a {
+    border: none;
+    color: white;
+    text-decoration: underline;
+}
+
+#mCCButton {
+    cursor: pointer;
+    float: right;
+    margin-left: 1rem;
+	margin-top: 0.25rem;
+    width: 1.2rem;
+    height: 1.2rem;
+    display: block !important;
+    font-weight: bold;
+    font-size: 0px !important;
+    background: url("/site/templates/images/close.svg") no-repeat center 0;
+    border-radius: 100%;
+    overflow: hidden;
+    background-size: 100% 100%;
+}
+
+#mCCButton:hover, .mCCF__message a:hover {
+    opacity: 0.8;
+}
+
+.mCCF-extrafoot {
+    height: 2em;
+}
+
+@media only screen and (max-width: $small-breakpoint) { 
+.mCCF__message {
+    font-size: 70%;}
+    
+#mCCButton {
+	margin-top: 0.2rem;
+    width: 1.0rem;
+    height: 1.0rem;    
+}
+
+}

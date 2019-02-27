@@ -1,0 +1,17 @@
+
+// Get Foundation Settings, Variables and Breakpoints
+//  $small-breakpoint  $medium-breakpoint $large-breakpoint $xlarge-breakpoint
+@import "../components/foundation/foundation/_settings.scss";
+
+// Primomo Style Parts
+@import "_app_global.scss"; 
+@import "_app_topbar.scss"; 
+@import "_app_footer.scss"; 
+@import "_app_adverts.scss"; 
+@import "_app_grid.scss"; 
+@import "_list_game.scss"; 
+@import "_list_table.scss"; 
+@import "_list_sidebar.scss"; 
+@import "_list_sidebar_social.scss";
+@import "_list_description.scss"; 
+@import "_app_cookies.scss"; 

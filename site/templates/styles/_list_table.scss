@@ -1,0 +1,91 @@
+#resultsTable {
+    background: white;
+    border-bottom-left-radius: 1em;
+    border-top: 0px solid #7D7D7D;
+    border-top-right-radius: 1em;
+    box-shadow: 0px 0px 4px 
+    0px rgba(0,0,0,0.06),
+    0px 0px 8px 
+    0px rgba(0,0,0,0.05);
+    overflow: hidden;
+    position: relative;
+    z-index: 999999;
+}
+
+
+.accordian-percent {
+    border-radius: 0.5em;
+    height: 0.5em;
+    left: 0;
+    opacity: 0.8;
+    position: absolute;
+    xmin-width: 8.5%;
+    xright: 0;
+}
+
+.accordian-percent-graph {
+    display: block;
+    margin-left: 0em;
+    width: 100%;
+    xbackground: pink;
+    xheight: 1.0em;
+}
+
+.accordian-percent-holder {
+    background: #F0F0F0;
+    border-radius: 0.5em;
+    height: 0.5em;
+    overflow: hidden;
+    position: relative;
+    top: 0.35em;
+    width: 100%;
+}
+
+.accordian-percent-text {
+    text-align: right;
+}
+
+.accordian-percent-text small {
+    font-size: 85%;
+}
+
+.accordion {
+    background: white;
+    padding: 0rem 0rem 0.7rem;
+}
+
+.accordion .accordion-navigation, .accordion dd {
+    border-bottom: 1px solid #f3f3f3;
+}
+
+.accordion .accordion-navigation, .accordion dd:last-child {
+    border-bottom: 0px;
+}
+
+.accordion .accordion-navigation>a, .accordion dd>a {
+    background: white;
+    line-height: 1.2em;
+    padding: 0.7rem 1rem;
+    position: relative;
+    pointer-events: none;
+}
+
+.accordion dd:hover>a, .accordion dd:hover .content {
+    background: #FBFBFB;
+}
+
+.accordion dd>a span {
+    max-width: 71%;
+}
+
+.results-header h3 {
+    background: #fff;
+    display: block;
+    margin: 0;
+    padding: 0.8rem 1rem 0.3rem;
+}
+
+.results-header h3, .accordion .accordion-navigation>a, .accordion dd>a {
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+}

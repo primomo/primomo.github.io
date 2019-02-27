@@ -1,0 +1,480 @@
+<!DOCTYPE html>
+<!--[if IE 9]><html class="lt-ie10" lang="en" > <![endif]-->
+<html class="no-js" lang="en" itemscope itemtype="http://schema.org/ItemList">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+	<style type="text/css">@charset "UTF-8";[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {display: none !important;}</style>	
+	<link rel="canonical" href="">
+	
+		
+	
+	<!-- Meta -->
+	<title>Greatest Oakland Athletics Player - Primomo</title>
+	<meta name="description" content="Who is the Greatest Oakland Athletics Player? Rickey Henderson? Reggie Jackson? Dennis Eckersley? Catfish Hunter? Rollie Fingers? Vida Blue? Jimmie Foxx? Lefty Grove? Al Simmons? Mark McGwire? Dave Stewart? Bert Campaneris? Jose Canseco? Eddie Collins? Mickey Cochrane? Eric Chavez? Jason Giambi? Tim Hudson? " />
+	<!-- Schema -->
+	<meta itemprop="name" content="Greatest Oakland Athletics Player">
+	<meta itemprop="description" content="Who is the Greatest Oakland Athletics Player? Rickey Henderson? Reggie Jackson? Dennis Eckersley? Catfish Hunter? Rollie Fingers? Vida Blue? Jimmie Foxx? Lefty Grove? Al Simmons? Mark McGwire? Dave Stewart? Bert Campaneris? Jose Canseco? Eddie Collins? Mickey Cochrane? Eric Chavez? Jason Giambi? Tim Hudson? "> 
+	<meta itemprop="image" content=""> 
+	 <meta itemprop="itemListOrder" content="Descending" /> 	<!-- Twitter -->
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:site" content="@playprimomo">
+	<meta name="twitter:title" content="Greatest Oakland Athletics Player">
+	<meta name="twitter:description" content="Who is the Greatest Oakland Athletics Player? Rickey Henderson? Reggie Jackson? Dennis Eckersley? Catfish Hunter? Rollie Fingers? Vida Blue? Jimmie Foxx? Lefty Grove? Al Simmons? Mark McGwire? Dave Stewart? Bert Campaneris? Jose Canseco? Eddie Collins? Mickey Cochrane? Eric Chavez? Jason Giambi? Tim Hudson? "> 
+	<meta name="twitter:creator" content="@playprimomo">
+	<meta name="twitter:image:src" content=""> 
+	<!-- Open Graph -->
+	<meta property="og:title" content="Greatest Oakland Athletics Player" />
+	<meta property="og:type" content="article" /> 
+	<meta property="og:url" content="" /> 
+	<meta property="og:image" content=""> 
+	<meta property="og:image:width" content="500"> 
+	<meta property="og:image:height" content="300"> 
+	<meta property="og:description" content="Who is the Greatest Oakland Athletics Player? Rickey Henderson? Reggie Jackson? Dennis Eckersley? Catfish Hunter? Rollie Fingers? Vida Blue? Jimmie Foxx? Lefty Grove? Al Simmons? Mark McGwire? Dave Stewart? Bert Campaneris? Jose Canseco? Eddie Collins? Mickey Cochrane? Eric Chavez? Jason Giambi? Tim Hudson? " /> 
+	<meta property="og:site_name" content="Primomo" />
+	<meta property="article:section" content="Baseball" />  
+	<meta property="article:tag" content="Oakland, Oakland Athletics, Oakland A′s, Tom Hanks, Bruno Mars , Barack Obama " />  
+	<meta property="fb:admins" content="690322552, 598310032" />	
+
+	<link rel="stylesheet" href="/site/templates/components/normalize/normalize.min.css" />
+	<link rel="stylesheet" href="/site/templates/components/foundation/foundation.min.css" />
+	<link rel="stylesheet" href="/site/templates/components/animate-scss/animate.min.css" />
+
+	<script src="/site/templates/components/angular/angular.min.js"></script>
+	<script src="/site/templates/components/angular/angular-touch.min.js"></script>
+	<script src="/site/templates/components/angular-foundation/mm-foundation-tpls-0.8.0.min.js"></script>
+	<script src="/site/templates/components/modernizr.js"></script>
+	<script src="/site/templates/components/fastclick.js"></script>
+	
+	<script src="/site/templates/components/ng-FitText.js"></script>
+	<script src="/site/templates/components/flowtype.min.js"></script>
+	<script src="/site/templates/scripts/angular-swing.min.js"></script>
+	<script src="/site/templates/scripts/angular-equalizer.min.js"></script>
+	<script src="/site/templates/scripts/primomo.min.js"></script>
+	
+	<link rel="stylesheet" href="/site/templates/styles/primomo.min.css?" />
+	
+	<style class="game-colour">
+/* ccolour_base - base */
+.ccolour_base { background: #1FA464}
+.ccolour_base-border { border-color: #1FA464}
+.ccolour_base-text { color: #1FA464}
+/* ccolour_d1 - darker 1 */
+.ccolour_d1 { background: #1c935a}
+.ccolour_d1-border { border-color: #1c935a}
+.ccolour_d1-text { color: #1c935a}
+/* ccolour_d2 - darker 2 */
+.ccolour_d2 { background: #19824f}
+.ccolour_d2-border { border-color: #19824f}
+.ccolour_d2-text { color: #19824f}
+/* ccolour_d3 - darker 3 */
+.ccolour_d3 { background: #157145}
+.ccolour_d3-border { border-color: #157145}
+.ccolour_d3-text { color: #157145}
+/* ccolour_l1 - lighter 1 */
+.ccolour_l1, {background: #24be74}
+.ccolour_l1-border { border-color: #24be74}
+.ccolour_l1-text { color: #24be74}
+/* Colour Styles */
+body, #viewport, .page-wrap:before {
+	background: #1FA464	}
+.top-bar-section ul li, .top-bar-section li:not(.has-form) a:not(.button), .top-bar-section .has-form {
+	background: none;
+	}
+.top-bar-section li:not(.has-form) a:not(.button):hover, .top-bar-section ul li:hover:not(.has-form) > a, .top-bar-section .dropdown li:not(.has-form):not(.active) > a:not(.button) {
+	background: #19824f	}
+html.touch .top-bar-section li.has-dropdown a:hover {
+	background:none;
+	}
+html.touch .top-bar-section li.has-dropdown.not-click a:hover {
+	background:#19824f;
+	}
+.top-bar-section .dropdown li:not(.has-form):not(.active):hover > a:not(.button) {
+	background: #157145	}
+.top-bar, .fixednav, .top-bar .title-area, .top-bar.expanded .title-area {
+	background: #1c935a	}	
+.top-bar input[type="text"] {
+	border-color: #1c935a	}
+.accordian-percent {
+	background: #19824f	}
+.results-header h3 {
+    color: #19824f	}
+.sidebar-tags h4, .sidebar-cats h4 {
+    color: #19824f	}	
+h3.section-header, h3.section-header a  {
+    color: #157145	}	
+h3.section-header a:hover  {
+    color: #19824f	}		
+/* Medium and Up Only */	
+@media only screen and (min-width: 720px) {
+	.top-bar-section li.active:not(.has-form) a:not(.button) {
+		background: #1c935a		}
+	.top-bar-section li.active:not(.has-form) a:not(.button):hover {
+		background: #19824f		}
+	.top-bar-section .dropdown li.active:not(.has-form) a:not(.button) {
+		background: #19824f		}
+	.top-bar-section .dropdown li.active:not(.has-form) a:not(.button):hover {
+		background: #157145		}		
+	}
+/* Small Only */	
+@media only screen and (max-width: 719px) {
+	.top-bar-section ul li, .top-bar-section .has-form {
+		background: #19824f		}
+	.top-bar-section li:not(.has-form) a:not(.button):hover, .top-bar-section ul li:hover:not(.has-form) > a {
+		background: #157145		}
+	}
+</style>
+<style class="cat-colours">
+.catcolour_sport_standard{background:#1FA464;}.catcolour_sport_inverted *{color:#1FA464 !important;}.catcolour_entertainment_standard{background:#B03232;}.catcolour_entertainment_inverted *{color:#B03232 !important;}.catcolour_lifestyle_standard{background:#9B2C6F;}.catcolour_lifestyle_inverted *{color:#9B2C6F !important;}	
+</style>	<link href='https://fonts.googleapis.com/css?family=Comfortaa:300,400,700' rel='stylesheet' type='text/css'>
+	</head>	
+<body class='template-list'
+ng-app="primomoApp">
+
+<div><div ng-init="deckArray=[{name:'Rickey Henderson', subtitle:'', image:'/site/assets/files/3818/rickey_henderson_day_saturday_2c_aug__1.300x300.jpg', copyright:'By bryce_edwards (Ricky Henderson) [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons', plays:0.0001, wins:0, gamePlays:0, gameWins:0, cardPageId:3818},{name:'Reggie Jackson', subtitle:'', image:'/site/assets/files/3819/reggie_jackson_at_dodger_stadium_2010.300x300.jpg', copyright:'Cbl62 at the English language Wikipedia [CC BY 3.0 (http://creativecommons.org/licenses/by/3.0)], via Wikimedia Commons', plays:0.0001, wins:0, gamePlays:0, gameWins:0, cardPageId:3819},{name:'Dennis Eckersley', subtitle:'', image:'/site/assets/files/3820/dennis_eckersley.300x300.jpg', copyright:'By Rubenstein (Dennis Eckersley  Uploaded by Tabercil) [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons', plays:0.0001, wins:0, gamePlays:0, gameWins:0, cardPageId:3820},{name:'Catfish Hunter', subtitle:'', image:'/site/assets/files/3821/catfish_hunter_headshot.300x300.jpg', copyright:'Fair use - This image&amp;#039;s copyright is believed to belong to distributor, publisher or creator.', plays:0.0001, wins:0, gamePlays:0, gameWins:0, cardPageId:3821},{name:'Rollie Fingers', subtitle:'', image:'/site/assets/files/3822/rollie_fingers_01_26_2013.300x300.jpg', copyright:'Dlz28 at English Wikipedia [GFDL (http://www.gnu.org/copyleft/fdl.html) or CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons', plays:0.0001, wins:0, gamePlays:0, gameWins:0, cardPageId:3822},{name:'Vida Blue', subtitle:'', image:'/site/assets/files/3823/vida_blue_at_twinsfest_2010.300x300.jpg', copyright:'By resedabear (Mudcat Grant and Vida Blue at TwinsFest 2010) [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons', plays:0.0001, wins:0, gamePlays:0, gameWins:0, cardPageId:3823},{name:'Jimmie Foxx', subtitle:'', image:'/site/assets/files/3824/jimmie_foxx_1937_cropped.300x300.jpg', copyright:'By Harris &amp;amp; Ewing [Public domain], via Wikimedia Commons', plays:0.0001, wins:0, gamePlays:0, gameWins:0, cardPageId:3824},{name:'Lefty Grove', subtitle:'', image:'/site/assets/files/3825/leftygrovegoudeycard.300x300.jpg', copyright:'By Goudey [Public domain], via Wikimedia Commons', plays:0.0001, wins:0, gamePlays:0, gameWins:0, cardPageId:3825},{name:'Al Simmons', subtitle:'', image:'/site/assets/files/3826/alsimmonsgoudeycard.300x300.jpg', copyright:'By Goudey [Public domain], via Wikimedia Commons', plays:0.0001, wins:0, gamePlays:0, gameWins:0, cardPageId:3826},{name:'Mark McGwire', subtitle:'', image:'/site/assets/files/3827/mark_mcgwire_on_april_20_2c_2013.300x300.jpg', copyright:'By Keith Allison on Flickr (Original version) UCinternational (Crop) [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons', plays:0.0001, wins:0, gamePlays:0, gameWins:0, cardPageId:3827},{name:'Dave Stewart', subtitle:'', image:'/site/assets/files/3828/dave_stewart_on_august_1_2c_2009.300x300.jpg', copyright:'By John-Morgan on Flickr (Originally posted to Flickr as &amp;quot;Dave Stewart&amp;quot;) [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons', plays:0.0001, wins:0, gamePlays:0, gameWins:0, cardPageId:3828},{name:'Bert Campaneris', subtitle:'', image:'/site/assets/files/3829/bert_campaneris_2012.300x300.jpg', copyright:'By Dan Lindsey from Morehead, Ky, USA (Bert Campaneris) [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons', plays:0.0001, wins:0, gamePlays:0, gameWins:0, cardPageId:3829},{name:'Jose Canseco', subtitle:'', image:'/site/assets/files/3830/jose_canseco_2009.300x300.jpg', copyright:'By Glenn Francis [GFDL (http://www.gnu.org/copyleft/fdl.html) or CC BY-SA 4.0-3.0-2.5-2.0-1.0 (http://creativecommons.org/licenses/by-sa/4.0-3.0-2.5-2.0-1.0)], via Wikimedia Commons', plays:0.0001, wins:0, gamePlays:0, gameWins:0, cardPageId:3830},{name:'Eddie Collins', subtitle:'', image:'/site/assets/files/3831/eddie_collins_1911.300x300.jpg', copyright:'By Bain News Service, publisher. [Public domain], via Wikimedia Commons', plays:0.0001, wins:0, gamePlays:0, gameWins:0, cardPageId:3831},{name:'Mickey Cochrane', subtitle:'', image:'/site/assets/files/3832/mickeycochranegoudeycard.300x300.jpg', copyright:'By Goudey [Public domain], via Wikimedia Commons', plays:0.0001, wins:0, gamePlays:0, gameWins:0, cardPageId:3832},{name:'Eric Chavez', subtitle:'', image:'/site/assets/files/3833/eric_chavez_making_throw_for_yankees_2011.300x300.jpg', copyright:'By Keith Allison (Flickr: Eric Chavez) [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons', plays:0.0001, wins:0, gamePlays:0, gameWins:0, cardPageId:3833},{name:'Jason Giambi', subtitle:'', image:'/site/assets/files/3834/jason_giambi_282429833416_29.300x300.jpg', copyright:'By Keith Allison from Hanover, MD, USA (Jason Giambi) [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons', plays:0.0001, wins:0, gamePlays:0, gameWins:0, cardPageId:3834},{name:'Tim Hudson', subtitle:'', image:'/site/assets/files/3835/tim_hudson_2008.300x300.jpg', copyright:'By Rich Anderson (http://www.flickr.com/photos/memestate/2593744883) [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons', plays:0.0001, wins:0, gamePlays:0, gameWins:0, cardPageId:3835},]; gameArray=[{title:'Greatest Oakland Athletics Player', interrogative:'Who is', possessive:' ', possessiveAlt:'', subject:'the Greatest Oakland Athletics Player', summary:'Who is the Greatest Oakland Athletics Player?'}]; pageId=3817;"></div></div>
+
+<div ng-controller="primomoController" class="page-wrap">
+
+<div class="fixednav">
+	<div class="row topbar-container">
+		<top-bar id="top-menu" class="top-bar top-menu" mobile-show-parent-link="true" is-hover="false">
+			<ul class="title-area">
+				<li class="name">
+					<h1><a href="/"><img class="primomo-logo" src="/site/templates/images/primomologotext.svg"><span></span></a></h1>
+				</li>
+				<li toggle-top-bar onclick="document.getElementById('top-search').classList.remove('expanded')" class="toggle-topbar toggle-topbar-main menu-icon"><a href=""><span></span></a></li>
+			</ul>
+			<top-bar-section ng-cloakx>
+				<ul class="right">
+					
+					
+<ul class="primenu">
+	<li>
+		<a href='/categories/entertainment/'>Entertainment</a>
+	</li>
+	<li>
+		<a href='/categories/sport/'>Sport</a>
+	</li>
+	<li>
+		<a href='/categories/lifestyle/'>Lifestyle</a>
+	</li>
+</ul>					
+					<li has-dropdown class="primenu-hasdropdown">
+						<a>More</a>
+						<ul top-bar-dropdown ng-cloak>
+							
+<ul class="more-menu">
+	<li>
+		<a href='/categories/entertainment/tv/'>TV</a>
+	</li>
+	<li>
+		<a href='/categories/lifestyle/people/'>People</a>
+	</li>
+	<li>
+		<a href='/categories/sport/football/'>Football</a>
+	</li>
+	<li>
+		<a href='/categories/lifestyle/food/'>Food</a>
+	</li>
+	<li>
+		<a href='/categories/entertainment/music/'>Music</a>
+	</li>
+	<li>
+		<a href='/categories/entertainment/movies/'>Movies</a>
+	</li>
+	<li>
+		<a href='/categories/'>All Categories</a>
+	</li>
+</ul>						</ul>
+					</li>
+					
+					<ul>
+						<li class="has-form search-form-medium-up">
+						    <div class="row collapse">
+						      <div class="large-12 small-12 columns">
+						        <form id="site-search-form" class="clearfix" action="/search/" method="get">
+									<input type="text" name="q" value="" placeholder="Search">
+								</form>
+						      </div>
+						    </div>
+						</li>
+					</ul>
+					
+				</ul>
+			</top-bar-section>
+		</top-bar>
+		
+		<top-bar id="top-search" class="top-bar top-search show-for-small-only" data-topbar="" style="height: 45px">
+			<ul class="title-area">
+				<li class="name"></li>
+				<li toggle-top-bar onclick="document.getElementById('top-menu').classList.remove('expanded')" class="toggle-topbar toggle-topbar-search menu-icon"><a href=""><span></span></a></li>
+			</ul>
+			<top-bar-section ng-cloak>
+				<ul>
+				  <li class="has-form search-form-small-only">
+				    <div class="row collapse">
+				      <div class="large-12 small-12 columns">
+				        <form id="site-search-form" class="clearfix" action="/search/" method="get">
+							<input type="text" name="q" value="" placeholder="Search">
+						</form>
+				      </div>
+				    </div>
+				  </li>
+				</ul>
+			</top-bar-section>
+		</top-bar>
+	</div>
+</div>
+
+
+<div class="row-container ccolour_base main-header">
+	<div class="row">
+		<div class="column">
+			<h2 class="top-header">Greatest Oakland Athletics Player</h2>
+		</div>
+	</div>
+	</div>
+
+<div id="body-wrap">
+	<div class="row-container">
+	<div class="row list-grid-row" id="sectionid1">
+		<div class="column">
+			<h3 class="left section-header">Related Lists</a></h3>
+				
+		</div>
+		
+		
+			<div class="column list-grid">
+				<div equalizer class="row">
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-6590'>
+
+	<a href='/list/best-robert-zemeckis-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/6590/forrestgumpjfkscreenshot.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Robert Zemeckis Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-5666'>
+
+	<a href='/list/best-leonardo-dicaprio/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/5666/leonardo_dicaprio_2014.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Leonardo DiCaprio Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-4766'>
+
+	<a href='/list/best-christmas-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/4766/elf_movie.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Christmas Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-3873'>
+
+	<a href='/list/best-war-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/3873/apocalypse_now_by_waingro-d6x1bvn.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best War Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-3839'>
+
+	<a href='/list/best-vietnam-war-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/3839/platoon_-_nuoret_sotilaat_elokuvajuliste.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Vietnam War Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-2632'>
+
+	<a href='/list/best-rom-com/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/2632/best-rom-com-qqq1hzqb.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Rom-Com</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-2102'>
+
+	<a href='/list/best-movie-franchises/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/2102/best-movie-franchises-j0ngcfiu.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Movie Franchises</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-2037'>
+
+	<a href='/list/best-american-gangster-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/2037/best-american-gangster-movie-8wd8j2sj.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best American Gangster Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-1828'>
+
+	<a href='/list/best-coen-brothers-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/1828/best-coen-brothers-movie-tmlsyouq.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Coen Brothers Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-1643'>
+
+	<a href='/list/best-pixar-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/1643/best-pixar-movie-cmrwevro.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Pixar Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-1216'>
+
+	<a href='/list/best-steven-spielberg-film/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/1216/best-steven-spielburg-movie-mpvtbi1c.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Steven Spielberg Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+									</div>
+			</div>	
+						<div class="column"><div class='pagination-centered'><ul class='pagination'><li class='MarkupPagerNavPrevious MarkupPagerNavFirst'><a href='/list/greatest-oakland-athletics-player/'><span><<</span></a></li><li class='MarkupPagerNavFirstNum'><a href='/list/greatest-oakland-athletics-player/'><span>1</span></a></li><li class='current MarkupPagerNavLast MarkupPagerNavLastNum'><a href='/list/greatest-oakland-athletics-player/page2'><span>2</span></a></li></ul></div></div>	</div>
+</div></div>
+
+</div> <!--ng-controller-->
+<footer class="ccolour_base">
+
+<div class="row">
+	<div class="medium-4 medium-push-8 columns">
+		<ul class="footer-social">
+			<li>
+				<a href="" class="xxx" style="opacity: 0 !important"></a>
+			</li>
+			<li>
+				<a href="" class="xxx" style="opacity: 0 !important"></a>
+			</li>
+			<!-- <li><a href="/about" class="mail"></a></li> -->
+		</ul>
+	</div>
+	<div class="medium-8 medium-pull-4 columns">		
+	</div>
+</div>
+
+</footer>
+<script>
+flowtype(document.body.querySelector('#stack-container'), {
+   minimum   : 0,
+   maximum   : 600,
+   minFont   : 1,
+   maxFont   : 50,
+   fontRatio : 14,
+   lineRatio : 1.45
+});	
+flowtype(document.body.querySelector('#gamemessage-container'), {
+   minimum   : 0,
+   maximum   : 600,
+   minFont   : 1,
+   maxFont   : 50,
+   fontRatio : 14,
+   lineRatio : 1.45
+});	
+</script>
+</body>
+</html>

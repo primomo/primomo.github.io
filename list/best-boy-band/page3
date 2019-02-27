@@ -1,0 +1,480 @@
+<!DOCTYPE html>
+<!--[if IE 9]><html class="lt-ie10" lang="en" > <![endif]-->
+<html class="no-js" lang="en" itemscope itemtype="http://schema.org/ItemList">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+	<style type="text/css">@charset "UTF-8";[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {display: none !important;}</style>	
+	<link rel="canonical" href="">
+	
+		
+	
+	<!-- Meta -->
+	<title>Best Boy Band - Primomo</title>
+	<meta name="description" content="Sing, Dance, Scream... Who are the Best Boy Band Ever? One Direction? Take That? Backstreet Boys? New Kids on the Block? The Jackson 5? *NSYNC? The Monkees? Boyzone? Westlife? Bay City Rollers? Boyz II Men? Blue? McBusted? 5ive? The Wanted? Big Bang? Super Junior? Shinee? " />
+	<!-- Schema -->
+	<meta itemprop="name" content="Best Boy Band">
+	<meta itemprop="description" content="Sing, Dance, Scream... Who are the Best Boy Band Ever? One Direction? Take That? Backstreet Boys? New Kids on the Block? The Jackson 5? *NSYNC? The Monkees? Boyzone? Westlife? Bay City Rollers? Boyz II Men? Blue? McBusted? 5ive? The Wanted? Big Bang? Super Junior? Shinee? "> 
+	<meta itemprop="image" content=""> 
+	 <meta itemprop="itemListOrder" content="Descending" /> 	<!-- Twitter -->
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:site" content="@playprimomo">
+	<meta name="twitter:title" content="Best Boy Band">
+	<meta name="twitter:description" content="Sing, Dance, Scream... Who are the Best Boy Band Ever? One Direction? Take That? Backstreet Boys? New Kids on the Block? The Jackson 5? *NSYNC? The Monkees? Boyzone? Westlife? Bay City Rollers? Boyz II Men? Blue? McBusted? 5ive? The Wanted? Big Bang? Super Junior? Shinee? "> 
+	<meta name="twitter:creator" content="@playprimomo">
+	<meta name="twitter:image:src" content=""> 
+	<!-- Open Graph -->
+	<meta property="og:title" content="Best Boy Band" />
+	<meta property="og:type" content="article" /> 
+	<meta property="og:url" content="" /> 
+	<meta property="og:image" content=""> 
+	<meta property="og:image:width" content="500"> 
+	<meta property="og:image:height" content="300"> 
+	<meta property="og:description" content="Sing, Dance, Scream... Who are the Best Boy Band Ever? One Direction? Take That? Backstreet Boys? New Kids on the Block? The Jackson 5? *NSYNC? The Monkees? Boyzone? Westlife? Bay City Rollers? Boyz II Men? Blue? McBusted? 5ive? The Wanted? Big Bang? Super Junior? Shinee? " /> 
+	<meta property="og:site_name" content="Primomo" />
+	<meta property="article:section" content="Pop" />  
+	<meta property="article:tag" content="Boyband, Girlband, Pop Music, Harry Styles, Louis Tomlinson, Niall Horan, Robbie Williams, Gary Barlow, Michael Jackson, Justin Timberlake, Ronan Keating, Xfactor, Simon Cowell, Brian McFadden, Louis Walsh, Irish" />  
+	<meta property="fb:admins" content="690322552, 598310032" />	
+
+	<link rel="stylesheet" href="/site/templates/components/normalize/normalize.min.css" />
+	<link rel="stylesheet" href="/site/templates/components/foundation/foundation.min.css" />
+	<link rel="stylesheet" href="/site/templates/components/animate-scss/animate.min.css" />
+
+	<script src="/site/templates/components/angular/angular.min.js"></script>
+	<script src="/site/templates/components/angular/angular-touch.min.js"></script>
+	<script src="/site/templates/components/angular-foundation/mm-foundation-tpls-0.8.0.min.js"></script>
+	<script src="/site/templates/components/modernizr.js"></script>
+	<script src="/site/templates/components/fastclick.js"></script>
+	
+	<script src="/site/templates/components/ng-FitText.js"></script>
+	<script src="/site/templates/components/flowtype.min.js"></script>
+	<script src="/site/templates/scripts/angular-swing.min.js"></script>
+	<script src="/site/templates/scripts/angular-equalizer.min.js"></script>
+	<script src="/site/templates/scripts/primomo.min.js"></script>
+	
+	<link rel="stylesheet" href="/site/templates/styles/primomo.min.css?" />
+	
+	<style class="game-colour">
+/* ccolour_base - base */
+.ccolour_base { background: #B03232}
+.ccolour_base-border { border-color: #B03232}
+.ccolour_base-text { color: #B03232}
+/* ccolour_d1 - darker 1 */
+.ccolour_d1 { background: #a02d2d}
+.ccolour_d1-border { border-color: #a02d2d}
+.ccolour_d1-text { color: #a02d2d}
+/* ccolour_d2 - darker 2 */
+.ccolour_d2 { background: #902929}
+.ccolour_d2-border { border-color: #902929}
+.ccolour_d2-text { color: #902929}
+/* ccolour_d3 - darker 3 */
+.ccolour_d3 { background: #802424}
+.ccolour_d3-border { border-color: #802424}
+.ccolour_d3-text { color: #802424}
+/* ccolour_l1 - lighter 1 */
+.ccolour_l1, {background: #c73a3a}
+.ccolour_l1-border { border-color: #c73a3a}
+.ccolour_l1-text { color: #c73a3a}
+/* Colour Styles */
+body, #viewport, .page-wrap:before {
+	background: #B03232	}
+.top-bar-section ul li, .top-bar-section li:not(.has-form) a:not(.button), .top-bar-section .has-form {
+	background: none;
+	}
+.top-bar-section li:not(.has-form) a:not(.button):hover, .top-bar-section ul li:hover:not(.has-form) > a, .top-bar-section .dropdown li:not(.has-form):not(.active) > a:not(.button) {
+	background: #902929	}
+html.touch .top-bar-section li.has-dropdown a:hover {
+	background:none;
+	}
+html.touch .top-bar-section li.has-dropdown.not-click a:hover {
+	background:#902929;
+	}
+.top-bar-section .dropdown li:not(.has-form):not(.active):hover > a:not(.button) {
+	background: #802424	}
+.top-bar, .fixednav, .top-bar .title-area, .top-bar.expanded .title-area {
+	background: #a02d2d	}	
+.top-bar input[type="text"] {
+	border-color: #a02d2d	}
+.accordian-percent {
+	background: #902929	}
+.results-header h3 {
+    color: #902929	}
+.sidebar-tags h4, .sidebar-cats h4 {
+    color: #902929	}	
+h3.section-header, h3.section-header a  {
+    color: #802424	}	
+h3.section-header a:hover  {
+    color: #902929	}		
+/* Medium and Up Only */	
+@media only screen and (min-width: 720px) {
+	.top-bar-section li.active:not(.has-form) a:not(.button) {
+		background: #a02d2d		}
+	.top-bar-section li.active:not(.has-form) a:not(.button):hover {
+		background: #902929		}
+	.top-bar-section .dropdown li.active:not(.has-form) a:not(.button) {
+		background: #902929		}
+	.top-bar-section .dropdown li.active:not(.has-form) a:not(.button):hover {
+		background: #802424		}		
+	}
+/* Small Only */	
+@media only screen and (max-width: 719px) {
+	.top-bar-section ul li, .top-bar-section .has-form {
+		background: #902929		}
+	.top-bar-section li:not(.has-form) a:not(.button):hover, .top-bar-section ul li:hover:not(.has-form) > a {
+		background: #802424		}
+	}
+</style>
+<style class="cat-colours">
+.catcolour_sport_standard{background:#1FA464;}.catcolour_sport_inverted *{color:#1FA464 !important;}.catcolour_entertainment_standard{background:#B03232;}.catcolour_entertainment_inverted *{color:#B03232 !important;}.catcolour_lifestyle_standard{background:#9B2C6F;}.catcolour_lifestyle_inverted *{color:#9B2C6F !important;}	
+</style>	<link href='https://fonts.googleapis.com/css?family=Comfortaa:300,400,700' rel='stylesheet' type='text/css'>
+	</head>	
+<body class='template-list'
+ng-app="primomoApp">
+
+<div><div ng-init="deckArray=[{name:'One Direction', subtitle:'', image:'/site/assets/files/2001/one_direction_sydney_6-v1433500232.300x300.jpg', copyright:'By Flickr: Eva Rinaldi (Flickr: One Direction) [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons', plays:2102, wins:1445, gamePlays:0, gameWins:0, cardPageId:2001},{name:'Take That', subtitle:'', image:'/site/assets/files/2002/take_that_26_the_pet_shop_boys_2c_manchester_12_june_2011_4.300x300.jpg', copyright:'By Andrew Hurley [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons', plays:1476, wins:646, gamePlays:0, gameWins:0, cardPageId:2002},{name:'Backstreet Boys', subtitle:'', image:'/site/assets/files/2003/backstreetboysbsb_lp01.300x300.jpg', copyright:'The cover art copyright is believed to belong to the label, Jive.', plays:1876, wins:1060, gamePlays:0, gameWins:0, cardPageId:2003},{name:'New Kids on the Block', subtitle:'', image:'/site/assets/files/2004/new_kids_on_the_block-hangin_27_tough_28album_cover_29.300x300.jpg', copyright:'The cover art copyright is believed to belong to the label, Columbia', plays:1425, wins:589, gamePlays:0, gameWins:0, cardPageId:2004},{name:'The Jackson 5', subtitle:'', image:'/site/assets/files/2005/jackson_5_tv_special_1972.300x300.jpg', copyright:'By CBS Television.We hope at en.wikipedia [Public domain], from Wikimedia Commons', plays:1778, wins:956, gamePlays:0, gameWins:0, cardPageId:2005},{name:'*NSYNC', subtitle:'', image:'/site/assets/files/2006/nsync_-_no_strings_attached.300x300.jpg', copyright:'The cover art copyright is believed to belong to the label, Jive.', plays:1686, wins:908, gamePlays:0, gameWins:0, cardPageId:2006},{name:'The Monkees', subtitle:'', image:'/site/assets/files/2007/the_monkees_1966.300x300.jpg', copyright:'By NBC Television. The photo was also used to answer fan mail during the height of their popularity. The card had no copyright marks either. (eBay front back eBay card front card back) [Public domain], via Wikimedia Commons', plays:1725, wins:899, gamePlays:0, gameWins:0, cardPageId:2007},{name:'Boyzone', subtitle:'', image:'/site/assets/files/2008/boyzone2011tour-v1433501134.300x300.jpg', copyright:'By Loveuely (Own work) [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons', plays:1443, wins:605, gamePlays:0, gameWins:0, cardPageId:2008},{name:'Westlife', subtitle:'', image:'/site/assets/files/2009/west_life-v1433501260.300x300.jpg', copyright:'Jack Bhan at the English language Wikipedia [GFDL (http://www.gnu.org/copyleft/fdl.html) or CC-BY-SA-3.0 (http://creativecommons.org/licenses/by-sa/3.0/)], via Wikimedia Commons', plays:1652, wins:846, gamePlays:0, gameWins:0, cardPageId:2009},{name:'Bay City Rollers', subtitle:'', image:'/site/assets/files/2010/baycityrollers1976robbogaerts.300x300.jpg', copyright:'By Rob Bogaerts (ANEFO) (GaHetNa (Nationaal Archief NL)) [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons', plays:2551, wins:2090, gamePlays:0, gameWins:0, cardPageId:2010},{name:'Boyz II Men', subtitle:'', image:'/site/assets/files/2011/boyz_ii_men_-_live_at_vega_cropped.300x300.jpg', copyright:'By Boyz_II_Men_-_Live_at_Vega.jpg: parttimemusic derivative work: Truu (Boyz_II_Men_-_Live_at_Vega.jpg) [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons', plays:1331, wins:496, gamePlays:0, gameWins:0, cardPageId:2011},{name:'Blue', subtitle:'', image:'/site/assets/files/2012/blue_2013.300x300.jpg', copyright:'By giorgioerriquez [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons', plays:1413, wins:577, gamePlays:0, gameWins:0, cardPageId:2012},{name:'McBusted', subtitle:'', image:'/site/assets/files/2013/mcbustedalbumcover.300x300.jpg', copyright:'Fair use', plays:1345, wins:505, gamePlays:0, gameWins:0, cardPageId:2013},{name:'5ive', subtitle:'', image:'/site/assets/files/2014/5ive_-_invincible.300x300.jpg', copyright:'The cover art copyright is believed to belong to the record label', plays:1335, wins:498, gamePlays:0, gameWins:0, cardPageId:2014},{name:'The Wanted', subtitle:'', image:'/site/assets/files/2018/thewanted.300x300.jpg', copyright:'The cover art copyright is believed to belong to the label, Geffen Records.', plays:1466, wins:638, gamePlays:0, gameWins:0, cardPageId:2018},{name:'Big Bang', subtitle:'', image:'/site/assets/files/13565/640px-bigbang_extraordinary_20_27s.300x300.jpg', copyright:'By YG Entertainment [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons', plays:360, wins:202, gamePlays:0, gameWins:0, cardPageId:13565},{name:'Super Junior', subtitle:'', image:'/site/assets/files/13566/super_junior_for_lg_optimus_28crop_29.300x300.jpg', copyright:'By LG전자 (http://www.flickr.com/photos/lge/6958428818/) [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons', plays:351, wins:196, gamePlays:0, gameWins:0, cardPageId:13566},{name:'Shinee', subtitle:'', image:'/site/assets/files/13567/shinee_at_the_special_stage_expo_285_29.300x300.jpg', copyright:'By livingocean (매일매일이 축제! 엑스포 팝 페스티벌 스토리2!) [CC BY 2.0 kr (http://creativecommons.org/licenses/by/2.0/kr/deed.en)], via Wikimedia Commons', plays:315, wins:145, gamePlays:0, gameWins:0, cardPageId:13567},]; gameArray=[{title:'Best Boy Band', interrogative:'Who are', possessive:' ', possessiveAlt:'', subject:'the Best Boy Band Ever', summary:'Sing, Dance, Scream... Who are the Best Boy Band Ever?'}]; pageId=2000;"></div></div>
+
+<div ng-controller="primomoController" class="page-wrap">
+
+<div class="fixednav">
+	<div class="row topbar-container">
+		<top-bar id="top-menu" class="top-bar top-menu" mobile-show-parent-link="true" is-hover="false">
+			<ul class="title-area">
+				<li class="name">
+					<h1><a href="/"><img class="primomo-logo" src="/site/templates/images/primomologotext.svg"><span></span></a></h1>
+				</li>
+				<li toggle-top-bar onclick="document.getElementById('top-search').classList.remove('expanded')" class="toggle-topbar toggle-topbar-main menu-icon"><a href=""><span></span></a></li>
+			</ul>
+			<top-bar-section ng-cloakx>
+				<ul class="right">
+					
+					
+<ul class="primenu">
+	<li>
+		<a href='/categories/entertainment/'>Entertainment</a>
+	</li>
+	<li>
+		<a href='/categories/sport/'>Sport</a>
+	</li>
+	<li>
+		<a href='/categories/lifestyle/'>Lifestyle</a>
+	</li>
+</ul>					
+					<li has-dropdown class="primenu-hasdropdown">
+						<a>More</a>
+						<ul top-bar-dropdown ng-cloak>
+							
+<ul class="more-menu">
+	<li>
+		<a href='/categories/entertainment/tv/'>TV</a>
+	</li>
+	<li>
+		<a href='/categories/lifestyle/people/'>People</a>
+	</li>
+	<li>
+		<a href='/categories/sport/football/'>Football</a>
+	</li>
+	<li>
+		<a href='/categories/lifestyle/food/'>Food</a>
+	</li>
+	<li>
+		<a href='/categories/entertainment/music/'>Music</a>
+	</li>
+	<li>
+		<a href='/categories/entertainment/movies/'>Movies</a>
+	</li>
+	<li>
+		<a href='/categories/'>All Categories</a>
+	</li>
+</ul>						</ul>
+					</li>
+					
+					<ul>
+						<li class="has-form search-form-medium-up">
+						    <div class="row collapse">
+						      <div class="large-12 small-12 columns">
+						        <form id="site-search-form" class="clearfix" action="/search/" method="get">
+									<input type="text" name="q" value="" placeholder="Search">
+								</form>
+						      </div>
+						    </div>
+						</li>
+					</ul>
+					
+				</ul>
+			</top-bar-section>
+		</top-bar>
+		
+		<top-bar id="top-search" class="top-bar top-search show-for-small-only" data-topbar="" style="height: 45px">
+			<ul class="title-area">
+				<li class="name"></li>
+				<li toggle-top-bar onclick="document.getElementById('top-menu').classList.remove('expanded')" class="toggle-topbar toggle-topbar-search menu-icon"><a href=""><span></span></a></li>
+			</ul>
+			<top-bar-section ng-cloak>
+				<ul>
+				  <li class="has-form search-form-small-only">
+				    <div class="row collapse">
+				      <div class="large-12 small-12 columns">
+				        <form id="site-search-form" class="clearfix" action="/search/" method="get">
+							<input type="text" name="q" value="" placeholder="Search">
+						</form>
+				      </div>
+				    </div>
+				  </li>
+				</ul>
+			</top-bar-section>
+		</top-bar>
+	</div>
+</div>
+
+
+<div class="row-container ccolour_base main-header">
+	<div class="row">
+		<div class="column">
+			<h2 class="top-header">Best Boy Band</h2>
+		</div>
+	</div>
+	</div>
+
+<div id="body-wrap">
+	<div class="row-container">
+	<div class="row list-grid-row" id="sectionid1">
+		<div class="column">
+			<h3 class="left section-header">Related Lists</a></h3>
+				
+		</div>
+		
+		
+			<div class="column list-grid">
+				<div equalizer class="row">
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-5235'>
+
+	<a href='/list/favourite-x-factor-judge/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/5235/x_factor_uk_2015_logo.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Favourite X Factor Judge</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-5222'>
+
+	<a href='/list/favourite-x-factor-winner/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/5222/x_factor_uk_2015_logo.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Favourite X Factor Winner</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_lifestyle_standard catcolorstyle_standard' id='list-4829'>
+
+	<a href='/list/hottest-male-of-2015/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/4829/jamie_dornan_2014.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Hottest Male of 2016</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-4742'>
+
+	<a href='/list/best-uk-reality-show/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/4742/x-factor-2014-panel-.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best UK Reality Show</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-3910'>
+
+	<a href='/list/best-manchester-band/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/3910/madch.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Manchester Band</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_lifestyle_standard catcolorstyle_standard' id='list-3338'>
+
+	<a href='/list/hottest-taylor-swift-ex/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/3338/taylorswiftapr09.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Hottest Taylor Swift Ex-Boyfriend</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-2964'>
+
+	<a href='/list/best-michael-jackson-song/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/2964/best-michael-jackson-song-vco4qacv.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Michael Jackson song</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-2353'>
+
+	<a href='/list/best-british-bands/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/2353/best-british-bands-mekfuzdp.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best British Bands</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-1980'>
+
+	<a href='/list/best-beatles-album/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/1980/paul_2c_george_26_john.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Beatles Album</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-1796'>
+
+	<a href='/list/best-girl-group/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/1796/best-girl-group-j4o5hwpy.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Girl Group</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-1324'>
+
+	<a href='/list/best-james-bond-ever/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/1324/best-james-bond-ever-uenalyqz.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best James Bond Ever</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+									</div>
+			</div>	
+						<div class="column"><div class='pagination-centered'><ul class='pagination'><li class='MarkupPagerNavPrevious MarkupPagerNavFirst'><a href='/list/best-boy-band/page2'><span><<</span></a></li><li class='MarkupPagerNavFirstNum'><a href='/list/best-boy-band/'><span>1</span></a></li><li><a href='/list/best-boy-band/page2'><span>2</span></a></li><li class='current MarkupPagerNavLast MarkupPagerNavLastNum'><a href='/list/best-boy-band/page3'><span>3</span></a></li></ul></div></div>	</div>
+</div></div>
+
+</div> <!--ng-controller-->
+<footer class="ccolour_base">
+
+<div class="row">
+	<div class="medium-4 medium-push-8 columns">
+		<ul class="footer-social">
+			<li>
+				<a href="" class="xxx" style="opacity: 0 !important"></a>
+			</li>
+			<li>
+				<a href="" class="xxx" style="opacity: 0 !important"></a>
+			</li>
+			<!-- <li><a href="/about" class="mail"></a></li> -->
+		</ul>
+	</div>
+	<div class="medium-8 medium-pull-4 columns">		
+	</div>
+</div>
+
+</footer>
+<script>
+flowtype(document.body.querySelector('#stack-container'), {
+   minimum   : 0,
+   maximum   : 600,
+   minFont   : 1,
+   maxFont   : 50,
+   fontRatio : 14,
+   lineRatio : 1.45
+});	
+flowtype(document.body.querySelector('#gamemessage-container'), {
+   minimum   : 0,
+   maximum   : 600,
+   minFont   : 1,
+   maxFont   : 50,
+   fontRatio : 14,
+   lineRatio : 1.45
+});	
+</script>
+</body>
+</html>

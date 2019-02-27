@@ -1,0 +1,435 @@
+<!DOCTYPE html>
+<!--[if IE 9]><html class="lt-ie10" lang="en" > <![endif]-->
+<html class="no-js" lang="en" itemscope itemtype="http://schema.org/ItemList">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+	<style type="text/css">@charset "UTF-8";[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {display: none !important;}</style>	
+	<link rel="canonical" href="">
+	
+		
+	
+	<!-- Meta -->
+	<title>Best James Bond Theme - Primomo</title>
+	<meta name="description" content="The James Bond films conjure up many images, the gadgets, the car, the women and of course the action. But another crucial ingredient we demand from our favourite secret agent is the iconic silhouetted opening sequence. This is where the inspiration for this game came from as we ask you to pick your favourite James Bond theme song.
+Being selected to sing the theme tune to a James Bond film has always been an honour to any recording artist. Shirley Bassey became synonymous with James Bond theme tunes having recorded the main track on three separate occasions, Goldfinger, Diamonds are Forever and Moonraker. Adele scored the movie franchise's first ever Oscar for her recording of the title track for Skyfall. Tom Jones with Thunderball, Duran Duran with A View for a Kill and Carly Simon's iconic Nobody Does it Better from The Spy Who Loved Me will all rank high on this game. Have your say and pick your favourite song, don't forget to check out other James Bond lists within the site." />
+	<!-- Schema -->
+	<meta itemprop="name" content="Best James Bond Theme">
+	<meta itemprop="description" content="The James Bond films conjure up many images, the gadgets, the car, the women and of course the action. But another crucial ingredient we demand from our favourite secret agent is the iconic silhouetted opening sequence. This is where the inspiration for this game came from as we ask you to pick your favourite James Bond theme song.
+Being selected to sing the theme tune to a James Bond film has always been an honour to any recording artist. Shirley Bassey became synonymous with James Bond theme tunes having recorded the main track on three separate occasions, Goldfinger, Diamonds are Forever and Moonraker. Adele scored the movie franchise's first ever Oscar for her recording of the title track for Skyfall. Tom Jones with Thunderball, Duran Duran with A View for a Kill and Carly Simon's iconic Nobody Does it Better from The Spy Who Loved Me will all rank high on this game. Have your say and pick your favourite song, don't forget to check out other James Bond lists within the site."> 
+	<meta itemprop="image" content=""> 
+	 <meta itemprop="itemListOrder" content="Descending" /> 	<!-- Twitter -->
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:site" content="@playprimomo">
+	<meta name="twitter:title" content="Best James Bond Theme">
+	<meta name="twitter:description" content="The James Bond films conjure up many images, the gadgets, the car, the women and of course the action. But another crucial ingredient we demand from our favourite secret agent is the iconic silhouetted opening sequence. This is where the inspiration for this game came from as we ask you to pick your favourite James Bond theme song.
+Being selected to sing the theme tune to a James Bond film has always been an honour to any recording artist. Shirley Bassey became synonymous with James Bond theme tunes having recorded the main track on three separate occasions, Goldfinger, Diamonds are Forever and Moonraker. Adele scored the movie franchise's first ever Oscar for her recording of the title track for Skyfall. Tom Jones with Thunderball, Duran Duran with A View for a Kill and Carly Simon's iconic Nobody Does it Better from The Spy Who Loved Me will all rank high on this game. Have your say and pick your favourite song, don't forget to check out other James Bond lists within the site."> 
+	<meta name="twitter:creator" content="@playprimomo">
+	<meta name="twitter:image:src" content=""> 
+	<!-- Open Graph -->
+	<meta property="og:title" content="Best James Bond Theme" />
+	<meta property="og:type" content="article" /> 
+	<meta property="og:url" content="" /> 
+	<meta property="og:image" content=""> 
+	<meta property="og:image:width" content="500"> 
+	<meta property="og:image:height" content="300"> 
+	<meta property="og:description" content="The James Bond films conjure up many images, the gadgets, the car, the women and of course the action. But another crucial ingredient we demand from our favourite secret agent is the iconic silhouetted opening sequence. This is where the inspiration for this game came from as we ask you to pick your favourite James Bond theme song.
+Being selected to sing the theme tune to a James Bond film has always been an honour to any recording artist. Shirley Bassey became synonymous with James Bond theme tunes having recorded the main track on three separate occasions, Goldfinger, Diamonds are Forever and Moonraker. Adele scored the movie franchise's first ever Oscar for her recording of the title track for Skyfall. Tom Jones with Thunderball, Duran Duran with A View for a Kill and Carly Simon's iconic Nobody Does it Better from The Spy Who Loved Me will all rank high on this game. Have your say and pick your favourite song, don't forget to check out other James Bond lists within the site." /> 
+	<meta property="og:site_name" content="Primomo" />
+	<meta property="article:section" content="Music" />  
+	<meta property="article:tag" content="James Bond, Pop , Rock, Sean Connery, George Lazenby, Roger Moore, Timothy Dalton, 007, Pierce Brosnan, Daniel Craig" />  
+	<meta property="fb:admins" content="690322552, 598310032" />	
+
+	<link rel="stylesheet" href="/site/templates/components/normalize/normalize.min.css" />
+	<link rel="stylesheet" href="/site/templates/components/foundation/foundation.min.css" />
+	<link rel="stylesheet" href="/site/templates/components/animate-scss/animate.min.css" />
+
+	<script src="/site/templates/components/angular/angular.min.js"></script>
+	<script src="/site/templates/components/angular/angular-touch.min.js"></script>
+	<script src="/site/templates/components/angular-foundation/mm-foundation-tpls-0.8.0.min.js"></script>
+	<script src="/site/templates/components/modernizr.js"></script>
+	<script src="/site/templates/components/fastclick.js"></script>
+	
+	<script src="/site/templates/components/ng-FitText.js"></script>
+	<script src="/site/templates/components/flowtype.min.js"></script>
+	<script src="/site/templates/scripts/angular-swing.min.js"></script>
+	<script src="/site/templates/scripts/angular-equalizer.min.js"></script>
+	<script src="/site/templates/scripts/primomo.min.js"></script>
+	
+	<link rel="stylesheet" href="/site/templates/styles/primomo.min.css?" />
+	
+	<style class="game-colour">
+/* ccolour_base - base */
+.ccolour_base { background: #B03232}
+.ccolour_base-border { border-color: #B03232}
+.ccolour_base-text { color: #B03232}
+/* ccolour_d1 - darker 1 */
+.ccolour_d1 { background: #a02d2d}
+.ccolour_d1-border { border-color: #a02d2d}
+.ccolour_d1-text { color: #a02d2d}
+/* ccolour_d2 - darker 2 */
+.ccolour_d2 { background: #902929}
+.ccolour_d2-border { border-color: #902929}
+.ccolour_d2-text { color: #902929}
+/* ccolour_d3 - darker 3 */
+.ccolour_d3 { background: #802424}
+.ccolour_d3-border { border-color: #802424}
+.ccolour_d3-text { color: #802424}
+/* ccolour_l1 - lighter 1 */
+.ccolour_l1, {background: #c73a3a}
+.ccolour_l1-border { border-color: #c73a3a}
+.ccolour_l1-text { color: #c73a3a}
+/* Colour Styles */
+body, #viewport, .page-wrap:before {
+	background: #B03232	}
+.top-bar-section ul li, .top-bar-section li:not(.has-form) a:not(.button), .top-bar-section .has-form {
+	background: none;
+	}
+.top-bar-section li:not(.has-form) a:not(.button):hover, .top-bar-section ul li:hover:not(.has-form) > a, .top-bar-section .dropdown li:not(.has-form):not(.active) > a:not(.button) {
+	background: #902929	}
+html.touch .top-bar-section li.has-dropdown a:hover {
+	background:none;
+	}
+html.touch .top-bar-section li.has-dropdown.not-click a:hover {
+	background:#902929;
+	}
+.top-bar-section .dropdown li:not(.has-form):not(.active):hover > a:not(.button) {
+	background: #802424	}
+.top-bar, .fixednav, .top-bar .title-area, .top-bar.expanded .title-area {
+	background: #a02d2d	}	
+.top-bar input[type="text"] {
+	border-color: #a02d2d	}
+.accordian-percent {
+	background: #902929	}
+.results-header h3 {
+    color: #902929	}
+.sidebar-tags h4, .sidebar-cats h4 {
+    color: #902929	}	
+h3.section-header, h3.section-header a  {
+    color: #802424	}	
+h3.section-header a:hover  {
+    color: #902929	}		
+/* Medium and Up Only */	
+@media only screen and (min-width: 720px) {
+	.top-bar-section li.active:not(.has-form) a:not(.button) {
+		background: #a02d2d		}
+	.top-bar-section li.active:not(.has-form) a:not(.button):hover {
+		background: #902929		}
+	.top-bar-section .dropdown li.active:not(.has-form) a:not(.button) {
+		background: #902929		}
+	.top-bar-section .dropdown li.active:not(.has-form) a:not(.button):hover {
+		background: #802424		}		
+	}
+/* Small Only */	
+@media only screen and (max-width: 719px) {
+	.top-bar-section ul li, .top-bar-section .has-form {
+		background: #902929		}
+	.top-bar-section li:not(.has-form) a:not(.button):hover, .top-bar-section ul li:hover:not(.has-form) > a {
+		background: #802424		}
+	}
+</style>
+<style class="cat-colours">
+.catcolour_sport_standard{background:#1FA464;}.catcolour_sport_inverted *{color:#1FA464 !important;}.catcolour_entertainment_standard{background:#B03232;}.catcolour_entertainment_inverted *{color:#B03232 !important;}.catcolour_lifestyle_standard{background:#9B2C6F;}.catcolour_lifestyle_inverted *{color:#9B2C6F !important;}	
+</style>	<link href='https://fonts.googleapis.com/css?family=Comfortaa:300,400,700' rel='stylesheet' type='text/css'>
+	</head>	
+<body class='template-list'
+ng-app="primomoApp">
+
+<div><div ng-init="deckArray=[{name:'Goldfinger', subtitle:'Shirley Bassey', image:'/site/assets/files/5508/goldfinger_ost.300x300.jpg', copyright:'Fair use - This image&amp;#039;s copyright is believed to belong to distributor, publisher or creator.', plays:150, wins:102, gamePlays:0, gameWins:0, cardPageId:5508},{name:'Live and Let Die', subtitle:'Paul McCartney &amp; Wings', image:'/site/assets/files/5509/007laldsoundtrack73.300x300.jpg', copyright:'This is the cover art for the album Live and Let Die by the artist George Martin. The cover art copyright is believed to belong to the label, United Artists, or the graphic artist(s).', plays:166, wins:120, gamePlays:0, gameWins:0, cardPageId:5509},{name:'Nobody Does It Better', subtitle:'(The Spy Who Loved Me) - Carly Simon', image:'/site/assets/files/5510/nobody_does_it_better_cover.300x300.jpg', copyright:'Fair use - This image&amp;#039;s copyright is believed to belong to distributor, publisher or creator.', plays:116, wins:65, gamePlays:0, gameWins:0, cardPageId:5510},{name:'We Have All the Time in the World', subtitle:'(On Her Majesty\'s Secret Service) - Louis Armstrong', image:'/site/assets/files/5511/we_have_all_the_time_in_the_world_louis_armstrong.300x300.jpg', copyright:'This is the cover art for the single &amp;quot;We Have All the Time in the World&amp;quot; by the artist Louis Armstrong. The cover art copyright is believed to belong to the label, United Artists Records, or the graphic artist(s).', plays:137, wins:96, gamePlays:0, gameWins:0, cardPageId:5511},{name:'Diamonds Are Forever', subtitle:'Shirley Bassey', image:'/site/assets/files/5512/diamonds_are_forever_ost.300x300.jpg', copyright:'Fair use - This image&amp;#039;s copyright is believed to belong to distributor, publisher or creator.', plays:119, wins:69, gamePlays:0, gameWins:0, cardPageId:5512},{name:'A View to a Kill', subtitle:'Duran Duran', image:'/site/assets/files/5513/duran_duran_a_view_to_a_kill.300x300.jpg', copyright:'Fair use - This image&amp;#039;s copyright is believed to belong to distributor, publisher or creator.', plays:103, wins:54, gamePlays:0, gameWins:0, cardPageId:5513},{name:'You Only Live Twice', subtitle:'Nancy Sinatra', image:'/site/assets/files/5514/007yoltsoundtrack67.300x300.jpg', copyright:'This is the cover art for the album You Only Live Twice by the artist John Barry. The cover art copyright is believed to belong to the label, United Artists, or the graphic artist(s).', plays:94, wins:44, gamePlays:0, gameWins:0, cardPageId:5514},{name:'Skyfall', subtitle:'Adele', image:'/site/assets/files/5515/skyfall_cover.300x300.jpg', copyright:'This is the cover art for Skyfall (song) . The cover art copyright is believed to belong to the record label or the graphic artist(s).', plays:121, wins:75, gamePlays:0, gameWins:0, cardPageId:5515},{name:'Thunderball', subtitle:'Tom Jones', image:'/site/assets/files/5516/007thunderballsoundtrack65.300x300.jpg', copyright:'This is the cover art for the album Thunderball by the artist John Barry. The cover art copyright is believed to belong to the label, Capitol Records, or the graphic artist(s).', plays:86, wins:33, gamePlays:0, gameWins:0, cardPageId:5516},{name:'From Russia with Love', subtitle:'Matt Monro', image:'/site/assets/files/5517/from_russia_with_love_28movie_soundtrack_-_album_cover_29.300x300.jpg', copyright:'This is the cover art for the album From Russia with Love by the artist John Barry. The cover art copyright is believed to belong to the label, United Artists, reissues by Liberty and Capitol, or the graphic artist(s).', plays:87, wins:34, gamePlays:0, gameWins:0, cardPageId:5517},{name:'For Your Eyes Only', subtitle:'Sheena Easton', image:'/site/assets/files/5518/for_your_eyes_only_28james_bond_soundtrack_29.300x300.jpg', copyright:'This is the cover art for the album For Your Eyes Only by the artist Bill Conti. The cover art copyright is believed to belong to the label, EMI, or the graphic artist(s).
+007 - For Your Eyes Only soundtrack cover', plays:82, wins:30, gamePlays:0, gameWins:0, cardPageId:5518},{name:'You Know My Name', subtitle:'(Casino Royale) - Chris Cornell', image:'/site/assets/files/5519/david_arnold_-_casino_royale_ost_album_cover.300x300.jpg', copyright:'This is the cover art for the album Casino Royale (2006 Original Soundtrack) by the artist David Arnold. The cover art copyright is believed to belong to the label, Sony Classical, or the graphic artist(s).
+007 Casino Royale soundtrack cover', plays:101, wins:50, gamePlays:0, gameWins:0, cardPageId:5519},{name:'GoldenEye', subtitle:'Tina Turner', image:'/site/assets/files/5520/tinaturnergoldeneyefrenchcdsinglecover.300x300.jpg', copyright:'Fair use - This image&amp;#039;s copyright is believed to belong to distributor, publisher or creator.', plays:103, wins:52, gamePlays:0, gameWins:0, cardPageId:5520},{name:'Moonraker', subtitle:'Shirley Bassey', image:'/site/assets/files/5521/moonraker_28uk_cinema_poster_29.300x300.jpg', copyright:'Fair use - This image&amp;#039;s copyright is believed to belong to distributor, publisher or creator.', plays:78, wins:26, gamePlays:0, gameWins:0, cardPageId:5521},{name:'Writing\'s on the Wall', subtitle:'(Spectre) - Sam Smith', image:'/site/assets/files/5522/writing_27s_on_the_wall_by_sam_smith.300x300.jpg', copyright:'This is the cover art for the single &amp;quot;Writing&amp;#039;s on the Wall&amp;quot; by the artist Sam Smith. The cover art copyright is believed to belong to the label, Capitol Records, or the graphic artist(s).', plays:71, wins:18, gamePlays:0, gameWins:0, cardPageId:5522},{name:'Licence to Kill', subtitle:'Gladys Knight\'', image:'/site/assets/files/5526/007ltksoundtrack.300x300.jpg', copyright:'This is the cover art for the album Licence to Kill by the artist Michael Kamen. The cover art copyright is believed to belong to the label, MCA Records, or the graphic artist(s).', plays:79, wins:27, gamePlays:0, gameWins:0, cardPageId:5526},]; gameArray=[{title:'Best James Bond Theme', interrogative:'Which is', possessive:' ', possessiveAlt:'', subject:'the Best James Bond Theme', summary:'Which is the Best Bond Theme?'}]; pageId=5507;"></div></div>
+
+<div ng-controller="primomoController" class="page-wrap">
+
+<div class="fixednav">
+	<div class="row topbar-container">
+		<top-bar id="top-menu" class="top-bar top-menu" mobile-show-parent-link="true" is-hover="false">
+			<ul class="title-area">
+				<li class="name">
+					<h1><a href="/"><img class="primomo-logo" src="/site/templates/images/primomologotext.svg"><span></span></a></h1>
+				</li>
+				<li toggle-top-bar onclick="document.getElementById('top-search').classList.remove('expanded')" class="toggle-topbar toggle-topbar-main menu-icon"><a href=""><span></span></a></li>
+			</ul>
+			<top-bar-section ng-cloakx>
+				<ul class="right">
+					
+					
+<ul class="primenu">
+	<li>
+		<a href='/categories/entertainment/'>Entertainment</a>
+	</li>
+	<li>
+		<a href='/categories/sport/'>Sport</a>
+	</li>
+	<li>
+		<a href='/categories/lifestyle/'>Lifestyle</a>
+	</li>
+</ul>					
+					<li has-dropdown class="primenu-hasdropdown">
+						<a>More</a>
+						<ul top-bar-dropdown ng-cloak>
+							
+<ul class="more-menu">
+	<li>
+		<a href='/categories/entertainment/tv/'>TV</a>
+	</li>
+	<li>
+		<a href='/categories/lifestyle/people/'>People</a>
+	</li>
+	<li>
+		<a href='/categories/sport/football/'>Football</a>
+	</li>
+	<li>
+		<a href='/categories/lifestyle/food/'>Food</a>
+	</li>
+	<li>
+		<a href='/categories/entertainment/music/'>Music</a>
+	</li>
+	<li>
+		<a href='/categories/entertainment/movies/'>Movies</a>
+	</li>
+	<li>
+		<a href='/categories/'>All Categories</a>
+	</li>
+</ul>						</ul>
+					</li>
+					
+					<ul>
+						<li class="has-form search-form-medium-up">
+						    <div class="row collapse">
+						      <div class="large-12 small-12 columns">
+						        <form id="site-search-form" class="clearfix" action="/search/" method="get">
+									<input type="text" name="q" value="" placeholder="Search">
+								</form>
+						      </div>
+						    </div>
+						</li>
+					</ul>
+					
+				</ul>
+			</top-bar-section>
+		</top-bar>
+		
+		<top-bar id="top-search" class="top-bar top-search show-for-small-only" data-topbar="" style="height: 45px">
+			<ul class="title-area">
+				<li class="name"></li>
+				<li toggle-top-bar onclick="document.getElementById('top-menu').classList.remove('expanded')" class="toggle-topbar toggle-topbar-search menu-icon"><a href=""><span></span></a></li>
+			</ul>
+			<top-bar-section ng-cloak>
+				<ul>
+				  <li class="has-form search-form-small-only">
+				    <div class="row collapse">
+				      <div class="large-12 small-12 columns">
+				        <form id="site-search-form" class="clearfix" action="/search/" method="get">
+							<input type="text" name="q" value="" placeholder="Search">
+						</form>
+				      </div>
+				    </div>
+				  </li>
+				</ul>
+			</top-bar-section>
+		</top-bar>
+	</div>
+</div>
+
+
+<div class="row-container ccolour_base main-header">
+	<div class="row">
+		<div class="column">
+			<h2 class="top-header">Best James Bond Theme</h2>
+		</div>
+	</div>
+	</div>
+
+<div id="body-wrap">
+	<div class="row-container">
+	<div class="row list-grid-row" id="sectionid1">
+		<div class="column">
+			<h3 class="left section-header">Related Lists</a></h3>
+				
+		</div>
+		
+		
+			<div class="column list-grid">
+				<div equalizer class="row">
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_lifestyle_standard catcolorstyle_standard' id='list-2532'>
+
+	<a href='/list/great-scots/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/2532/great-scots-5yayzc3p.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Great Scots</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-2353'>
+
+	<a href='/list/best-british-bands/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/2353/best-british-bands-mekfuzdp.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best British Bands</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-2134'>
+
+	<a href='/list/best-1980s-action-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/2134/best-1980-1039-s-action-movie-pmsi8nit.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best 1980's Action Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-2102'>
+
+	<a href='/list/best-movie-franchises/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/2102/best-movie-franchises-j0ngcfiu.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Movie Franchises</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-1980'>
+
+	<a href='/list/best-beatles-album/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/1980/paul_2c_george_26_john.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Beatles Album</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-1863'>
+
+	<a href='/list/best-james-bond-movie/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/1863/best-james-bond-movie-te1m13gx.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best James Bond Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-1324'>
+
+	<a href='/list/best-james-bond-ever/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/1324/best-james-bond-ever-uenalyqz.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best James Bond Ever</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+					<div class="column list-item medium-3">
+						     
+
+<div class='list catcolour_entertainment_standard catcolorstyle_standard' id='list-1216'>
+
+	<a href='/list/best-steven-spielberg-film/'>
+		<div class="row collapse list-item-row">
+			<div class="column medium-12 small-4">
+				<div class='list-image-holder'><img src='/site/assets/files/1216/best-steven-spielburg-movie-mpvtbi1c.500x300.jpg'></div> 
+			</div>
+			<div class="column medium-12 small-8">
+				<h2 class='list-headline headline-3'>Best Steven Spielberg Movie</h2> 
+			</div>
+		</div>
+	</a>
+
+</div>					</div>
+									</div>
+			</div>	
+						<div class="column"><div class='pagination-centered'><ul class='pagination'><li class='MarkupPagerNavPrevious MarkupPagerNavFirst'><a href='/list/best-bond-theme/page3'><span><<</span></a></li><li class='MarkupPagerNavFirstNum'><a href='/list/best-bond-theme/'><span>1</span></a></li><li><a href='/list/best-bond-theme/page2'><span>2</span></a></li><li><a href='/list/best-bond-theme/page3'><span>3</span></a></li><li class='current MarkupPagerNavLast MarkupPagerNavLastNum'><a href='/list/best-bond-theme/page4'><span>4</span></a></li></ul></div></div>	</div>
+</div></div>
+
+</div> <!--ng-controller-->
+<footer class="ccolour_base">
+
+<div class="row">
+	<div class="medium-4 medium-push-8 columns">
+		<ul class="footer-social">
+			<li>
+				<a href="" class="xxx" style="opacity: 0 !important"></a>
+			</li>
+			<li>
+				<a href="" class="xxx" style="opacity: 0 !important"></a>
+			</li>
+			<!-- <li><a href="/about" class="mail"></a></li> -->
+		</ul>
+	</div>
+	<div class="medium-8 medium-pull-4 columns">		
+	</div>
+</div>
+
+</footer>
+<script>
+flowtype(document.body.querySelector('#stack-container'), {
+   minimum   : 0,
+   maximum   : 600,
+   minFont   : 1,
+   maxFont   : 50,
+   fontRatio : 14,
+   lineRatio : 1.45
+});	
+flowtype(document.body.querySelector('#gamemessage-container'), {
+   minimum   : 0,
+   maximum   : 600,
+   minFont   : 1,
+   maxFont   : 50,
+   fontRatio : 14,
+   lineRatio : 1.45
+});	
+</script>
+</body>
+</html>
