@@ -1,0 +1,4 @@
+#Force non-www:
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^www\.primomo\.co [NC]
+RewriteRule ^(.*)$ https://primomo.co/$1 [L,R=301]
